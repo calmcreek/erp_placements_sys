@@ -1,0 +1,1289 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>IIT KGP ERP Monitor</title>
+
+<style>
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+
+    font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Roboto,
+        Arial,
+        sans-serif;
+
+    background: #f5f7fb;
+    color: #172033;
+}
+
+.container {
+    max-width: 1500px;
+    margin: auto;
+    padding: 24px;
+}
+
+.header {
+    background: linear-gradient(
+        135deg,
+        #172554,
+        #1e3a8a
+    );
+
+    color: white;
+
+    padding: 28px;
+
+    border-radius: 16px;
+
+    margin-bottom: 22px;
+
+    box-shadow:
+        0 8px 25px rgba(0, 0, 0, 0.08);
+}
+
+.header h1 {
+    margin: 0 0 8px 0;
+    font-size: 28px;
+}
+
+.header p {
+    margin: 0;
+    opacity: 0.85;
+}
+
+.status-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 20px;
+}
+
+.status-card {
+    background: white;
+    color: #172033;
+
+    border-radius: 12px;
+
+    padding: 15px 18px;
+
+    min-width: 180px;
+
+    box-shadow:
+        0 4px 15px rgba(0, 0, 0, 0.06);
+}
+
+.status-label {
+    font-size: 12px;
+    color: #64748b;
+
+    text-transform: uppercase;
+
+    letter-spacing: 0.05em;
+}
+
+.status-value {
+    margin-top: 5px;
+
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.section {
+    background: white;
+
+    border-radius: 16px;
+
+    margin-bottom: 24px;
+
+    overflow: hidden;
+
+    box-shadow:
+        0 5px 20px rgba(0, 0, 0, 0.06);
+}
+
+.section-header {
+    padding: 20px 22px;
+
+    border-bottom:
+        1px solid #e5e7eb;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    gap: 15px;
+
+    flex-wrap: wrap;
+}
+
+.section-header h2 {
+    margin: 0;
+    font-size: 21px;
+}
+
+.count {
+    background: #eef2ff;
+    color: #3730a3;
+
+    border-radius: 999px;
+
+    padding: 5px 11px;
+
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.controls {
+    padding: 15px 22px;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    gap: 12px;
+
+    flex-wrap: wrap;
+}
+
+.search {
+    width: min(420px, 100%);
+
+    padding: 10px 13px;
+
+    border: 1px solid #d1d5db;
+
+    border-radius: 9px;
+
+    font-size: 14px;
+
+    outline: none;
+}
+
+.search:focus {
+    border-color: #4f46e5;
+}
+
+.table-container {
+    width: 100%;
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+
+    border-collapse: collapse;
+
+    min-width: 850px;
+}
+
+th {
+    background: #f8fafc;
+
+    color: #475569;
+
+    font-size: 12px;
+
+    text-transform: uppercase;
+
+    letter-spacing: 0.04em;
+
+    text-align: left;
+
+    padding: 13px 15px;
+
+    border-bottom:
+        1px solid #e5e7eb;
+}
+
+td {
+    padding: 14px 15px;
+
+    border-bottom:
+        1px solid #eef0f3;
+
+    vertical-align: top;
+
+    font-size: 14px;
+}
+
+tr:hover td {
+    background: #fafbff;
+}
+
+.subject {
+    font-weight: 650;
+    color: #172554;
+}
+
+.company {
+    font-weight: 600;
+}
+
+.description {
+    max-width: 500px;
+
+    white-space: normal;
+
+    line-height: 1.45;
+}
+
+.empty {
+    text-align: center;
+
+    padding: 45px;
+
+    color: #64748b;
+}
+
+.pagination {
+    padding: 15px 22px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    gap: 8px;
+
+    border-top:
+        1px solid #eef0f3;
+}
+
+.page-btn {
+    border: 1px solid #d1d5db;
+
+    background: white;
+
+    padding: 7px 11px;
+
+    border-radius: 7px;
+
+    cursor: pointer;
+}
+
+.page-btn:hover {
+    background: #f1f5f9;
+}
+
+.page-btn.active {
+    background: #1e3a8a;
+
+    color: white;
+
+    border-color: #1e3a8a;
+}
+
+.page-btn:disabled {
+    opacity: 0.4;
+
+    cursor: not-allowed;
+}
+
+.error {
+    display: none;
+
+    background: #fef2f2;
+
+    color: #991b1b;
+
+    border: 1px solid #fecaca;
+
+    border-radius: 10px;
+
+    padding: 12px 15px;
+
+    margin-top: 15px;
+}
+
+.refresh-note {
+    color: #64748b;
+
+    font-size: 13px;
+}
+
+@media (max-width: 700px) {
+
+    .container {
+        padding: 12px;
+    }
+
+    .header {
+        padding: 20px;
+    }
+
+    .header h1 {
+        font-size: 23px;
+    }
+
+    .status-card {
+        width: 100%;
+    }
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+<div class="container">
+
+    <div class="header">
+
+        <h1>IIT KGP ERP Monitor</h1>
+
+        <p>
+            CDC Notice Board + Placement / Internship Board
+        </p>
+
+
+        <div class="status-row">
+
+
+            <div class="status-card">
+
+                <div class="status-label">
+                    ERP Status
+                </div>
+
+                <div
+                    class="status-value"
+                    id="erpStatus"
+                >
+                    Starting
+                </div>
+
+            </div>
+
+
+            <div class="status-card">
+
+                <div class="status-label">
+                    Last Check
+                </div>
+
+                <div
+                    class="status-value"
+                    id="lastCheck"
+                >
+                    —
+                </div>
+
+            </div>
+
+
+            <div class="status-card">
+
+                <div class="status-label">
+                    Next Check
+                </div>
+
+                <div
+                    class="status-value"
+                    id="nextCheck"
+                >
+                    —
+                </div>
+
+            </div>
+
+
+            <div class="status-card">
+
+                <div class="status-label">
+                    CDC Notices
+                </div>
+
+                <div
+                    class="status-value"
+                    id="noticeCount"
+                >
+                    0
+                </div>
+
+            </div>
+
+
+            <div class="status-card">
+
+                <div class="status-label">
+                    Placements
+                </div>
+
+                <div
+                    class="status-value"
+                    id="placementCount"
+                >
+                    0
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div
+            class="error"
+            id="errorBox"
+        ></div>
+
+    </div>
+
+
+    <!-- ================================================== -->
+    <!-- CDC NOTICE BOARD -->
+    <!-- ================================================== -->
+
+    <div class="section">
+
+        <div class="section-header">
+
+            <h2>
+                CDC Notice Board
+            </h2>
+
+            <span
+                class="count"
+                id="noticeCountBadge"
+            >
+                0 notices
+            </span>
+
+        </div>
+
+
+        <div class="controls">
+
+            <input
+                class="search"
+                id="noticeSearch"
+                type="text"
+                placeholder="Search notices, subject, company..."
+                oninput="noticePage = 1; renderNotices()"
+            >
+
+            <span class="refresh-note">
+                Data refreshes every 60 seconds; ERP monitoring runs about every 30 minutes
+            </span>
+
+        </div>
+
+
+        <div class="table-container">
+
+            <table>
+
+                <thead>
+
+                    <tr>
+
+                        <th>ID</th>
+
+                        <th>Type</th>
+
+                        <th>Subject</th>
+
+                        <th>Company</th>
+
+                        <th>Notice</th>
+
+                        <th>Notice By</th>
+
+                        <th>Notice Time</th>
+
+                    </tr>
+
+                </thead>
+
+                <tbody
+                    id="noticeTableBody"
+                ></tbody>
+
+            </table>
+
+        </div>
+
+
+        <div
+            class="pagination"
+            id="noticePagination"
+        ></div>
+
+    </div>
+
+
+    <!-- ================================================== -->
+    <!-- PLACEMENT BOARD -->
+    <!-- ================================================== -->
+
+    <div class="section">
+
+        <div class="section-header">
+
+            <h2>
+                Placement / Internship Board
+            </h2>
+
+            <span
+                class="count"
+                id="placementCountBadge"
+            >
+                0 entries
+            </span>
+
+        </div>
+
+
+        <div class="controls">
+
+            <input
+                class="search"
+                id="placementSearch"
+                type="text"
+                placeholder="Search company, role, CTC..."
+                oninput="placementPage = 1; renderPlacements()"
+            >
+
+        </div>
+
+
+        <div class="table-container">
+
+            <table>
+
+                <thead>
+
+                    <tr>
+
+                        <th>Company</th>
+
+                        <th>Role</th>
+
+                        <th>Description</th>
+
+                        <th>CTC</th>
+
+                        <th>Currency</th>
+
+                        <th>Application Status</th>
+
+                        <th>Resume Deadline</th>
+
+                        <th>Interview / Selection</th>
+
+                        <th>Contract</th>
+
+                    </tr>
+
+                </thead>
+
+                <tbody
+                    id="placementTableBody"
+                ></tbody>
+
+            </table>
+
+        </div>
+
+
+        <div
+            class="pagination"
+            id="placementPagination"
+        ></div>
+
+    </div>
+
+</div>
+
+
+<script>
+
+let notices = [];
+let placements = [];
+
+const NOTICE_PAGE_SIZE = 20;
+const PLACEMENT_PAGE_SIZE = 20;
+
+let noticePage = 1;
+let placementPage = 1;
+
+
+function escapeHtml(value) {
+
+    if (
+        value === null ||
+        value === undefined
+    ) {
+        return "";
+    }
+
+    return String(value)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+}
+
+
+function truncate(
+    value,
+    length = 250
+) {
+
+    if (!value) {
+        return "";
+    }
+
+    value = String(value);
+
+    if (value.length <= length) {
+        return value;
+    }
+
+    return (
+        value.substring(0, length)
+        + "..."
+    );
+}
+
+
+function filteredNotices() {
+
+    const query =
+        document
+            .getElementById(
+                "noticeSearch"
+            )
+            .value
+            .toLowerCase()
+            .trim();
+
+    if (!query) {
+        return notices;
+    }
+
+    return notices.filter(
+        notice => {
+
+            const text = [
+                notice.id,
+                notice.type,
+                notice.subject,
+                notice.company,
+                notice.notice,
+                notice.notice_by,
+                notice.notice_time
+            ]
+            .join(" ")
+            .toLowerCase();
+
+            return text.includes(
+                query
+            );
+        }
+    );
+}
+
+
+function filteredPlacements() {
+
+    const query =
+        document
+            .getElementById(
+                "placementSearch"
+            )
+            .value
+            .toLowerCase()
+            .trim();
+
+    if (!query) {
+        return placements;
+    }
+
+    return placements.filter(
+        item => {
+
+            const text = [
+                item.id,
+                item.company,
+                item.designation,
+                item.description,
+                item.ctc,
+                item.currency,
+                item.application_status,
+                item.resume_upload_start,
+                item.resume_upload_end,
+                item.interview_selection,
+                item.contract
+            ]
+            .join(" ")
+            .toLowerCase();
+
+            return text.includes(
+                query
+            );
+        }
+    );
+}
+
+
+function renderPagination(
+    containerId,
+    totalItems,
+    pageSize,
+    currentPage,
+    callback
+) {
+
+    const container =
+        document.getElementById(
+            containerId
+        );
+
+    const totalPages =
+        Math.max(
+            1,
+            Math.ceil(
+                totalItems / pageSize
+            )
+        );
+
+    currentPage =
+        Math.min(
+            currentPage,
+            totalPages
+        );
+
+    let output = "";
+
+
+    output += `
+        <button
+            class="page-btn"
+            onclick="${callback}(${currentPage - 1})"
+            ${currentPage <= 1 ? "disabled" : ""}
+        >
+            Previous
+        </button>
+    `;
+
+
+    const start =
+        Math.max(
+            1,
+            currentPage - 2
+        );
+
+    const end =
+        Math.min(
+            totalPages,
+            currentPage + 2
+        );
+
+
+    for (
+        let page = start;
+        page <= end;
+        page++
+    ) {
+
+        output += `
+            <button
+                class="page-btn ${
+                    page === currentPage
+                        ? "active"
+                        : ""
+                }"
+                onclick="${callback}(${page})"
+            >
+                ${page}
+            </button>
+        `;
+    }
+
+
+    output += `
+        <button
+            class="page-btn"
+            onclick="${callback}(${currentPage + 1})"
+            ${
+                currentPage >= totalPages
+                    ? "disabled"
+                    : ""
+            }
+        >
+            Next
+        </button>
+    `;
+
+
+    container.innerHTML = output;
+}
+
+
+function renderNotices() {
+
+    const filtered =
+        filteredNotices();
+
+    const totalPages =
+        Math.max(
+            1,
+            Math.ceil(
+                filtered.length /
+                NOTICE_PAGE_SIZE
+            )
+        );
+
+    noticePage =
+        Math.min(
+            noticePage,
+            totalPages
+        );
+
+
+    const start =
+        (noticePage - 1)
+        * NOTICE_PAGE_SIZE;
+
+
+    const current =
+        filtered.slice(
+            start,
+            start + NOTICE_PAGE_SIZE
+        );
+
+
+    const tbody =
+        document.getElementById(
+            "noticeTableBody"
+        );
+
+
+    if (current.length === 0) {
+
+        tbody.innerHTML = `
+            <tr>
+                <td
+                    colspan="7"
+                    class="empty"
+                >
+                    No notices found.
+                </td>
+            </tr>
+        `;
+
+    } else {
+
+        tbody.innerHTML =
+            current.map(
+                notice => `
+
+                <tr>
+
+                    <td>
+                        ${escapeHtml(
+                            notice.id
+                        )}
+                    </td>
+
+                    <td>
+                        ${escapeHtml(
+                            notice.type
+                        )}
+                    </td>
+
+                    <td class="subject">
+                        ${escapeHtml(
+                            notice.subject
+                        )}
+                    </td>
+
+                    <td class="company">
+                        ${escapeHtml(
+                            notice.company
+                        )}
+                    </td>
+
+                    <td class="description">
+                        ${escapeHtml(
+                            truncate(
+                                notice.notice,
+                                350
+                            )
+                        )}
+                    </td>
+
+                    <td>
+                        ${escapeHtml(
+                            notice.notice_by
+                        )}
+                    </td>
+
+                    <td>
+                        ${escapeHtml(
+                            notice.notice_time
+                        )}
+                    </td>
+
+                </tr>
+            `
+            ).join("");
+    }
+
+
+    document.getElementById(
+        "noticeCountBadge"
+    ).textContent =
+        `${filtered.length} notices`;
+
+
+    renderPagination(
+        "noticePagination",
+        filtered.length,
+        NOTICE_PAGE_SIZE,
+        noticePage,
+        "goToNoticePage"
+    );
+}
+
+
+function goToNoticePage(
+    page
+) {
+
+    const totalPages =
+        Math.max(
+            1,
+            Math.ceil(
+                filteredNotices().length /
+                NOTICE_PAGE_SIZE
+            )
+        );
+
+    if (
+        page < 1 ||
+        page > totalPages
+    ) {
+        return;
+    }
+
+    noticePage = page;
+
+    renderNotices();
+}
+
+
+function renderPlacements() {
+
+    const filtered =
+        filteredPlacements();
+
+    const totalPages =
+        Math.max(
+            1,
+            Math.ceil(
+                filtered.length /
+                PLACEMENT_PAGE_SIZE
+            )
+        );
+
+    placementPage =
+        Math.min(
+            placementPage,
+            totalPages
+        );
+
+
+    const start =
+        (placementPage - 1)
+        * PLACEMENT_PAGE_SIZE;
+
+
+    const current =
+        filtered.slice(
+            start,
+            start + PLACEMENT_PAGE_SIZE
+        );
+
+
+    const tbody =
+        document.getElementById(
+            "placementTableBody"
+        );
+
+
+    if (current.length === 0) {
+
+        tbody.innerHTML = `
+            <tr>
+                <td
+                    colspan="9"
+                    class="empty"
+                >
+                    No placement entries found.
+                </td>
+            </tr>
+        `;
+
+    } else {
+
+        tbody.innerHTML =
+            current.map(
+                item => `
+
+                <tr>
+
+                    <td class="company">
+                        ${escapeHtml(
+                            item.company
+                        )}
+                    </td>
+
+                    <td>
+                        ${escapeHtml(
+                            item.designation
+                        )}
+                    </td>
+
+                    <td class="description">
+                        ${escapeHtml(
+                            truncate(
+                                item.description,
+                                300
+                            )
+                        )}
+                    </td>
+
+                    <td>
+                        ${escapeHtml(
+                            item.ctc
+                        )}
+                    </td>
+
+                    <td>
+                        ${escapeHtml(
+                            item.currency
+                        )}
+                    </td>
+
+                    <td>
+                        ${escapeHtml(
+                            item.application_status
+                        )}
+                    </td>
+
+                    <td>
+                        ${escapeHtml(
+                            item.resume_upload_end
+                        )}
+                    </td>
+
+                    <td>
+                        ${escapeHtml(
+                            item.interview_selection
+                        )}
+                    </td>
+
+                    <td>
+                        ${escapeHtml(
+                            item.contract
+                        )}
+                    </td>
+
+                </tr>
+            `
+            ).join("");
+    }
+
+
+    document.getElementById(
+        "placementCountBadge"
+    ).textContent =
+        `${filtered.length} entries`;
+
+
+    renderPagination(
+        "placementPagination",
+        filtered.length,
+        PLACEMENT_PAGE_SIZE,
+        placementPage,
+        "goToPlacementPage"
+    );
+}
+
+
+function goToPlacementPage(
+    page
+) {
+
+    const totalPages =
+        Math.max(
+            1,
+            Math.ceil(
+                filteredPlacements().length /
+                PLACEMENT_PAGE_SIZE
+            )
+        );
+
+    if (
+        page < 1 ||
+        page > totalPages
+    ) {
+        return;
+    }
+
+    placementPage = page;
+
+    renderPlacements();
+}
+
+
+async function loadDashboard() {
+
+    try {
+
+        const response =
+            await fetch(
+                "./dashboard_data.json?t=" + Date.now(),
+                {
+                    cache: "no-store"
+                }
+            );
+
+        if (!response.ok) {
+            throw new Error(
+                "Dashboard request failed"
+            );
+        }
+
+        const data =
+            await response.json();
+
+
+        notices =
+            data.notices || [];
+
+        placements =
+            data.placements || [];
+
+
+        document.getElementById(
+            "erpStatus"
+        ).textContent =
+            data.erp_status ||
+            "Unknown";
+
+
+        document.getElementById(
+            "lastCheck"
+        ).textContent =
+            data.last_check ||
+            "—";
+
+
+        document.getElementById(
+            "nextCheck"
+        ).textContent =
+            data.next_check ||
+            "—";
+
+
+        document.getElementById(
+            "noticeCount"
+        ).textContent =
+            data.notice_count ||
+            0;
+
+
+        document.getElementById(
+            "placementCount"
+        ).textContent =
+            data.placement_count ||
+            0;
+
+
+        const errorBox =
+            document.getElementById(
+                "errorBox"
+            );
+
+
+        if (data.last_error) {
+
+            errorBox.style.display =
+                "block";
+
+            errorBox.textContent =
+                data.last_error;
+
+        } else {
+
+            errorBox.style.display =
+                "none";
+
+            errorBox.textContent =
+                "";
+        }
+
+
+        renderNotices();
+
+        renderPlacements();
+
+    } catch (error) {
+
+        console.error(error);
+
+        const errorBox =
+            document.getElementById(
+                "errorBox"
+            );
+
+        errorBox.style.display =
+            "block";
+
+        errorBox.textContent =
+            "Could not load dashboard data.";
+    }
+}
+
+
+// Initial dashboard load.
+loadDashboard();
+
+// Dashboard refresh.
+// ERP monitoring itself remains every 30 minutes.
+setInterval(
+    loadDashboard,
+    60 * 1000
+);
+
+</script>
+
+</body>
+
+</html>
