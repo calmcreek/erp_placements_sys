@@ -1,7 +1,7 @@
 {
-  "erp_status": "Connected",
-  "last_check": "26 Sep 2026, 06:19:06 AM",
-  "next_check": "26 Sep 2026, 06:49:06 AM",
+  "erp_status": "Error",
+  "last_check": "26 Sep 2026, 12:28:32 PM",
+  "next_check": null,
   "notice_count": 867,
   "placement_count": 0,
   "notices": [
@@ -7810,5 +7810,5 @@
     }
   ],
   "placements": [],
-  "last_error": null
+  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
 }
