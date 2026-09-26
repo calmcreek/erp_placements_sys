@@ -1,7 +1,7 @@
 {
-  "erp_status": "Error",
-  "last_check": "26 Sep 2026, 10:33:43 PM",
-  "next_check": null,
+  "erp_status": "Connected",
+  "last_check": "26 Sep 2026, 11:32:35 PM",
+  "next_check": "27 Sep 2026, 12:02:35 AM",
   "notice_count": 867,
   "placement_count": 0,
   "notices": [
@@ -7810,5 +7810,5 @@
     }
   ],
   "placements": [],
-  "last_error": "HTTPSConnectionPool(host='erp.iitkgp.ac.in', port=443): Max retries exceeded with url: /IIT_ERP3/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='erp.iitkgp.ac.in', port=443) at 0x7f7f1f5e1580>, 'Connection to erp.iitkgp.ac.in timed out. (connect timeout=30)'))"
+  "last_error": null
 }
