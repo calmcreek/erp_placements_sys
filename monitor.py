@@ -9,9 +9,9 @@ import smtplib
 import html
 import xml.etree.ElementTree as ET
 
-from datetime import datetime
+from datetime import datetime, timedelta
 from urllib.parse import urlparse, parse_qs
-
+from zoneinfo import ZoneInfo
 import requests
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
@@ -19,7 +19,7 @@ from dotenv import load_dotenv
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-
+IST = ZoneInfo("Asia/Kolkata")
 # ============================================================
 # CONFIGURATION
 # ============================================================
@@ -233,7 +233,7 @@ def save_dashboard_data():
 
 def current_time_string():
 
-    return datetime.now().strftime(
+    return datetime.now(IST).strftime(
         "%d %b %Y, %I:%M:%S %p"
     )
 
@@ -3161,14 +3161,12 @@ def run_monitor_cycle():
         # --------------------------------------------------------
         # Successful cycle
         # --------------------------------------------------------
-        next_check_timestamp = (
-            datetime.now().timestamp()
-            + CHECK_INTERVAL_SECONDS
+        next_check_time = (
+            datetime.now(IST)
+            + timedelta(seconds=CHECK_INTERVAL_SECONDS)
         )
 
-        next_check_string = datetime.fromtimestamp(
-            next_check_timestamp
-        ).strftime(
+        next_check_string = next_check_time.strftime(
             "%d %b %Y, %I:%M:%S %p"
         )
 
