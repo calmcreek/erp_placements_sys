@@ -1842,44 +1842,67 @@ def open_placement_board():
         )
 
 
-    response = session.post(
+    max_attempts = 3
 
-        PLACEMENT_PAGE_URL,
+    for attempt in range(1, max_attempts + 1):
 
-        data={
+        try:
 
-            "ssoToken":
-                sso_token,
+            response = session.post(
 
-            "module_id":
-                "26",
+                PLACEMENT_PAGE_URL,
 
-            "menu_id":
-                "11",
-        },
+                data={
 
-        headers={
+                    "ssoToken":
+                        sso_token,
 
-            "Accept":
-                (
-                    "text/html,application/xhtml+xml,"
-                    "application/xml;q=0.9,*/*;q=0.8"
-                ),
+                    "module_id":
+                        "26",
 
-            "Content-Type":
-                "application/x-www-form-urlencoded",
+                    "menu_id":
+                        "11",
+                },
 
-            "Referer":
-                (
-                    "https://erp.iitkgp.ac.in/"
-                    "IIT_ERP3/showmenu.htm"
-                ),
-        },
+                headers={
 
-        timeout=30,
+                    "Accept":
+                        (
+                            "text/html,application/xhtml+xml,"
+                            "application/xml;q=0.9,*/*;q=0.8"
+                        ),
 
-        allow_redirects=True
-    )
+                    "Content-Type":
+                        "application/x-www-form-urlencoded",
+
+                    "Referer":
+                        (
+                            "https://erp.iitkgp.ac.in/"
+                            "IIT_ERP3/showmenu.htm"
+                        ),
+                },
+
+                timeout=30,
+
+                allow_redirects=True
+            )
+
+            break
+
+        except requests.exceptions.ConnectionError as e:
+
+            if attempt == max_attempts:
+                raise
+
+            wait_seconds = 2 * attempt
+
+            print(
+                f"Placement board connection failed "
+                f"(attempt {attempt}/{max_attempts}). "
+                f"Retrying in {wait_seconds}s..."
+            )
+
+            time.sleep(wait_seconds)
 
 
     print(
