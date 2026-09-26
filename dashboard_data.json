@@ -1,18 +1,18 @@
 {
-  "erp_status": "Error",
-  "last_check": "26 Sep 2026, 12:28:32 PM",
-  "next_check": null,
+  "erp_status": "Connected",
+  "last_check": "26 Sep 2026, 12:45:25 PM",
+  "next_check": "26 Sep 2026, 01:15:25 PM",
   "notice_count": 867,
   "placement_count": 0,
   "notices": [
     {
-      "id": "929",
+      "id": "930",
       "type": "PLACEMENT",
       "subject": "PPT/Workshop/Seminars etc",
       "company": "WHITEOAK CAPITAL",
-      "notice": "Please note that the Pre-Placement Talk for WHITEOAK CAPITAL, will be held on 27th September, 2026 from 12:00 PM.Link: https://whiteoakindia.zoom.us/w/89631101170?tk=cMakyo8ryxaUHYs2BEzLiPAyKAubSLg41yXxngplVLs.DQkAAAAU3m4Q8hZRc1gyS09nZlFCR2xheXpEMEZZRlVRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAll interested students are supposed to attend the PPT without fail. Attendance is compulsory. Students should join 15 minutes prior to the meeting time.POC : Bhavy (+91 75971 21669)CDC,IITKharagpur",
+      "notice": "Please note that the Pre-Placement Talk for WHITEOAK CAPITAL will be held on 27th September, 2026 from 12:00 PM.All students must register for the PPT using the same link provided below.Link: https://whiteoakindia.zoom.us/w/89631101170?tk=cMakyo8ryxaUHYs2BEzLiPAyKAubSLg41yXxngplVLs.DQkAAAAU3m4Q8hZRc1gyS09nZlFCR2xheXpEMEZZRlVRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWebinar ID: 896 3110 1170All interested students are required to attend the PPT without fail. Attendance is compulsory. Students should join 15 minutes prior to the meeting time.POC: Bhavy (+91 75971 21669)CDC, IIT Kharagpur",
       "notice_by": "23AG36009",
-      "notice_time": "25-09-2026 20:40"
+      "notice_time": "26-09-2026 12:34"
     },
     {
       "id": "928",
@@ -7810,5 +7810,5 @@
     }
   ],
   "placements": [],
-  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "last_error": null
 }
