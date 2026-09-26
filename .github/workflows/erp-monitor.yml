@@ -4,7 +4,13 @@ on:
   schedule:
     # GitHub Actions uses UTC. This runs approximately every 30 minutes.
     # Run approximately every 30 minutes, offset from :00/:30
-    - cron: "17,47 * * * *"
+    #- cron: "17,47 * * * *"
+    - cron: "20 14 * * *"
+      timezone: "Asia/Kolkata"
+    - cron: "25 14 * * *"
+      timezone: "Asia/Kolkata"
+    - cron: "27 14 * * *"
+      timezone: "Asia/Kolkata"
   workflow_dispatch:
 
 concurrency:
