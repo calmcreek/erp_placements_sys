@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "27 Sep 2026, 09:43:56 PM",
-  "next_check": "27 Sep 2026, 10:13:56 PM",
-  "notice_count": 868,
+  "last_check": "27 Sep 2026, 10:03:33 PM",
+  "next_check": "27 Sep 2026, 10:33:33 PM",
+  "notice_count": 869,
   "placement_count": 0,
   "notices": [
+    {
+      "id": "932",
+      "type": "INTERNSHIP",
+      "subject": "CV Submission",
+      "company": "MICROSOFT",
+      "notice": "The CV submission of MICROSOFT CORPORATION for the role of Data Scientist Intern has been extended till 11:59 AM, 28th September 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.Note: It is mandatory for all students to register on the company portal using their CDC Registered email ID before 11:59 AM on 28th September 2026. Portal Link :  https://apply.careers.microsoft.com/careers/job/1970393556917520CDC, IIT Kharagpur",
+      "notice_by": "23AG3AI03",
+      "notice_time": "27-09-2026 21:52"
+    },
     {
       "id": "931",
       "type": "PLACEMENT",
