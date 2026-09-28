@@ -1,10 +1,46 @@
 {
   "erp_status": "Connected",
-  "last_check": "28 Sep 2026, 05:34:03 PM",
-  "next_check": "28 Sep 2026, 06:04:03 PM",
-  "notice_count": 872,
+  "last_check": "28 Sep 2026, 06:03:38 PM",
+  "next_check": "28 Sep 2026, 06:33:38 PM",
+  "notice_count": 876,
   "placement_count": 1,
   "notices": [
+    {
+      "id": "939",
+      "type": "PLACEMENT",
+      "subject": "PPO",
+      "company": "Google India",
+      "notice": "Google India has extended the offer to the following student(s):SARTHAK ARORA - 22EC37014AAKARSH A - 22EC37035The students are advised to give offer acceptance by 28.09.26.(For more details, check your email ID.)CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "28-09-2026 18:00"
+    },
+    {
+      "id": "938",
+      "type": "PLACEMENT",
+      "subject": "PPO",
+      "company": "IBM",
+      "notice": "IBM has extended the offer to the following student(s):UDIT MOHAN PRADHAN - 23CH10073The students are advised to give offer acceptance by 28.09.2026.(For more details, check your email ID.)CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "28-09-2026 17:58"
+    },
+    {
+      "id": "937",
+      "type": "PLACEMENT",
+      "subject": "PPO",
+      "company": "SAMSUNG R&D INSTITUTE INDIA - DELHI",
+      "notice": "SAMSUNG R&D INSTITUTE INDIA - DELHI has extended the offer to the following student(s):SRIKANTAM SAI SRINIVAS - 22CS30053PRIYANSH GOYAL - 22EC39042MAYANK FENIN - 22MA23002The students are advised to give offer acceptance by 29.09.26.(For more details, check your email ID.)CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "28-09-2026 17:55"
+    },
+    {
+      "id": "936",
+      "type": "PLACEMENT",
+      "subject": "PPO",
+      "company": "Honeywell",
+      "notice": "Honeywell has extended the offer to the following student(s):MAYANK NAGAR - 23ME10049The students are advised to give offer acceptance by 28.09.2026.(For more details, check your email ID.)CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "28-09-2026 17:42"
+    },
     {
       "id": "935",
       "type": "PLACEMENT",
