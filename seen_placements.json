@@ -1,4 +1,6 @@
 {
-  "initialized": false,
-  "seen_ids": []
+  "initialized": true,
+  "seen_ids": [
+    "0"
+  ]
 }

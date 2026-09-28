@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "28 Sep 2026, 03:33:48 PM",
-  "next_check": "28 Sep 2026, 04:03:48 PM",
-  "notice_count": 871,
-  "placement_count": 0,
+  "last_check": "28 Sep 2026, 04:32:47 PM",
+  "next_check": "28 Sep 2026, 05:02:47 PM",
+  "notice_count": 872,
+  "placement_count": 1,
   "notices": [
+    {
+      "id": "935",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "TREXQUANT",
+      "notice": "The CV submission of TREXQUANT for the role of Quantitative Researcher has been opened till 4:00 PM, 29th September 2026.It is mandatory for all the students who are applying for this role to fill out the following Google form attached below:Form Link: https://forms.gle/8HC94Fg4iyMTr28f7Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17009",
+      "notice_time": "28-09-2026 15:52"
+    },
     {
       "id": "934",
       "type": "INTERNSHIP",
@@ -7845,6 +7854,23 @@
       "notice_time": "22-06-2026 18:30"
     }
   ],
-  "placements": [],
+  "placements": [
+    {
+      "id": "0",
+      "company": "Trexquant (India) Business Consulting LLP",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Quantitative Researcher",
+      "description": "Apply",
+      "ctc": "9160000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-09-28 15:51",
+      "resume_upload_end": "2026-09-29 16:00",
+      "interview_selection": "",
+      "contract": ""
+    }
+  ],
   "last_error": null
 }
