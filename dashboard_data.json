@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "28 Sep 2026, 11:33:55 AM",
-  "next_check": "28 Sep 2026, 12:03:55 PM",
-  "notice_count": 870,
+  "last_check": "28 Sep 2026, 12:03:31 PM",
+  "next_check": "28 Sep 2026, 12:33:31 PM",
+  "notice_count": 871,
   "placement_count": 0,
   "notices": [
+    {
+      "id": "934",
+      "type": "INTERNSHIP",
+      "subject": "CV Submission",
+      "company": "MOTILAL OSWAL FINANCIAL SERVICES LIMITED",
+      "notice": "The CV submission of MOTILAL OSWAL FINANCIAL SERVICES LIMITED for the role of Management Trainee has been opened till 11:59 PM, 29th September 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "28-09-2026 11:51"
+    },
     {
       "id": "933",
       "type": "INTERNSHIP",
