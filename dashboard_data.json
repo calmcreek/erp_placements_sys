@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "28 Sep 2026, 10:33:45 PM",
-  "next_check": "28 Sep 2026, 11:03:45 PM",
-  "notice_count": 876,
+  "last_check": "28 Sep 2026, 11:03:35 PM",
+  "next_check": "28 Sep 2026, 11:33:35 PM",
+  "notice_count": 877,
   "placement_count": 1,
   "notices": [
+    {
+      "id": "940",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "TREXQUANT",
+      "notice": "The Pre-Placement Talk (PPT) for Trexquant for the Quantitative Researcher role will be held on 29th September 2026 at 6:30 PM.Link: https://meet.google.com/ydc-bzuz-gyw?hs=224Note: Trexquant will be conducting a Challenge as part of the recruitment process. The details and instructions on how to attempt the Challenge will be explained during the PPT. Therefore, it is mandatory for all placement-registered students to attend the PPT to understand the Challenge and the procedure for attempting it.All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Aditi Singh (+91 8815395895)CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "28-09-2026 22:56"
+    },
     {
       "id": "939",
       "type": "PLACEMENT",
