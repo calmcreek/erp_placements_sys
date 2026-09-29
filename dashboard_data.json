@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "29 Sep 2026, 03:33:49 PM",
-  "next_check": "29 Sep 2026, 04:03:49 PM",
-  "notice_count": 879,
+  "last_check": "29 Sep 2026, 04:03:40 PM",
+  "next_check": "29 Sep 2026, 04:33:40 PM",
+  "notice_count": 881,
   "placement_count": 1,
   "notices": [
+    {
+      "id": "944",
+      "type": "INTERNSHIP",
+      "subject": "Date extension",
+      "company": "MOTILAL OSWAL FINANCIAL SERVICES LIMITED",
+      "notice": "The CV submission of MOTILAL OSWAL FINANCIAL SERVICES LIMITED for the role of Management Trainee has been extended with revised eligibility till 11:59 AM, 30th September 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17009",
+      "notice_time": "29-09-2026 15:44"
+    },
+    {
+      "id": "943",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "TREXQUANT",
+      "notice": "The CV submission of TREXQUANT for the role of Quantitative Researcher has been extended till 12:00 PM, 30th September 2026.It is mandatory for all the students who are applying for this role to fill out the following Google form attached below:Form Link: https://forms.gle/8HC94Fg4iyMTr28f7Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17009",
+      "notice_time": "29-09-2026 15:42"
+    },
     {
       "id": "942",
       "type": "PLACEMENT",
@@ -7930,7 +7948,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-09-28 15:51",
-      "resume_upload_end": "2026-09-29 16:00",
+      "resume_upload_end": "2026-09-30 12:00",
       "interview_selection": "",
       "contract": ""
     }
