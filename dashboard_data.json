@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "29 Sep 2026, 06:03:35 PM",
-  "next_check": "29 Sep 2026, 06:33:35 PM",
-  "notice_count": 881,
+  "last_check": "29 Sep 2026, 06:34:09 PM",
+  "next_check": "29 Sep 2026, 07:04:09 PM",
+  "notice_count": 882,
   "placement_count": 1,
   "notices": [
+    {
+      "id": "945",
+      "type": "INTERNSHIP",
+      "subject": "CV Submission",
+      "company": "Sun Valley Resources Private Limited",
+      "notice": "The CV submission of Sun Valley Resources Private Limited has been opened till 11:59 PM, 30th September 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17009",
+      "notice_time": "29-09-2026 18:16"
+    },
     {
       "id": "944",
       "type": "INTERNSHIP",
