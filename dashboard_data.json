@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "29 Sep 2026, 11:32:43 AM",
-  "next_check": null,
-  "notice_count": 878,
+  "erp_status": "Connected",
+  "last_check": "29 Sep 2026, 12:32:47 PM",
+  "next_check": "29 Sep 2026, 01:02:47 PM",
+  "notice_count": 879,
   "placement_count": 1,
   "notices": [
+    {
+      "id": "942",
+      "type": "PLACEMENT",
+      "subject": "PPO",
+      "company": "Stripe",
+      "notice": "Stripe has extended the offer to the following student(s):K THARUN SELVAM - 22CS30033SIDDHARTH NEMA - 23MA10078SAKSHAM AGGARWAL - 23EC10092The students are advised to give offer acceptance by 29.09.26.(For more details, check your email ID.)CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "29-09-2026 12:03"
+    },
     {
       "id": "941",
       "type": "PLACEMENT",
@@ -7926,5 +7935,5 @@
       "contract": ""
     }
   ],
-  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "last_error": null
 }
