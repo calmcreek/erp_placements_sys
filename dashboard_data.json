@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "30 Sep 2026, 05:33:49 PM",
-  "next_check": "30 Sep 2026, 06:03:49 PM",
-  "notice_count": 885,
+  "last_check": "30 Sep 2026, 06:03:50 PM",
+  "next_check": "30 Sep 2026, 06:33:50 PM",
+  "notice_count": 886,
   "placement_count": 1,
   "notices": [
+    {
+      "id": "949",
+      "type": "INTERNSHIP",
+      "subject": "CV Submission",
+      "company": "Trilogy",
+      "notice": "The CV submission of Trilogy has been opened till 11:59 PM, 1st October 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17164",
+      "notice_time": "30-09-2026 17:50"
+    },
     {
       "id": "948",
       "type": "INTERNSHIP",
