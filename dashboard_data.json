@@ -7998,5 +7998,5 @@
       "contract": ""
     }
   ],
-  "last_error": "command: FETCH => System Error"
+  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
 }
