@@ -7962,5 +7962,5 @@
       "contract": ""
     }
   ],
-  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "last_error": "HTTPSConnectionPool(host='erp.iitkgp.ac.in', port=443): Max retries exceeded with url: /IIT_ERP3/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='erp.iitkgp.ac.in', port=443) at 0x7f16e6c65b80>, 'Connection to erp.iitkgp.ac.in timed out. (connect timeout=30)'))"
 }
