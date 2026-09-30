@@ -7971,5 +7971,5 @@
       "contract": ""
     }
   ],
-  "last_error": "HTTPSConnectionPool(host='erp.iitkgp.ac.in', port=443): Read timed out. (read timeout=30)"
+  "last_error": "HTTPSConnectionPool(host='erp.iitkgp.ac.in', port=443): Max retries exceeded with url: /IIT_ERP3/ (Caused by NameResolutionError(\"HTTPSConnection(host='erp.iitkgp.ac.in', port=443): Failed to resolve 'erp.iitkgp.ac.in' ([Errno -3] Temporary failure in name resolution)\"))"
 }
