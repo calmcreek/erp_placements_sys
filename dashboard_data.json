@@ -7971,5 +7971,5 @@
       "contract": ""
     }
   ],
-  "last_error": "HTTPSConnectionPool(host='erp.iitkgp.ac.in', port=443): Read timed out. (read timeout=30)"
+  "last_error": "HTTPSConnectionPool(host='erp.iitkgp.ac.in', port=443): Read timed out."
 }
