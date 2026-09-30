@@ -1,7 +1,7 @@
 {
-  "erp_status": "Connected",
+  "erp_status": "Error",
   "last_check": "30 Sep 2026, 07:03:58 PM",
-  "next_check": "30 Sep 2026, 07:33:58 PM",
+  "next_check": null,
   "notice_count": 886,
   "placement_count": 1,
   "notices": [
@@ -7998,5 +7998,5 @@
       "contract": ""
     }
   ],
-  "last_error": null
+  "last_error": "command: FETCH => System Error"
 }
