@@ -1,10 +1,46 @@
 {
-  "erp_status": "Error",
-  "last_check": "01 Oct 2026, 11:33:50 AM",
-  "next_check": null,
-  "notice_count": 887,
+  "erp_status": "Connected",
+  "last_check": "01 Oct 2026, 01:02:31 PM",
+  "next_check": "01 Oct 2026, 01:32:31 PM",
+  "notice_count": 891,
   "placement_count": 1,
   "notices": [
+    {
+      "id": "954",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "",
+      "notice": "CDC is organising an Employability Enhancement & Interview Preparedness Programme for final-year students from 2nd to 5th October 2026.2nd & 3rd October | Training SessionsThe sessions will cover:- Self-Introduction & Personal Branding- Company Research- LinkedIn Profile Optimisation- One-Page Resume Building- STAR Method- Interview Preparedness & Strategies4th & 5th October | One-to-One Mock InterviewsMock interviews will be conducted through multiple interview panels, providing students with a simulated interview experience and practical feedback.Students are requested to:- Confirm their participation through the form below.- Carry an updated one-page CV/resume.- Come prepared with their academic background, career interests and relevant companies/roles.- Wear formal/professional attire for the mock interviews.- Report at the designated venue 1015 minutes before the scheduled time.- Carefully check their allotted batch/panel, timing and venue once communicated.Participation Confirmation Form - https://forms.gle/wibDwjnXtb5AuLzu9Students are informed that participation is mandatory so make full use of this opportunity.Best wishes for your placement preparation.CDC, IIT Kharagpur",
+      "notice_by": "23AG3AI03",
+      "notice_time": "01-10-2026 12:57"
+    },
+    {
+      "id": "953",
+      "type": "INTERNSHIP",
+      "subject": "Date extension",
+      "company": "VISA Inc.",
+      "notice": "The CV submission of Visa has been extended till 11:59 PM, 1st October 2026.Interested and eligible students are advised to apply within the given deadline.CDC, IIT Kharagpur",
+      "notice_by": "17009",
+      "notice_time": "01-10-2026 12:50"
+    },
+    {
+      "id": "952",
+      "type": "PLACEMENT",
+      "subject": "PPO",
+      "company": "Walmart",
+      "notice": "Walmart has extended the offer to the following student(s):Nilesh Arjun Gupta - 25CS60R64Rounak Neogy - 25CS60R55The students are advised to give offer acceptance by 01.10.2026.(For more details, check your email ID.)CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "01-10-2026 12:15"
+    },
+    {
+      "id": "951",
+      "type": "INTERNSHIP",
+      "subject": "CV Submission",
+      "company": "Toast Tab",
+      "notice": "The CV submission of Toast Tab has been opened till 11:59 PM, 2nd October 2026.All the students are required to fill the additional details form.Link: https://forms.gle/cGrfeYVPeWCGsDSs9Interested and eligible students are advised to apply within the given deadline.CDC, IIT Kharagpur",
+      "notice_by": "17164",
+      "notice_time": "01-10-2026 11:41"
+    },
     {
       "id": "950",
       "type": "INTERNSHIP",
@@ -8007,5 +8043,5 @@
       "contract": ""
     }
   ],
-  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "last_error": null
 }
