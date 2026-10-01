@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "01 Oct 2026, 06:33:49 PM",
-  "next_check": "01 Oct 2026, 07:03:49 PM",
-  "notice_count": 894,
+  "last_check": "01 Oct 2026, 07:04:14 PM",
+  "next_check": "01 Oct 2026, 07:34:14 PM",
+  "notice_count": 896,
   "placement_count": 1,
   "notices": [
+    {
+      "id": "959",
+      "type": "INTERNSHIP",
+      "subject": "Urgent",
+      "company": "Multiple companies",
+      "notice": "The further processes for the following companies are scheduled for the upcoming weekend (2nd to 4th October).- SLB (PTE role)- Microsoft- I'mbesideyou- HP IncStudents interested in pursuing internship opportunities with these companies are advised to remain available on campus during the aforementioned dates and plan their schedules accordingly.Further details regarding the respective processes will be communicated in due time.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "01-10-2026 18:35"
+    },
+    {
+      "id": "958",
+      "type": "INTERNSHIP",
+      "subject": "Urgent",
+      "company": "MICROSOFT",
+      "notice": "PFA the room allocation for the test of Microsoft, scheduled from 10:00 AM onwards on 2nd October 2026.Note: Students will receive the test link on their CDC registered email addressVenue: Nalanda Classroom ComplexStudents are requested to arrive 15 minutes prior to the reporting time.POC: Daksh (+91 98180 71612), Neev(+91 90013 46350)CDC, IIT Kharagpur",
+      "notice_by": "23AG3AI03",
+      "notice_time": "01-10-2026 17:53"
+    },
     {
       "id": "957",
       "type": "INTERNSHIP",
