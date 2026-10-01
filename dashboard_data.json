@@ -1,10 +1,28 @@
 {
-  "erp_status": "Error",
-  "last_check": "01 Oct 2026, 04:33:51 PM",
-  "next_check": null,
-  "notice_count": 892,
+  "erp_status": "Connected",
+  "last_check": "01 Oct 2026, 05:32:47 PM",
+  "next_check": "01 Oct 2026, 06:02:47 PM",
+  "notice_count": 894,
   "placement_count": 1,
   "notices": [
+    {
+      "id": "957",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "Microsoft",
+      "notice": "PFA the test shortlist for Microsoft.The Assessment is scheduled on 2nd October, 10:00 A.M onwards.Venue: Nalanda Classroom ComplexNote: Students are required to carry their Institute ID card/Medical Book and are advised to reach the venue 15 minutes prior to the time. The Room Allocation will be shared in due time.POC: Daksh (+91 98180 71612), Neev(+91 90013 46350)CDC, IIT Kharagpur",
+      "notice_by": "23CH30006",
+      "notice_time": "01-10-2026 17:24"
+    },
+    {
+      "id": "956",
+      "type": "INTERNSHIP",
+      "subject": "CV Submission",
+      "company": "Sun Valley Resources Private Limited",
+      "notice": "The CV submission of Sun Valley Resources Private Limited has been extended till 11:59 PM, 2nd October 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23AE3FP05",
+      "notice_time": "01-10-2026 17:07"
+    },
     {
       "id": "955",
       "type": "INTERNSHIP",
@@ -8052,5 +8070,5 @@
       "contract": ""
     }
   ],
-  "last_error": "ERP authentication failed."
+  "last_error": null
 }
