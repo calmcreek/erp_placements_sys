@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "01 Oct 2026, 07:04:14 PM",
-  "next_check": "01 Oct 2026, 07:34:14 PM",
-  "notice_count": 896,
+  "last_check": "01 Oct 2026, 07:34:39 PM",
+  "next_check": "01 Oct 2026, 08:04:39 PM",
+  "notice_count": 898,
   "placement_count": 1,
   "notices": [
+    {
+      "id": "961",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "I'mbesideyou Inc",
+      "notice": "PFB the Interview shortlist for I'mbesideyou Inc. 24AE1005323AR1002123BT3002324MI10076Further details would be communicated to the shortlisted candidates shortly.CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "01-10-2026 19:12"
+    },
+    {
+      "id": "960",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "HP Inc",
+      "notice": "PFB the shortlist for Test 2 of HP Inc. 24EE1004124CS1000924CS1001124EC1004024EC1011124CS1003024EC1003324AI1004924IE1000524CS1010924EE1004524EC1003424EC1006124AI1003024EC1012524EE1008324EC10102The Assessment is scheduled on 3rd October, 04:00 P.M onwards.Venue: Respective locationPOC: Hardik (+91 8177018092)CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "01-10-2026 19:12"
+    },
     {
       "id": "959",
       "type": "INTERNSHIP",
