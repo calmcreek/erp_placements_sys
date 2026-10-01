@@ -1,10 +1,28 @@
 {
-  "erp_status": "Error",
-  "last_check": "02 Oct 2026, 12:33:59 AM",
-  "next_check": null,
-  "notice_count": 898,
+  "erp_status": "Connected",
+  "last_check": "02 Oct 2026, 01:32:47 AM",
+  "next_check": "02 Oct 2026, 02:02:47 AM",
+  "notice_count": 900,
   "placement_count": 1,
   "notices": [
+    {
+      "id": "963",
+      "type": "INTERNSHIP",
+      "subject": "Urgent",
+      "company": "SLB",
+      "notice": "PFB the shortlist for the Group Discussion round of SLB for the role of PTE.23EX2300123EX2300223GG2300223GG2300523GG2300723GG2300823GG5PE0224EX1000624EX1000724EX1001124EX1001924EX1002224EX1002724EX1003024EX1003424EX1003524EX1003824EX1004124EX1004224GG1001724GG1003124GG1004324GG10047Further details would be communicated to the shortlisted candidates in due time.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "02-10-2026 01:18"
+    },
+    {
+      "id": "962",
+      "type": "INTERNSHIP",
+      "subject": "Date extension",
+      "company": "Trilogy",
+      "notice": "The CV submission of Trilogy has been extended till 05:59 PM, 2nd October 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "02-10-2026 00:54"
+    },
     {
       "id": "961",
       "type": "INTERNSHIP",
@@ -8106,5 +8124,5 @@
       "contract": ""
     }
   ],
-  "last_error": "ERP authentication failed."
+  "last_error": null
 }
