@@ -8160,5 +8160,5 @@
       "contract": ""
     }
   ],
-  "last_error": "ERP authentication failed."
+  "last_error": "command: SELECT => socket error: EOF"
 }
