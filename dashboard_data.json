@@ -1,10 +1,28 @@
 {
-  "erp_status": "Error",
-  "last_check": "02 Oct 2026, 10:03:55 PM",
-  "next_check": null,
-  "notice_count": 901,
+  "erp_status": "Connected",
+  "last_check": "02 Oct 2026, 10:45:21 PM",
+  "next_check": "02 Oct 2026, 11:15:21 PM",
+  "notice_count": 903,
   "placement_count": 1,
   "notices": [
+    {
+      "id": "968",
+      "type": "INTERNSHIP",
+      "subject": "CV Submission",
+      "company": "HSBC",
+      "notice": "The CV submission of HSBC(6 months) has been extended till 11:59 PM, 3rd October 2026.Interested and eligible students are advised to apply within the given deadline.CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "02-10-2026 22:44"
+    },
+    {
+      "id": "967",
+      "type": "INTERNSHIP",
+      "subject": "CV Submission",
+      "company": "Toast Tab",
+      "notice": "The CV submission of Toast Tab has been extended till 11:59 PM, 3rd October 2026.Interested and eligible students are advised to apply within the given deadline.CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "02-10-2026 22:44"
+    },
     {
       "id": "966",
       "type": "PLACEMENT",
@@ -8133,5 +8151,5 @@
       "contract": ""
     }
   ],
-  "last_error": "ERP authentication failed."
+  "last_error": null
 }
