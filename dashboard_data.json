@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "02 Oct 2026, 10:33:48 AM",
-  "next_check": null,
-  "notice_count": 900,
+  "erp_status": "Connected",
+  "last_check": "02 Oct 2026, 11:33:27 AM",
+  "next_check": "02 Oct 2026, 12:03:27 PM",
+  "notice_count": 901,
   "placement_count": 1,
   "notices": [
+    {
+      "id": "966",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "IPIM",
+      "notice": "Reminder - The session has started for IPIM: Employability Enhancement & Interview Preparedness Programme, kindly refer to the timings mentioned below:Reporting Venue : NR 321Batch-wise Schedule:Batch 1Session 1 - 2nd October - 10:00 AM to 1:00 PMSession 2 - 3rd October - 10:00 AM to 1:00 PMBatch 2Session 1 - 2nd October - 2:30 PM to 5:30 PMSession 2 - 3rd October - 2:30 PM to 5:30 PMParticipation Confirmation Form - https://forms.gle/wibDwjnXtb5AuLzu9Students are informed that participation is mandatory so make full use of this opportunity as attendance at all sessions is mandatory for eligibility for the mock interviews.Best wishes for your placement preparation.CDC, IIT Kharagpur",
+      "notice_by": "23MI3EP25",
+      "notice_time": "02-10-2026 11:12"
+    },
     {
       "id": "963",
       "type": "INTERNSHIP",
@@ -8124,5 +8133,5 @@
       "contract": ""
     }
   ],
-  "last_error": "ERP authentication failed."
+  "last_error": null
 }
