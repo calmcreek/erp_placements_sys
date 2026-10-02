@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "02 Oct 2026, 10:45:21 PM",
-  "next_check": null,
-  "notice_count": 903,
+  "erp_status": "Connected",
+  "last_check": "02 Oct 2026, 11:32:50 PM",
+  "next_check": "03 Oct 2026, 12:02:50 AM",
+  "notice_count": 904,
   "placement_count": 1,
   "notices": [
+    {
+      "id": "969",
+      "type": "INTERNSHIP",
+      "subject": "CV Submission",
+      "company": "Trilogy",
+      "notice": "The CV submission of Trilogy has been extended till 09:00 AM, 3rd October 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "02-10-2026 22:45"
+    },
     {
       "id": "968",
       "type": "INTERNSHIP",
@@ -8151,5 +8160,5 @@
       "contract": ""
     }
   ],
-  "last_error": "ERP authentication failed."
+  "last_error": null
 }
