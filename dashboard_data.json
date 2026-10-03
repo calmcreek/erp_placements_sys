@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "03 Oct 2026, 05:34:18 PM",
-  "next_check": null,
-  "notice_count": 907,
+  "erp_status": "Connected",
+  "last_check": "03 Oct 2026, 06:32:44 PM",
+  "next_check": "03 Oct 2026, 07:02:44 PM",
+  "notice_count": 908,
   "placement_count": 1,
   "notices": [
+    {
+      "id": "973",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "SLB",
+      "notice": "PFB the shortlist for the Interview round of SLB for the role of PTE23GG2300223GG5PE0224EX1001924EX1003024EX1003824EX1004124EX1004224GG10031Further details would be communicated to the shortlisted candidates in due time.CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "03-10-2026 18:07"
+    },
     {
       "id": "972",
       "type": "INTERNSHIP",
@@ -8187,5 +8196,5 @@
       "contract": ""
     }
   ],
-  "last_error": "ERP authentication failed."
+  "last_error": null
 }
