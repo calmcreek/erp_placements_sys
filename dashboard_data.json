@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "03 Oct 2026, 03:03:30 PM",
-  "next_check": "03 Oct 2026, 03:33:30 PM",
-  "notice_count": 906,
+  "last_check": "03 Oct 2026, 03:34:22 PM",
+  "next_check": "03 Oct 2026, 04:04:22 PM",
+  "notice_count": 907,
   "placement_count": 1,
   "notices": [
+    {
+      "id": "972",
+      "type": "INTERNSHIP",
+      "subject": "Urgent",
+      "company": "HP Inc",
+      "notice": "The Test 2 for HP Inc is scheduled from 04:00 PM onwards on 3rd October, 2026.Venue: Respective locationNote: The assessment link will be shared with all the registered students by the company. All the shortlisted students are advised to take the test within the given time window.POC: Hardik (+91 8177018092)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "03-10-2026 15:26"
+    },
     {
       "id": "971",
       "type": "INTERNSHIP",
