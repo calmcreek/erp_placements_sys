@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "03 Oct 2026, 02:32:46 PM",
-  "next_check": "03 Oct 2026, 03:02:46 PM",
-  "notice_count": 905,
+  "last_check": "03 Oct 2026, 03:03:30 PM",
+  "next_check": "03 Oct 2026, 03:33:30 PM",
+  "notice_count": 906,
   "placement_count": 1,
   "notices": [
+    {
+      "id": "971",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "Intellimation.AI",
+      "notice": "PFA the Interview shortlist of Intellimation.AI for all the roles.Further details would be communicated to the shortlisted candidates in due time.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "03-10-2026 14:34"
+    },
     {
       "id": "970",
       "type": "INTERNSHIP",
