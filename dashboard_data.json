@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "04 Oct 2026, 12:02:34 AM",
-  "next_check": "04 Oct 2026, 12:32:34 AM",
-  "notice_count": 908,
+  "last_check": "04 Oct 2026, 12:32:42 AM",
+  "next_check": "04 Oct 2026, 01:02:42 AM",
+  "notice_count": 909,
   "placement_count": 1,
   "notices": [
+    {
+      "id": "975",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "IPIM",
+      "notice": "The CDC in collaboration with IPIM is organizing One-to-One Mock Interview Sessions on 4th & 5th October 2026, in Nalanda Classroom Complex (NR 321) from 10 AM to 6 PM, for all final year students.​Please make a note to come in formal attire and bring a printed copy of your CV.Make full use of this opportunity to get personalized feedback from industry experts and boost your interview readiness.​Best wishes for your placement preparation.​CDC, IIT Kharagpur",
+      "notice_by": "23MI3EP25",
+      "notice_time": "04-10-2026 00:16"
+    },
     {
       "id": "973",
       "type": "INTERNSHIP",
