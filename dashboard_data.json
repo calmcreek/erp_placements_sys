@@ -1,10 +1,28 @@
 {
-  "erp_status": "Error",
-  "last_check": "04 Oct 2026, 09:03:40 AM",
-  "next_check": null,
-  "notice_count": 909,
-  "placement_count": 1,
+  "erp_status": "Connected",
+  "last_check": "04 Oct 2026, 10:02:33 AM",
+  "next_check": "04 Oct 2026, 10:32:33 AM",
+  "notice_count": 911,
+  "placement_count": 4,
   "notices": [
+    {
+      "id": "977",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "SQUAREPOINT CAPITAL",
+      "notice": "The CV submission of SQUAREPOINT CAPITAL for all the roles has been opened till 10:00 AM, 5th October 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EC39030",
+      "notice_time": "04-10-2026 09:37"
+    },
+    {
+      "id": "976",
+      "type": "INTERNSHIP",
+      "subject": "CV Submission",
+      "company": "Toast Tab",
+      "notice": "The CV submission of Toast Tab has been extended till 11:59 PM, 4th October 2026.Interested and eligible students are advised to apply within the given deadline.CDC, IIT Kharagpur",
+      "notice_by": "23EC39030",
+      "notice_time": "04-10-2026 09:36"
+    },
     {
       "id": "975",
       "type": "PLACEMENT",
@@ -8190,6 +8208,54 @@
   "placements": [
     {
       "id": "0",
+      "company": "SQUAREPOINT CAPITAL",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Infrastructure Engineer",
+      "description": "Apply",
+      "ctc": "7436382",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-04 09:23",
+      "resume_upload_end": "2026-10-05 10:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "1",
+      "company": "SQUAREPOINT CAPITAL",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Graduate Software Developer",
+      "description": "Apply",
+      "ctc": "7436382",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-04 09:24",
+      "resume_upload_end": "2026-10-05 10:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "2",
+      "company": "SQUAREPOINT CAPITAL",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Desk Quant Analyst",
+      "description": "Apply",
+      "ctc": "6736382",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-04 09:23",
+      "resume_upload_end": "2026-10-05 10:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "3",
       "company": "Trexquant (India) Business Consulting LLP",
       "additional_details": "",
       "ppt": "",
@@ -8205,5 +8271,5 @@
       "contract": ""
     }
   ],
-  "last_error": "ERP authentication failed."
+  "last_error": null
 }
