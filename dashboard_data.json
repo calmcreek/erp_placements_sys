@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "05 Oct 2026, 10:33:45 AM",
-  "next_check": null,
-  "notice_count": 913,
+  "erp_status": "Connected",
+  "last_check": "05 Oct 2026, 11:32:45 AM",
+  "next_check": "05 Oct 2026, 12:02:45 PM",
+  "notice_count": 914,
   "placement_count": 4,
   "notices": [
+    {
+      "id": "981",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "SQUAREPOINT CAPITAL",
+      "notice": "The CV submission of SQUAREPOINT CAPITAL for all the roles has been extended till 11:59 PM, 5th October 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17164",
+      "notice_time": "05-10-2026 10:44"
+    },
     {
       "id": "980",
       "type": "INTERNSHIP",
@@ -8236,7 +8245,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-04 09:23",
-      "resume_upload_end": "2026-10-05 10:00",
+      "resume_upload_end": "2026-10-05 23:59",
       "interview_selection": "",
       "contract": ""
     },
@@ -8252,7 +8261,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-04 09:24",
-      "resume_upload_end": "2026-10-05 10:00",
+      "resume_upload_end": "2026-10-05 23:59",
       "interview_selection": "",
       "contract": ""
     },
@@ -8268,7 +8277,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-04 09:23",
-      "resume_upload_end": "2026-10-05 10:00",
+      "resume_upload_end": "2026-10-05 23:59",
       "interview_selection": "",
       "contract": ""
     },
@@ -8289,5 +8298,5 @@
       "contract": ""
     }
   ],
-  "last_error": "ERP authentication failed."
+  "last_error": null
 }
