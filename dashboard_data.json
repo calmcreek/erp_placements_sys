@@ -1,10 +1,37 @@
 {
   "erp_status": "Connected",
-  "last_check": "05 Oct 2026, 12:33:56 PM",
-  "next_check": "05 Oct 2026, 01:03:56 PM",
-  "notice_count": 917,
+  "last_check": "05 Oct 2026, 06:32:46 PM",
+  "next_check": "05 Oct 2026, 07:02:46 PM",
+  "notice_count": 920,
   "placement_count": 4,
   "notices": [
+    {
+      "id": "988",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "Houlihan Lokey",
+      "notice": "The Pre-Placement Talk for Houlihan Lokey for Analyst role, will be held on 6th October, 2026 from 6:00 PM in offline mode.Venue: V4, Vikramshila Auditorium.Note: All placement registered eligible students are supposed to attend the PPT without fail. Attendance will be recorded, and only those attending will be considered for the further processes. Students are advised to be present 15 minutes prior to the scheduled time.POC: Aryan (+91 81003 03122)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "05-10-2026 17:31"
+    },
+    {
+      "id": "987",
+      "type": "INTERNSHIP",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "AXIS BANK",
+      "notice": "The Pre-Placement Talk for Axis Bank for Business Intelligence Unit role, will be held on 5th October, 2026 from 5:30 PM in online mode.Meeting link: https://teams.microsoft.com/meet/486465285641565?p=LqtUD1vxneNapxeTHfMeeting ID: 486 465 285 641 565Passcode: jm34Te7nNote: All internship registered eligible students are supposed to attend the PPT without fail. Attendance will be recorded, and only those attending will be considered for the further processes. Students are advised to be present 15 minutes prior to the scheduled time.POC: Aditya Ghosh (+91 6295 916 930)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "05-10-2026 16:17"
+    },
+    {
+      "id": "986",
+      "type": "INTERNSHIP",
+      "subject": "CV Submission",
+      "company": "IBM",
+      "notice": "The CV submission of IBM for all the roles has been opened till 11:59 PM, 6th October 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17009",
+      "notice_time": "05-10-2026 15:40"
+    },
     {
       "id": "985",
       "type": "PLACEMENT",
