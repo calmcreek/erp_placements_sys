@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "05 Oct 2026, 11:32:45 AM",
-  "next_check": "05 Oct 2026, 12:02:45 PM",
-  "notice_count": 914,
+  "last_check": "05 Oct 2026, 12:03:45 PM",
+  "next_check": "05 Oct 2026, 12:33:45 PM",
+  "notice_count": 916,
   "placement_count": 4,
   "notices": [
+    {
+      "id": "983",
+      "type": "INTERNSHIP",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "VISA",
+      "notice": "The Pre-Placement Talk for VISA is scheduled on, 5th October 2026 from 7:00 PM onwardsLink: https://teams.microsoft.com/meet/272096879138113?p=9ulPVuJeXOXAvpamwTPoC: Khush (+91 99221 68000)Note: All interested and eligible students are required to attend the PPT without fail. Attendance is compulsory.CDC, IIT Kharagpur",
+      "notice_by": "17009",
+      "notice_time": "05-10-2026 12:00"
+    },
+    {
+      "id": "982",
+      "type": "PLACEMENT",
+      "subject": "PPO",
+      "company": "Microsoft",
+      "notice": "Microsoft has extended the offer to the following student(s):FAZAL HAYAT KHAN - 23EC10091CHARNIYA KRISH - 23CS10012AIMAN ASHNA - 23EE10005ADITHYA ANANTHANARAYANAN - 23EE10003AANCHAL BAHETI - 22EE38001RAGHAVKRISHNA RAMASAMY CHANDRAKUMAR - 23EE10050PRACHETA SAHA - 22CS30042The students are advised to give offer acceptance by 5.10.26.(For more details, check your email ID.)CDC, IIT Kharagpur",
+      "notice_by": "17009",
+      "notice_time": "05-10-2026 11:41"
+    },
     {
       "id": "981",
       "type": "PLACEMENT",
