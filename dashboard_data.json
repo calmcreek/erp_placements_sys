@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "05 Oct 2026, 12:03:45 PM",
-  "next_check": "05 Oct 2026, 12:33:45 PM",
-  "notice_count": 916,
+  "last_check": "05 Oct 2026, 12:33:56 PM",
+  "next_check": "05 Oct 2026, 01:03:56 PM",
+  "notice_count": 917,
   "placement_count": 4,
   "notices": [
+    {
+      "id": "985",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "IPIM",
+      "notice": "The IPIM mock interviews scheduled on 5th October 2026 will be open for walk in interviews and will conclude by 2:30 PM.Venue: Panel Rooms (near the CDC Office)Make full use of this opportunity to get personalized feedback from industry experts and boost your interview readiness.​Best wishes for your placement preparation.​CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "05-10-2026 12:08"
+    },
     {
       "id": "983",
       "type": "INTERNSHIP",
