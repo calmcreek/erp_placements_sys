@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "06 Oct 2026, 05:34:42 PM",
-  "next_check": null,
-  "notice_count": 931,
+  "erp_status": "Connected",
+  "last_check": "06 Oct 2026, 06:32:58 PM",
+  "next_check": "06 Oct 2026, 07:02:58 PM",
+  "notice_count": 932,
   "placement_count": 4,
   "notices": [
+    {
+      "id": "1002",
+      "type": "PLACEMENT",
+      "subject": "PPO",
+      "company": "Cryogas Equipment Pvt. Ltd.",
+      "notice": "Cryogas Equipment Pvt. Ltd. has extended the offer to the following student(s):KARRI NIRANJAN KUMAR - 25CR60R06The students are advised to give offer acceptance by 06.10.2026.(For more details, check your email ID.)CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "06-10-2026 18:04"
+    },
     {
       "id": "1001",
       "type": "INTERNSHIP",
@@ -8451,5 +8460,5 @@
       "contract": ""
     }
   ],
-  "last_error": "ERP authentication failed."
+  "last_error": null
 }
