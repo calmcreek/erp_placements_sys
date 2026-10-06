@@ -1,7 +1,7 @@
 {
   "erp_status": "Connected",
-  "last_check": "06 Oct 2026, 07:03:27 AM",
-  "next_check": "06 Oct 2026, 07:33:27 AM",
+  "last_check": "06 Oct 2026, 07:33:46 AM",
+  "next_check": "06 Oct 2026, 08:03:46 AM",
   "notice_count": 923,
   "placement_count": 4,
   "notices": [
@@ -8326,7 +8326,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-04 09:23",
-      "resume_upload_end": "2026-10-05 23:59",
+      "resume_upload_end": "2026-10-06 09:59",
       "interview_selection": "",
       "contract": ""
     },
@@ -8342,7 +8342,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-04 09:24",
-      "resume_upload_end": "2026-10-05 23:59",
+      "resume_upload_end": "2026-10-06 10:59",
       "interview_selection": "",
       "contract": ""
     },
@@ -8358,7 +8358,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-04 09:23",
-      "resume_upload_end": "2026-10-05 23:59",
+      "resume_upload_end": "2026-10-06 09:59",
       "interview_selection": "",
       "contract": ""
     },
