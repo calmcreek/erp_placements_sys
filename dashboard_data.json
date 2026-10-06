@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "06 Oct 2026, 08:33:04 PM",
-  "next_check": "06 Oct 2026, 09:03:04 PM",
-  "notice_count": 933,
+  "last_check": "06 Oct 2026, 09:04:02 PM",
+  "next_check": "06 Oct 2026, 09:34:02 PM",
+  "notice_count": 934,
   "placement_count": 4,
   "notices": [
+    {
+      "id": "1004",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "SQUAREPOINT CAPITAL",
+      "notice": "The Pre-Placement Talk (for all the roles) of Squarepoint Capital is scheduled on 6th October, 2026 from 6:00 PM.Mode: OfflineVenue: NR 221, NalandaNote : Attendance for the offline PPT for all the roles is mandatory and will be recorded. The Test will be held post the PPT. Only the students attending the PPT will be eligible for the test. Students are advised to be present 15 minutes prior to the scheduled time.POC: Vatsal (9234457393), Devansh (7999892181).CDC, IIT Kharagpur.",
+      "notice_by": "23EE38007",
+      "notice_time": "06-10-2026 20:52"
+    },
     {
       "id": "1003",
       "type": "PLACEMENT",
