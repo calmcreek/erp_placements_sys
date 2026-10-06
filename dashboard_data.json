@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "06 Oct 2026, 07:33:55 PM",
-  "next_check": null,
-  "notice_count": 932,
+  "erp_status": "Connected",
+  "last_check": "06 Oct 2026, 08:33:04 PM",
+  "next_check": "06 Oct 2026, 09:03:04 PM",
+  "notice_count": 933,
   "placement_count": 4,
   "notices": [
+    {
+      "id": "1003",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "SQUAREPOINT CAPITAL",
+      "notice": "All the applicants of Squarepoint Capital for all the roles are requested to fill the form given below for additional details by 11:59 PM, 6th October 2026.Note: It is mandatory for all the applicants to fill the form within the given deadline, else you wont be considered for the further process.Form Link: https://forms.gle/WFEAJzzdJY1Yyn266The eligible students are advised to fill the form within the given deadline. No further extensions will be given.CDC, IIT Kharagpur.",
+      "notice_by": "23EE38007",
+      "notice_time": "06-10-2026 20:09"
+    },
     {
       "id": "1002",
       "type": "PLACEMENT",
@@ -8460,5 +8469,5 @@
       "contract": ""
     }
   ],
-  "last_error": "ERP authentication failed."
+  "last_error": null
 }
