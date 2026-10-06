@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "06 Oct 2026, 03:03:51 PM",
-  "next_check": null,
-  "notice_count": 929,
+  "erp_status": "Connected",
+  "last_check": "06 Oct 2026, 04:32:48 PM",
+  "next_check": "06 Oct 2026, 05:02:48 PM",
+  "notice_count": 930,
   "placement_count": 4,
   "notices": [
+    {
+      "id": "1000",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "TRILOGY",
+      "notice": "PFA the test shortlist for TRILOGY.The Assessment is scheduled on 6th October, 07:00 P.M. onwards.The Test slots have been shared on your registered Email ID.Venue: Respective LocationPOC: Khush (+91 9922168000), Ashutosh (+91 8840104367)CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "06-10-2026 16:21"
+    },
     {
       "id": "999",
       "type": "INTERNSHIP",
@@ -8433,5 +8442,5 @@
       "contract": ""
     }
   ],
-  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "last_error": null
 }
