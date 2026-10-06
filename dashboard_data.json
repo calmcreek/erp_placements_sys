@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "06 Oct 2026, 12:02:31 PM",
-  "next_check": "06 Oct 2026, 12:32:31 PM",
-  "notice_count": 925,
+  "last_check": "06 Oct 2026, 12:32:54 PM",
+  "next_check": "06 Oct 2026, 01:02:54 PM",
+  "notice_count": 926,
   "placement_count": 4,
   "notices": [
+    {
+      "id": "994",
+      "type": "INTERNSHIP",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "MOTILAL OSWAL FINANCIAL SERVICES LIMITED",
+      "notice": "The Pre-Placement Talk for Motilal Oswal, will be held on 6th October, 2026 from 6:00 PM in online mode.Meeting link: https://us05web.zoom.us/j/85845485621?pwd=9uiInIrwJEJara8Erpk2fIxDmjWqdh.1Meeting ID: 858 4548 5621Passcode: hHy2RJNote: All internship registered eligible students are supposed to attend the PPT without fail. Attendance will be recorded, and only those attending will be considered for the further processes. Students are advised to be present 15 minutes prior to the scheduled time.POC: Rudra (+91 8235755257)CDC, IIT Kharagpur",
+      "notice_by": "17009",
+      "notice_time": "06-10-2026 12:03"
+    },
     {
       "id": "993",
       "type": "PLACEMENT",
