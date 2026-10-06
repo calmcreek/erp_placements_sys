@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "06 Oct 2026, 12:32:54 PM",
-  "next_check": "06 Oct 2026, 01:02:54 PM",
-  "notice_count": 926,
+  "last_check": "06 Oct 2026, 01:03:41 PM",
+  "next_check": "06 Oct 2026, 01:33:41 PM",
+  "notice_count": 928,
   "placement_count": 4,
   "notices": [
+    {
+      "id": "997",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "CDC Placement Process 2026-27",
+      "notice": "All students eligible for placement are hereby informed that no placement assessments will be conducted from 17th October 2026 to 21st October 2026, in view of the Autumn Break/Durga Puja Break.Placement assessments may resume from 22nd October 2026. Further details regarding the assessment schedule will be communicated in due course.Students are advised to take note of the above and plan accordingly.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "06-10-2026 12:36"
+    },
+    {
+      "id": "996",
+      "type": "INTERNSHIP",
+      "subject": "CV Submission",
+      "company": "AXIS BANK",
+      "notice": "The CV submission of AXIS BANK has been extended till 05:59 PM, 6th October 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "06-10-2026 12:35"
+    },
     {
       "id": "994",
       "type": "INTERNSHIP",
