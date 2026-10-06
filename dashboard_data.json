@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "06 Oct 2026, 02:32:48 PM",
-  "next_check": "06 Oct 2026, 03:02:48 PM",
-  "notice_count": 928,
+  "last_check": "06 Oct 2026, 03:03:51 PM",
+  "next_check": "06 Oct 2026, 03:33:51 PM",
+  "notice_count": 929,
   "placement_count": 4,
   "notices": [
+    {
+      "id": "999",
+      "type": "INTERNSHIP",
+      "subject": "Urgent",
+      "company": "VISA",
+      "notice": "PFA the room allocation for the test of VISA. The test is scheduled on 6th October 2026 from 9:30 PM onwards.Students are required to carry their original Institute ID card/Medical Book, failing which students will not be permitted to sit for test. Students are advised to reach the venue 15 minutes prior to the time.Note: The test mails are shared with a 24 hour window but only those appearing for the test in allotted time and venue would be considered for the further process.POC: Bhavy(+91 7597121669), Hardik(+91 8177018092)CDC, IIT Kharagpur",
+      "notice_by": "23AG3AI03",
+      "notice_time": "06-10-2026 14:48"
+    },
     {
       "id": "998",
       "type": "INTERNSHIP",
