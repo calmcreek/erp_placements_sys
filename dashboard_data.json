@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "06 Oct 2026, 10:32:45 AM",
-  "next_check": null,
-  "notice_count": 924,
+  "erp_status": "Connected",
+  "last_check": "06 Oct 2026, 12:02:31 PM",
+  "next_check": "06 Oct 2026, 12:32:31 PM",
+  "notice_count": 925,
   "placement_count": 4,
   "notices": [
+    {
+      "id": "993",
+      "type": "PLACEMENT",
+      "subject": "PPO",
+      "company": "ADOBE",
+      "notice": "ADOBE - Product has extended the offer to the following student(s):UTSAVI JITENDRA GOHIL - 22CS30058RAHATE TANISHKA SHIVENDRA - 22CS30044ADHIRAJ SINGH BRAR - 23CH10087MAURYAVARDHAN SINGH - 23ME10048GANTA DEVI ABHIJNA 22CS30024The students are advised to give offer acceptance by 06.10.26.(For more details, check your email ID.)CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "06-10-2026 11:24"
+    },
     {
       "id": "992",
       "type": "PLACEMENT",
@@ -8388,5 +8397,5 @@
       "contract": ""
     }
   ],
-  "last_error": "HTTPSConnectionPool(host='erp.iitkgp.ac.in', port=443): Max retries exceeded with url: /IIT_ERP3/ (Caused by NameResolutionError(\"HTTPSConnection(host='erp.iitkgp.ac.in', port=443): Failed to resolve 'erp.iitkgp.ac.in' ([Errno -3] Temporary failure in name resolution)\"))"
+  "last_error": null
 }
