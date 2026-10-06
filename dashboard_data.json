@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "06 Oct 2026, 10:32:59 PM",
-  "next_check": null,
-  "notice_count": 934,
+  "erp_status": "Connected",
+  "last_check": "06 Oct 2026, 11:15:25 PM",
+  "next_check": "06 Oct 2026, 11:45:25 PM",
+  "notice_count": 935,
   "placement_count": 4,
   "notices": [
+    {
+      "id": "1006",
+      "type": "INTERNSHIP",
+      "subject": "Urgent",
+      "company": "AXIS BANK",
+      "notice": "PFA the shortlist for the Online Assessment of AXIS BANK.Time: 6th October 2026, 11:30 PM onwardsVenue: Respective LocationNote: The test link and further instructions for the assessment will be communicated to the shortlisted candidates on their registered email IDs.POC: Vatsal (+91 9234457393), Aditya Ghandge (+91 9325468252)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "06-10-2026 22:51"
+    },
     {
       "id": "1005",
       "type": "PLACEMENT",
@@ -8478,5 +8487,5 @@
       "contract": ""
     }
   ],
-  "last_error": "Could not find the new ERP OTP email."
+  "last_error": null
 }
