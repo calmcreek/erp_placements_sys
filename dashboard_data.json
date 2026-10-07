@@ -1,10 +1,28 @@
 {
-  "erp_status": "Error",
-  "last_check": "07 Oct 2026, 10:33:58 AM",
-  "next_check": null,
-  "notice_count": 938,
+  "erp_status": "Connected",
+  "last_check": "07 Oct 2026, 11:32:54 AM",
+  "next_check": "07 Oct 2026, 12:02:54 PM",
+  "notice_count": 940,
   "placement_count": 4,
   "notices": [
+    {
+      "id": "1011",
+      "type": "PLACEMENT",
+      "subject": "PPO",
+      "company": "BP",
+      "notice": "BP has extended the offer to the following student(s):SURYANSH PANDEY - 23EX10036The students are advised to give offer acceptance by 07.10.26.(For more details, check your email ID.)CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "07-10-2026 11:19"
+    },
+    {
+      "id": "1010",
+      "type": "INTERNSHIP",
+      "subject": "Date extension",
+      "company": "Maxim AI",
+      "notice": "The CV submission of Maxim AI for all the roles has been extended till 11:59 PM, 8th October 2026.Interested and eligible students are advised to apply within the given deadline.CDC, IIT Kharagpur",
+      "notice_by": "17009",
+      "notice_time": "07-10-2026 11:03"
+    },
     {
       "id": "1009",
       "type": "INTERNSHIP",
@@ -8514,5 +8532,5 @@
       "contract": ""
     }
   ],
-  "last_error": "ERP authentication failed."
+  "last_error": null
 }
