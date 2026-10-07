@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "07 Oct 2026, 08:03:44 PM",
-  "next_check": null,
-  "notice_count": 944,
+  "erp_status": "Connected",
+  "last_check": "07 Oct 2026, 09:02:38 PM",
+  "next_check": "07 Oct 2026, 09:32:38 PM",
+  "notice_count": 945,
   "placement_count": 4,
   "notices": [
+    {
+      "id": "1016",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "SQUAREPOINT CAPITAL",
+      "notice": "Please note the revised schedule for the Squarepoint Capital tests:Graduate Software Developer: 8:45 PM onwards  Desk Quant Analyst: 10:00 PM onwardsNote : All eligible students are requested to report at least 15 minutes prior to their respective test time and carry their Institute ID card.POC: Devansh (7999892181), Vatsal (9234457393)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "07-10-2026 20:15"
+    },
     {
       "id": "1015",
       "type": "INTERNSHIP",
@@ -8568,5 +8577,5 @@
       "contract": ""
     }
   ],
-  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "last_error": null
 }
