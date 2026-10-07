@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "07 Oct 2026, 12:03:41 PM",
-  "next_check": "07 Oct 2026, 12:33:41 PM",
-  "notice_count": 940,
+  "last_check": "07 Oct 2026, 12:33:57 PM",
+  "next_check": "07 Oct 2026, 01:03:57 PM",
+  "notice_count": 941,
   "placement_count": 4,
   "notices": [
+    {
+      "id": "1012",
+      "type": "INTERNSHIP",
+      "subject": "Date extension",
+      "company": "IBM",
+      "notice": "The CV submission of IBM for all the roles has been extended till 8:00 PM, 7th October 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17009",
+      "notice_time": "07-10-2026 12:24"
+    },
     {
       "id": "1011",
       "type": "PLACEMENT",
