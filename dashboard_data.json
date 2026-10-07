@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "07 Oct 2026, 09:33:52 AM",
-  "next_check": "07 Oct 2026, 10:03:52 AM",
-  "notice_count": 937,
+  "last_check": "07 Oct 2026, 10:03:57 AM",
+  "next_check": "07 Oct 2026, 10:33:57 AM",
+  "notice_count": 938,
   "placement_count": 4,
   "notices": [
+    {
+      "id": "1009",
+      "type": "INTERNSHIP",
+      "subject": "Date extension",
+      "company": "PWC AC",
+      "notice": "The CV submission of PWC AC for all the roles has been extended till 6:00 PM, 7th October 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17009",
+      "notice_time": "07-10-2026 09:54"
+    },
     {
       "id": "1008",
       "type": "PLACEMENT",
