@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "07 Oct 2026, 05:32:50 PM",
-  "next_check": "07 Oct 2026, 06:02:50 PM",
-  "notice_count": 942,
+  "last_check": "07 Oct 2026, 06:03:44 PM",
+  "next_check": "07 Oct 2026, 06:33:44 PM",
+  "notice_count": 943,
   "placement_count": 4,
   "notices": [
+    {
+      "id": "1014",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "SQUAREPOINT CAPITAL",
+      "notice": "Please find attached the document for the room allocation of Squarepoint Capital for all the three roles.Please find below the updated Test Schedule:Infrastructure Engineering : 7:00 PM to 8:00 PMGraduate Software Developer : 8:20 PM to 9:20 PMDesk Quant Analyst : 9:40 PM to 10:50 PMNote: Students are required to be present at their allocated rooms for the test(s) corresponding to the role(s) they have applied for at the timings mentioned above released for each role.Students are required to carry their Institute ID card and must report at least 15 minutes prior to the test.POC: Devansh (7999892181), Vatsal (9234457393)CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "07-10-2026 17:43"
+    },
     {
       "id": "1013",
       "type": "PLACEMENT",
