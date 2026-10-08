@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "08 Oct 2026, 10:05:14 PM",
-  "next_check": null,
-  "notice_count": 950,
+  "erp_status": "Connected",
+  "last_check": "08 Oct 2026, 11:03:59 PM",
+  "next_check": "08 Oct 2026, 11:33:59 PM",
+  "notice_count": 951,
   "placement_count": 9,
   "notices": [
+    {
+      "id": "1022",
+      "type": "INTERNSHIP",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "TECH JAPAN INC.",
+      "notice": "Tech Japan Inc. will be conducting an Orientation and Interactive Session for interested and eligible students of the 2028 graduating batch.The session is scheduled as follows:Date: 9th October 2026Time: 3:00 PM onwardsVenue: S N Bose AuditoriumThe session will cover:- Introduction to Tech Japan Inc. and the Talendy platform- Upcoming Summer Internship opportunities- Platform demonstration- Interaction and Q&A with the visiting representativeAll interested and eligible students are encouraged to attend the session. Students who have already registered their interest through the earlier form are also requested to attend.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "08-10-2026 22:44"
+    },
     {
       "id": "1021",
       "type": "PLACEMENT",
@@ -8702,5 +8711,5 @@
       "contract": ""
     }
   ],
-  "last_error": "ERP authentication failed."
+  "last_error": null
 }
