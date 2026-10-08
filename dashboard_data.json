@@ -1,7 +1,7 @@
 {
-  "erp_status": "Connected",
+  "erp_status": "Error",
   "last_check": "08 Oct 2026, 04:35:33 PM",
-  "next_check": "08 Oct 2026, 05:05:33 PM",
+  "next_check": null,
   "notice_count": 948,
   "placement_count": 5,
   "notices": [
@@ -8620,5 +8620,5 @@
       "contract": ""
     }
   ],
-  "last_error": null
+  "last_error": "Could not find the new ERP OTP email."
 }
