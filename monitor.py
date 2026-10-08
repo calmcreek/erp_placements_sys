@@ -105,6 +105,9 @@ ERP_HOME_URL = (
     "https://erp.iitkgp.ac.in/IIT_ERP3/home.htm"
 )
 
+LOGOUT_URL = (
+    "https://erp.iitkgp.ac.in/SSOAdministration/logout.htm"
+)
 
 # ============================================================
 # CDC NOTICE BOARD
@@ -1050,7 +1053,63 @@ def is_previous_session_page(
         in text
     )
 
+# ============================================================
+# ERP LOGOUT
+# ============================================================
 
+def logout_erp():
+
+    print()
+    print(
+        "Logging out from IIT KGP ERP..."
+    )
+
+    try:
+
+        response = session.get(
+            LOGOUT_URL,
+
+            headers={
+                "Origin":
+                    BASE_URL,
+
+                "Referer":
+                    ERP_HOME_URL,
+            },
+
+            timeout=30,
+
+            allow_redirects=True
+        )
+
+        print(
+            "ERP logout status:",
+            response.status_code
+        )
+
+        if response.status_code != 200:
+
+            print(
+                "ERP logout returned non-200 status."
+            )
+
+        else:
+
+            print(
+                "ERP logout successful."
+            )
+
+    except Exception as error:
+
+        print(
+            "ERP logout failed:",
+            str(error)
+        )
+
+    finally:
+
+        session.cookies.clear()
+        
 # ============================================================
 # CLEAR PREVIOUS ERP SESSIONS
 # ============================================================
