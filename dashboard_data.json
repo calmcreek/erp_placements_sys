@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "08 Oct 2026, 04:35:33 PM",
-  "next_check": null,
-  "notice_count": 948,
+  "erp_status": "Connected",
+  "last_check": "08 Oct 2026, 05:33:42 PM",
+  "next_check": "08 Oct 2026, 06:03:42 PM",
+  "notice_count": 949,
   "placement_count": 5,
   "notices": [
+    {
+      "id": "1020",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "Accenture Japan",
+      "notice": "Please note that the Pre-Placement Talk for Accenture Japan will be held on 9th October, 2026 from 6:00 PM.All students must register for the PPT using the same link provided below.Link: https://us02web.zoom.us/meeting/register/RL5J2IhUQpWqES8T68f2fAAll interested students are required to attend the PPT without fail. Attendance is compulsory. Students should join 15 minutes prior to the meeting time.POC: Bhavy (+91 75971 21669)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "08-10-2026 17:23"
+    },
     {
       "id": "1019",
       "type": "PLACEMENT",
@@ -8620,5 +8629,5 @@
       "contract": ""
     }
   ],
-  "last_error": "Could not find the new ERP OTP email."
+  "last_error": null
 }
