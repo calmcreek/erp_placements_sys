@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "08 Oct 2026, 04:04:21 PM",
-  "next_check": "08 Oct 2026, 04:34:21 PM",
-  "notice_count": 947,
-  "placement_count": 4,
+  "last_check": "08 Oct 2026, 04:35:33 PM",
+  "next_check": "08 Oct 2026, 05:05:33 PM",
+  "notice_count": 948,
+  "placement_count": 5,
   "notices": [
+    {
+      "id": "1019",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Edelweiss Global Markets",
+      "notice": "The CV submission of Edelweiss Global Markets for the role of C++ Developer has been opened till 4:00 PM, 9th October 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "08-10-2026 16:24"
+    },
     {
       "id": "1018",
       "type": "INTERNSHIP",
@@ -8532,6 +8541,22 @@
   "placements": [
     {
       "id": "0",
+      "company": "Edelweiss Global Markets",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "C++ Developer",
+      "description": "Apply",
+      "ctc": "11000000",
+      "currency": "INR",
+      "additional_details_2": "Download",
+      "application_status": "",
+      "resume_upload_start": "2026-10-08 16:00",
+      "resume_upload_end": "2026-10-09 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "1",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -8547,7 +8572,7 @@
       "contract": ""
     },
     {
-      "id": "1",
+      "id": "2",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -8563,7 +8588,7 @@
       "contract": ""
     },
     {
-      "id": "2",
+      "id": "3",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -8579,7 +8604,7 @@
       "contract": ""
     },
     {
-      "id": "3",
+      "id": "4",
       "company": "Trexquant (India) Business Consulting LLP",
       "additional_details": "",
       "ppt": "",
