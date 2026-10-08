@@ -1,7 +1,7 @@
 {
-  "erp_status": "Error",
-  "last_check": "08 Oct 2026, 11:35:04 AM",
-  "next_check": null,
+  "erp_status": "Connected",
+  "last_check": "08 Oct 2026, 12:32:47 PM",
+  "next_check": "08 Oct 2026, 01:02:47 PM",
   "notice_count": 946,
   "placement_count": 4,
   "notices": [
@@ -8586,5 +8586,5 @@
       "contract": ""
     }
   ],
-  "last_error": "ERP authentication failed."
+  "last_error": null
 }
