@@ -12,28 +12,47 @@ from monitor import (
     validate_environment,
 )
 
-
 def main():
+
     print("=" * 60)
     print("IIT KGP ERP MONITOR - SINGLE RUN")
     print("=" * 60)
 
+    authenticated = False
+
     try:
+
         validate_environment()
+
         authenticate_erp()
+
+        authenticated = True
+
         run_monitor_cycle()
 
     except Exception as error:
+
         print()
-        print("Monitor run failed:", str(error))
+        print(
+            "Monitor run failed:",
+            str(error)
+        )
 
         update_dashboard(
             erp_status="Error",
             last_error=str(error),
-            next_check=None,
+            next_check=None
         )
+
         save_dashboard_data()
+
         raise
+
+    finally:
+
+        if authenticated:
+
+            logout_erp()
 
 
 if __name__ == "__main__":
