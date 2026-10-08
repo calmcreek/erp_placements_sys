@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "08 Oct 2026, 11:03:59 PM",
-  "next_check": null,
-  "notice_count": 951,
-  "placement_count": 9,
+  "erp_status": "Connected",
+  "last_check": "09 Oct 2026, 12:34:09 AM",
+  "next_check": "09 Oct 2026, 01:04:09 AM",
+  "notice_count": 952,
+  "placement_count": 10,
   "notices": [
+    {
+      "id": "1023",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Accenture Japan",
+      "notice": "The CV submission of Accenture Japan for the Digital Consultant role has been opened till 4 PM, 9th October, 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "08-10-2026 23:20"
+    },
     {
       "id": "1022",
       "type": "INTERNSHIP",
@@ -8568,6 +8577,22 @@
   "placements": [
     {
       "id": "0",
+      "company": "Accenture Japan",
+      "additional_details": "Download",
+      "ppt": "",
+      "designation": "Digital Consultant",
+      "description": "Apply",
+      "ctc": "8214021",
+      "currency": "JPY",
+      "additional_details_2": "Download",
+      "application_status": "",
+      "resume_upload_start": "2026-10-08 23:06",
+      "resume_upload_end": "2026-10-09 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "1",
       "company": "Edelweiss Global Markets",
       "additional_details": "",
       "ppt": "",
@@ -8583,7 +8608,7 @@
       "contract": ""
     },
     {
-      "id": "1",
+      "id": "2",
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
@@ -8599,7 +8624,7 @@
       "contract": ""
     },
     {
-      "id": "2",
+      "id": "3",
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
@@ -8615,7 +8640,7 @@
       "contract": ""
     },
     {
-      "id": "3",
+      "id": "4",
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
@@ -8631,7 +8656,7 @@
       "contract": ""
     },
     {
-      "id": "4",
+      "id": "5",
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
@@ -8647,7 +8672,7 @@
       "contract": ""
     },
     {
-      "id": "5",
+      "id": "6",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -8663,7 +8688,7 @@
       "contract": ""
     },
     {
-      "id": "6",
+      "id": "7",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -8679,7 +8704,7 @@
       "contract": ""
     },
     {
-      "id": "7",
+      "id": "8",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -8695,7 +8720,7 @@
       "contract": ""
     },
     {
-      "id": "8",
+      "id": "9",
       "company": "Trexquant (India) Business Consulting LLP",
       "additional_details": "",
       "ppt": "",
@@ -8711,5 +8736,5 @@
       "contract": ""
     }
   ],
-  "last_error": "ERP authentication failed."
+  "last_error": null
 }
