@@ -106,7 +106,7 @@ ERP_HOME_URL = (
 )
 
 LOGOUT_URL = (
-    "https://erp.iitkgp.ac.in/SSOAdministration/logout.htm"
+    "https://erp.iitkgp.ac.in/IIT_ERP3/logout.htm"
 )
 
 # ============================================================
@@ -1057,59 +1057,41 @@ def is_previous_session_page(
 # ERP LOGOUT
 # ============================================================
 
-def logout_erp():
 
+def logout_erp():
     print()
-    print(
-        "Logging out from IIT KGP ERP..."
-    )
+    print("Logging out of IIT KGP ERP...")
 
     try:
-
         response = session.get(
             LOGOUT_URL,
-
             headers={
-                "Origin":
-                    BASE_URL,
-
-                "Referer":
-                    ERP_HOME_URL,
+                "Referer": (
+                    "https://erp.iitkgp.ac.in/"
+                    "IIT_ERP3/showmenu.htm"
+                ),
             },
-
             timeout=30,
-
-            allow_redirects=True
+            allow_redirects=True,
         )
 
-        print(
-            "ERP logout status:",
-            response.status_code
-        )
+        print("ERP logout final status:", response.status_code)
+        print("ERP logout final URL:", response.url)
 
-        if response.status_code != 200:
-
-            print(
-                "ERP logout returned non-200 status."
-            )
-
+        if "login.htm" in response.url.lower():
+            print("ERP logout successful.")
         else:
-
             print(
-                "ERP logout successful."
+                "Warning: logout redirect did not reach "
+                "the ERP login page."
             )
+
+        # Remove the local session cookies after logout.
+        session.cookies.clear()
 
     except Exception as error:
+        print("Warning: ERP logout failed:", str(error))
 
-        print(
-            "ERP logout failed:",
-            str(error)
-        )
-
-    finally:
-
-        session.cookies.clear()
-        
 # ============================================================
 # CLEAR PREVIOUS ERP SESSIONS
 # ============================================================
