@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "09 Oct 2026, 11:21:32 PM",
-  "next_check": "09 Oct 2026, 11:51:32 PM",
-  "notice_count": 967,
+  "last_check": "09 Oct 2026, 11:33:51 PM",
+  "next_check": "10 Oct 2026, 12:03:51 AM",
+  "notice_count": 969,
   "placement_count": 12,
   "notices": [
+    {
+      "id": "1040",
+      "type": "INTERNSHIP",
+      "subject": "CV Submission",
+      "company": "Mastercard",
+      "notice": "The CV submission of Mastercard for the Product Management role has been opened till 11:59 PM, 10th October 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "09-10-2026 23:26"
+    },
+    {
+      "id": "1039",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "IPIM",
+      "notice": "The CDC in collaboration with IPIM is organizing an Interactive Workshop tomorrow, for all final year students.Time: 10th October 2026, 2 PM onwardsVenue: NR321, Nalanda Classroom ComplexPlease make a note to come in formal attire and bring a printed copy of your CV.Make full use of this opportunity to gain valuable insights from industry experts and boost your placement readiness.Best wishes for your placement preparation.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "09-10-2026 23:25"
+    },
     {
       "id": "1038",
       "type": "INTERNSHIP",
