@@ -1,7 +1,7 @@
 {
-  "erp_status": "Connected",
+  "erp_status": "Error",
   "last_check": "09 Oct 2026, 11:33:49 AM",
-  "next_check": "09 Oct 2026, 12:03:49 PM",
+  "next_check": null,
   "notice_count": 953,
   "placement_count": 10,
   "notices": [
@@ -8745,5 +8745,5 @@
       "contract": ""
     }
   ],
-  "last_error": null
+  "last_error": "HTTPSConnectionPool(host='erp.iitkgp.ac.in', port=443): Max retries exceeded with url: /IIT_ERP3/ (Caused by NameResolutionError(\"HTTPSConnection(host='erp.iitkgp.ac.in', port=443): Failed to resolve 'erp.iitkgp.ac.in' ([Errno -3] Temporary failure in name resolution)\"))"
 }
