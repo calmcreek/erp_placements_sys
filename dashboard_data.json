@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "09 Oct 2026, 05:02:50 PM",
-  "next_check": "09 Oct 2026, 05:32:50 PM",
-  "notice_count": 962,
+  "last_check": "09 Oct 2026, 05:33:38 PM",
+  "next_check": "09 Oct 2026, 06:03:38 PM",
+  "notice_count": 963,
   "placement_count": 12,
   "notices": [
+    {
+      "id": "1034",
+      "type": "INTERNSHIP",
+      "subject": "Schedule",
+      "company": "TOAST TAB",
+      "notice": "The test for Toast Tab is scheduled for 9th October 2026 in offline mode. The schedule is as follows:Time: 7:30 PM onwardsVenue: Nalanda Classroom ComplexNote:1. Attendance at the Pre-Placement Talk (PPT) is mandatory. Students who fail to attend the PPT will not be considered for further stages of the recruitment process.2. The test shortlist and room allocation details will be communicated in due course.3. Students are required to carry their original Institute ID card/Medical Book. Students failing to produce valid identification will not be permitted to appear for the test.4. Students are advised to reach the venue at least 15 minutes before the scheduled time.5. Students must carry their laptops, pens, and papers.POC: Nikita (+91 9969207598), Khush (+91 9922168000)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "09-10-2026 17:24"
+    },
     {
       "id": "1033",
       "type": "PLACEMENT",
