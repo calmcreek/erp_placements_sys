@@ -1,10 +1,37 @@
 {
-  "erp_status": "Error",
-  "last_check": "09 Oct 2026, 05:33:38 PM",
-  "next_check": null,
-  "notice_count": 963,
+  "erp_status": "Connected",
+  "last_check": "09 Oct 2026, 08:02:26 PM",
+  "next_check": "09 Oct 2026, 08:32:26 PM",
+  "notice_count": 966,
   "placement_count": 12,
   "notices": [
+    {
+      "id": "1037",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "Warner Music Group",
+      "notice": "The Pre-Placement Talk for Warner Music Group, will be held on 10th October, 2026 from 1:00 PM.Link: meet.google.com/vmq-snuz-zheNote: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Arpita (+91 9075 564147)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "09-10-2026 19:23"
+    },
+    {
+      "id": "1036",
+      "type": "INTERNSHIP",
+      "subject": "CV Submission",
+      "company": "Rekise Marine",
+      "notice": "The CV submission of Rekise Marine for all the roles have been opened till 11:59 PM, 10th October, 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "09-10-2026 18:41"
+    },
+    {
+      "id": "1035",
+      "type": "INTERNSHIP",
+      "subject": "Urgent",
+      "company": "TOAST TAB",
+      "notice": "PFA the room allocation for the test of Toast Tab, which is scheduled on 9th October 2026 from 7:30 PM onwards.The test link will be shared on the CDC-registered email IDs of the shortlisted candidates shortly.Venue: Nalanda Classroom ComplexNote: Attendance at the Pre-Placement Talk (PPT) is mandatory. Only students who attended the PPT will be considered for further stages of the recruitment process.POC: Nikita (+91 9969207598), Khush (+91 9922168000)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "09-10-2026 18:38"
+    },
     {
       "id": "1034",
       "type": "INTERNSHIP",
@@ -8700,7 +8727,7 @@
       "ctc": "3559500",
       "currency": "INR",
       "additional_details_2": "",
-      "application_status": "",
+      "application_status": "Y",
       "resume_upload_start": "2026-10-09 17:00",
       "resume_upload_end": "2026-10-10 16:00",
       "interview_selection": "",
@@ -8867,5 +8894,5 @@
       "contract": ""
     }
   ],
-  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "last_error": null
 }
