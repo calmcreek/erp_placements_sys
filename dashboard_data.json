@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "09 Oct 2026, 12:33:20 PM",
-  "next_check": "09 Oct 2026, 01:03:20 PM",
-  "notice_count": 954,
+  "last_check": "09 Oct 2026, 01:03:26 PM",
+  "next_check": "09 Oct 2026, 01:33:26 PM",
+  "notice_count": 955,
   "placement_count": 10,
   "notices": [
+    {
+      "id": "1026",
+      "type": "INTERNSHIP",
+      "subject": "Urgent",
+      "company": "HSBC",
+      "notice": "PFB the shortlist for the Interview round of HSBC.23ME3FP1823NA3FP3223MI3FP4223MA2500323ME3FP3523MA2300323BT3FP39Further details would be communicated to the shortlisted candidates shortly.CDC, IIT Kharagpur",
+      "notice_by": "23AG3AI03",
+      "notice_time": "09-10-2026 12:51"
+    },
     {
       "id": "1025",
       "type": "INTERNSHIP",
