@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "09 Oct 2026, 03:32:32 PM",
-  "next_check": "09 Oct 2026, 04:02:32 PM",
-  "notice_count": 955,
+  "last_check": "09 Oct 2026, 04:03:35 PM",
+  "next_check": "09 Oct 2026, 04:33:35 PM",
+  "notice_count": 957,
   "placement_count": 10,
   "notices": [
+    {
+      "id": "1028",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "QI-CAP",
+      "notice": "The CV submission of Qi-Cap for all the roles have been extended till 4 PM, 10th October, 2026.Its mandatory for all the candidates who are applying for this role, to fill the following google form attached below: Google Form: https://forms.gle/mB3rAx6a8eWUpafg6NOTE: Students are required to fill the Google Form using their ERP-registered email ID.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CG Criteria 8.0CDC, IIT Kharagpur",
+      "notice_by": "17164",
+      "notice_time": "09-10-2026 15:49"
+    },
+    {
+      "id": "1027",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "EDELWEISS",
+      "notice": "The CV submission of Edelweiss for the role of C++ Developer has been extended till 11:59 PM, 9th October, 2026.NOTE: Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CG Criteria : 8.0CDC, IIT Kharagpur",
+      "notice_by": "17164",
+      "notice_time": "09-10-2026 15:48"
+    },
     {
       "id": "1026",
       "type": "INTERNSHIP",
@@ -8630,7 +8648,7 @@
       "additional_details_2": "Download",
       "application_status": "",
       "resume_upload_start": "2026-10-08 16:00",
-      "resume_upload_end": "2026-10-09 16:00",
+      "resume_upload_end": "2026-10-09 23:59",
       "interview_selection": "",
       "contract": ""
     },
@@ -8646,7 +8664,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-08 17:55",
-      "resume_upload_end": "2026-10-09 16:00",
+      "resume_upload_end": "2026-10-10 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -8662,7 +8680,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-08 17:54",
-      "resume_upload_end": "2026-10-09 16:00",
+      "resume_upload_end": "2026-10-10 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -8678,7 +8696,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-08 17:55",
-      "resume_upload_end": "2026-10-09 16:00",
+      "resume_upload_end": "2026-10-10 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -8694,7 +8712,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-08 17:56",
-      "resume_upload_end": "2026-10-09 16:00",
+      "resume_upload_end": "2026-10-10 16:00",
       "interview_selection": "",
       "contract": ""
     },
