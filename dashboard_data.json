@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "09 Oct 2026, 10:32:29 AM",
-  "next_check": "09 Oct 2026, 11:02:29 AM",
-  "notice_count": 952,
+  "last_check": "09 Oct 2026, 11:03:26 AM",
+  "next_check": "09 Oct 2026, 11:33:26 AM",
+  "notice_count": 953,
   "placement_count": 10,
   "notices": [
+    {
+      "id": "1024",
+      "type": "PLACEMENT",
+      "subject": "PPO",
+      "company": "Google",
+      "notice": "Google India has extended the offer to the following student(s):NIMIT KHANDELWAL - 22EC39022SHAHZEB ARSHAD - 22EC39028The students are advised to give offer acceptance by 9.10.26.(For more details, check your email ID.)CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "09-10-2026 10:47"
+    },
     {
       "id": "1023",
       "type": "PLACEMENT",
