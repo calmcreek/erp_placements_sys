@@ -6,6 +6,7 @@ start a Flask server or a background loop.
 
 from monitor import (
     authenticate_erp,
+    logout_erp,
     run_monitor_cycle,
     save_dashboard_data,
     update_dashboard,
