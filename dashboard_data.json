@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "09 Oct 2026, 11:33:49 AM",
-  "next_check": null,
-  "notice_count": 953,
+  "erp_status": "Connected",
+  "last_check": "09 Oct 2026, 12:33:20 PM",
+  "next_check": "09 Oct 2026, 01:03:20 PM",
+  "notice_count": 954,
   "placement_count": 10,
   "notices": [
+    {
+      "id": "1025",
+      "type": "INTERNSHIP",
+      "subject": "Date extension",
+      "company": "Maxim AI",
+      "notice": "The CV submission of Maxim AI for all the roles has been extended till 3:59 PM, 9th October 2026.Interested and eligible students are advised to apply within the given deadline.CDC, IIT Kharagpur",
+      "notice_by": "17009",
+      "notice_time": "09-10-2026 12:32"
+    },
     {
       "id": "1024",
       "type": "PLACEMENT",
@@ -8745,5 +8754,5 @@
       "contract": ""
     }
   ],
-  "last_error": "HTTPSConnectionPool(host='erp.iitkgp.ac.in', port=443): Max retries exceeded with url: /IIT_ERP3/ (Caused by NameResolutionError(\"HTTPSConnection(host='erp.iitkgp.ac.in', port=443): Failed to resolve 'erp.iitkgp.ac.in' ([Errno -3] Temporary failure in name resolution)\"))"
+  "last_error": null
 }
