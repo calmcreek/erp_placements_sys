@@ -1,7 +1,7 @@
 {
   "erp_status": "Connected",
-  "last_check": "09 Oct 2026, 01:03:26 PM",
-  "next_check": "09 Oct 2026, 01:33:26 PM",
+  "last_check": "09 Oct 2026, 03:02:17 PM",
+  "next_check": "09 Oct 2026, 03:32:17 PM",
   "notice_count": 955,
   "placement_count": 10,
   "notices": [
@@ -8612,7 +8612,7 @@
       "ctc": "8214021",
       "currency": "JPY",
       "additional_details_2": "Download",
-      "application_status": "",
+      "application_status": "Y",
       "resume_upload_start": "2026-10-08 23:06",
       "resume_upload_end": "2026-10-09 16:00",
       "interview_selection": "",
