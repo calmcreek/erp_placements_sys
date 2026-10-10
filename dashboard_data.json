@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "10 Oct 2026, 06:32:28 PM",
-  "next_check": "10 Oct 2026, 07:02:28 PM",
-  "notice_count": 975,
+  "last_check": "10 Oct 2026, 07:02:17 PM",
+  "next_check": "10 Oct 2026, 07:32:17 PM",
+  "notice_count": 976,
   "placement_count": 12,
   "notices": [
+    {
+      "id": "1047",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "IIT Kharagpur: Preference/Experience Form",
+      "notice": "The deadline to fill the Preference/Experience Form is extended till 15th October 2026, 11:59 PM. All the students are advised to fill out the form as detailed and as truthfully as possible. The details filled in this form shall be verified and shall be used by companies for selection processes.Preference/Experience Form: https://forms.gle/qSWPA9Wj3pqAHj2m8It is mandatory for all the students to fill the form within the given deadline.No further extensions will be given.CDC, IIT Kharagpur.",
+      "notice_by": "23AG36009",
+      "notice_time": "10-10-2026 18:38"
+    },
     {
       "id": "1046",
       "type": "PLACEMENT",
