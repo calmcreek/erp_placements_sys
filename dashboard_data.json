@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "10 Oct 2026, 11:02:23 AM",
-  "next_check": "10 Oct 2026, 11:32:23 AM",
-  "notice_count": 969,
+  "last_check": "10 Oct 2026, 11:32:43 AM",
+  "next_check": "10 Oct 2026, 12:02:43 PM",
+  "notice_count": 970,
   "placement_count": 12,
   "notices": [
+    {
+      "id": "1041",
+      "type": "INTERNSHIP",
+      "subject": "Urgent",
+      "company": "WILLINGS INC",
+      "notice": "PFA the test shortlist for Willings Inc.The Assessment is scheduled on 10th October, 8:00 PM onwards.Venue: NR121, Nalanda Classroom ComplexStudents are required to carry their Institute ID card/Medical Book and are advised to reach the venue 15 minutes prior to the time.Note: The test instructions will be shared in due time.POC: Aditya Ghosh (+91 6295916930), Dishil (+91 9925492574)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "10-10-2026 11:26"
+    },
     {
       "id": "1040",
       "type": "INTERNSHIP",
