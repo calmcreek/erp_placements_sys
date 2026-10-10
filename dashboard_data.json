@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "10 Oct 2026, 04:02:15 PM",
-  "next_check": "10 Oct 2026, 04:32:15 PM",
-  "notice_count": 971,
+  "last_check": "10 Oct 2026, 04:32:28 PM",
+  "next_check": "10 Oct 2026, 05:02:28 PM",
+  "notice_count": 973,
   "placement_count": 12,
   "notices": [
+    {
+      "id": "1044",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "DB",
+      "notice": "The CV submission of Deutsche Bank for the Analyst role have been extended till 11:59 PM, 10th October, 2026.It is mandatory for all the candidates who are applying for this role, to apply on the company portal, as well as fill the google form below: Application Portal: https://db.recsolu.com/external/requisitions/Y3A7fA4byU6YnghfeGXi9AGoogle Form: https://forms.gle/1LuNjk3Ks7HLRuxZANOTE: Students are required to apply on the company portal, and the google form using their CDC-registered email ID.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "10-10-2026 16:30"
+    },
+    {
+      "id": "1043",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "QI-CAP",
+      "notice": "The CV submission of Qi-Cap for all the roles have been extended till 11:59 PM, 10th October, 2026.Its mandatory for all the candidates who are applying for this role, to fill the following google form attached below: Google Form: https://forms.gle/mB3rAx6a8eWUpafg6NOTE: Students are required to fill the Google Form using their ERP-registered email ID.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "10-10-2026 16:29"
+    },
     {
       "id": "1042",
       "type": "INTERNSHIP",
@@ -8758,7 +8776,7 @@
       "additional_details_2": "Download",
       "application_status": "Y",
       "resume_upload_start": "2026-10-08 23:06",
-      "resume_upload_end": "2026-10-10 16:00",
+      "resume_upload_end": "2026-10-11 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -8774,7 +8792,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-10-09 17:00",
-      "resume_upload_end": "2026-10-10 16:00",
+      "resume_upload_end": "2026-10-11 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -8806,7 +8824,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-08 17:56",
-      "resume_upload_end": "2026-10-10 16:00",
+      "resume_upload_end": "2026-10-12 00:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -8822,7 +8840,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-08 17:54",
-      "resume_upload_end": "2026-10-10 16:00",
+      "resume_upload_end": "2026-10-12 00:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -8838,7 +8856,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-08 17:55",
-      "resume_upload_end": "2026-10-10 16:00",
+      "resume_upload_end": "2026-10-12 00:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -8854,7 +8872,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-08 17:55",
-      "resume_upload_end": "2026-10-10 16:00",
+      "resume_upload_end": "2026-10-12 00:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -8934,7 +8952,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-09 16:37",
-      "resume_upload_end": "2026-10-10 16:00",
+      "resume_upload_end": "2026-10-11 16:00",
       "interview_selection": "",
       "contract": ""
     }
