@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "11 Oct 2026, 10:19:36 PM",
-  "next_check": "11 Oct 2026, 10:49:36 PM",
-  "notice_count": 987,
+  "last_check": "11 Oct 2026, 10:32:33 PM",
+  "next_check": "11 Oct 2026, 11:02:33 PM",
+  "notice_count": 989,
   "placement_count": 13,
   "notices": [
+    {
+      "id": "1061",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "EDELWEISS",
+      "notice": "The Test for Edelweiss for the C++ Developer role will be held on 12th October 2026 from 7:30 PM to 9:30 PM.The room allocation for the test will be released shortly.Note: Attendance for the offline PPT for all the roles is mandatory and will be recorded. The Test will be held post the PPT. Only the students attending the PPT will be eligible for the test. Students are advised to be present 15 minutes prior to the scheduled time.POC:  Aditi(+91 8815395895), Dishil(+91 9925492574)CDC, IIT Kharagpur.",
+      "notice_by": "23EE38007",
+      "notice_time": "11-10-2026 22:18"
+    },
+    {
+      "id": "1060",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "EDELWEISS",
+      "notice": "The Pre-Placement Talk for Edelweiss for the C++ Developer role will be held on 12th October 2026 from 6:30 PM.Venue: NR 221, NalandaNote: Attendance for the offline PPT for all the roles is mandatory and will be recorded. The Test will be held post the PPT. Only the students attending the PPT will be eligible for the test. Students are advised to be present 15 minutes prior to the scheduled time.POC:  Aditi (+91 8815395895), Dishil(+91 9925492574)CDC, IIT Kharagpur.",
+      "notice_by": "23EE38007",
+      "notice_time": "11-10-2026 22:17"
+    },
     {
       "id": "1059",
       "type": "INTERNSHIP",
