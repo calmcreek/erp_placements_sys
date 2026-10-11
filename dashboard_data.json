@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "11 Oct 2026, 08:32:31 PM",
-  "next_check": "11 Oct 2026, 09:02:31 PM",
-  "notice_count": 984,
+  "last_check": "11 Oct 2026, 09:02:40 PM",
+  "next_check": "11 Oct 2026, 09:32:40 PM",
+  "notice_count": 985,
   "placement_count": 13,
   "notices": [
+    {
+      "id": "1057",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "PwC AC",
+      "notice": "PFA the shortlist for the Interview round of PwC AC for both the roles.Further details would be communicated to the shortlisted candidates shortly.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "11-10-2026 20:58"
+    },
     {
       "id": "1055",
       "type": "PLACEMENT",
