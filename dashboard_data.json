@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "11 Oct 2026, 04:32:29 PM",
-  "next_check": "11 Oct 2026, 05:02:29 PM",
-  "notice_count": 982,
-  "placement_count": 12,
+  "last_check": "11 Oct 2026, 05:02:15 PM",
+  "next_check": "11 Oct 2026, 05:32:15 PM",
+  "notice_count": 983,
+  "placement_count": 13,
   "notices": [
+    {
+      "id": "1054",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "HARNESS",
+      "notice": "The CV submission of Harness for the Software Engineer I role have been opened till 4:00 PM, 12th October, 2026.Note: Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "11-10-2026 16:59"
+    },
     {
       "id": "1053",
       "type": "INTERNSHIP",
@@ -8895,54 +8904,22 @@
     },
     {
       "id": "3",
-      "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
+      "company": "Harness",
       "additional_details": "",
       "ppt": "",
-      "designation": "C++ Developer",
+      "designation": "Software Engineer I",
       "description": "Apply",
-      "ctc": "10100000",
+      "ctc": "7728117",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-10-08 17:56",
-      "resume_upload_end": "2026-10-12 00:00",
+      "resume_upload_start": "2026-10-11 16:56",
+      "resume_upload_end": "2026-10-12 16:00",
       "interview_selection": "",
       "contract": ""
     },
     {
       "id": "4",
-      "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Hardware Engineer",
-      "description": "Apply",
-      "ctc": "10100000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-10-08 17:54",
-      "resume_upload_end": "2026-10-12 00:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "5",
-      "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Machine Learning & Quantitative Researcher",
-      "description": "Apply",
-      "ctc": "10100000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-10-08 17:55",
-      "resume_upload_end": "2026-10-12 00:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "6",
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
@@ -8958,7 +8935,55 @@
       "contract": ""
     },
     {
+      "id": "5",
+      "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "C++ Developer",
+      "description": "Apply",
+      "ctc": "10100000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-08 17:56",
+      "resume_upload_end": "2026-10-12 00:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "6",
+      "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Hardware Engineer",
+      "description": "Apply",
+      "ctc": "10100000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-08 17:54",
+      "resume_upload_end": "2026-10-12 00:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
       "id": "7",
+      "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Machine Learning & Quantitative Researcher",
+      "description": "Apply",
+      "ctc": "10100000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-08 17:55",
+      "resume_upload_end": "2026-10-12 00:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "8",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -8974,7 +8999,7 @@
       "contract": ""
     },
     {
-      "id": "8",
+      "id": "9",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -8990,7 +9015,7 @@
       "contract": ""
     },
     {
-      "id": "9",
+      "id": "10",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -9006,7 +9031,7 @@
       "contract": ""
     },
     {
-      "id": "10",
+      "id": "11",
       "company": "Trexquant (India) Business Consulting LLP",
       "additional_details": "",
       "ppt": "",
@@ -9022,7 +9047,7 @@
       "contract": ""
     },
     {
-      "id": "11",
+      "id": "12",
       "company": "Warner Music Group",
       "additional_details": "",
       "ppt": "",
