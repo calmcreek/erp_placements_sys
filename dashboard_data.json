@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "11 Oct 2026, 07:32:27 PM",
-  "next_check": null,
-  "notice_count": 983,
+  "erp_status": "Connected",
+  "last_check": "11 Oct 2026, 08:32:31 PM",
+  "next_check": "11 Oct 2026, 09:02:31 PM",
+  "notice_count": 984,
   "placement_count": 13,
   "notices": [
+    {
+      "id": "1055",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "DB",
+      "notice": "The CV submission of Deutsche Bank for the Analyst role have been extended till 11:59 PM, 11th October, 2026.It is mandatory for all the candidates who are applying for this role, to apply on the company portal, as well as fill the google form below: Application Portal: https://db.recsolu.com/external/requisitions/Y3A7fA4byU6YnghfeGXi9AGoogle Form: https://forms.gle/1LuNjk3Ks7HLRuxZANOTE: Students are required to apply on the company portal, and the google form using their CDC-registered email ID.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23ME3FP14",
+      "notice_time": "11-10-2026 20:03"
+    },
     {
       "id": "1054",
       "type": "PLACEMENT",
@@ -8882,7 +8891,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-10-09 17:00",
-      "resume_upload_end": "2026-10-11 16:00",
+      "resume_upload_end": "2026-10-11 23:59",
       "interview_selection": "",
       "contract": ""
     },
@@ -9063,5 +9072,5 @@
       "contract": ""
     }
   ],
-  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "last_error": null
 }
