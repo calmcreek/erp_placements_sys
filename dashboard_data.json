@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "11 Oct 2026, 09:32:38 PM",
-  "next_check": "11 Oct 2026, 10:02:38 PM",
-  "notice_count": 986,
+  "last_check": "11 Oct 2026, 10:02:21 PM",
+  "next_check": "11 Oct 2026, 10:32:21 PM",
+  "notice_count": 987,
   "placement_count": 13,
   "notices": [
+    {
+      "id": "1059",
+      "type": "INTERNSHIP",
+      "subject": "Urgent",
+      "company": "ASSURANT",
+      "notice": "PFA the test shortlist for Assurant.The Assessment is scheduled on 12th October, 7:30 PM onwards.Venue: NR321, Nalanda Classroom ComplexStudents are required to carry their Institute ID card/Medical Book and are advised to reach the venue 15 minutes prior to the time.Note: The test instructions will be shared in due time.POC: Rudra (+91 8235755257)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "11-10-2026 21:53"
+    },
     {
       "id": "1058",
       "type": "INTERNSHIP",
