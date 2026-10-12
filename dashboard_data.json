@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "12 Oct 2026, 09:02:13 AM",
-  "next_check": null,
-  "notice_count": 989,
+  "erp_status": "Connected",
+  "last_check": "12 Oct 2026, 10:02:19 AM",
+  "next_check": "12 Oct 2026, 10:32:19 AM",
+  "notice_count": 990,
   "placement_count": 13,
   "notices": [
+    {
+      "id": "1062",
+      "type": "INTERNSHIP",
+      "subject": "CV Submission",
+      "company": "JSW GROUP",
+      "notice": "The CV submission of JSW Group has been extended till 13:59, 12th October 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17164",
+      "notice_time": "12-10-2026 09:22"
+    },
     {
       "id": "1061",
       "type": "PLACEMENT",
@@ -9117,5 +9126,5 @@
       "contract": ""
     }
   ],
-  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "last_error": null
 }
