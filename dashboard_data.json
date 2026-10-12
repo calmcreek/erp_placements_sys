@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "13 Oct 2026, 12:03:09 AM",
-  "next_check": "13 Oct 2026, 12:33:09 AM",
-  "notice_count": 999,
+  "last_check": "13 Oct 2026, 12:33:09 AM",
+  "next_check": "13 Oct 2026, 01:03:09 AM",
+  "notice_count": 1000,
   "placement_count": 13,
   "notices": [
+    {
+      "id": "1073",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "MOTILAL OSWAL FINANCIAL SERVICES LIMITED",
+      "notice": "PFB the shortlist for the Interview round for the role of Private Credit:23BT3FP0123CE3FP1123CH3FP1523MI3FP1223NA3FP32PFB the shortlist for the Interview round for the role of Derivative:24IM1002524AI1003024IM10067Further details would be communicated to the shortlisted candidates shortly.CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "13-10-2026 00:05"
+    },
     {
       "id": "1072",
       "type": "PLACEMENT",
