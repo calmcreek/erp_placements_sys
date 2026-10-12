@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "12 Oct 2026, 05:02:18 PM",
-  "next_check": "12 Oct 2026, 05:32:18 PM",
-  "notice_count": 995,
+  "last_check": "12 Oct 2026, 05:33:12 PM",
+  "next_check": "12 Oct 2026, 06:03:12 PM",
+  "notice_count": 996,
   "placement_count": 13,
   "notices": [
+    {
+      "id": "1069",
+      "type": "PLACEMENT",
+      "subject": "PPO",
+      "company": "Futures First",
+      "notice": "Futures First has extended the offer to the following student(s):NEELESH AGRAWAL - 23CE10037The students are advised to give offer acceptance by 12.10.2026.(For more details, check your email ID.)CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "12-10-2026 17:18"
+    },
     {
       "id": "1068",
       "type": "PLACEMENT",
