@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "12 Oct 2026, 04:02:36 PM",
-  "next_check": "12 Oct 2026, 04:32:36 PM",
-  "notice_count": 993,
+  "last_check": "12 Oct 2026, 04:32:42 PM",
+  "next_check": "12 Oct 2026, 05:02:42 PM",
+  "notice_count": 995,
   "placement_count": 13,
   "notices": [
+    {
+      "id": "1068",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "HARNESS",
+      "notice": "The CV submission of Harness for the Software Engineer I role have been opened till 4:00 PM, 13th October, 2026.NOTE: Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17164",
+      "notice_time": "12-10-2026 16:08"
+    },
+    {
+      "id": "1067",
+      "type": "INTERNSHIP",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "IBM",
+      "notice": "The Pre-Placement Talk for IBM, will be held on 12th October, 2026 from 6:00 PM.Link: https://events.teams.microsoft.com/event/9c960fe6-9873-46c1-8d42-d2e75e35b0fc@fcf67057-50c9-4ad4-98f3-ffca64add9e9?source=copyLinkLegacyShareLinkDialogNote: All interested and eligible students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Devansh (+91 79998 92181)CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "12-10-2026 16:06"
+    },
     {
       "id": "1065",
       "type": "PLACEMENT",
@@ -9004,7 +9022,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-11 16:56",
-      "resume_upload_end": "2026-10-12 16:00",
+      "resume_upload_end": "2026-10-13 16:00",
       "interview_selection": "",
       "contract": ""
     },
