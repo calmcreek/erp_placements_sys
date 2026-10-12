@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "12 Oct 2026, 10:02:16 PM",
-  "next_check": "12 Oct 2026, 10:32:16 PM",
-  "notice_count": 998,
+  "last_check": "12 Oct 2026, 10:32:37 PM",
+  "next_check": "12 Oct 2026, 11:02:37 PM",
+  "notice_count": 999,
   "placement_count": 13,
   "notices": [
+    {
+      "id": "1072",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "DB",
+      "notice": "A test link has been triggered to all the candidates who have applied for the Analyst role of Deutsche Bank and have also registered on the company portal.The test has to be given from your respective locations, and the test window is open until 6:00 PM, 14th October 2026. All students must complete their assessment within the given timeframe.POC: Rudra(+91 8235755257)CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "12-10-2026 22:02"
+    },
     {
       "id": "1071",
       "type": "PLACEMENT",
