@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "12 Oct 2026, 07:02:22 PM",
-  "next_check": null,
-  "notice_count": 997,
+  "erp_status": "Connected",
+  "last_check": "12 Oct 2026, 08:02:26 PM",
+  "next_check": "12 Oct 2026, 08:32:26 PM",
+  "notice_count": 998,
   "placement_count": 13,
   "notices": [
+    {
+      "id": "1071",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "EDELWEISS",
+      "notice": "The Test for Edelweiss for the C++ Developer role, will be held on 12th October 2026 from 8:15 PM to 10:00 PM.PFA the room allocation for the test.Note: Attendance for the offline PPT for all the roles is mandatory and will be recorded. The Test will be held post the PPT. Only the students attending the PPT will be eligible for the test. Students are advised to be present 15 minutes prior to the scheduled time.POC:  Aditi(+91 8815395895), Zalavadiya Dishil(+91 9925492574)CDC, IIT Kharagpur.",
+      "notice_by": "23EE38007",
+      "notice_time": "12-10-2026 19:50"
+    },
     {
       "id": "1070",
       "type": "INTERNSHIP",
@@ -9189,5 +9198,5 @@
       "contract": ""
     }
   ],
-  "last_error": "Could not find the new ERP OTP email."
+  "last_error": null
 }
