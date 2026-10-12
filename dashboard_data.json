@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "12 Oct 2026, 03:32:47 PM",
-  "next_check": "12 Oct 2026, 04:02:47 PM",
-  "notice_count": 992,
+  "last_check": "12 Oct 2026, 04:02:36 PM",
+  "next_check": "12 Oct 2026, 04:32:36 PM",
+  "notice_count": 993,
   "placement_count": 13,
   "notices": [
+    {
+      "id": "1065",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "Accenture",
+      "notice": "The Pre-Placement Talk for Accenture, will be held on 13th October, 2026 from 7:00 PM.Link: https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDM2NTU1MGMtMzYxYi00OTc3LTlkN2MtZDEzNWU1ZDk4MjE0%40thread.v2/0?context=%7B%22Tid%22%3A%22e0793d39-0939-496d-b129-198edd916feb%22%2C%22Oid%22%3A%225b3ffc9c-d5c4-455c-83a2-f52eb438d8c6%22%2C%22IsBroadcastMeeting%22%3Atrue%2C%22role%22%3A%22a%22%7D&btype=a&role=aNote: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Devansh (+91 79998 92181)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "12-10-2026 15:54"
+    },
     {
       "id": "1064",
       "type": "PLACEMENT",
