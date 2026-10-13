@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "14 Oct 2026, 12:01:25 AM",
-  "next_check": "14 Oct 2026, 12:31:25 AM",
-  "notice_count": 1007,
+  "last_check": "14 Oct 2026, 12:05:57 AM",
+  "next_check": "14 Oct 2026, 12:35:57 AM",
+  "notice_count": 1008,
   "placement_count": 13,
   "notices": [
+    {
+      "id": "1083",
+      "type": "PLACEMENT",
+      "subject": "Shortlist",
+      "company": "EDELWEISS",
+      "notice": "PFB the Shortlist for the further process of Edelweiss:22CS3001422CS3004122CS3006122EC3902622EC3903422EE3800823CS1000323CS1005223CS1006323CS1008923MA1000523MA1001623MA1003923MA1004223MA10075CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "14-10-2026 00:02"
+    },
     {
       "id": "1082",
       "type": "PLACEMENT",
