@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "13 Oct 2026, 09:32:46 AM",
-  "next_check": null,
-  "notice_count": 1000,
+  "erp_status": "Connected",
+  "last_check": "13 Oct 2026, 10:32:31 AM",
+  "next_check": "13 Oct 2026, 11:02:31 AM",
+  "notice_count": 1001,
   "placement_count": 13,
   "notices": [
+    {
+      "id": "1074",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "MOTILAL OSWAL FINANCIAL SERVICES LIMITED",
+      "notice": "PFA the shortlist for the Interview round of MOTILAL OSWAL FINANCIAL SERVICES LIMITED for the RIISE product (IT) role.Further details would be communicated to the shortlisted candidates shortly.CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "13-10-2026 09:55"
+    },
     {
       "id": "1073",
       "type": "INTERNSHIP",
@@ -9216,5 +9225,5 @@
       "contract": ""
     }
   ],
-  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "last_error": null
 }
