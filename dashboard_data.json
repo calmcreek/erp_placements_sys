@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "13 Oct 2026, 03:02:25 PM",
-  "next_check": "13 Oct 2026, 03:32:25 PM",
-  "notice_count": 1001,
+  "last_check": "13 Oct 2026, 03:32:34 PM",
+  "next_check": "13 Oct 2026, 04:02:34 PM",
+  "notice_count": 1003,
   "placement_count": 13,
   "notices": [
+    {
+      "id": "1076",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "JSW GROUP",
+      "notice": "PFA the test shortlist for JSW Group. The details and instructions for the test are as follows:Date: 13th October 2026Time: 7:00 PMMode: OnlineVenue: Respective LocationsNote: Shortlisted students must register using the link sent to their CDC Registered email IDs by 5:00 PM today. Registration is mandatory, and failure to register within the deadline will result in disqualification from the assessment. No extensions will be provided.Next Round: Students who successfully clear the first assessment will be allowed to proceed to the second assessment, scheduled for 9:00 PM today.POC : Arpita (+91-9075564147), Rudra (+91-8235755257)CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "13-10-2026 15:08"
+    },
+    {
+      "id": "1075",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "MRF Limited",
+      "notice": "The Pre-Placement Talk for MRF Limited, will be held on 13th October, 2026 from 5:30 PM.Link: https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fmeet%2F482622206121982%3Fp%3DpsmSxZWuVayVo6U1Rl%26anon%3Dtrue&type=meet&deeplinkId=9ec11b58-d77c-472f-b0a6-57946bf29bed&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=trueNote: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC:  Hardik (+91 81770 18092)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "13-10-2026 15:02"
+    },
     {
       "id": "1074",
       "type": "INTERNSHIP",
