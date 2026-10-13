@@ -1,10 +1,28 @@
 {
-  "erp_status": "Error",
-  "last_check": "13 Oct 2026, 04:32:40 PM",
-  "next_check": null,
-  "notice_count": 1003,
+  "erp_status": "Connected",
+  "last_check": "13 Oct 2026, 05:32:39 PM",
+  "next_check": "13 Oct 2026, 06:02:39 PM",
+  "notice_count": 1005,
   "placement_count": 13,
   "notices": [
+    {
+      "id": "1078",
+      "type": "INTERNSHIP",
+      "subject": "Urgent",
+      "company": "JSW GROUP",
+      "notice": "This is to inform all shortlisted students that the test timings for the JSW Group scheduled for 13th October 2026 have been revised.The updated schedule is as follows:Online Assessment 1: 7:30 PM onwardsOnline Assessment 2: 9:30 PM onwards Students are advised to take note of the revised timings and plan accordingly. Only students who successfully clear the first assessment will be eligible to proceed to the second assessment.POC : Arpita (+91-9075564147), Rudra (+91-8235755257)CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "13-10-2026 16:57"
+    },
+    {
+      "id": "1077",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "Meesho",
+      "notice": "The Pre-Placement Talk for Meesho, will be held on 14th October, 2026 from 6:00 PM.Link: https://meet.google.com/wnw-uwze-zdoNote: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Khush (+91 99221 68000)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "13-10-2026 16:52"
+    },
     {
       "id": "1076",
       "type": "INTERNSHIP",
@@ -9243,5 +9261,5 @@
       "contract": ""
     }
   ],
-  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "last_error": null
 }
