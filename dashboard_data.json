@@ -1,10 +1,46 @@
 {
   "erp_status": "Connected",
-  "last_check": "14 Oct 2026, 01:02:17 PM",
-  "next_check": "14 Oct 2026, 01:32:17 PM",
-  "notice_count": 1009,
+  "last_check": "14 Oct 2026, 01:32:40 PM",
+  "next_check": "14 Oct 2026, 02:02:40 PM",
+  "notice_count": 1013,
   "placement_count": 13,
   "notices": [
+    {
+      "id": "1090",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "Schneider Electric",
+      "notice": "The Pre-Placement Talk for Schneider Electric, will be held on 14th October, 2026 from 4:30 PM.Link: https://teams.microsoft.com/meet/3350708254112026?p=zNf8jiLQ6VvXk3M7nyNote: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Nikita (+91 99692 07598)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "14-10-2026 13:27"
+    },
+    {
+      "id": "1089",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "TECH MAHINDRA",
+      "notice": "PFA the test shortlist for Tech Mahindra.Test Window: 7PM, 14th October 2026 to 2AM, 15th October 2026Test Duration: 90 MinutesVenue: Respective LocationPOC: Bhavy (+91 7597121669), Neev (+91 9001346350)CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "14-10-2026 13:25"
+    },
+    {
+      "id": "1088",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "MASTERCARD",
+      "notice": "PFA the test shortlist for MASTERCARD.The Assessment is scheduled on 14th October, 9:00 PM onwards.Venue: NR221, Nalanda Classroom ComplexStudents are required to carry their Institute ID card/Medical Book and are advised to reach the venue 15 minutes prior to the time.POC: Devansh (+91 7999892181)CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "14-10-2026 13:19"
+    },
+    {
+      "id": "1087",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "CRED",
+      "notice": "PFA the test shortlist for CRED.The Assessment is scheduled on 14th October, 10:30 PM onwards.Venue: Respective LocationPOC: Vatsal (+91 9234457393)CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "14-10-2026 13:17"
+    },
     {
       "id": "1084",
       "type": "INTERNSHIP",
