@@ -1,9 +1,9 @@
 {
   "erp_status": "Connected",
-  "last_check": "14 Oct 2026, 08:02:33 PM",
-  "next_check": "14 Oct 2026, 08:32:33 PM",
+  "last_check": "14 Oct 2026, 08:32:38 PM",
+  "next_check": "14 Oct 2026, 09:02:38 PM",
   "notice_count": 1015,
-  "placement_count": 13,
+  "placement_count": 15,
   "notices": [
     {
       "id": "1092",
@@ -9192,6 +9192,38 @@
     },
     {
       "id": "3",
+      "company": "Graviton Research Capital LLP",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Software Engineer - India",
+      "description": "Apply",
+      "ctc": "10500000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-14 20:18",
+      "resume_upload_end": "2026-10-15 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "4",
+      "company": "Graviton Research Capital LLP",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Quantitative Researcher - India",
+      "description": "Apply",
+      "ctc": "10500000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-14 20:17",
+      "resume_upload_end": "2026-10-15 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "5",
       "company": "Harness",
       "additional_details": "",
       "ppt": "",
@@ -9207,23 +9239,7 @@
       "contract": ""
     },
     {
-      "id": "4",
-      "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Quantitative Researcher",
-      "description": "Apply",
-      "ctc": "14600000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-10-08 17:55",
-      "resume_upload_end": "2026-10-12 00:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "5",
+      "id": "6",
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
@@ -9239,7 +9255,7 @@
       "contract": ""
     },
     {
-      "id": "6",
+      "id": "7",
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
@@ -9255,7 +9271,7 @@
       "contract": ""
     },
     {
-      "id": "7",
+      "id": "8",
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
@@ -9271,34 +9287,18 @@
       "contract": ""
     },
     {
-      "id": "8",
-      "company": "SQUAREPOINT CAPITAL",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Desk Quant Analyst",
-      "description": "Apply",
-      "ctc": "6736382",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-10-04 09:23",
-      "resume_upload_end": "2026-10-06 11:59",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
       "id": "9",
-      "company": "SQUAREPOINT CAPITAL",
+      "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
-      "designation": "Graduate Software Developer",
+      "designation": "Quantitative Researcher",
       "description": "Apply",
-      "ctc": "7436382",
+      "ctc": "14600000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-10-04 09:24",
-      "resume_upload_end": "2026-10-06 11:59",
+      "resume_upload_start": "2026-10-08 17:55",
+      "resume_upload_end": "2026-10-12 00:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -9320,6 +9320,38 @@
     },
     {
       "id": "11",
+      "company": "SQUAREPOINT CAPITAL",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Desk Quant Analyst",
+      "description": "Apply",
+      "ctc": "6736382",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-04 09:23",
+      "resume_upload_end": "2026-10-06 11:59",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "12",
+      "company": "SQUAREPOINT CAPITAL",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Graduate Software Developer",
+      "description": "Apply",
+      "ctc": "7436382",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-04 09:24",
+      "resume_upload_end": "2026-10-06 11:59",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "13",
       "company": "Trexquant (India) Business Consulting LLP",
       "additional_details": "",
       "ppt": "",
@@ -9335,7 +9367,7 @@
       "contract": ""
     },
     {
-      "id": "12",
+      "id": "14",
       "company": "Warner Music Group",
       "additional_details": "",
       "ppt": "",
