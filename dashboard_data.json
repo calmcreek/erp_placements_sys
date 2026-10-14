@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "14 Oct 2026, 04:32:44 PM",
-  "next_check": "14 Oct 2026, 05:02:44 PM",
-  "notice_count": 1014,
+  "last_check": "14 Oct 2026, 05:02:20 PM",
+  "next_check": "14 Oct 2026, 05:32:20 PM",
+  "notice_count": 1015,
   "placement_count": 13,
   "notices": [
+    {
+      "id": "1092",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "CRED",
+      "notice": "Please note that the venue for the CRED assessment scheduled for 14th October, 10:30 PM onwards has been updated.Venue: NR222, Nalanda Classroom ComplexPOC: Vatsal (+91 9234457393)CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "14-10-2026 16:45"
+    },
     {
       "id": "1091",
       "type": "INTERNSHIP",
