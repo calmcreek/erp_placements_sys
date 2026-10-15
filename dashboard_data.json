@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "15 Oct 2026, 12:32:36 PM",
-  "next_check": null,
-  "notice_count": 1018,
+  "erp_status": "Connected",
+  "last_check": "15 Oct 2026, 01:32:34 PM",
+  "next_check": "15 Oct 2026, 02:02:34 PM",
+  "notice_count": 1019,
   "placement_count": 15,
   "notices": [
+    {
+      "id": "1096",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "IBM",
+      "notice": "PFB the shortlist for the Interview round of IBM23CS3002323EC3904323EE3200124AI1001924AI1003024AI1003924EE1006924EE10090Further details would be communicated to the shortlisted candidates in due time.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "15-10-2026 12:53"
+    },
     {
       "id": "1095",
       "type": "PLACEMENT",
@@ -9410,5 +9419,5 @@
       "contract": ""
     }
   ],
-  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "last_error": null
 }
