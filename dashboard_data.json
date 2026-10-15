@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "16 Oct 2026, 12:02:20 AM",
-  "next_check": null,
-  "notice_count": 1028,
+  "erp_status": "Connected",
+  "last_check": "16 Oct 2026, 01:02:19 AM",
+  "next_check": "16 Oct 2026, 01:32:19 AM",
+  "notice_count": 1029,
   "placement_count": 16,
   "notices": [
+    {
+      "id": "1106",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "GRAVITON RESEARCH CAPITAL",
+      "notice": "The CV submission of Graviton Research Capital for the Software Engineer role, and the Quantitative Researcher role have been extended till 10:00 AM, 16th October, 2026.It is mandatory for all the candidates who are applying for this role, to apply on the company portal: 1. Software Engineering: https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/87642400022. Quantitative Researcher: https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8768396002NOTE: Students are required to apply on the company portal using their CDC-registered email ID.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "16-10-2026 00:35"
+    },
     {
       "id": "1105",
       "type": "INTERNSHIP",
@@ -9319,7 +9328,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-14 20:18",
-      "resume_upload_end": "2026-10-15 23:59",
+      "resume_upload_end": "2026-10-16 09:59",
       "interview_selection": "",
       "contract": ""
     },
@@ -9335,7 +9344,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-14 20:17",
-      "resume_upload_end": "2026-10-15 23:59",
+      "resume_upload_end": "2026-10-16 09:59",
       "interview_selection": "",
       "contract": ""
     },
@@ -9516,5 +9525,5 @@
       "contract": ""
     }
   ],
-  "last_error": "Could not find the new ERP OTP email."
+  "last_error": null
 }
