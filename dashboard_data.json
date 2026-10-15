@@ -1,10 +1,28 @@
 {
-  "erp_status": "Error",
-  "last_check": "15 Oct 2026, 10:32:38 PM",
-  "next_check": null,
-  "notice_count": 1026,
+  "erp_status": "Connected",
+  "last_check": "16 Oct 2026, 12:02:20 AM",
+  "next_check": "16 Oct 2026, 12:32:20 AM",
+  "notice_count": 1028,
   "placement_count": 16,
   "notices": [
+    {
+      "id": "1105",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "HP INC",
+      "notice": "PFB the shortlist for the Interview round of HP INC.24EE10045Further details would be communicated to the shortlisted candidate shortly.CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "15-10-2026 23:13"
+    },
+    {
+      "id": "1104",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "SINGULR AI",
+      "notice": "PFB the shortlist for the Interview round of SINGULR AI23AG3601323BT3003223EC3904323EE3700923HS2300723HS2301723ME3101923MF3AI3623MI3101623MT3001524CE1011024CH1004424EE1007624EX1001224MA1001124MA10042Further details would be communicated to the shortlisted candidates shortly.CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "15-10-2026 23:08"
+    },
     {
       "id": "1103",
       "type": "PLACEMENT",
@@ -9498,5 +9516,5 @@
       "contract": ""
     }
   ],
-  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "last_error": null
 }
