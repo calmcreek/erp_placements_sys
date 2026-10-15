@@ -1,10 +1,64 @@
 {
-  "erp_status": "Error",
-  "last_check": "15 Oct 2026, 03:32:34 PM",
-  "next_check": null,
-  "notice_count": 1020,
-  "placement_count": 15,
+  "erp_status": "Connected",
+  "last_check": "15 Oct 2026, 07:32:40 PM",
+  "next_check": "15 Oct 2026, 08:02:40 PM",
+  "notice_count": 1026,
+  "placement_count": 16,
   "notices": [
+    {
+      "id": "1103",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "ACCENTURE JAPAN",
+      "notice": "The Test for ACCENTURE JAPAN for the Digital Consultant role, will be held on 15th October 2026 from 8:30 PM to 10:30 PM.PFA the room allocation for the test. Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.Note : Students are required to carry their original Institute ID card, failing which students will not be permitted to sit for test. POC: Rudra (+91 82357 55257) , Aditya(+91 6295916930)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "15-10-2026 19:08"
+    },
+    {
+      "id": "1102",
+      "type": "INTERNSHIP",
+      "subject": "CV Submission",
+      "company": "CITI BANK",
+      "notice": "The CV submission of CITI BANK has been opened till 09:59 AM, 19th October 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17164",
+      "notice_time": "15-10-2026 17:23"
+    },
+    {
+      "id": "1101",
+      "type": "PLACEMENT",
+      "subject": "PPO",
+      "company": "ServiceNow",
+      "notice": "ServiceNow has extended the offer to the following student(s):KRISH JAIMAN - 23IE10027 MEHUL KUMAR - 23MT10032The students are advised to give offer acceptance by 15.10.2026.(For more details, check your email ID.)CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "15-10-2026 17:07"
+    },
+    {
+      "id": "1100",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Stenoa Capital",
+      "notice": "The CV submission of Stenoa Capital for the Quantitative Researcher role has been opened till 4 PM, 16th October, 2026.NOTE: Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17009",
+      "notice_time": "15-10-2026 17:00"
+    },
+    {
+      "id": "1099",
+      "type": "PLACEMENT",
+      "subject": "PPO",
+      "company": "HERO MOTOCORP",
+      "notice": "HERO MOTOCORP has extended the offer to the following student(s):BAKSHI PRANAV KSHITIJ - 22MF3IM05The students are advised to give offer acceptance by 15.10.26.(For more details, check your email ID.)CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "15-10-2026 16:17"
+    },
+    {
+      "id": "1098",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "Graviton Research Capital",
+      "notice": "The CV submission of Graviton Research Capital for the Software Engineer role, and the Quantitative Researcher role have been extended till 11:59 PM, 15th October, 2026.It is mandatory for all the candidates who are applying for this role, to apply on the company portal: 1. Software Engineering: https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/87642400022. Quantitative Researcher: https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8768396002NOTE: Students are required to apply on the company portal using their CDC-registered email ID.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17009",
+      "notice_time": "15-10-2026 15:55"
+    },
     {
       "id": "1097",
       "type": "PLACEMENT",
@@ -9247,7 +9301,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-14 20:18",
-      "resume_upload_end": "2026-10-15 16:00",
+      "resume_upload_end": "2026-10-15 23:59",
       "interview_selection": "",
       "contract": ""
     },
@@ -9263,7 +9317,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-14 20:17",
-      "resume_upload_end": "2026-10-15 16:00",
+      "resume_upload_end": "2026-10-15 23:59",
       "interview_selection": "",
       "contract": ""
     },
@@ -9352,6 +9406,22 @@
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
+      "designation": "Graduate Software Developer",
+      "description": "Apply",
+      "ctc": "7436382",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-04 09:24",
+      "resume_upload_end": "2026-10-06 11:59",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "11",
+      "company": "SQUAREPOINT CAPITAL",
+      "additional_details": "",
+      "ppt": "",
       "designation": "Infrastructure Engineer",
       "description": "Apply",
       "ctc": "7436382",
@@ -9364,7 +9434,7 @@
       "contract": ""
     },
     {
-      "id": "11",
+      "id": "12",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -9380,23 +9450,23 @@
       "contract": ""
     },
     {
-      "id": "12",
-      "company": "SQUAREPOINT CAPITAL",
+      "id": "13",
+      "company": "Stenoa Capital",
       "additional_details": "",
       "ppt": "",
-      "designation": "Graduate Software Developer",
+      "designation": "Quantitative Researcher",
       "description": "Apply",
-      "ctc": "7436382",
+      "ctc": "4000000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-10-04 09:24",
-      "resume_upload_end": "2026-10-06 11:59",
+      "resume_upload_start": "2026-10-15 17:00",
+      "resume_upload_end": "2026-10-16 16:00",
       "interview_selection": "",
       "contract": ""
     },
     {
-      "id": "13",
+      "id": "14",
       "company": "Trexquant (India) Business Consulting LLP",
       "additional_details": "",
       "ppt": "",
@@ -9412,7 +9482,7 @@
       "contract": ""
     },
     {
-      "id": "14",
+      "id": "15",
       "company": "Warner Music Group",
       "additional_details": "",
       "ppt": "",
@@ -9428,5 +9498,5 @@
       "contract": ""
     }
   ],
-  "last_error": "Could not find the new ERP OTP email."
+  "last_error": null
 }
