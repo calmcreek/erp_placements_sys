@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "15 Oct 2026, 02:02:27 PM",
-  "next_check": "15 Oct 2026, 02:32:27 PM",
-  "notice_count": 1019,
+  "last_check": "15 Oct 2026, 02:32:37 PM",
+  "next_check": "15 Oct 2026, 03:02:37 PM",
+  "notice_count": 1020,
   "placement_count": 15,
   "notices": [
+    {
+      "id": "1097",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "EDELWEISS",
+      "notice": "Please find attached the list of absentees in the test for Edelweiss.The attendance list has been shared with the respective companies. All students that are found to have appeared in this test remotely without having received prior permission from the CDC Office, take note that you are disqualified from the process for that particular company with immediate effect, i.e. you would not be making it to any of the subsequent rounds of selection to that firm.In addition to this, further disciplinary actions will be taken against the individuals indulging in malpractices and bypassing the test guidelines that are communicated to them.CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "15-10-2026 14:00"
+    },
     {
       "id": "1096",
       "type": "INTERNSHIP",
