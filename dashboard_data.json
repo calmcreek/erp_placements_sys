@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "15 Oct 2026, 11:32:32 AM",
-  "next_check": "15 Oct 2026, 12:02:32 PM",
-  "notice_count": 1017,
+  "last_check": "15 Oct 2026, 12:02:19 PM",
+  "next_check": "15 Oct 2026, 12:32:19 PM",
+  "notice_count": 1018,
   "placement_count": 15,
   "notices": [
+    {
+      "id": "1095",
+      "type": "PLACEMENT",
+      "subject": "Schedule",
+      "company": "CDC Placement schedule for 16th October",
+      "notice": "All students eligible for placement are advised to take note of the schedule for 16th October:1. [PPT : Virtual ] HARNESS (6:00 PM - 7:00 PM)2. [TEST] WARNER MUSIC GROUP (7:00 PM - 8:00 PM)3. [TEST] HARNESS (8:30 PM - 10:30 PM)Note : The room allocation for the test will be shared along with other relevant details prior to the test. CDC, IIT Kharagpur.",
+      "notice_by": "23AG36009",
+      "notice_time": "15-10-2026 11:58"
+    },
     {
       "id": "1094",
       "type": "PLACEMENT",
