@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "16 Oct 2026, 06:02:19 PM",
-  "next_check": "16 Oct 2026, 06:32:19 PM",
-  "notice_count": 1032,
+  "last_check": "16 Oct 2026, 06:32:42 PM",
+  "next_check": "16 Oct 2026, 07:02:42 PM",
+  "notice_count": 1034,
   "placement_count": 16,
   "notices": [
+    {
+      "id": "1111",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "WARNER MUSIC GROUP",
+      "notice": "The Test for WARNER MUSIC GROUP for the Software Engineer role, will be held on 16th October 2026 from 7:00 PM to 8:00 PM.Reporting Time : 6:45 PM.PFA the room allocation for the test. Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.Note : Students are required to carry their original Institute ID card, failing which students will not be permitted to sit for test. POC: Dishil (+91 99254 92574), Arpita (+91 90755 64147)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "16-10-2026 18:09"
+    },
+    {
+      "id": "1110",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "HARNESS",
+      "notice": "PFA the test shortlist for the Assessment of Harness for Software Engineer I role, scheduled from 8:30 PM onwards on 16th October, 2026.Venue: Nalanda Classroom Complex.The room allocation will be shared shortly.Students are requested to report 15 minutes prior to the reporting time.POC: Aditya(+91 9325468252), Khush(+91 9922168000)CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "16-10-2026 18:05"
+    },
     {
       "id": "1109",
       "type": "INTERNSHIP",
