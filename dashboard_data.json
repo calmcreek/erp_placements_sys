@@ -1,10 +1,37 @@
 {
   "erp_status": "Connected",
-  "last_check": "16 Oct 2026, 03:32:39 PM",
-  "next_check": "16 Oct 2026, 04:02:39 PM",
-  "notice_count": 1029,
+  "last_check": "16 Oct 2026, 04:02:21 PM",
+  "next_check": "16 Oct 2026, 04:32:21 PM",
+  "notice_count": 1032,
   "placement_count": 16,
   "notices": [
+    {
+      "id": "1109",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "Mastercard",
+      "notice": "PFB the shortlist for the Interview round of Mastercard.23IE3FP3824AI1003824MA10034Further details would be communicated to the shortlisted candidates in due time.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "16-10-2026 15:48"
+    },
+    {
+      "id": "1108",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "HARNESS",
+      "notice": "The Pre-Placement Talk for Harness for Software Engineer I role, will be held on 16th October 2026 from 6:00 PM to 7:00 PM..Link: https://www.google.com/url?q=https://harness-io.zoom.us/j/98130763911?pwd%3DVVt0Lku5Bm7kqffp5Q7jJsppT8Oumd.1%26jst%3D2&sa=D&source=calendar&ust=1792308339520704&usg=AOvVaw1wM0st5i5gyKz8A0n2ABLNNote: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Aditya (+91 9325468252), Khush(+91 9922168000)CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "16-10-2026 15:42"
+    },
+    {
+      "id": "1107",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "WARNER MUSIC GROUP",
+      "notice": "PFA the test shortlist for the Assessment of Warner Music Group for Software Engineer role, scheduled from 7:00 PM onwards on 16th October, 2026.Venue: Nalanda Classroom Complex.The room allocation will be shared shortly.Students are requested to report 15 minutes prior to the reporting time.POC: Dishil (+91 99254 92574), Arpita (+91 90755 64147)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "16-10-2026 15:40"
+    },
     {
       "id": "1106",
       "type": "PLACEMENT",
