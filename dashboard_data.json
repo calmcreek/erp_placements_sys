@@ -1,9 +1,9 @@
 {
   "erp_status": "Connected",
-  "last_check": "17 Oct 2026, 05:02:21 PM",
-  "next_check": "17 Oct 2026, 05:32:21 PM",
+  "last_check": "17 Oct 2026, 05:32:38 PM",
+  "next_check": "17 Oct 2026, 06:02:38 PM",
   "notice_count": 1041,
-  "placement_count": 23,
+  "placement_count": 21,
   "notices": [
     {
       "id": "1119",
@@ -9557,13 +9557,13 @@
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
-      "designation": "Hardware Engineer",
+      "designation": "Quantitative Researcher",
       "description": "Apply",
-      "ctc": "10100000",
+      "ctc": "14600000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-10-08 17:54",
+      "resume_upload_start": "2026-10-08 17:55",
       "resume_upload_end": "2026-10-12 00:00",
       "interview_selection": "",
       "contract": ""
@@ -9605,51 +9605,19 @@
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
-      "designation": "Quantitative Researcher",
+      "designation": "Hardware Engineer",
       "description": "Apply",
-      "ctc": "14600000",
+      "ctc": "10100000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-10-08 17:55",
+      "resume_upload_start": "2026-10-08 17:54",
       "resume_upload_end": "2026-10-12 00:00",
       "interview_selection": "",
       "contract": ""
     },
     {
       "id": "15",
-      "company": "slice",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Analyst",
-      "description": "Apply",
-      "ctc": "2500000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-10-17 13:00",
-      "resume_upload_end": "2026-10-18 16:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "16",
-      "company": "slice",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Associate Product Manager",
-      "description": "Apply",
-      "ctc": "2800000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-10-17 13:00",
-      "resume_upload_end": "2026-10-18 16:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "17",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -9665,7 +9633,7 @@
       "contract": ""
     },
     {
-      "id": "18",
+      "id": "16",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -9681,7 +9649,7 @@
       "contract": ""
     },
     {
-      "id": "19",
+      "id": "17",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -9697,7 +9665,7 @@
       "contract": ""
     },
     {
-      "id": "20",
+      "id": "18",
       "company": "Stenoa Capital",
       "additional_details": "",
       "ppt": "",
@@ -9713,7 +9681,7 @@
       "contract": ""
     },
     {
-      "id": "21",
+      "id": "19",
       "company": "Trexquant (India) Business Consulting LLP",
       "additional_details": "",
       "ppt": "",
@@ -9729,7 +9697,7 @@
       "contract": ""
     },
     {
-      "id": "22",
+      "id": "20",
       "company": "Warner Music Group",
       "additional_details": "",
       "ppt": "",
