@@ -1,9 +1,9 @@
 {
   "erp_status": "Connected",
-  "last_check": "17 Oct 2026, 12:32:35 PM",
-  "next_check": "17 Oct 2026, 01:02:35 PM",
+  "last_check": "17 Oct 2026, 01:02:18 PM",
+  "next_check": "17 Oct 2026, 01:32:18 PM",
   "notice_count": 1035,
-  "placement_count": 16,
+  "placement_count": 19,
   "notices": [
     {
       "id": "1112",
@@ -9324,6 +9324,22 @@
   "placements": [
     {
       "id": "0",
+      "company": "Accenture India Private Limited",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Elite Technology Engineer",
+      "description": "Apply",
+      "ctc": "1815000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-17 13:00",
+      "resume_upload_end": "2026-10-18 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "1",
       "company": "Accenture Japan",
       "additional_details": "Download",
       "ppt": "",
@@ -9339,7 +9355,7 @@
       "contract": ""
     },
     {
-      "id": "1",
+      "id": "2",
       "company": "DB",
       "additional_details": "",
       "ppt": "",
@@ -9355,7 +9371,7 @@
       "contract": ""
     },
     {
-      "id": "2",
+      "id": "3",
       "company": "Edelweiss Global Markets",
       "additional_details": "",
       "ppt": "",
@@ -9367,22 +9383,6 @@
       "application_status": "",
       "resume_upload_start": "2026-10-08 16:00",
       "resume_upload_end": "2026-10-09 23:59",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "3",
-      "company": "Graviton Research Capital LLP",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Software Engineer - India",
-      "description": "Apply",
-      "ctc": "10500000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-10-14 20:18",
-      "resume_upload_end": "2026-10-16 09:59",
       "interview_selection": "",
       "contract": ""
     },
@@ -9404,6 +9404,22 @@
     },
     {
       "id": "5",
+      "company": "Graviton Research Capital LLP",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Software Engineer - India",
+      "description": "Apply",
+      "ctc": "10500000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-14 20:18",
+      "resume_upload_end": "2026-10-16 09:59",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "6",
       "company": "Harness",
       "additional_details": "",
       "ppt": "",
@@ -9419,23 +9435,39 @@
       "contract": ""
     },
     {
-      "id": "6",
-      "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
+      "id": "7",
+      "company": "Houlihan Lokey Advisory (India) Private Limited",
       "additional_details": "",
       "ppt": "",
-      "designation": "C++ Developer",
+      "designation": "Analyst",
       "description": "Apply",
-      "ctc": "10100000",
+      "ctc": "2800000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-10-08 17:56",
-      "resume_upload_end": "2026-10-12 00:00",
+      "resume_upload_start": "2026-10-17 12:55",
+      "resume_upload_end": "2026-10-18 16:00",
       "interview_selection": "",
       "contract": ""
     },
     {
-      "id": "7",
+      "id": "8",
+      "company": "InMobi Privated Limited and Glance Private Limited",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "SDEI",
+      "description": "Apply",
+      "ctc": "5500000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-17 13:00",
+      "resume_upload_end": "2026-10-18 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "9",
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
@@ -9451,7 +9483,23 @@
       "contract": ""
     },
     {
-      "id": "8",
+      "id": "10",
+      "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "C++ Developer",
+      "description": "Apply",
+      "ctc": "10100000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-08 17:56",
+      "resume_upload_end": "2026-10-12 00:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "11",
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
@@ -9467,7 +9515,7 @@
       "contract": ""
     },
     {
-      "id": "9",
+      "id": "12",
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
@@ -9483,23 +9531,7 @@
       "contract": ""
     },
     {
-      "id": "10",
-      "company": "SQUAREPOINT CAPITAL",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Graduate Software Developer",
-      "description": "Apply",
-      "ctc": "7436382",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-10-04 09:24",
-      "resume_upload_end": "2026-10-06 11:59",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "11",
+      "id": "13",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -9515,7 +9547,7 @@
       "contract": ""
     },
     {
-      "id": "12",
+      "id": "14",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -9531,7 +9563,23 @@
       "contract": ""
     },
     {
-      "id": "13",
+      "id": "15",
+      "company": "SQUAREPOINT CAPITAL",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Graduate Software Developer",
+      "description": "Apply",
+      "ctc": "7436382",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-04 09:24",
+      "resume_upload_end": "2026-10-06 11:59",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "16",
       "company": "Stenoa Capital",
       "additional_details": "",
       "ppt": "",
@@ -9547,7 +9595,7 @@
       "contract": ""
     },
     {
-      "id": "14",
+      "id": "17",
       "company": "Trexquant (India) Business Consulting LLP",
       "additional_details": "",
       "ppt": "",
@@ -9563,7 +9611,7 @@
       "contract": ""
     },
     {
-      "id": "15",
+      "id": "18",
       "company": "Warner Music Group",
       "additional_details": "",
       "ppt": "",
