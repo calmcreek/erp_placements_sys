@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "18 Oct 2026, 06:02:18 PM",
-  "next_check": "18 Oct 2026, 06:32:18 PM",
-  "notice_count": 1045,
+  "last_check": "18 Oct 2026, 06:32:33 PM",
+  "next_check": "18 Oct 2026, 07:02:33 PM",
+  "notice_count": 1047,
   "placement_count": 23,
   "notices": [
+    {
+      "id": "1129",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "MASTERCARD",
+      "notice": "The CV submission of MASTERCARD for the roles of Associate Specialist Product Development and Software Engineer has been extended till 4:00 PM, 19th October, 2026.It is mandatory for all the candidates who are applying for these roles, to apply on the portal link attached below:1. Associate Specialist Product Development : https://mastercard.wd1.myworkdayjobs.com/CampusApplyOnly/job/Pune-India/Product-Development--Launch-Program-2027---India_R-2876812. Software Engineer : https://mastercard.wd1.myworkdayjobs.com/CampusApplyOnly/job/Pune-India/Software-Engineer--Launch-Program-2027---India_R-287778NOTE: Students are required to apply using their CDC-registered email ID on both the company portal. This step is mandatory, and candidates who fail to complete the registration will not be considered for the processInterested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "18-10-2026 18:32"
+    },
+    {
+      "id": "1128",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "MASTERCARD",
+      "notice": "The Pre-Placement Talk for Mastercard, will be held on 19th October 2026 from 4:00 PM to 5:00 PM.Link: https://mastercard.zoom.us/j/85617943164?pwd=TnFE0SVdGn5V9CkEvTadvtIFz7sKuU.1Password: 215671Note: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Ashutosh (+91 8840104367)CDC, IIT Kharagpur.",
+      "notice_by": "23AG36009",
+      "notice_time": "18-10-2026 18:30"
+    },
     {
       "id": "1124",
       "type": "PLACEMENT",
