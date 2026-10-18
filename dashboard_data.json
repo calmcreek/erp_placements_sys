@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "18 Oct 2026, 05:32:34 PM",
-  "next_check": "18 Oct 2026, 06:02:34 PM",
-  "notice_count": 1044,
+  "last_check": "18 Oct 2026, 06:02:18 PM",
+  "next_check": "18 Oct 2026, 06:32:18 PM",
+  "notice_count": 1045,
   "placement_count": 23,
   "notices": [
+    {
+      "id": "1124",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Accenture AEH",
+      "notice": "All students who have applied for the Accenture AEH : Elite Technology Engineer role and have received a rejection email from Accenture are required to fill out the Google Form linked below.Google Form: https://forms.gle/sgiwVt1xLXkio9Tm7Deadline: 4:00 PM, 19th October 2026.Please note that this form is meant only for students who have received a rejection email from the company's end.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "18-10-2026 17:51"
+    },
     {
       "id": "1123",
       "type": "PLACEMENT",
