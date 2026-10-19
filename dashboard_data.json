@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "19 Oct 2026, 06:32:37 PM",
-  "next_check": "19 Oct 2026, 07:02:37 PM",
-  "notice_count": 1050,
-  "placement_count": 23,
+  "last_check": "19 Oct 2026, 07:02:34 PM",
+  "next_check": "19 Oct 2026, 07:32:34 PM",
+  "notice_count": 1051,
+  "placement_count": 24,
   "notices": [
+    {
+      "id": "1133",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "Multiple Companies",
+      "notice": "The CV Submission for the following companies have been extended till 10:00 AM, 20th October, 20261. Inmobi (Profile: SDE 1)2. Mastercard (Profile: Associate Specialist Product Development, Software Engineer)3. Slice (Profile: Associate Product Manager, Analyst)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "19-10-2026 18:51"
+    },
     {
       "id": "1132",
       "type": "PLACEMENT",
@@ -9459,22 +9468,6 @@
   "placements": [
     {
       "id": "0",
-      "company": "Accenture India Private Limited",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Elite Technology Engineer",
-      "description": "Apply",
-      "ctc": "1815000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "Y",
-      "resume_upload_start": "2026-10-17 13:00",
-      "resume_upload_end": "2026-10-19 16:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "1",
       "company": "Accenture Japan",
       "additional_details": "Download",
       "ppt": "",
@@ -9490,7 +9483,7 @@
       "contract": ""
     },
     {
-      "id": "2",
+      "id": "1",
       "company": "DB",
       "additional_details": "",
       "ppt": "",
@@ -9506,7 +9499,7 @@
       "contract": ""
     },
     {
-      "id": "3",
+      "id": "2",
       "company": "Edelweiss Global Markets",
       "additional_details": "",
       "ppt": "",
@@ -9522,7 +9515,7 @@
       "contract": ""
     },
     {
-      "id": "4",
+      "id": "3",
       "company": "Graviton Research Capital LLP",
       "additional_details": "",
       "ppt": "",
@@ -9538,7 +9531,7 @@
       "contract": ""
     },
     {
-      "id": "5",
+      "id": "4",
       "company": "Graviton Research Capital LLP",
       "additional_details": "",
       "ppt": "",
@@ -9554,7 +9547,7 @@
       "contract": ""
     },
     {
-      "id": "6",
+      "id": "5",
       "company": "Harness",
       "additional_details": "",
       "ppt": "",
@@ -9570,7 +9563,7 @@
       "contract": ""
     },
     {
-      "id": "7",
+      "id": "6",
       "company": "Houlihan Lokey Advisory (India) Private Limited",
       "additional_details": "",
       "ppt": "",
@@ -9586,7 +9579,7 @@
       "contract": ""
     },
     {
-      "id": "8",
+      "id": "7",
       "company": "InMobi Privated Limited and Glance Private Limited",
       "additional_details": "",
       "ppt": "",
@@ -9597,7 +9590,23 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-10-17 13:00",
-      "resume_upload_end": "2026-10-19 16:00",
+      "resume_upload_end": "2026-10-20 10:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "8",
+      "company": "MASTERCARD",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Associate Specialist, Product Development Role Overview We are looking for a dynamic and motivated individual to join our team as an Associate Analyst, working at the intersection of Data Analytics, Business Strategy, and Product Management. This role is ideal for someone passionate about leveraging data and emerging technologies like Generative AI and Machine Learning to drive innovation, optimize performance, and shape product direction. You will work closely with cross-functional teams to analyze large datasets, extract actionable insights, and contribute to the development of scalable, AI-powered solutions that address real-world business challenges. Our team culture is rooted in curiosity, collaboration, and continuous learning. We encourage experimentation, value diverse perspectives, and support each other in solving complex problems. Whether you're building your first dashboard or exploring the potential of agentic AI, you'll be surrounded by passionate teammates committed to making an impacttogether.",
+      "description": "Apply",
+      "ctc": "22,05,800",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-17 13:00",
+      "resume_upload_end": "2026-10-20 10:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -9613,23 +9622,23 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-17 13:00",
-      "resume_upload_end": "2026-10-19 16:00",
+      "resume_upload_end": "2026-10-20 10:00",
       "interview_selection": "",
       "contract": ""
     },
     {
       "id": "10",
-      "company": "MASTERCARD",
+      "company": "NATWEST",
       "additional_details": "",
       "ppt": "",
-      "designation": "Associate Specialist, Product Development Role Overview We are looking for a dynamic and motivated individual to join our team as an Associate Analyst, working at the intersection of Data Analytics, Business Strategy, and Product Management. This role is ideal for someone passionate about leveraging data and emerging technologies like Generative AI and Machine Learning to drive innovation, optimize performance, and shape product direction. You will work closely with cross-functional teams to analyze large datasets, extract actionable insights, and contribute to the development of scalable, AI-powered solutions that address real-world business challenges. Our team culture is rooted in curiosity, collaboration, and continuous learning. We encourage experimentation, value diverse perspectives, and support each other in solving complex problems. Whether you're building your first dashboard or exploring the potential of agentic AI, you'll be surrounded by passionate teammates committed to making an impacttogether.",
+      "designation": "Software Engineer",
       "description": "Apply",
-      "ctc": "22,05,800",
+      "ctc": "3000000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-10-17 13:00",
-      "resume_upload_end": "2026-10-19 16:00",
+      "resume_upload_start": "2026-10-19 18:50",
+      "resume_upload_end": "2026-10-21 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -9654,13 +9663,13 @@
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
-      "designation": "Machine Learning & Quantitative Researcher",
+      "designation": "C++ Developer",
       "description": "Apply",
       "ctc": "10100000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-10-08 17:55",
+      "resume_upload_start": "2026-10-08 17:56",
       "resume_upload_end": "2026-10-12 00:00",
       "interview_selection": "",
       "contract": ""
@@ -9670,13 +9679,13 @@
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
-      "designation": "C++ Developer",
+      "designation": "Machine Learning & Quantitative Researcher",
       "description": "Apply",
       "ctc": "10100000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-10-08 17:56",
+      "resume_upload_start": "2026-10-08 17:55",
       "resume_upload_end": "2026-10-12 00:00",
       "interview_selection": "",
       "contract": ""
@@ -9699,17 +9708,17 @@
     },
     {
       "id": "15",
-      "company": "slice",
+      "company": "Qualcomm",
       "additional_details": "",
       "ppt": "",
-      "designation": "Analyst",
+      "designation": "Engineer | Job Area: Hardware | Location : Bangalore / Hyderabad /Chennai / Noida",
       "description": "Apply",
-      "ctc": "2500000",
+      "ctc": "4343000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-10-17 13:00",
-      "resume_upload_end": "2026-10-19 16:00",
+      "resume_upload_start": "2026-10-19 19:00",
+      "resume_upload_end": "2026-10-21 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -9725,12 +9734,28 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-17 13:00",
-      "resume_upload_end": "2026-10-19 16:00",
+      "resume_upload_end": "2026-10-20 10:00",
       "interview_selection": "",
       "contract": ""
     },
     {
       "id": "17",
+      "company": "slice",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Analyst",
+      "description": "Apply",
+      "ctc": "2500000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-17 13:00",
+      "resume_upload_end": "2026-10-20 10:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "18",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -9746,7 +9771,7 @@
       "contract": ""
     },
     {
-      "id": "18",
+      "id": "19",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -9762,7 +9787,7 @@
       "contract": ""
     },
     {
-      "id": "19",
+      "id": "20",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -9778,7 +9803,7 @@
       "contract": ""
     },
     {
-      "id": "20",
+      "id": "21",
       "company": "Stenoa Capital",
       "additional_details": "",
       "ppt": "",
@@ -9794,7 +9819,7 @@
       "contract": ""
     },
     {
-      "id": "21",
+      "id": "22",
       "company": "Trexquant (India) Business Consulting LLP",
       "additional_details": "",
       "ppt": "",
@@ -9810,7 +9835,7 @@
       "contract": ""
     },
     {
-      "id": "22",
+      "id": "23",
       "company": "Warner Music Group",
       "additional_details": "",
       "ppt": "",
