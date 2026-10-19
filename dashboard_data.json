@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "19 Oct 2026, 12:32:34 PM",
-  "next_check": "19 Oct 2026, 01:02:34 PM",
-  "notice_count": 1048,
+  "last_check": "19 Oct 2026, 01:02:18 PM",
+  "next_check": "19 Oct 2026, 01:32:18 PM",
+  "notice_count": 1049,
   "placement_count": 23,
   "notices": [
+    {
+      "id": "1131",
+      "type": "INTERNSHIP",
+      "subject": "Date extension",
+      "company": "ULTIMATE KRONOS GROUP",
+      "notice": "The CV submission of Ultimate Kronos Group has been extended till 11:59 PM, 20th October 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "19-10-2026 12:58"
+    },
     {
       "id": "1130",
       "type": "PLACEMENT",
