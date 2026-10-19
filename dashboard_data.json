@@ -1,10 +1,37 @@
 {
   "erp_status": "Connected",
-  "last_check": "19 Oct 2026, 07:02:34 PM",
-  "next_check": "19 Oct 2026, 07:32:34 PM",
-  "notice_count": 1051,
-  "placement_count": 24,
+  "last_check": "19 Oct 2026, 07:32:35 PM",
+  "next_check": "19 Oct 2026, 08:02:35 PM",
+  "notice_count": 1054,
+  "placement_count": 31,
   "notices": [
+    {
+      "id": "1136",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "Multiple Companies",
+      "notice": "The CV Submission for the following companies have been extended till 10:00 AM, 20th October, 20261. Houlihan Lokey (Profile: Analyst)2. Accenture AEH (Profile: Elite Technology Engineer)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "19-10-2026 19:26"
+    },
+    {
+      "id": "1135",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Multiple Companies",
+      "notice": "The following companies are open for CV Submission till 4:00 PM, 20th October, 2026.1.Qulacomm (All Profiles)2. Natwest Group (Software Engineer)Interested and eligible students are advised to apply within the given deadline.CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "19-10-2026 19:15"
+    },
+    {
+      "id": "1134",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Accenture AEH",
+      "notice": "All students who have applied for Accenture AEH for the Elite Technology Engineer Profile are required to register on the company portal before 4:00 PM, 20th October, 2026.This step is mandatory, and candidates who fail to complete the registration will not be considered for the process. Please take note of the following important instructions regarding PAN card submission during the registration process:1. All students must submit a major PAN card which has their photo. This is mandatory and the only identity proof needed during our registration process.2. PAN cards made when a student was a minor will not be entertained. If provided, candidate will be rejected from the process.3. E-PAN Card is accepted. Candidates can refer to the instructions available in the help link on the registration page.4. All students must mandatorily submit their PAN number and PAN copy which has their photo. PAN card application acknowledgment as a proof of PAN card will not be considered.5. PAN card which has their photo is mandatory, and the only identity proof accepted during our offer and document verification process.Registration Link:https://indiacampus.accenture.com/v2/registration/accenture/AEHPLUS27/apply?event=1505067&job=1727495All students are requested to complete the portal registration using their CDC-registered email ID and ensure compliance with the above guidelines by 4:00 PM, 20th October 2026.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "19-10-2026 19:09"
+    },
     {
       "id": "1133",
       "type": "PLACEMENT",
@@ -9468,6 +9495,22 @@
   "placements": [
     {
       "id": "0",
+      "company": "Accenture India Private Limited",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Elite Technology Engineer",
+      "description": "Apply",
+      "ctc": "1815000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "Y",
+      "resume_upload_start": "2026-10-17 13:00",
+      "resume_upload_end": "2026-10-20 10:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "1",
       "company": "Accenture Japan",
       "additional_details": "Download",
       "ppt": "",
@@ -9483,7 +9526,7 @@
       "contract": ""
     },
     {
-      "id": "1",
+      "id": "2",
       "company": "DB",
       "additional_details": "",
       "ppt": "",
@@ -9499,7 +9542,7 @@
       "contract": ""
     },
     {
-      "id": "2",
+      "id": "3",
       "company": "Edelweiss Global Markets",
       "additional_details": "",
       "ppt": "",
@@ -9515,7 +9558,7 @@
       "contract": ""
     },
     {
-      "id": "3",
+      "id": "4",
       "company": "Graviton Research Capital LLP",
       "additional_details": "",
       "ppt": "",
@@ -9531,7 +9574,7 @@
       "contract": ""
     },
     {
-      "id": "4",
+      "id": "5",
       "company": "Graviton Research Capital LLP",
       "additional_details": "",
       "ppt": "",
@@ -9547,7 +9590,7 @@
       "contract": ""
     },
     {
-      "id": "5",
+      "id": "6",
       "company": "Harness",
       "additional_details": "",
       "ppt": "",
@@ -9563,7 +9606,7 @@
       "contract": ""
     },
     {
-      "id": "6",
+      "id": "7",
       "company": "Houlihan Lokey Advisory (India) Private Limited",
       "additional_details": "",
       "ppt": "",
@@ -9574,12 +9617,12 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-17 12:55",
-      "resume_upload_end": "2026-10-19 16:00",
+      "resume_upload_end": "2026-10-20 10:00",
       "interview_selection": "",
       "contract": ""
     },
     {
-      "id": "7",
+      "id": "8",
       "company": "InMobi Privated Limited and Glance Private Limited",
       "additional_details": "",
       "ppt": "",
@@ -9589,22 +9632,6 @@
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "Y",
-      "resume_upload_start": "2026-10-17 13:00",
-      "resume_upload_end": "2026-10-20 10:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "8",
-      "company": "MASTERCARD",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Associate Specialist, Product Development Role Overview We are looking for a dynamic and motivated individual to join our team as an Associate Analyst, working at the intersection of Data Analytics, Business Strategy, and Product Management. This role is ideal for someone passionate about leveraging data and emerging technologies like Generative AI and Machine Learning to drive innovation, optimize performance, and shape product direction. You will work closely with cross-functional teams to analyze large datasets, extract actionable insights, and contribute to the development of scalable, AI-powered solutions that address real-world business challenges. Our team culture is rooted in curiosity, collaboration, and continuous learning. We encourage experimentation, value diverse perspectives, and support each other in solving complex problems. Whether you're building your first dashboard or exploring the potential of agentic AI, you'll be surrounded by passionate teammates committed to making an impacttogether.",
-      "description": "Apply",
-      "ctc": "22,05,800",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
       "resume_upload_start": "2026-10-17 13:00",
       "resume_upload_end": "2026-10-20 10:00",
       "interview_selection": "",
@@ -9628,6 +9655,22 @@
     },
     {
       "id": "10",
+      "company": "MASTERCARD",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Associate Specialist, Product Development Role Overview We are looking for a dynamic and motivated individual to join our team as an Associate Analyst, working at the intersection of Data Analytics, Business Strategy, and Product Management. This role is ideal for someone passionate about leveraging data and emerging technologies like Generative AI and Machine Learning to drive innovation, optimize performance, and shape product direction. You will work closely with cross-functional teams to analyze large datasets, extract actionable insights, and contribute to the development of scalable, AI-powered solutions that address real-world business challenges. Our team culture is rooted in curiosity, collaboration, and continuous learning. We encourage experimentation, value diverse perspectives, and support each other in solving complex problems. Whether you're building your first dashboard or exploring the potential of agentic AI, you'll be surrounded by passionate teammates committed to making an impacttogether.",
+      "description": "Apply",
+      "ctc": "22,05,800",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-17 13:00",
+      "resume_upload_end": "2026-10-20 10:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "11",
       "company": "NATWEST",
       "additional_details": "",
       "ppt": "",
@@ -9643,7 +9686,7 @@
       "contract": ""
     },
     {
-      "id": "11",
+      "id": "12",
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
@@ -9654,22 +9697,6 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-08 17:54",
-      "resume_upload_end": "2026-10-12 00:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "12",
-      "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "C++ Developer",
-      "description": "Apply",
-      "ctc": "10100000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-10-08 17:56",
       "resume_upload_end": "2026-10-12 00:00",
       "interview_selection": "",
       "contract": ""
@@ -9695,6 +9722,22 @@
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
+      "designation": "C++ Developer",
+      "description": "Apply",
+      "ctc": "10100000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-08 17:56",
+      "resume_upload_end": "2026-10-12 00:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "15",
+      "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
+      "additional_details": "",
+      "ppt": "",
       "designation": "Quantitative Researcher",
       "description": "Apply",
       "ctc": "14600000",
@@ -9707,7 +9750,87 @@
       "contract": ""
     },
     {
-      "id": "15",
+      "id": "16",
+      "company": "Qualcomm",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Engineer | Job Area: Graphic System",
+      "description": "Apply",
+      "ctc": "5575000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-19 19:00",
+      "resume_upload_end": "2026-10-21 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "17",
+      "company": "Qualcomm",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Engineer | Job Area: Software Engineering | Location : Hyderabad / Bangalore / Chennai / Noida",
+      "description": "Apply",
+      "ctc": "4343000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-19 19:00",
+      "resume_upload_end": "2026-10-21 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "18",
+      "company": "Qualcomm",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Engineer | Job Area: Modem Systems",
+      "description": "Apply",
+      "ctc": "5575000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-19 19:00",
+      "resume_upload_end": "2026-10-21 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "19",
+      "company": "Qualcomm",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Engineer | Job Area: Modem FW | Location: Hyderabad",
+      "description": "Apply",
+      "ctc": "5575000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-19 19:00",
+      "resume_upload_end": "2026-10-21 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "20",
+      "company": "Qualcomm",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Engineer | Job Area: Multimedia Systems | Location: Bangalore",
+      "description": "Apply",
+      "ctc": "5575000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-19 19:00",
+      "resume_upload_end": "2026-10-21 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "21",
       "company": "Qualcomm",
       "additional_details": "",
       "ppt": "",
@@ -9723,7 +9846,23 @@
       "contract": ""
     },
     {
-      "id": "16",
+      "id": "22",
+      "company": "Qualcomm",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Engineer | Job Area: Hardware Perf",
+      "description": "Apply",
+      "ctc": "4343000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-19 19:00",
+      "resume_upload_end": "2026-10-21 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "23",
       "company": "slice",
       "additional_details": "",
       "ppt": "",
@@ -9739,7 +9878,7 @@
       "contract": ""
     },
     {
-      "id": "17",
+      "id": "24",
       "company": "slice",
       "additional_details": "",
       "ppt": "",
@@ -9755,23 +9894,7 @@
       "contract": ""
     },
     {
-      "id": "18",
-      "company": "SQUAREPOINT CAPITAL",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Desk Quant Analyst",
-      "description": "Apply",
-      "ctc": "6736382",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-10-04 09:23",
-      "resume_upload_end": "2026-10-06 11:59",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "19",
+      "id": "25",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -9787,7 +9910,7 @@
       "contract": ""
     },
     {
-      "id": "20",
+      "id": "26",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -9803,7 +9926,23 @@
       "contract": ""
     },
     {
-      "id": "21",
+      "id": "27",
+      "company": "SQUAREPOINT CAPITAL",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Desk Quant Analyst",
+      "description": "Apply",
+      "ctc": "6736382",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-04 09:23",
+      "resume_upload_end": "2026-10-06 11:59",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "28",
       "company": "Stenoa Capital",
       "additional_details": "",
       "ppt": "",
@@ -9819,7 +9958,7 @@
       "contract": ""
     },
     {
-      "id": "22",
+      "id": "29",
       "company": "Trexquant (India) Business Consulting LLP",
       "additional_details": "",
       "ppt": "",
@@ -9835,7 +9974,7 @@
       "contract": ""
     },
     {
-      "id": "23",
+      "id": "30",
       "company": "Warner Music Group",
       "additional_details": "",
       "ppt": "",
