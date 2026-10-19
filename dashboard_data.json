@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "19 Oct 2026, 12:02:26 PM",
-  "next_check": "19 Oct 2026, 12:32:26 PM",
-  "notice_count": 1047,
+  "last_check": "19 Oct 2026, 12:32:34 PM",
+  "next_check": "19 Oct 2026, 01:02:34 PM",
+  "notice_count": 1048,
   "placement_count": 23,
   "notices": [
+    {
+      "id": "1130",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "MASTERCARD",
+      "notice": "All students who have applied for Mastercard are required to register on the company portal before 11:59 PM, 19th October, 2026.It is mandatory for all the candidates who are applying for these roles, to apply on the portal link attached below:1. Associate Specialist Product Development : https://mastercard.wd1.myworkdayjobs.com/CampusApplyOnly/job/Pune-India/Product-Management--Product-Development--Launch-Program-2027---India_R-2876862. Software Engineer : https://mastercard.wd1.myworkdayjobs.com/CampusApplyOnly/job/Pune-India/Software-Engineer--Launch-Program-2027---India_R-287778NOTE: Students are required to apply using their CDC-registered email ID on both the company portal. This step is mandatory, and candidates who fail to complete the registration will not be considered for the processInterested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "19-10-2026 12:30"
+    },
     {
       "id": "1129",
       "type": "PLACEMENT",
