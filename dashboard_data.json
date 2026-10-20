@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "20 Oct 2026, 04:02:17 PM",
-  "next_check": "20 Oct 2026, 04:32:17 PM",
-  "notice_count": 1055,
+  "last_check": "20 Oct 2026, 04:32:36 PM",
+  "next_check": "20 Oct 2026, 05:02:36 PM",
+  "notice_count": 1056,
   "placement_count": 31,
   "notices": [
+    {
+      "id": "1138",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "BARCLAYS",
+      "notice": "The Pre-Placement Talk for Barclays, will be held on 21st October 2026 from 1:00 PM to 2:00 PM.Link: https://teams.microsoft.com/meet/345571785459568?p=gQt2pOftm6j8esFcngMeeting ID: 345 571 785 459 568Passcode: ev7rf37SNote: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Daksh (+91 98180 71612)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "20-10-2026 16:12"
+    },
     {
       "id": "1137",
       "type": "INTERNSHIP",
