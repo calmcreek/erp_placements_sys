@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "21 Oct 2026, 09:39:41 PM",
-  "next_check": "21 Oct 2026, 10:09:41 PM",
-  "notice_count": 1069,
+  "last_check": "21 Oct 2026, 09:56:46 PM",
+  "next_check": "21 Oct 2026, 10:26:46 PM",
+  "notice_count": 1070,
   "placement_count": 41,
   "notices": [
+    {
+      "id": "1154",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "SLICE",
+      "notice": "All students are hereby informed that a mock test link has been triggered to all the eligible students who have applied on ERP, as well as the Pod.AI registration portal, to verify system compatibility for the upcoming assessment.The mock test is mandatory for all students and must be attempted by 5:00 PM on 22nd October 2026.Safe Exam Browser (SEB): SEB must be installed on your laptop/desktop before starting the test. The installation guide is attached below.All students must complete the mock test within the specified deadline to identify and resolve any system compatibility issues before the actual assessment.CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "21-10-2026 21:48"
+    },
     {
       "id": "1153",
       "type": "PLACEMENT",
