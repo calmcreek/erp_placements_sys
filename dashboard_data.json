@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "21 Oct 2026, 11:02:25 PM",
-  "next_check": "21 Oct 2026, 11:32:25 PM",
-  "notice_count": 1070,
+  "last_check": "21 Oct 2026, 11:32:33 PM",
+  "next_check": "22 Oct 2026, 12:02:33 AM",
+  "notice_count": 1071,
   "placement_count": 41,
   "notices": [
+    {
+      "id": "1155",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "LAM RESEARCH",
+      "notice": "The Pre-Placement Talk for LAM Research for all the roles, will be held on 22nd October 2026 from 12:00 PM.Link : https://teams.microsoft.com/meet/2158944263064285?p=mNl11PSk5ZoLQgz2XXNote: All eligible and interested students are supposed to attend the PPT without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time. The test will be held post the PPT. The room allocation along with detailed instructions will be shared soon.POC: Ashutosh Singh (+91 8840104367), Nikhita Singh (+91 8770035884)CDC, IIT Kharagpur.",
+      "notice_by": "23MI33009",
+      "notice_time": "21-10-2026 23:01"
+    },
     {
       "id": "1154",
       "type": "PLACEMENT",
