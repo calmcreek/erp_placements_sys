@@ -1,10 +1,28 @@
 {
-  "erp_status": "Error",
-  "last_check": "21 Oct 2026, 08:02:22 PM",
-  "next_check": null,
-  "notice_count": 1065,
+  "erp_status": "Connected",
+  "last_check": "21 Oct 2026, 09:02:22 PM",
+  "next_check": "21 Oct 2026, 09:32:22 PM",
+  "notice_count": 1067,
   "placement_count": 41,
   "notices": [
+    {
+      "id": "1150",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Multiple Companies",
+      "notice": "The CV Submission for the following companies have been extended till 2:00 PM, 22nd October, 20261. Qulacomm (All Profiles)2. Natwest Group (Profile : Software Engineer)3. Accenture AEH (Profile: Elite Technology Engineer)4. Mastercard (Profile: Associate Specialist Product Development, Software Engineer)Interested and eligible students are advised to apply within the given deadline.CDC, IIT Kharagpur",
+      "notice_by": "17164",
+      "notice_time": "21-10-2026 20:19"
+    },
+    {
+      "id": "1149",
+      "type": "INTERNSHIP",
+      "subject": "CV Submission",
+      "company": "Multiple Companies",
+      "notice": "The CV Submission for the following companies have been extended till 10:00 AM, 23rd October, 20261. Glassdata 2. PHNX Research LLP3. Otsuka Corporation 4. nFolks Data SolutionsInterested and eligible students are advised to apply within the given deadline.CDC, IIT Kharagpur",
+      "notice_by": "17164",
+      "notice_time": "21-10-2026 20:04"
+    },
     {
       "id": "1148",
       "type": "PLACEMENT",
@@ -9604,7 +9622,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-10-17 13:00",
-      "resume_upload_end": "2026-10-20 10:00",
+      "resume_upload_end": "2026-10-22 14:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -9844,7 +9862,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-17 13:00",
-      "resume_upload_end": "2026-10-20 10:00",
+      "resume_upload_end": "2026-10-22 14:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -9860,7 +9878,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-17 13:00",
-      "resume_upload_end": "2026-10-20 10:00",
+      "resume_upload_end": "2026-10-22 14:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -9876,7 +9894,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-19 18:50",
-      "resume_upload_end": "2026-10-21 16:00",
+      "resume_upload_end": "2026-10-22 14:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -10020,7 +10038,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-19 19:00",
-      "resume_upload_end": "2026-10-21 16:00",
+      "resume_upload_end": "2026-10-22 14:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -10036,7 +10054,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-19 19:00",
-      "resume_upload_end": "2026-10-21 16:00",
+      "resume_upload_end": "2026-10-22 14:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -10052,7 +10070,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-19 19:00",
-      "resume_upload_end": "2026-10-21 16:00",
+      "resume_upload_end": "2026-10-22 14:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -10068,7 +10086,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-19 19:00",
-      "resume_upload_end": "2026-10-21 16:00",
+      "resume_upload_end": "2026-10-22 14:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -10084,7 +10102,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-19 19:00",
-      "resume_upload_end": "2026-10-21 16:00",
+      "resume_upload_end": "2026-10-22 14:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -10100,7 +10118,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-19 19:00",
-      "resume_upload_end": "2026-10-21 16:00",
+      "resume_upload_end": "2026-10-22 14:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -10116,7 +10134,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-19 19:00",
-      "resume_upload_end": "2026-10-21 16:00",
+      "resume_upload_end": "2026-10-22 14:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -10249,5 +10267,5 @@
       "contract": ""
     }
   ],
-  "last_error": "command: SELECT => socket error: EOF"
+  "last_error": null
 }
