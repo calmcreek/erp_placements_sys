@@ -1,18 +1,27 @@
 {
   "erp_status": "Connected",
-  "last_check": "21 Oct 2026, 04:02:25 PM",
-  "next_check": "21 Oct 2026, 04:32:25 PM",
-  "notice_count": 1062,
+  "last_check": "21 Oct 2026, 04:33:06 PM",
+  "next_check": "21 Oct 2026, 05:03:06 PM",
+  "notice_count": 1063,
   "placement_count": 41,
   "notices": [
     {
-      "id": "1144",
+      "id": "1146",
       "type": "PLACEMENT",
       "subject": "CV Submission",
       "company": "Multiple Companies",
-      "notice": "The following companies are open for CV Submission till 4:00 PM, 22nd October, 2026.1.  ACCENTURE SOLUTIONS PRIVATE LIMITED (Profile: I&E AI and Data, GN Management Consulting Associate)2.  PLUTUS RESEARCH PRIVATE LIMITED (Profile: Trading Systems Developer, Quantitative Analyst)3.  IXANA (All Profiles)4.  POCKET FM (Profile: Member of Technical Staff)5.  AMERICAN EXPRESS (Profile: Management Trainee - Data Science & Analytics)Interested and eligible students are advised to apply within the given deadline.CDC, IIT Kharagpur",
-      "notice_by": "23039",
-      "notice_time": "21-10-2026 15:47"
+      "notice": "The following companies are open for CV Submission till 4:00 PM, 22nd October, 2026.1. ACCENTURE SOLUTIONS PRIVATE LIMITED (Profile: I&E AI and Data, GN Management Consulting Associate)2. PLUTUS RESEARCH PRIVATE LIMITED (Profile: Trading Systems Developer, Quantitative Analyst)3. IXANA (All Profiles)4. POCKET FM (Profiles: Member of Technical Staff, Management Trainee)5. AMERICAN EXPRESS (Profile: Management Trainee - Data Science & Analytics)Interested and eligible students are advised to apply within the given deadline.CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "21-10-2026 16:23"
+    },
+    {
+      "id": "1145",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Accenture AEH",
+      "notice": "All students who have applied for Accenture AEH for the Elite Technology Engineer Profile are required to register on the company portal before 4:00 PM, 22nd October, 2026.This step is mandatory, and candidates who fail to complete the registration will not be considered for the process. Please take note of the following important instructions regarding PAN card submission during the registration process:1. All students must submit a major PAN card which has their photo. This is mandatory and the only identity proof needed during our registration process.2. PAN cards made when a student was a minor will not be entertained. If provided, candidate will be rejected from the process.3. E-PAN Card is accepted. Candidates can refer to the instructions available in the help link on the registration page.4. All students must mandatorily submit their PAN number and PAN copy which has their photo. PAN card application acknowledgment as a proof of PAN card will not be considered.5. PAN card which has their photo is mandatory, and the only identity proof accepted during our offer and document verification process.Registration Link:https://indiacampus.accenture.com/v2/registration/accenture/AEHPLUS27/apply?event=1505067&job=1727495All students are requested to complete the portal registration using their CDC-registered email ID and ensure compliance with the above guidelines by 4:00 PM, 22nd October 2026.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "21-10-2026 16:10"
     },
     {
       "id": "1143",
@@ -9607,7 +9616,7 @@
       "ctc": "2336000",
       "currency": "INR",
       "additional_details_2": "",
-      "application_status": "",
+      "application_status": "Y",
       "resume_upload_start": "2026-10-21 15:30",
       "resume_upload_end": "2026-10-23 16:00",
       "interview_selection": "",
