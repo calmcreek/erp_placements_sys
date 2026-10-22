@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "22 Oct 2026, 08:02:17 PM",
-  "next_check": null,
-  "notice_count": 1074,
+  "erp_status": "Connected",
+  "last_check": "22 Oct 2026, 09:02:21 PM",
+  "next_check": "22 Oct 2026, 09:32:21 PM",
+  "notice_count": 1075,
   "placement_count": 41,
   "notices": [
+    {
+      "id": "1161",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "SLICE",
+      "notice": "PFA the test room allocation for the Assessment of Slice for both the roles, scheduled from 9:00 PM onwards on 22nd October, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card/Medical Book, failing which students will not be permitted to sit for test.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Aryan (+91 8100303122), Anurag (+91 9491087133) CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "22-10-2026 20:11"
+    },
     {
       "id": "1160",
       "type": "PLACEMENT",
@@ -10330,5 +10339,5 @@
       "contract": ""
     }
   ],
-  "last_error": "Could not find the new ERP OTP email."
+  "last_error": null
 }
