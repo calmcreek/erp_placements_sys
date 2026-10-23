@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "23 Oct 2026, 11:33:41 AM",
-  "next_check": "23 Oct 2026, 12:03:41 PM",
-  "notice_count": 1076,
+  "last_check": "23 Oct 2026, 12:02:49 PM",
+  "next_check": "23 Oct 2026, 12:32:49 PM",
+  "notice_count": 1077,
   "placement_count": 41,
   "notices": [
+    {
+      "id": "1163",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "NATWEST",
+      "notice": "The CV Submission for the following company have been extended till 2:00 PM, 23rd October, 20261. Natwest Group (Profile : Software Engineer)Interested and eligible students are advised to apply within the given deadline.CDC, IIT Kharagpur",
+      "notice_by": "17009",
+      "notice_time": "23-10-2026 11:38"
+    },
     {
       "id": "1162",
       "type": "PLACEMENT",
@@ -9975,7 +9984,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-19 18:50",
-      "resume_upload_end": "2026-10-22 14:00",
+      "resume_upload_end": "2026-10-23 14:00",
       "interview_selection": "",
       "contract": ""
     },
