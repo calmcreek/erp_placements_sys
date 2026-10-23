@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "23 Oct 2026, 12:02:49 PM",
-  "next_check": "23 Oct 2026, 12:32:49 PM",
-  "notice_count": 1077,
+  "last_check": "23 Oct 2026, 12:32:43 PM",
+  "next_check": "23 Oct 2026, 01:02:43 PM",
+  "notice_count": 1078,
   "placement_count": 41,
   "notices": [
+    {
+      "id": "1164",
+      "type": "INTERNSHIP",
+      "subject": "CV Submission",
+      "company": "SYNOPSYS",
+      "notice": "The CV submission of SYNOPSYS has been opened till 11:59 AM, 24th October 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17009",
+      "notice_time": "23-10-2026 12:03"
+    },
     {
       "id": "1163",
       "type": "PLACEMENT",
