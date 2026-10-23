@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "23 Oct 2026, 07:32:34 PM",
-  "next_check": null,
-  "notice_count": 1082,
+  "erp_status": "Connected",
+  "last_check": "23 Oct 2026, 08:32:39 PM",
+  "next_check": "23 Oct 2026, 09:02:39 PM",
+  "notice_count": 1083,
   "placement_count": 41,
   "notices": [
+    {
+      "id": "1170",
+      "type": "PLACEMENT",
+      "subject": "Schedule",
+      "company": "CDC Placement schedule for 24th October",
+      "notice": "All students eligible for placement are advised to take note of the schedule for 24th October:1. [Test] Mastercard (3:00 PM - 4:00 PM)Note : The room allocation for the test will be shared along with other relevant details prior to the test. CDC, IIT Kharagpur.",
+      "notice_by": "23AG36009",
+      "notice_time": "23-10-2026 20:21"
+    },
     {
       "id": "1169",
       "type": "PLACEMENT",
@@ -10402,5 +10411,5 @@
       "contract": ""
     }
   ],
-  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "last_error": null
 }
