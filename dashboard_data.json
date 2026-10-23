@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "23 Oct 2026, 08:32:39 PM",
-  "next_check": "23 Oct 2026, 09:02:39 PM",
-  "notice_count": 1083,
+  "last_check": "23 Oct 2026, 09:02:26 PM",
+  "next_check": "23 Oct 2026, 09:32:26 PM",
+  "notice_count": 1084,
   "placement_count": 41,
   "notices": [
+    {
+      "id": "1171",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "TECH MAHINDRA",
+      "notice": "PFA the shortlist of candidates who have qualified for further rounds of the Tech Mahindra selection process. The details are as follows:Date: 24th October 2026Login Window: 9:00 AM to 11:59 PMRound 2: Cognitive Ability & Aptitude (45 minutes)Round 3: Speech & Writing Assessment (50 minutes)Mode: OnlineVenue: Respective LocationNote:1. Candidates must complete both Round 2 and Round 3 to be considered for further selection.2. Assessment links will be shared directly with shortlisted candidates on their registered email IDs.POC: Bhavy (+91 7597121669), Neev (+91 9001346350)CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "23-10-2026 21:01"
+    },
     {
       "id": "1170",
       "type": "PLACEMENT",
