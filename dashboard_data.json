@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "24 Oct 2026, 12:02:23 PM",
-  "next_check": "24 Oct 2026, 12:32:23 PM",
-  "notice_count": 1087,
+  "last_check": "24 Oct 2026, 12:32:27 PM",
+  "next_check": "24 Oct 2026, 01:02:27 PM",
+  "notice_count": 1088,
   "placement_count": 40,
   "notices": [
+    {
+      "id": "1175",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "MASTERCARD",
+      "notice": "PFA the test shortlist for the Assessment of Mastercard for both the roles, scheduled from 3:00 PM onwards on 24th October, 2026.Venue: Nalanda Classroom ComplexNote: Students are requested to report 15 minutes prior to the reporting time. Students are also required to bring their Institute Id card for the test.POC: Nikita (+91 9969207598), Neev (+91 9001346350)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "24-10-2026 12:28"
+    },
     {
       "id": "1174",
       "type": "PLACEMENT",
