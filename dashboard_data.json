@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "24 Oct 2026, 06:32:34 PM",
-  "next_check": "24 Oct 2026, 07:02:34 PM",
-  "notice_count": 1091,
+  "last_check": "24 Oct 2026, 07:02:27 PM",
+  "next_check": "24 Oct 2026, 07:32:27 PM",
+  "notice_count": 1093,
   "placement_count": 45,
   "notices": [
+    {
+      "id": "1181",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "ACCENTURE",
+      "notice": "All students who have applied for any role at Accenture but have not successfully completed their registration must fill out the Google Form linked below.Google Form: https://forms.gle/PG5asweH3z9WPydA9Deadline: 4:00 PM, 25th October 2026.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "24-10-2026 18:57"
+    },
+    {
+      "id": "1179",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "SEDEMAC",
+      "notice": "All the students applying for Sedemac for any role are required to apply on the following Company Portal as well.A student will be considered for a maximum of 1 role only.Students are also required to register on the following company portal using their CDC Registered Email ID, according to the role that they wish to apply for:Engineer, R&D and Engineer, Test Automation : https://app.joinsuperset.com/join/#/signup/student?jp=3ef72779-1b48-440b-ab19-69a0b38a8418Engineer, Electronic Hardware  : https://app.joinsuperset.com/join/#/signup/student?jp=0c28522d-8d45-4d6b-af66-94fc6b132882 Engineer, Manufacturing Engineering  : https://app.joinsuperset.com/join/#/signup/student?jp=56a35944-3e32-4cce-8472-9e9159816064Lead Engineer, Electronic Hardware  : https://app.joinsuperset.com/join/#/signup/student?jp=08e60ac8-6cef-4168-be7b-955effb5c1ddLead Engineer, Embedded Software : https://app.joinsuperset.com/join/#/signup/student?jp=6161f328-a3d2-449f-961a-df4591f397f1Lead Engineer, R&D (R&D-SysE-COE-AppE-CSA) : https://app.joinsuperset.com/join/#/signup/student?jp=353c06a3-1526-4450-b14c-b66aa9114db5Deadline: 4:00 PM, 25th October, 2026Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "24-10-2026 18:38"
+    },
     {
       "id": "1178",
       "type": "INTERNSHIP",
