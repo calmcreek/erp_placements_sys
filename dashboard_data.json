@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "24 Oct 2026, 07:02:27 PM",
-  "next_check": "24 Oct 2026, 07:32:27 PM",
-  "notice_count": 1093,
+  "last_check": "24 Oct 2026, 07:32:42 PM",
+  "next_check": "24 Oct 2026, 08:02:42 PM",
+  "notice_count": 1094,
   "placement_count": 45,
   "notices": [
+    {
+      "id": "1182",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Multiple Companies",
+      "notice": "The CV Submission for the following companies have been extended till 11:59 AM, 25th October, 2026.1. ACCENTURE SOLUTIONS PRIVATE LIMITED (Profile: I&E AI and Data, GN Management Consulting Associate)2. PLUTUS RESEARCH PRIVATE LIMITED (Profile: Trading Systems Developer, Quantitative Analyst)3. POCKET FM (Profiles: Member of Technical Staff, Management Trainee)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "24-10-2026 19:08"
+    },
     {
       "id": "1181",
       "type": "PLACEMENT",
