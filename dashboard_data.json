@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "24 Oct 2026, 03:02:30 PM",
-  "next_check": "24 Oct 2026, 03:32:30 PM",
-  "notice_count": 1090,
+  "last_check": "24 Oct 2026, 03:32:33 PM",
+  "next_check": "24 Oct 2026, 04:02:33 PM",
+  "notice_count": 1091,
   "placement_count": 45,
   "notices": [
+    {
+      "id": "1178",
+      "type": "INTERNSHIP",
+      "subject": "CV Submission",
+      "company": "TCG DIGITAL",
+      "notice": "The CV submission of TCG DIGITAL has been opened till 11:59 PM, 24th October 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.NOTE:- Everyone is required to fill in the additional details form attached below. https://forms.gle/LKSUzvaX6hFCxRvb6 CDC, IIT Kharagpur",
+      "notice_by": "23AG3AI03",
+      "notice_time": "24-10-2026 15:16"
+    },
     {
       "id": "1177",
       "type": "PLACEMENT",
