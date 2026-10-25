@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "25 Oct 2026, 09:02:18 PM",
-  "next_check": "25 Oct 2026, 09:32:18 PM",
-  "notice_count": 1102,
+  "last_check": "25 Oct 2026, 09:32:47 PM",
+  "next_check": "25 Oct 2026, 10:02:47 PM",
+  "notice_count": 1103,
   "placement_count": 45,
   "notices": [
+    {
+      "id": "1195",
+      "type": "PLACEMENT",
+      "subject": "Schedule",
+      "company": "CDC Placement schedule for 26th October",
+      "notice": "All students eligible for placement are advised to take note of the schedule for 26th October:Please note that the schedule is tentative and subject to changes.1. [PPT : Virtual ] PLUTUS RESEARCH PRIVATE LIMITED (1:00 PM - 2:00 PM)2. [PPT : Virtual ] AMERICAN EXPRESS (6:00 PM - 7:00 PM)3. [PPT : Virtual ] GLEAN (7:00 PM - 8:00 PM)4. [PPT : Offline] NATWEST (8:00 PM - 9:00 PM)5. [TEST] NATWEST (9:30 PM - 11:30 PM)Note : The links to the ppts will be shared along with other relevant details separately. The room allocation for the test will be shared along with other relevant details prior to the test. CDC, IIT Kharagpur.",
+      "notice_by": "23EE38007",
+      "notice_time": "25-10-2026 21:28"
+    },
     {
       "id": "1194",
       "type": "PLACEMENT",
@@ -10289,7 +10298,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-21 15:30",
-      "resume_upload_end": "2026-10-25 11:59",
+      "resume_upload_end": "2026-10-26 17:59",
       "interview_selection": "",
       "contract": ""
     },
@@ -10305,7 +10314,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-21 15:30",
-      "resume_upload_end": "2026-10-25 11:59",
+      "resume_upload_end": "2026-10-26 17:59",
       "interview_selection": "",
       "contract": ""
     },
@@ -10321,7 +10330,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-21 15:30",
-      "resume_upload_end": "2026-10-25 11:59",
+      "resume_upload_end": "2026-10-26 17:59",
       "interview_selection": "",
       "contract": ""
     },
@@ -10337,7 +10346,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-21 15:30",
-      "resume_upload_end": "2026-10-25 11:59",
+      "resume_upload_end": "2026-10-26 17:59",
       "interview_selection": "",
       "contract": ""
     },
