@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "25 Oct 2026, 09:32:38 AM",
-  "next_check": "25 Oct 2026, 10:02:38 AM",
-  "notice_count": 1098,
+  "last_check": "25 Oct 2026, 10:02:17 AM",
+  "next_check": "25 Oct 2026, 10:32:17 AM",
+  "notice_count": 1099,
   "placement_count": 45,
   "notices": [
+    {
+      "id": "1188",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "URBAN COMPANY",
+      "notice": "The Pre-Placement Talk for URBAN COMPANY, will be held on 25th October 2026 from 1:00 PM.Link: https://urbancompany.zoom.us/j/95680412903?pwd=AB4ETIcb1MyUcKZFtDi6qxbPwQsRJw.1&jst=2Meeting ID: 956 8041 2903Passcode: 557384Note: All eligible and interested students are supposed to attend the PPT without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time. POC: Ashutosh Singh (+91 8840104367)CDC, IIT Kharagpur.",
+      "notice_by": "23AG36009",
+      "notice_time": "25-10-2026 09:56"
+    },
     {
       "id": "1187",
       "type": "PLACEMENT",
