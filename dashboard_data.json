@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "25 Oct 2026, 07:02:15 PM",
-  "next_check": "25 Oct 2026, 07:32:15 PM",
-  "notice_count": 1101,
+  "last_check": "25 Oct 2026, 07:32:33 PM",
+  "next_check": "25 Oct 2026, 08:02:33 PM",
+  "notice_count": 1102,
   "placement_count": 45,
   "notices": [
+    {
+      "id": "1194",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "HOULIHAN LOKEY",
+      "notice": "PFA the test room allocation for the Assessment of Houlihan Lokey for Analyst role, scheduled from 8:00 PM onwards till 10:00 PM on 25th October, 2026.Students are required to carry their original Institute ID card, failing which students will not be permitted to sit for test.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Hardik (+91 8177018092), Khush (+91 9922168000)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "25-10-2026 19:16"
+    },
     {
       "id": "1192",
       "type": "INTERNSHIP",
