@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "25 Oct 2026, 09:32:47 PM",
-  "next_check": "25 Oct 2026, 10:02:47 PM",
-  "notice_count": 1103,
+  "last_check": "25 Oct 2026, 10:02:16 PM",
+  "next_check": "25 Oct 2026, 10:32:16 PM",
+  "notice_count": 1105,
   "placement_count": 45,
   "notices": [
+    {
+      "id": "1197",
+      "type": "INTERNSHIP",
+      "subject": "CV Submission",
+      "company": "TCG DIGITAL",
+      "notice": "The CV submission of TCG DIGITAL has been extended till 11:59 PM, 27th October 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.NOTE:- Everyone is required to fill in the additional details form attached below. https://forms.gle/LKSUzvaX6hFCxRvb6 CDC, IIT Kharagpur",
+      "notice_by": "23AG3AI03",
+      "notice_time": "25-10-2026 21:41"
+    },
+    {
+      "id": "1196",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Multiple Companies",
+      "notice": "The CV Submission for the following companies have been extended till 6:00 PM, 26th October, 2026.1. PLUTUS RESEARCH PRIVATE LIMITED (Profile: Trading Systems Developer, Quantitative Analyst)2. POCKET FM (Profiles: Member of Technical Staff, Management Trainee)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "25-10-2026 21:32"
+    },
     {
       "id": "1195",
       "type": "PLACEMENT",
