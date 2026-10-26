@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "26 Oct 2026, 09:02:36 PM",
-  "next_check": "26 Oct 2026, 09:32:36 PM",
-  "notice_count": 1117,
+  "last_check": "26 Oct 2026, 09:32:35 PM",
+  "next_check": "26 Oct 2026, 10:02:35 PM",
+  "notice_count": 1118,
   "placement_count": 49,
   "notices": [
+    {
+      "id": "1214",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "IXANA",
+      "notice": "All the students who have applied for Ixana for the Embedded Software Engineer role are required to fill the following Additional Details form as well.Link: https://forms.gle/Do19kjNRcRfJYvbt7Deadline: 11:00 PM, 26th October, 2026CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "26-10-2026 21:15"
+    },
     {
       "id": "1213",
       "type": "PLACEMENT",
