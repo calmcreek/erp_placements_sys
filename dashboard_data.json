@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "27 Oct 2026, 02:02:19 AM",
-  "next_check": "27 Oct 2026, 02:32:19 AM",
-  "notice_count": 1119,
+  "last_check": "27 Oct 2026, 02:32:33 AM",
+  "next_check": "27 Oct 2026, 03:02:33 AM",
+  "notice_count": 1120,
   "placement_count": 49,
   "notices": [
+    {
+      "id": "1217",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "TEXAS INSTRUMENTS",
+      "notice": "The Pre-Placement Talk for TEXAS INSTRUMENTS, will be held on 27th October 2026 from 1:00 PM.Link: https://ti.webex.com/ti/j.php?MTID=m0c8a3860e1bda0c610f15f5609b24bbaWebinar number: 2334 656 0813Webinar password: ydMTuGX9@65Note: All eligible and interested students are supposed to attend the PPT without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Anjali (+91 7989613926)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "27-10-2026 02:25"
+    },
     {
       "id": "1215",
       "type": "INTERNSHIP",
