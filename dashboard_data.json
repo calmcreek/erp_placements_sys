@@ -1,10 +1,37 @@
 {
   "erp_status": "Connected",
-  "last_check": "26 Oct 2026, 12:32:38 PM",
-  "next_check": "26 Oct 2026, 01:02:38 PM",
-  "notice_count": 1106,
+  "last_check": "26 Oct 2026, 01:02:29 PM",
+  "next_check": "26 Oct 2026, 01:32:29 PM",
+  "notice_count": 1109,
   "placement_count": 45,
   "notices": [
+    {
+      "id": "1202",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "GLEAN SEARCH TECHNOLOGIES INDIA PRIVATE LIMITED",
+      "notice": "The Pre-Placement Talk for Glean for both the roles, will be held on 26th October 2026 from 7:00 PM.Link: https://meet.google.com/rth-dadj-ogk?hs=224Note: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Rudra (+91 8235755257)CDC, IIT Kharagpur.",
+      "notice_by": "23EE38007",
+      "notice_time": "26-10-2026 12:55"
+    },
+    {
+      "id": "1201",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "AMERICAN EXPRESS",
+      "notice": "The Pre-Placement Talk for AMERICAN EXPRESS, will be held on 26th October 2026 from 6:00 PM.Link: https://amex.webex.com/amex/j.php?MTID=m35f6e6c9f90d8fc8893caf31fa98db71Session number: 2535 820 9111Session password: Amex@2026Note: All eligible and interested students are supposed to attend the PPT without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time. POC: Himanshu (+91 9311332376)CDC, IIT Kharagpur.",
+      "notice_by": "23AG36009",
+      "notice_time": "26-10-2026 12:51"
+    },
+    {
+      "id": "1200",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "PLUTUS RESEARCH PRIVATE LIMITED",
+      "notice": "The Pre-Placement Talk for Plutus Research Private Limited for both the roles, have been rescheduled to 5:00 PM to 6:00 PM, 26th October, 2026.Link: https://us06web.zoom.us/j/83367015087?pwd=2dLvOpKPCGdZjwsVmlMAMRe1UQ1MkY.1Meeting ID: 833 6701 5087  Passcode: 902804Note: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Ritvik (+91 9480360231)CDC, IIT Kharagpur.",
+      "notice_by": "23EE38007",
+      "notice_time": "26-10-2026 12:45"
+    },
     {
       "id": "1198",
       "type": "PLACEMENT",
@@ -10165,7 +10192,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-21 15:30",
-      "resume_upload_end": "2026-10-23 16:00",
+      "resume_upload_end": "2026-10-26 12:45",
       "interview_selection": "",
       "contract": ""
     },
@@ -10181,7 +10208,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-21 15:30",
-      "resume_upload_end": "2026-10-23 16:00",
+      "resume_upload_end": "2026-10-26 12:45",
       "interview_selection": "",
       "contract": ""
     },
@@ -10197,7 +10224,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-21 15:30",
-      "resume_upload_end": "2026-10-23 16:00",
+      "resume_upload_end": "2026-10-26 12:45",
       "interview_selection": "",
       "contract": ""
     },
@@ -10213,7 +10240,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-21 15:30",
-      "resume_upload_end": "2026-10-23 16:00",
+      "resume_upload_end": "2026-10-26 12:45",
       "interview_selection": "",
       "contract": ""
     },
