@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "26 Oct 2026, 05:03:37 PM",
-  "next_check": "26 Oct 2026, 05:33:37 PM",
-  "notice_count": 1109,
+  "last_check": "26 Oct 2026, 05:32:51 PM",
+  "next_check": "26 Oct 2026, 06:02:51 PM",
+  "notice_count": 1111,
   "placement_count": 45,
   "notices": [
+    {
+      "id": "1206",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "SEDEMAC",
+      "notice": "All the students applying for Sedemac for any role are required to apply on the following Company Portal as well.A student will be considered for a maximum of 1 role only.Students are also required to register on the following company portal using their CDC Registered Email ID, according to the role that they wish to apply for. If you are unable to access the portal through the institute wifi, then please use your mobile data to access the portal.Engineer, R&D and Engineer, Test Automation : https://app.joinsuperset.com/join/#/signup/student?jp=3ef72779-1b48-440b-ab19-69a0b38a8418Engineer, Electronic Hardware : https://app.joinsuperset.com/join/#/signup/student?jp=0c28522d-8d45-4d6b-af66-94fc6b132882Engineer, Manufacturing Engineering : https://app.joinsuperset.com/join/#/signup/student?jp=56a35944-3e32-4cce-8472-9e9159816064Lead Engineer, Electronic Hardware : https://app.joinsuperset.com/join/#/signup/student?jp=08e60ac8-6cef-4168-be7b-955effb5c1ddLead Engineer, Embedded Software : https://app.joinsuperset.com/join/#/signup/student?jp=6161f328-a3d2-449f-961a-df4591f397f1Lead Engineer, R&D (R&D-SysE-COE-AppE-CSA) : https://app.joinsuperset.com/join/#/signup/student?jp=353c06a3-1526-4450-b14c-b66aa9114db5Deadline: 4:00 PM, 27th October, 2026Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "26-10-2026 17:06"
+    },
+    {
+      "id": "1204",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "NATWEST",
+      "notice": "The Pre-Placement Talk for NATWEST for the Software Engineer role will be held on 26th October 2026 from 8:00 PM.Venue: NR 221, NalandaNote: Attendance for the offline PPT for all the roles is mandatory and will be recorded. The Test will be held post the PPT. Only the students attending the PPT will be eligible for the test. Students are advised to be present 15 minutes prior to the scheduled time.POC: Aryan (+91 81003 03122), Bhavy (+91 75971 21669)CDC, IIT Kharagpur.",
+      "notice_by": "23AG36009",
+      "notice_time": "26-10-2026 17:03"
+    },
     {
       "id": "1202",
       "type": "PLACEMENT",
