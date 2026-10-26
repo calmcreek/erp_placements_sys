@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "26 Oct 2026, 08:02:22 PM",
-  "next_check": "26 Oct 2026, 08:32:22 PM",
-  "notice_count": 1115,
+  "last_check": "26 Oct 2026, 08:32:39 PM",
+  "next_check": "26 Oct 2026, 09:02:39 PM",
+  "notice_count": 1116,
   "placement_count": 49,
   "notices": [
+    {
+      "id": "1212",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Multiple Companies",
+      "notice": "The following companies are open for CV Submission till 4:00 PM, 27th October, 2026.1.  MEESHO (Profile: Senior Associate - Business Management)2.  TEXAS INSTRUMENTS (All Profiles)3.  WHITEOAK CAPITAL (Profile: Research Executive)4. AMERICAN EXPRESS (Management Trainee - AI Research, Management Trainee - Data Science & Analytics)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "26-10-2026 20:31"
+    },
     {
       "id": "1211",
       "type": "PLACEMENT",
