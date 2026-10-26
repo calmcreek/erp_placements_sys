@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "26 Oct 2026, 08:32:39 PM",
-  "next_check": "26 Oct 2026, 09:02:39 PM",
-  "notice_count": 1116,
+  "last_check": "26 Oct 2026, 09:02:36 PM",
+  "next_check": "26 Oct 2026, 09:32:36 PM",
+  "notice_count": 1117,
   "placement_count": 49,
   "notices": [
+    {
+      "id": "1213",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "NATWEST",
+      "notice": "The Test for NATWEST for the Software Engineer role, will be held on 26th October 2026 from 9:30 PM to 11:30 PM.PFA the room allocation for the test. Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.Note : Students are required to carry their original Institute ID card, failing which students will not be permitted to sit for test. POC: Aryan (+91 81003 03122), Bhavy (+91 75971 21669)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "26-10-2026 21:01"
+    },
     {
       "id": "1212",
       "type": "PLACEMENT",
