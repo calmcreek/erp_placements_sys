@@ -1,9 +1,9 @@
 {
   "erp_status": "Connected",
-  "last_check": "27 Oct 2026, 05:32:37 PM",
-  "next_check": "27 Oct 2026, 06:02:37 PM",
+  "last_check": "27 Oct 2026, 06:02:22 PM",
+  "next_check": "27 Oct 2026, 06:32:22 PM",
   "notice_count": 1127,
-  "placement_count": 57,
+  "placement_count": 59,
   "notices": [
     {
       "id": "1226",
@@ -10203,13 +10203,13 @@
       "company": "American Express",
       "additional_details": "",
       "ppt": "",
-      "designation": "Management Trainee - AI Research",
+      "designation": "Management Trainee - Data Science & Analytics",
       "description": "Apply",
-      "ctc": "3360200",
+      "ctc": "2713880",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-10-26 18:10",
+      "resume_upload_start": "2026-10-21 15:30",
       "resume_upload_end": "2026-10-28 16:00",
       "interview_selection": "",
       "contract": ""
@@ -10219,13 +10219,13 @@
       "company": "American Express",
       "additional_details": "",
       "ppt": "",
-      "designation": "Management Trainee - Data Science & Analytics",
+      "designation": "Management Trainee - AI Research",
       "description": "Apply",
-      "ctc": "2713880",
+      "ctc": "3360200",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-10-21 15:30",
+      "resume_upload_start": "2026-10-26 18:10",
       "resume_upload_end": "2026-10-28 16:00",
       "interview_selection": "",
       "contract": ""
@@ -10299,22 +10299,6 @@
       "company": "Glean Search Technologies India Private Limited",
       "additional_details": "",
       "ppt": "",
-      "designation": "Software Engineer - US",
-      "description": "Apply",
-      "ctc": "189250",
-      "currency": "USD",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-10-27 17:21",
-      "resume_upload_end": "2026-10-28 00:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "10",
-      "company": "Glean Search Technologies India Private Limited",
-      "additional_details": "",
-      "ppt": "",
       "designation": "Software Engineer - India",
       "description": "Apply",
       "ctc": "7541653",
@@ -10327,23 +10311,23 @@
       "contract": ""
     },
     {
-      "id": "11",
-      "company": "Graviton Research Capital LLP",
+      "id": "10",
+      "company": "Glean Search Technologies India Private Limited",
       "additional_details": "",
       "ppt": "",
-      "designation": "Quantitative Researcher - India",
+      "designation": "Software Engineer - US",
       "description": "Apply",
-      "ctc": "10500000",
-      "currency": "INR",
+      "ctc": "189250",
+      "currency": "USD",
       "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-10-14 20:17",
-      "resume_upload_end": "2026-10-16 09:59",
+      "resume_upload_start": "2026-10-27 17:21",
+      "resume_upload_end": "2026-10-28 00:00",
       "interview_selection": "",
       "contract": ""
     },
     {
-      "id": "12",
+      "id": "11",
       "company": "Graviton Research Capital LLP",
       "additional_details": "",
       "ppt": "",
@@ -10354,6 +10338,22 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-14 20:18",
+      "resume_upload_end": "2026-10-16 09:59",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "12",
+      "company": "Graviton Research Capital LLP",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Quantitative Researcher - India",
+      "description": "Apply",
+      "ctc": "10500000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-14 20:17",
       "resume_upload_end": "2026-10-16 09:59",
       "interview_selection": "",
       "contract": ""
@@ -10379,13 +10379,13 @@
       "company": "HILABS",
       "additional_details": "",
       "ppt": "",
-      "designation": "Associate Product Manager",
+      "designation": "AI Engineer",
       "description": "Apply",
-      "ctc": "2700000",
+      "ctc": "2950000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-10-24 14:39",
+      "resume_upload_start": "2026-10-24 14:38",
       "resume_upload_end": "2026-10-27 15:59",
       "interview_selection": "",
       "contract": ""
@@ -10395,13 +10395,13 @@
       "company": "HILABS",
       "additional_details": "",
       "ppt": "",
-      "designation": "AI Engineer",
+      "designation": "Associate Product Manager",
       "description": "Apply",
-      "ctc": "2950000",
+      "ctc": "2700000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-10-24 14:38",
+      "resume_upload_start": "2026-10-24 14:39",
       "resume_upload_end": "2026-10-27 15:59",
       "interview_selection": "",
       "contract": ""
@@ -10443,9 +10443,9 @@
       "company": "Ixana",
       "additional_details": "",
       "ppt": "",
-      "designation": "IC Design Engineer II",
+      "designation": "IC Design Engineer III",
       "description": "Apply",
-      "ctc": "4100000",
+      "ctc": "4550000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
@@ -10459,9 +10459,9 @@
       "company": "Ixana",
       "additional_details": "",
       "ppt": "",
-      "designation": "Silicon Engineer",
+      "designation": "IC Design Engineer II",
       "description": "Apply",
-      "ctc": "3960000",
+      "ctc": "4100000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
@@ -10472,22 +10472,6 @@
     },
     {
       "id": "20",
-      "company": "Ixana",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "IC Design Engineer III",
-      "description": "Apply",
-      "ctc": "4550000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-10-21 15:30",
-      "resume_upload_end": "2026-10-26 12:45",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "21",
       "company": "Ixana",
       "additional_details": "",
       "ppt": "",
@@ -10503,18 +10487,34 @@
       "contract": ""
     },
     {
-      "id": "22",
-      "company": "MASTERCARD",
+      "id": "21",
+      "company": "Ixana",
       "additional_details": "",
       "ppt": "",
-      "designation": "Associate Specialist, Product Development Role Overview We are looking for a dynamic and motivated individual to join our team as an Associate Analyst, working at the intersection of Data Analytics, Business Strategy, and Product Management. This role is ideal for someone passionate about leveraging data and emerging technologies like Generative AI and Machine Learning to drive innovation, optimize performance, and shape product direction. You will work closely with cross-functional teams to analyze large datasets, extract actionable insights, and contribute to the development of scalable, AI-powered solutions that address real-world business challenges. Our team culture is rooted in curiosity, collaboration, and continuous learning. We encourage experimentation, value diverse perspectives, and support each other in solving complex problems. Whether you're building your first dashboard or exploring the potential of agentic AI, you'll be surrounded by passionate teammates committed to making an impacttogether.",
+      "designation": "Silicon Engineer",
       "description": "Apply",
-      "ctc": "22,05,800",
+      "ctc": "3960000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-10-17 13:00",
-      "resume_upload_end": "2026-10-22 14:00",
+      "resume_upload_start": "2026-10-21 15:30",
+      "resume_upload_end": "2026-10-26 12:45",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "22",
+      "company": "KLA",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Product Applications Engineer",
+      "description": "Apply",
+      "ctc": "2150000",
+      "currency": "INR",
+      "additional_details_2": "Download",
+      "application_status": "",
+      "resume_upload_start": "2026-10-27 17:41",
+      "resume_upload_end": "2026-10-28 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -10536,6 +10536,22 @@
     },
     {
       "id": "24",
+      "company": "MASTERCARD",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Associate Specialist, Product Development Role Overview We are looking for a dynamic and motivated individual to join our team as an Associate Analyst, working at the intersection of Data Analytics, Business Strategy, and Product Management. This role is ideal for someone passionate about leveraging data and emerging technologies like Generative AI and Machine Learning to drive innovation, optimize performance, and shape product direction. You will work closely with cross-functional teams to analyze large datasets, extract actionable insights, and contribute to the development of scalable, AI-powered solutions that address real-world business challenges. Our team culture is rooted in curiosity, collaboration, and continuous learning. We encourage experimentation, value diverse perspectives, and support each other in solving complex problems. Whether you're building your first dashboard or exploring the potential of agentic AI, you'll be surrounded by passionate teammates committed to making an impacttogether.",
+      "description": "Apply",
+      "ctc": "22,05,800",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-17 13:00",
+      "resume_upload_end": "2026-10-22 14:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "25",
       "company": "Meesho",
       "additional_details": "",
       "ppt": "",
@@ -10551,7 +10567,7 @@
       "contract": ""
     },
     {
-      "id": "25",
+      "id": "26",
       "company": "NATWEST",
       "additional_details": "",
       "ppt": "",
@@ -10567,39 +10583,7 @@
       "contract": ""
     },
     {
-      "id": "26",
-      "company": "NK Securities Research",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Software Development Engineer",
-      "description": "Apply",
-      "ctc": "8500000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-10-24 14:42",
-      "resume_upload_end": "2026-10-27 15:59",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
       "id": "27",
-      "company": "NK Securities Research",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "AI/ML Researcher",
-      "description": "Apply",
-      "ctc": "8500000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-10-24 14:43",
-      "resume_upload_end": "2026-10-27 15:59",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "28",
       "company": "NK Securities Research",
       "additional_details": "",
       "ppt": "",
@@ -10615,7 +10599,39 @@
       "contract": ""
     },
     {
+      "id": "28",
+      "company": "NK Securities Research",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "AI/ML Researcher",
+      "description": "Apply",
+      "ctc": "8500000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-24 14:43",
+      "resume_upload_end": "2026-10-27 15:59",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
       "id": "29",
+      "company": "NK Securities Research",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Software Development Engineer",
+      "description": "Apply",
+      "ctc": "8500000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-24 14:42",
+      "resume_upload_end": "2026-10-27 15:59",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "30",
       "company": "Plutus Research Private Limited",
       "additional_details": "",
       "ppt": "",
@@ -10631,7 +10647,7 @@
       "contract": ""
     },
     {
-      "id": "30",
+      "id": "31",
       "company": "Plutus Research Private Limited",
       "additional_details": "",
       "ppt": "",
@@ -10647,7 +10663,7 @@
       "contract": ""
     },
     {
-      "id": "31",
+      "id": "32",
       "company": "Pocket FM",
       "additional_details": "Download",
       "ppt": "",
@@ -10663,7 +10679,7 @@
       "contract": ""
     },
     {
-      "id": "32",
+      "id": "33",
       "company": "Pocket FM",
       "additional_details": "Download",
       "ppt": "",
@@ -10679,7 +10695,7 @@
       "contract": ""
     },
     {
-      "id": "33",
+      "id": "34",
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
@@ -10690,22 +10706,6 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-08 17:55",
-      "resume_upload_end": "2026-10-12 00:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "34",
-      "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Hardware Engineer",
-      "description": "Apply",
-      "ctc": "10100000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-10-08 17:54",
       "resume_upload_end": "2026-10-12 00:00",
       "interview_selection": "",
       "contract": ""
@@ -10744,6 +10744,22 @@
     },
     {
       "id": "37",
+      "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Hardware Engineer",
+      "description": "Apply",
+      "ctc": "10100000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-08 17:54",
+      "resume_upload_end": "2026-10-12 00:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "38",
       "company": "Qualcomm",
       "additional_details": "",
       "ppt": "",
@@ -10759,7 +10775,7 @@
       "contract": ""
     },
     {
-      "id": "38",
+      "id": "39",
       "company": "Qualcomm",
       "additional_details": "",
       "ppt": "",
@@ -10775,7 +10791,7 @@
       "contract": ""
     },
     {
-      "id": "39",
+      "id": "40",
       "company": "Qualcomm",
       "additional_details": "",
       "ppt": "",
@@ -10791,7 +10807,7 @@
       "contract": ""
     },
     {
-      "id": "40",
+      "id": "41",
       "company": "Qualcomm",
       "additional_details": "",
       "ppt": "",
@@ -10807,7 +10823,7 @@
       "contract": ""
     },
     {
-      "id": "41",
+      "id": "42",
       "company": "Qualcomm",
       "additional_details": "",
       "ppt": "",
@@ -10823,7 +10839,7 @@
       "contract": ""
     },
     {
-      "id": "42",
+      "id": "43",
       "company": "Qualcomm",
       "additional_details": "",
       "ppt": "",
@@ -10839,7 +10855,7 @@
       "contract": ""
     },
     {
-      "id": "43",
+      "id": "44",
       "company": "Qualcomm",
       "additional_details": "",
       "ppt": "",
@@ -10855,7 +10871,7 @@
       "contract": ""
     },
     {
-      "id": "44",
+      "id": "45",
       "company": "QUANTBOX RESEARCH",
       "additional_details": "",
       "ppt": "",
@@ -10871,7 +10887,7 @@
       "contract": ""
     },
     {
-      "id": "45",
+      "id": "46",
       "company": "QUANTBOX RESEARCH",
       "additional_details": "",
       "ppt": "",
@@ -10883,22 +10899,6 @@
       "application_status": "",
       "resume_upload_start": "2026-10-27 17:19",
       "resume_upload_end": "2026-10-28 16:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "46",
-      "company": "slice",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Associate Product Manager",
-      "description": "Apply",
-      "ctc": "2800000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-10-17 13:00",
-      "resume_upload_end": "2026-10-20 10:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -10920,6 +10920,22 @@
     },
     {
       "id": "48",
+      "company": "slice",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Associate Product Manager",
+      "description": "Apply",
+      "ctc": "2800000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-17 13:00",
+      "resume_upload_end": "2026-10-20 10:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "49",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -10930,22 +10946,6 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-04 09:23",
-      "resume_upload_end": "2026-10-06 11:59",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "49",
-      "company": "SQUAREPOINT CAPITAL",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Graduate Software Developer",
-      "description": "Apply",
-      "ctc": "7436382",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-10-04 09:24",
       "resume_upload_end": "2026-10-06 11:59",
       "interview_selection": "",
       "contract": ""
@@ -10968,6 +10968,22 @@
     },
     {
       "id": "51",
+      "company": "SQUAREPOINT CAPITAL",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Graduate Software Developer",
+      "description": "Apply",
+      "ctc": "7436382",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-04 09:24",
+      "resume_upload_end": "2026-10-06 11:59",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "52",
       "company": "Stenoa Capital",
       "additional_details": "",
       "ppt": "",
@@ -10983,7 +10999,7 @@
       "contract": ""
     },
     {
-      "id": "52",
+      "id": "53",
       "company": "Trexquant (India) Business Consulting LLP",
       "additional_details": "",
       "ppt": "",
@@ -10999,7 +11015,7 @@
       "contract": ""
     },
     {
-      "id": "53",
+      "id": "54",
       "company": "Urban Company",
       "additional_details": "",
       "ppt": "",
@@ -11015,7 +11031,7 @@
       "contract": ""
     },
     {
-      "id": "54",
+      "id": "55",
       "company": "Warner Music Group",
       "additional_details": "",
       "ppt": "",
@@ -11031,7 +11047,7 @@
       "contract": ""
     },
     {
-      "id": "55",
+      "id": "56",
       "company": "WhiteOak Capital",
       "additional_details": "",
       "ppt": "",
@@ -11047,7 +11063,7 @@
       "contract": ""
     },
     {
-      "id": "56",
+      "id": "57",
       "company": "YCP India Private Limited (Formerly Known as Auctus Advisors Pvt. Ltd.)",
       "additional_details": "",
       "ppt": "",
@@ -11059,6 +11075,22 @@
       "application_status": "",
       "resume_upload_start": "2026-10-27 17:20",
       "resume_upload_end": "2026-10-28 00:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "58",
+      "company": "Zanskar Research LLP",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Infrastructure Developer",
+      "description": "Apply",
+      "ctc": "4500000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-27 17:45",
+      "resume_upload_end": "2026-10-28 16:00",
       "interview_selection": "",
       "contract": ""
     }
