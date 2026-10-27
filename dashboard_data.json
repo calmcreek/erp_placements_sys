@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "27 Oct 2026, 02:02:40 PM",
-  "next_check": "27 Oct 2026, 02:32:40 PM",
-  "notice_count": 1122,
+  "last_check": "27 Oct 2026, 02:32:46 PM",
+  "next_check": "27 Oct 2026, 03:02:46 PM",
+  "notice_count": 1123,
   "placement_count": 49,
   "notices": [
+    {
+      "id": "1222",
+      "type": "INTERNSHIP",
+      "subject": "Urgent",
+      "company": "ULTIMATE KRONOS GROUP",
+      "notice": "PFA the test shortlist for Ultimate Kronos Group.The Assessment is scheduled on 27th October, 9:15 PM onwards.Venue: NR 321, Nalanda Classroom ComplexPOC: Arpita Pawar (+91 90755 64147)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "27-10-2026 14:18"
+    },
     {
       "id": "1221",
       "type": "PLACEMENT",
