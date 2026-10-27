@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "27 Oct 2026, 02:32:46 PM",
-  "next_check": "27 Oct 2026, 03:02:46 PM",
-  "notice_count": 1123,
+  "last_check": "27 Oct 2026, 03:03:06 PM",
+  "next_check": "27 Oct 2026, 03:33:06 PM",
+  "notice_count": 1124,
   "placement_count": 49,
   "notices": [
+    {
+      "id": "1223",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Deloitte US-India",
+      "notice": "The Pre-Placement Talk for Deloitte US-India, will be held on 27th October 2026 from 6:00 PM.Join link: https://deloitte.zoom.us/j/93492406162?pwd=r8cBC9KQQrsU7Y3XpjaSAs63BwY0IS.1Note: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Neev (+91 9001346350)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "27-10-2026 14:39"
+    },
     {
       "id": "1222",
       "type": "INTERNSHIP",
