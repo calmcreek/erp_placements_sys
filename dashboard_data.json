@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "27 Oct 2026, 04:02:18 PM",
-  "next_check": "27 Oct 2026, 04:32:18 PM",
-  "notice_count": 1124,
+  "last_check": "27 Oct 2026, 04:32:35 PM",
+  "next_check": "27 Oct 2026, 05:02:35 PM",
+  "notice_count": 1125,
   "placement_count": 49,
   "notices": [
+    {
+      "id": "1224",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "OTSUKA CORPORATION",
+      "notice": "PFA the test shortlist and room allocation for the test of Otsuka Corporation, scheduled from 6:00 PM onwards on 27th October, 2026.Venue: Nalanda Classroom ComplexNote: Students are requested to report 15 minutes prior to the reporting time. Students are also required to bring their Institute Id card for the test.POC: Hardik (+91 8177018092), Ashutosh (+91 8840104367)CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "27-10-2026 16:31"
+    },
     {
       "id": "1223",
       "type": "PLACEMENT",
