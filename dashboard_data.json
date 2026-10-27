@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "27 Oct 2026, 12:02:25 PM",
-  "next_check": "27 Oct 2026, 12:32:25 PM",
-  "notice_count": 1120,
+  "last_check": "27 Oct 2026, 12:33:24 PM",
+  "next_check": "27 Oct 2026, 01:03:24 PM",
+  "notice_count": 1121,
   "placement_count": 49,
   "notices": [
+    {
+      "id": "1219",
+      "type": "PLACEMENT",
+      "subject": "Schedule",
+      "company": "CDC Placement Schedule for 27th30th October 2026",
+      "notice": "All students eligible for placement are advised to take note of the tentative placement schedule from Tuesday, 27th October, to Friday, 30th October 2026.Please note that this schedule is tentative and is subject to additions and subtractions.Tuesday, 27th October 20261. [PPT: Online] TEXAS INSTRUMENTS (1:00 PM  2:00 PM)2. [PPT: Online] DELOITTE USI (6:00 PM  7:00 PM)3. [TEST] PLUTUS RESEARCH PRIVATE LIMITED (7:00 PM  9:00 PM)Wednesday, 28th October 20261. [PPT: Online] COMMONWEALTH BANK OF AUSTRALIA (1:00 PM  2:00 PM)2. [TEST] IXANA (Profile: Embedded Software Engineer) (6:00 PM  8:00 PM)3. [TEST] IXANA (Profiles: IC Design Engineer III, IC Design Engineer II, Silicon Engineer) (8:00 PM  8:30 PM)Thursday, 29th October 20261. [PPT: Online] LAT AEROSPACE (1:00 PM  2:00 PM)2. [PPT: Online] YCP AUCTUS (5:00 PM  6:00 PM)3. [TEST] SEDEMAC (All Profiles) (6:30 PM  8:30 PM)4. [TEST] QI-CAP (Profiles: Quantitative Researcher, Machine Learning & Quantitative Researcher) (9:00 PM  10:30 PM)5. [TEST] QI-CAP (Profiles: Hardware Engineer, C++ Developer) (10:30 PM - 11:59 PM)Friday, 30th October 20261. [PPT: Online] CAPITAL ONE (12:01 PM  1:00 PM)2. [PPT: Online] ZANSKAR (5:00 PM  5:30 PM)3. [TEST] QI-CAP Assessment 2 (Profiles: Hardware Engineer, C++ Developer) (6:00 PM - 7:30 PM)4. [TEST] QUALCOMM (All Profiles) (10:00 PM - 11:59 PM)Note: The schedule is tentative and subject to change. Links to the PPTs and other relevant details will be shared separately. Room allocations and other necessary instructions for tests will be communicated prior to the respective assessments.CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "27-10-2026 12:11"
+    },
     {
       "id": "1217",
       "type": "PLACEMENT",
