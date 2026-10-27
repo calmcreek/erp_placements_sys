@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "27 Oct 2026, 01:02:19 PM",
-  "next_check": "27 Oct 2026, 01:32:19 PM",
-  "notice_count": 1121,
+  "last_check": "27 Oct 2026, 01:32:40 PM",
+  "next_check": "27 Oct 2026, 02:02:40 PM",
+  "notice_count": 1122,
   "placement_count": 49,
   "notices": [
+    {
+      "id": "1221",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "ACCENTURE AEH",
+      "notice": "All students are hereby informed that the mock assessment link has been shared for the Elite Technology Engineer role. Students can attempt the mock assessment anytime until 11:59 PM on 27th October 2026.All students must complete the mock test within the specified deadline to identify and resolve any system compatibility issues before the actual assessment.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "27-10-2026 13:04"
+    },
     {
       "id": "1219",
       "type": "PLACEMENT",
