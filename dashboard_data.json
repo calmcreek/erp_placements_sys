@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "28 Oct 2026, 07:32:39 PM",
-  "next_check": "28 Oct 2026, 08:02:39 PM",
-  "notice_count": 1144,
+  "last_check": "28 Oct 2026, 08:02:23 PM",
+  "next_check": "28 Oct 2026, 08:32:23 PM",
+  "notice_count": 1145,
   "placement_count": 75,
   "notices": [
+    {
+      "id": "1244",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "IXANA",
+      "notice": "Please note that the test of Ixana for the roles of Silicon Engineer, IC Design Engineer III, IC Design Engineer II has been rescheduled to start from 8:30 PM.There will be a common test to the 3 roles.The room allocation will be released shortly.CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "28-10-2026 19:38"
+    },
     {
       "id": "1243",
       "type": "PLACEMENT",
@@ -11147,7 +11156,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-27 18:08",
-      "resume_upload_end": "2026-10-28 18:00",
+      "resume_upload_end": "2026-10-29 12:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -11163,7 +11172,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-27 18:08",
-      "resume_upload_end": "2026-10-28 18:00",
+      "resume_upload_end": "2026-10-29 12:00",
       "interview_selection": "",
       "contract": ""
     },
