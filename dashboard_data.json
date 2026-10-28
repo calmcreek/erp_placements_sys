@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "28 Oct 2026, 08:02:23 PM",
-  "next_check": "28 Oct 2026, 08:32:23 PM",
-  "notice_count": 1145,
+  "last_check": "28 Oct 2026, 08:32:40 PM",
+  "next_check": "28 Oct 2026, 09:02:40 PM",
+  "notice_count": 1147,
   "placement_count": 75,
   "notices": [
+    {
+      "id": "1246",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "QUADEYE",
+      "notice": "The CV submission of Quadeye for all the roles has been extended till 11:59 AM, 29th October 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "28-10-2026 20:07"
+    },
+    {
+      "id": "1245",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "IXANA",
+      "notice": "PFA the test room allocation for the Assessment of Ixana for the following roles: Silicon Engineer, IC Design Engineer III, IC Design Engineer II, scheduled from 8:30 PM onwards on 28th October, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card/Medical Book, failing which students will not be permitted to sit for test. Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Nikita (+91 9969207598), Bhavy (+91 7597121669)CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "28-10-2026 20:04"
+    },
     {
       "id": "1244",
       "type": "PLACEMENT",
