@@ -1,7 +1,7 @@
 {
-  "erp_status": "Error",
-  "last_check": "28 Oct 2026, 10:02:21 PM",
-  "next_check": null,
+  "erp_status": "Connected",
+  "last_check": "28 Oct 2026, 10:57:53 PM",
+  "next_check": "28 Oct 2026, 11:27:53 PM",
   "notice_count": 1148,
   "placement_count": 75,
   "notices": [
@@ -11037,7 +11037,7 @@
       "ctc": "2250000",
       "currency": "INR",
       "additional_details_2": "",
-      "application_status": "",
+      "application_status": "Y",
       "resume_upload_start": "2026-10-28 15:30",
       "resume_upload_end": "2026-10-29 16:00",
       "interview_selection": "",
@@ -11540,5 +11540,5 @@
       "contract": ""
     }
   ],
-  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "last_error": null
 }
