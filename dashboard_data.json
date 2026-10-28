@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "28 Oct 2026, 10:32:47 AM",
-  "next_check": "28 Oct 2026, 11:02:47 AM",
-  "notice_count": 1134,
+  "last_check": "28 Oct 2026, 11:02:49 AM",
+  "next_check": "28 Oct 2026, 11:32:49 AM",
+  "notice_count": 1135,
   "placement_count": 61,
   "notices": [
+    {
+      "id": "1234",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "COMMONWEALTH BANK OF AUSTRALIA",
+      "notice": "The Pre-Placement Talk for Commonwealth Bank of Australia, will be held on 28th October 2026 from 1:00 PM.Join link: https://teams.microsoft.com/meet/489451441821456?p=Ab4vq1OTIQgvM5dWSHNote: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Bhavy (+91 75971 21669)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "28-10-2026 10:48"
+    },
     {
       "id": "1233",
       "type": "INTERNSHIP",
