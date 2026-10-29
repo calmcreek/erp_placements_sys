@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "29 Oct 2026, 09:32:35 AM",
-  "next_check": "29 Oct 2026, 10:02:35 AM",
-  "notice_count": 1150,
+  "last_check": "29 Oct 2026, 10:04:14 AM",
+  "next_check": "29 Oct 2026, 10:34:14 AM",
+  "notice_count": 1151,
   "placement_count": 75,
   "notices": [
+    {
+      "id": "1252",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "YCP INDIA PRIVATE LIMITED",
+      "notice": "Please note that the Pre-Placement Talk for YCP INDIA PRIVATE LIMITED will be held on 29th October, 2026 from 5:00 PM.Link: https://teams.microsoft.com/meet/421122338652590?p=OC0F3BDHkm8dvqYBPNAll interested students are required to attend the PPT without fail. Attendance is compulsory. Students should join 15 minutes prior to the meeting time.POC: Anjali (+91 7989613926)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "29-10-2026 09:30"
+    },
     {
       "id": "1251",
       "type": "PLACEMENT",
