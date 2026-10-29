@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "29 Oct 2026, 05:32:43 PM",
-  "next_check": "29 Oct 2026, 06:02:43 PM",
-  "notice_count": 1160,
+  "last_check": "29 Oct 2026, 06:02:27 PM",
+  "next_check": "29 Oct 2026, 06:32:27 PM",
+  "notice_count": 1162,
   "placement_count": 90,
   "notices": [
+    {
+      "id": "1263",
+      "type": "INTERNSHIP",
+      "subject": "CV Submission",
+      "company": "Mastercard",
+      "notice": "The CV submission of Mastercard for the Data Scientist role has been opened till 04:59 PM, 30th October 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "29-10-2026 17:54"
+    },
+    {
+      "id": "1262",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "QI-CAP",
+      "notice": "PFA the test room allocation for the Assessment of QI-CAP for the C++ Developer and Hardware Engineer role, scheduled from 6:00 PM onwards on 29th October, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card/Medical Book, failing which students will not be permitted to sit for test.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Aditya Ghosh (+91 6295916930), Khush (+91 9922168000)CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "29-10-2026 17:48"
+    },
     {
       "id": "1261",
       "type": "PLACEMENT",
