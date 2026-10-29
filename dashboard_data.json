@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "29 Oct 2026, 09:04:05 AM",
-  "next_check": "29 Oct 2026, 09:34:05 AM",
-  "notice_count": 1149,
+  "last_check": "29 Oct 2026, 09:32:35 AM",
+  "next_check": "29 Oct 2026, 10:02:35 AM",
+  "notice_count": 1150,
   "placement_count": 75,
   "notices": [
+    {
+      "id": "1251",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "LAT AEROSPACE",
+      "notice": "Please note that the Pre-Placement Talk for LAT AEROSPACE will be held on 29th October, 2026 from 1:00 PM.Link: https://meet.google.com/wtk-dwag-qfr All interested students are required to attend the PPT without fail. Attendance is compulsory. Students should join 15 minutes prior to the meeting time.POC: Anurag (+91 9491087133)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "29-10-2026 09:28"
+    },
     {
       "id": "1250",
       "type": "PLACEMENT",
