@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "30 Oct 2026, 04:02:21 AM",
-  "next_check": "30 Oct 2026, 04:32:21 AM",
-  "notice_count": 1170,
+  "last_check": "30 Oct 2026, 04:32:43 AM",
+  "next_check": "30 Oct 2026, 05:02:43 AM",
+  "notice_count": 1171,
   "placement_count": 90,
   "notices": [
+    {
+      "id": "1276",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "YCP AUCTUS",
+      "notice": "Please note that all the students who have applied for the Analyst Role for YCP Auctus are required to fill the following additional details form by 4:00 PM, 30th October, 2026.Link: https://forms.gle/fA5w7bkMxYGXCeG19All the eligible students are advised to fill the form within the given deadline. No further extensions will be givenCDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "30-10-2026 04:05"
+    },
     {
       "id": "1274",
       "type": "PLACEMENT",
