@@ -1,10 +1,37 @@
 {
-  "erp_status": "Error",
-  "last_check": "29 Oct 2026, 09:02:23 PM",
-  "next_check": null,
-  "notice_count": 1164,
+  "erp_status": "Connected",
+  "last_check": "29 Oct 2026, 10:02:28 PM",
+  "next_check": "29 Oct 2026, 10:32:28 PM",
+  "notice_count": 1167,
   "placement_count": 90,
   "notices": [
+    {
+      "id": "1268",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "SEDEMAC",
+      "notice": "PFA the test room allocation for the Assessment of SEDEMAC for all the roles, scheduled from 10:00 PM onwards on 29th October, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card (or Government ID + Medical Book), failing which students will not be permitted to sit for the test.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Aditya Ghandge (+91 9325468252), Devansh(+91 7999892181)CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "29-10-2026 21:36"
+    },
+    {
+      "id": "1267",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "QI-CAP",
+      "notice": "Please note that the Test 2 for the roles of Hardware Engineer, C++ Developer has been postponed. The new timings will be communicated shortly.CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "29-10-2026 21:16"
+    },
+    {
+      "id": "1266",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "SEDEMAC",
+      "notice": "Please note that the test for SEDEMAC for all the roles is scheduled from 10:00 PM.All the eligible students who have successfully applied on ERP, as well as the superset portal, are requested to note that they are required to bring their Institute ID cards.The room allocation will be released shortly.CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "29-10-2026 21:13"
+    },
     {
       "id": "1265",
       "type": "INTERNSHIP",
@@ -11924,5 +11951,5 @@
       "contract": ""
     }
   ],
-  "last_error": "Could not find the new ERP OTP email."
+  "last_error": null
 }
