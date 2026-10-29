@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "29 Oct 2026, 04:02:20 PM",
-  "next_check": "29 Oct 2026, 04:32:20 PM",
-  "notice_count": 1154,
+  "last_check": "29 Oct 2026, 04:32:38 PM",
+  "next_check": "29 Oct 2026, 05:02:38 PM",
+  "notice_count": 1156,
   "placement_count": 81,
   "notices": [
+    {
+      "id": "1257",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "EXXONMOBIL",
+      "notice": "The CV submission of EXXONMOBIL for all the roles have been extended till 4:00 PM, 30th October, 2026.It is mandatory for all the interested and eligible candidates to apply on both ERP and the company portal. Link : https://career4.successfactors.com/sfcareer/jobreqcareerpvt?jobId=107440&company=exxonmobilP&st=C95E3C5669B0A3B03777F01ADDDB677EB5523735NOTE: Students are required to apply on the company portal using their personal email ID.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "29-10-2026 16:27"
+    },
+    {
+      "id": "1256",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Multiple Companies",
+      "notice": "The following companies have been extended for CV Submission till 11:59 PM, 29th October, 2026.1.  MEESHO (Profile: Senior Associate - Business Management)2.  WHITEOAK CAPITAL (Profile: Research Executive)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "29-10-2026 16:24"
+    },
     {
       "id": "1255",
       "type": "PLACEMENT",
@@ -10837,7 +10855,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-28 15:36",
-      "resume_upload_end": "2026-10-29 16:00",
+      "resume_upload_end": "2026-10-30 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -10853,7 +10871,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-28 15:37",
-      "resume_upload_end": "2026-10-29 16:00",
+      "resume_upload_end": "2026-10-30 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -10981,7 +10999,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-28 15:27",
-      "resume_upload_end": "2026-10-29 16:00",
+      "resume_upload_end": "2026-10-30 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -11029,7 +11047,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-10-26 17:36",
-      "resume_upload_end": "2026-10-28 16:00",
+      "resume_upload_end": "2026-10-29 23:59",
       "interview_selection": "",
       "contract": ""
     },
@@ -11045,7 +11063,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-28 15:29",
-      "resume_upload_end": "2026-10-29 16:00",
+      "resume_upload_end": "2026-10-30 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -11189,7 +11207,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-10-28 15:30",
-      "resume_upload_end": "2026-10-29 16:00",
+      "resume_upload_end": "2026-10-30 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -11653,7 +11671,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-26 17:37",
-      "resume_upload_end": "2026-10-28 16:00",
+      "resume_upload_end": "2026-10-29 23:59",
       "interview_selection": "",
       "contract": ""
     },
