@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "30 Oct 2026, 03:32:35 AM",
-  "next_check": "30 Oct 2026, 04:02:35 AM",
-  "notice_count": 1169,
+  "last_check": "30 Oct 2026, 04:02:21 AM",
+  "next_check": "30 Oct 2026, 04:32:21 AM",
+  "notice_count": 1170,
   "placement_count": 90,
   "notices": [
+    {
+      "id": "1274",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "CAPITAL ONE SERVICES INDIA PVT. LTD.",
+      "notice": "The Pre-Placement Talk for Capital One for both the roles, will be held on 30th October, 2026 from 11:55 AM.Link: https://www.google.com/url?q=https%3A%2F%2Fcapitalone.zoom.us%2Fj%2F93026290652%3Fpwd%3DOyJVErmR8W5GeZP1nD5lPrqH3W65Pe.1%26jst%3D2&sa=D&source=calendar&ust=1793450940000000&usg=AOvVaw13xkLm-qRIEUHXExoEx4IJMeeting ID: 930 2629 0652Passcode: 643657Note: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Arpita (+91 9075564147)CDC, IIT Kharagpur.",
+      "notice_by": "23EE38007",
+      "notice_time": "30-10-2026 03:34"
+    },
     {
       "id": "1273",
       "type": "PLACEMENT",
