@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "29 Oct 2026, 07:32:53 PM",
-  "next_check": "29 Oct 2026, 08:02:53 PM",
-  "notice_count": 1163,
+  "last_check": "29 Oct 2026, 08:02:27 PM",
+  "next_check": "29 Oct 2026, 08:32:27 PM",
+  "notice_count": 1164,
   "placement_count": 88,
   "notices": [
+    {
+      "id": "1265",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "Tech Mahindra",
+      "notice": "PFB the shortlist for the Interview round of Tech Mahindra23CS3005323EC3902523EC3904723EE3802223IE3FP3823MA2501224AI1004624CS1001124CS1007424CS1009224CS1011924EC1002324EC1010224EC1014224EE1010424IE1003324IE1003424MA10046Further details would be communicated to the shortlisted candidates shortly.CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "29-10-2026 19:56"
+    },
     {
       "id": "1264",
       "type": "PLACEMENT",
