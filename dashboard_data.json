@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "29 Oct 2026, 12:32:54 PM",
-  "next_check": "29 Oct 2026, 01:02:54 PM",
-  "notice_count": 1152,
+  "last_check": "29 Oct 2026, 01:02:30 PM",
+  "next_check": "29 Oct 2026, 01:32:30 PM",
+  "notice_count": 1154,
   "placement_count": 81,
   "notices": [
+    {
+      "id": "1255",
+      "type": "PLACEMENT",
+      "subject": "PPO",
+      "company": "Walmart",
+      "notice": "Walmart has extended the offer to the following student(s):Devarakonda Sri Lalitha Rama Siddesh - 25CS60R80The students are advised to give offer acceptance by 29.10.2026.(For more details, check your email ID.)CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "29-10-2026 12:40"
+    },
+    {
+      "id": "1254",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "AMERICAN EXPRESS",
+      "notice": "All eligible students who have applied for any role at AMERICAN EXPRESS are required to complete the registration process before 4:00 PM, 29th October 2026.Qualtrics Form : https://amex.co1.qualtrics.com/jfe/form/SV_8CYM7ewbkEQzIdEApplication Process:1.⁠ ⁠Fill out the American Express Campus Application Form with your personal and academic details.2.⁠ ⁠Upload your latest resume.3.⁠ ⁠Select the role(s) you wish to be considered for and submit your preferences.4.⁠ ⁠Apply through the relevant Business Unit Job Links provided in the form on the American Express Career Portal.5.⁠ ⁠After completing each application, return to the Qualtrics form to access the next applicable Job Link. Remember to click on the box beneath so that it turns from light blue to drak blue.6.⁠ ⁠Verify that you receive a confirmation email from American Express Careers for each submitted Business Unit application.Role-Specific Application Requirements:Data Science and Analytics - Credit and Fraud Riskhttps://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010998AI Research - Credit and Fraud Riskhttps://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015659Important Notes:Both the American Express Campus Application Form and the applicable American Express Career Portal applications are mandatory for consideration in subsequent stages of the hiring process.Deadline: 4:00 PM, 29th October 2026.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "29-10-2026 12:38"
+    },
     {
       "id": "1253",
       "type": "PLACEMENT",
