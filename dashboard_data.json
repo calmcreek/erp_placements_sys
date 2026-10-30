@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "30 Oct 2026, 11:02:26 PM",
-  "next_check": "30 Oct 2026, 11:32:26 PM",
-  "notice_count": 1195,
+  "last_check": "30 Oct 2026, 11:06:51 PM",
+  "next_check": "30 Oct 2026, 11:36:51 PM",
+  "notice_count": 1196,
   "placement_count": 94,
   "notices": [
+    {
+      "id": "1304",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "ACCENTURE SOLUTIONS",
+      "notice": "Students appearing for the Accenture Solutions  GN Management Consulting Associate role are hereby informed that the mock assessment link has been shared by the company.The mock assessment must be completed by 11:59 AM on 31st October 2026. Students may attempt it at any time before the deadline.Important Instructions:1.⁠ ⁠The mock assessment is mandatory and must be completed within the stipulated deadline to identify and resolve any system compatibility issues before the actual assessment.2.⁠ ⁠MacBooks are strictly not allowed. Only Windows laptops should be used.3.⁠ ⁠Uninstall any previously installed version of Safe Exam Browser (SEB) and install the latest version using the link below:    SEB Link: https://securetest.hirepro.in/accenture/v2/4.⁠ ⁠Ensure that your laptop has a functional webcam and microphone and meets the required system specifications.5.⁠ ⁠Uninstall any VPN or proxy configurations before attempting the assessment.All students are advised to complete the mock assessment well before the deadline to avoid last-minute technical issues.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "30-10-2026 23:04"
+    },
     {
       "id": "1303",
       "type": "PLACEMENT",
