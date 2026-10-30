@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "30 Oct 2026, 10:47:06 PM",
-  "next_check": "30 Oct 2026, 11:17:06 PM",
-  "notice_count": 1194,
+  "last_check": "30 Oct 2026, 11:02:26 PM",
+  "next_check": "30 Oct 2026, 11:32:26 PM",
+  "notice_count": 1195,
   "placement_count": 94,
   "notices": [
+    {
+      "id": "1303",
+      "type": "PLACEMENT",
+      "subject": "Schedule",
+      "company": "CDC Placement Schedule for 31st October 2026",
+      "notice": "All students eligible for placement are advised to take note of the placement schedule for 31st October 2026.1.⁠ ⁠[TEST: SLOT 1] ACCENTURE AEH (Profile: Elite Technology Engineer) (8:30 AM  10:30 AM)2.⁠ ⁠[TEST: SLOT 2] ACCENTURE AEH (Profile: Elite Technology Engineer) (11:00 AM  1:00 PM)3.⁠ ⁠[PPT : Virtual ] HILABS (1:30 PM - 2:30 PM)4.⁠ ⁠[TEST: SLOT 3] ACCENTURE AEH (Profile: Elite Technology Engineer) (2:00 PM  4:00 PM)5.⁠ ⁠[TEST] ACCENTURE SOLUTIONS (Profile: GN Management Consulting Associate) (5:00 PM  7:00 PM)6.⁠ ⁠[TEST] AMERICAN EXPRESS (Profile: Management Trainee - AI Research, Management Trainee - Data Science & Analytics) (8:00 PM  9:15 PM)7.⁠ ⁠[TEST] WHITEOAK CAPITAL (Profile: Research Executive) (10:00 PM  11:30 PM)Note: Links to the PPTs and other relevant details will be shared separately. Room allocations and other necessary instructions for the tests will be communicated prior to the respective assessments.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "30-10-2026 22:56"
+    },
     {
       "id": "1301",
       "type": "PLACEMENT",
