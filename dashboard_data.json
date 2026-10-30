@@ -1,10 +1,28 @@
 {
-  "erp_status": "Error",
-  "last_check": "30 Oct 2026, 08:02:22 PM",
-  "next_check": null,
-  "notice_count": 1192,
+  "erp_status": "Connected",
+  "last_check": "30 Oct 2026, 10:02:20 PM",
+  "next_check": "30 Oct 2026, 10:32:20 PM",
+  "notice_count": 1194,
   "placement_count": 94,
   "notices": [
+    {
+      "id": "1301",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "QUALCOMM",
+      "notice": "PFA the test room allocation for the Assessment of Qualcomm for all the roles except the Software Engineering Roles, scheduled from 10:00 PM onwards on 30th October, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card/Medical Book, failing which students will not be permitted to sit for tests. Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Ashutosh (+91 88401 04367), Ritvik (+91 94803 60231)CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "30-10-2026 21:04"
+    },
+    {
+      "id": "1300",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Qualcomm",
+      "notice": "PFA the test shortlist for the Assessment of Qualcomm for all the roles except software roles scheduled from 10:00 PM onwards on 30th October, 2026.Venue: Nalanda Classroom ComplexThe Room allocation for the test will be released shortly.Students are requested to report 15 minutes prior to the reporting time.POC: Ashutosh (+91 88401 04367), Ritvik (+91 94803 60231)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "30-10-2026 20:47"
+    },
     {
       "id": "1299",
       "type": "PLACEMENT",
@@ -12240,5 +12258,5 @@
       "contract": ""
     }
   ],
-  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "last_error": null
 }
