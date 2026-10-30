@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "31 Oct 2026, 12:02:24 AM",
-  "next_check": null,
-  "notice_count": 1197,
+  "erp_status": "Connected",
+  "last_check": "31 Oct 2026, 01:02:20 AM",
+  "next_check": "31 Oct 2026, 01:32:20 AM",
+  "notice_count": 1198,
   "placement_count": 94,
   "notices": [
+    {
+      "id": "1306",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "SYNOPSYS",
+      "notice": "PFA the shortlist for the Interview round of Synopsys.Further details would be communicated to the shortlisted candidates shortly.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "31-10-2026 00:10"
+    },
     {
       "id": "1305",
       "type": "PLACEMENT",
@@ -12285,5 +12294,5 @@
       "contract": ""
     }
   ],
-  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "last_error": null
 }
