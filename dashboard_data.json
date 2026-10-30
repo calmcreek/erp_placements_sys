@@ -1,18 +1,18 @@
 {
   "erp_status": "Connected",
-  "last_check": "30 Oct 2026, 11:02:33 AM",
-  "next_check": "30 Oct 2026, 11:32:33 AM",
+  "last_check": "30 Oct 2026, 11:32:41 AM",
+  "next_check": "30 Oct 2026, 12:02:41 PM",
   "notice_count": 1174,
   "placement_count": 91,
   "notices": [
     {
-      "id": "1279",
+      "id": "1280",
       "type": "PLACEMENT",
       "subject": "PPT/Workshop/Seminars etc",
       "company": "COGNIZANT",
-      "notice": "The Pre-Placement Talk for COGNIZANT will be held on 30th October 2026 from 8:00 PM.Venue: NR 221, NalandaNote: Attendance for the offline PPT for all the roles is mandatory and will be recorded. The Test will be held post the PPT. Only the students attending the PPT will be eligible for the test. Students are advised to be present 15 minutes prior to the scheduled time.POC: Neev(+91 90013 46350), Arpita(+91 90755 64147)CDC, IIT Kharagpur.",
+      "notice": "The Pre-Placement Talk for COGNIZANT will be held on 30th October 2026 from 8:00 PM.Venue: NR 221, NalandaNote: Attendance for the offline PPT for all the roles is mandatory and will be recorded. Students are advised to be present 15 minutes prior to the scheduled time.POC: Neev(+91 90013 46350), Arpita(+91 90755 64147)CDC, IIT Kharagpur.",
       "notice_by": "23EC39030",
-      "notice_time": "30-10-2026 10:53"
+      "notice_time": "30-10-2026 11:09"
     },
     {
       "id": "1278",
