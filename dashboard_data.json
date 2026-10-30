@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "30 Oct 2026, 12:02:42 PM",
-  "next_check": "30 Oct 2026, 12:32:42 PM",
-  "notice_count": 1175,
+  "last_check": "30 Oct 2026, 12:32:47 PM",
+  "next_check": "30 Oct 2026, 01:02:47 PM",
+  "notice_count": 1176,
   "placement_count": 91,
   "notices": [
+    {
+      "id": "1282",
+      "type": "INTERNSHIP",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "SYNOPSYS",
+      "notice": "Please note that the Pre-Placement Talk for SYNOPSYS will be held on 30th October 2026 from 6:00 PM.Link: https://teams.microsoft.com/meet/2933619007686525?p=a7somZkOV41HxBeRhpAll interested and eligible students are required to attend the PPT without fail. Attendance is compulsory. Students should join 15 minutes prior to the meeting time.POC: Hardik (+91 81770 18092)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "30-10-2026 12:09"
+    },
     {
       "id": "1281",
       "type": "PLACEMENT",
