@@ -12240,5 +12240,5 @@
       "contract": ""
     }
   ],
-  "last_error": "command: SELECT => socket error: EOF"
+  "last_error": "Could not find the new ERP OTP email."
 }
