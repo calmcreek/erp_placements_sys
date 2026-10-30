@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "30 Oct 2026, 07:02:24 PM",
-  "next_check": "30 Oct 2026, 07:32:24 PM",
-  "notice_count": 1190,
+  "last_check": "30 Oct 2026, 07:32:55 PM",
+  "next_check": "30 Oct 2026, 08:02:55 PM",
+  "notice_count": 1191,
   "placement_count": 94,
   "notices": [
+    {
+      "id": "1298",
+      "type": "INTERNSHIP",
+      "subject": "Urgent",
+      "company": "SYNOPSYS",
+      "notice": "PFA the updated test room allocation for the Online Assessment of SYNOPSYS, scheduled from 7:00 PM onwards on 30th October, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card, failing which students will not be permitted to sit for the test.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Hardik (+91 81770 18092)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "30-10-2026 19:11"
+    },
     {
       "id": "1297",
       "type": "PLACEMENT",
