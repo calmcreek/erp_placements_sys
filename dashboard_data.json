@@ -1,7 +1,7 @@
 {
   "erp_status": "Connected",
-  "last_check": "30 Oct 2026, 01:02:31 PM",
-  "next_check": "30 Oct 2026, 01:32:31 PM",
+  "last_check": "30 Oct 2026, 01:32:36 PM",
+  "next_check": "30 Oct 2026, 02:02:36 PM",
   "notice_count": 1177,
   "placement_count": 91,
   "notices": [
@@ -11954,7 +11954,7 @@
       "ctc": "1450000",
       "currency": "INR",
       "additional_details_2": "",
-      "application_status": "",
+      "application_status": "Y",
       "resume_upload_start": "2026-10-30 10:16",
       "resume_upload_end": "2026-10-31 10:00",
       "interview_selection": "",
