@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "30 Oct 2026, 11:32:39 PM",
-  "next_check": "31 Oct 2026, 12:02:39 AM",
-  "notice_count": 1196,
+  "last_check": "31 Oct 2026, 12:02:24 AM",
+  "next_check": "31 Oct 2026, 12:32:24 AM",
+  "notice_count": 1197,
   "placement_count": 94,
   "notices": [
+    {
+      "id": "1305",
+      "type": "PLACEMENT",
+      "subject": "Shortlist",
+      "company": "ACCENTURE AEH",
+      "notice": "Please find attached the list of eligible candidates for the in-campus coding assessment for the Accenture India Elite Technology Engineer FTE role. The slot timing and reporting room for each candidate are given in the attached list.Date: 31st October 2026Slot Timing and Reporting Room: As per the attached listNote: Students are requested to report to the venue 15 minutes before their slot time. The test will begin promptly at the scheduled time.Important Instructions: - MacBooks are strictly not allowed for this test.It is mandatory for all students to carry the following items to be eligible for the in-campus assessment: - A printout of the admit card sent to the registered email ID. A soft copy of the admit card will not be considered valid. - Original physical PAN card with photo. Scanned copies, photocopies, or laminated copies of the PAN card will not be accepted. DigiLocker PAN cards will not be considered valid. - If a student does not have their physical PAN card, they can download the official E-PAN card from an official source and bring a printed copy of it. - PAN cards made when the candidate was a minor will not be accepted, and such candidates will be rejected. - A PAN application acknowledgment will not be treated as valid proof.Laptop Requirements: - Operating system: Windows 11 - RAM: 8 GB or more - Processor: Intel i3 8th Generation 2.2 GHz or higher - Browser: Latest 3 versions of Google Chrome - Webcam and microphone must work and stay on during the test. The webcam must show a clear image. - Uninstall any VPN and proxy setups.Safe Exam Browser (SEB): - Uninstall any old version of Safe Exam Browser, then install the new version from this link: https://securetest.hirepro.in/accenture/v2/POC: Vatsal (+91 92344 57393), Arpita (+91 90755 64147)CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "30-10-2026 23:53"
+    },
     {
       "id": "1304",
       "type": "PLACEMENT",
