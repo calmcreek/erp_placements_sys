@@ -1,8 +1,8 @@
 {
   "erp_status": "Connected",
-  "last_check": "31 Oct 2026, 03:32:27 PM",
-  "next_check": "31 Oct 2026, 04:02:27 PM",
-  "notice_count": 1204,
+  "last_check": "31 Oct 2026, 04:02:33 PM",
+  "next_check": "31 Oct 2026, 04:32:33 PM",
+  "notice_count": 1205,
   "placement_count": 94,
   "notices": [
     {
@@ -310,6 +310,15 @@
       "notice": "Please note that all the students who have applied for the Analyst Role for YCP Auctus are required to fill the following additional details form by 4:00 PM, 30th October, 2026.Link: https://forms.gle/fA5w7bkMxYGXCeG19All the eligible students are advised to fill the form within the given deadline. No further extensions will be givenCDC, IIT Kharagpur",
       "notice_by": "23EE38007",
       "notice_time": "30-10-2026 04:05"
+    },
+    {
+      "id": "1275",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Multiple Companies",
+      "notice": "The following companies are open for CV Submission till 4:00 PM, 31th October, 2026.1. CARS24 (All Profiles)2. ALLEGRO CAPITAL (Profile: Investment Banking Analyst)3. CAPITAL ONE (Profiles: Associate - Business Analyst, Associate Software Engineer)4. PRODIGAL (Profiles: Associate Consultant, Applied AI)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "30-10-2026 03:52"
     },
     {
       "id": "1274",
