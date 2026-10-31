@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "31 Oct 2026, 12:02:20 PM",
-  "next_check": "31 Oct 2026, 12:32:20 PM",
-  "notice_count": 1200,
+  "last_check": "31 Oct 2026, 12:32:35 PM",
+  "next_check": "31 Oct 2026, 01:02:35 PM",
+  "notice_count": 1201,
   "placement_count": 94,
   "notices": [
+    {
+      "id": "1310",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "LTM",
+      "notice": "The Pre-Placement Talk for LTM, will be held on 31st October 2026 from 03:30 PM.Link: https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzhiNDM5YjctNDkzNC00OGI5LTk2OTUtMjQwZmViM2RiOWNi%40thread.v2/0?context=%7b%22Tid%22%3a%22ff355289-721e-4dd7-a663-afec62ab9d54%22%2c%22Oid%22%3a%224287fad0-4037-4f79-954d-592231153f40%22%7dNote: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Bhavy (+91 7597121669)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "31-10-2026 12:26"
+    },
     {
       "id": "1309",
       "type": "PLACEMENT",
@@ -11059,7 +11068,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-28 16:26",
-      "resume_upload_end": "2026-10-30 16:00",
+      "resume_upload_end": "2026-10-31 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -11075,7 +11084,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-28 16:29",
-      "resume_upload_end": "2026-10-30 16:00",
+      "resume_upload_end": "2026-10-31 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -11091,7 +11100,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-28 16:32",
-      "resume_upload_end": "2026-10-30 16:00",
+      "resume_upload_end": "2026-10-31 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -11107,7 +11116,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-28 16:29",
-      "resume_upload_end": "2026-10-30 16:00",
+      "resume_upload_end": "2026-10-31 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -11123,7 +11132,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-28 16:30",
-      "resume_upload_end": "2026-10-30 16:00",
+      "resume_upload_end": "2026-10-31 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -11139,7 +11148,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-28 16:31",
-      "resume_upload_end": "2026-10-30 16:00",
+      "resume_upload_end": "2026-10-31 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -12211,7 +12220,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-10-30 10:16",
-      "resume_upload_end": "2026-10-31 10:00",
+      "resume_upload_end": "2026-10-31 18:00",
       "interview_selection": "",
       "contract": ""
     },
