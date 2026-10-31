@@ -1,18 +1,27 @@
 {
   "erp_status": "Connected",
-  "last_check": "31 Oct 2026, 05:02:20 PM",
-  "next_check": "31 Oct 2026, 05:32:20 PM",
-  "notice_count": 1208,
+  "last_check": "31 Oct 2026, 05:32:30 PM",
+  "next_check": "31 Oct 2026, 06:02:30 PM",
+  "notice_count": 1209,
   "placement_count": 94,
   "notices": [
     {
-      "id": "1318",
-      "type": "INTERNSHIP",
+      "id": "1320",
+      "type": "PLACEMENT",
       "subject": "Shortlist",
-      "company": "TCG DIGITAL",
-      "notice": "PFA the test shortlist for the Online Assessment of TCG Digital, scheduled from 10:00 AM onwards on 1st November, 2026.Venue: Nalanda Classroom ComplexThe room allocation for the test will be released in due time.CDC, IIT Kharagpur",
-      "notice_by": "23MF3FP60",
-      "notice_time": "31-10-2026 16:46"
+      "company": "AMERICAN EXPRESS",
+      "notice": "PFA the test shortlist for the Assessment of American Express for both the roles, scheduled from 8:00 PM  onwards on 31st October, 2026.Venue: Nalanda Classroom ComplexStudents are requested to report 15 minutes prior to the reporting time.POC: Aryan (+91 8100303122), Anjali (+91 7989613926)CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "31-10-2026 17:15"
+    },
+    {
+      "id": "1319",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "ACCENTURE SOLUTIONS",
+      "notice": "PFA the revised test room allocation for the Assessment of ACCENTURE SOLUTIONS for GN Management Consulting Associate Role, scheduled from 5:00 PM onwards on 31st October, 2026.Important Instructions for the Assessment:- Students must attempt the assessment using a Windows laptop.- Minimum System Requirements:- RAM: 4 GB or higher.- Processor: Intel Core i3, 5th Generation, 2.2 GHz or equivalent/higher.- Operating System: Windows 8/10/11.Mac laptops are not supported. The assessment will not work on Mac devices.Please ensure that your system meets the above requirements before attempting the assessment.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card failing which students will not be permitted to sit for tests.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Hardik (+91 8177018092), Neev (+91 9001346350)",
+      "notice_by": "23AG36009",
+      "notice_time": "31-10-2026 17:10"
     },
     {
       "id": "1317",
