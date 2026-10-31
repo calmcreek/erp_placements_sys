@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "31 Oct 2026, 12:32:35 PM",
-  "next_check": "31 Oct 2026, 01:02:35 PM",
-  "notice_count": 1201,
+  "last_check": "31 Oct 2026, 01:02:32 PM",
+  "next_check": "31 Oct 2026, 01:32:32 PM",
+  "notice_count": 1202,
   "placement_count": 94,
   "notices": [
+    {
+      "id": "1311",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Multiple Companies",
+      "notice": "The CV submission for the following companies have been extended till 6:00 PM, 31st October, 2026.1. COLLINS AEROSPACE(All Profiles)2. TREDENCE ANALYTICS(Profile: DATA SCIENTIST)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "31-10-2026 12:38"
+    },
     {
       "id": "1310",
       "type": "PLACEMENT",
@@ -11052,7 +11061,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-28 16:27",
-      "resume_upload_end": "2026-10-30 16:00",
+      "resume_upload_end": "2026-10-31 18:00",
       "interview_selection": "",
       "contract": ""
     },
