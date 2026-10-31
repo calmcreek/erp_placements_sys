@@ -1,8 +1,8 @@
 {
   "erp_status": "Connected",
-  "last_check": "31 Oct 2026, 09:02:25 AM",
-  "next_check": "31 Oct 2026, 09:32:25 AM",
-  "notice_count": 1199,
+  "last_check": "31 Oct 2026, 09:32:31 AM",
+  "next_check": "31 Oct 2026, 10:02:31 AM",
+  "notice_count": 1198,
   "placement_count": 94,
   "notices": [
     {
@@ -31,15 +31,6 @@
       "notice": "Please find attached the list of eligible candidates for the in-campus coding assessment for the Accenture India Elite Technology Engineer FTE role. The slot timing and reporting room for each candidate are given in the attached list.Date: 31st October 2026Slot Timing and Reporting Room: As per the attached listNote: Students are requested to report to the venue 15 minutes before their slot time. The test will begin promptly at the scheduled time.Important Instructions: - MacBooks are strictly not allowed for this test.It is mandatory for all students to carry the following items to be eligible for the in-campus assessment: - A printout of the admit card sent to the registered email ID. A soft copy of the admit card will not be considered valid. - Original physical PAN card with photo. Scanned copies, photocopies, or laminated copies of the PAN card will not be accepted. DigiLocker PAN cards will not be considered valid. - If a student does not have their physical PAN card, they can download the official E-PAN card from an official source and bring a printed copy of it. - PAN cards made when the candidate was a minor will not be accepted, and such candidates will be rejected. - A PAN application acknowledgment will not be treated as valid proof.Laptop Requirements: - Operating system: Windows 11 - RAM: 8 GB or more - Processor: Intel i3 8th Generation 2.2 GHz or higher - Browser: Latest 3 versions of Google Chrome - Webcam and microphone must work and stay on during the test. The webcam must show a clear image. - Uninstall any VPN and proxy setups.Safe Exam Browser (SEB): - Uninstall any old version of Safe Exam Browser, then install the new version from this link: https://securetest.hirepro.in/accenture/v2/POC: Vatsal (+91 92344 57393), Arpita (+91 90755 64147)CDC, IIT Kharagpur",
       "notice_by": "23EE38007",
       "notice_time": "30-10-2026 23:53"
-    },
-    {
-      "id": "1304",
-      "type": "PLACEMENT",
-      "subject": "Urgent",
-      "company": "ACCENTURE SOLUTIONS",
-      "notice": "Students appearing for the Accenture Solutions  GN Management Consulting Associate role are hereby informed that the mock assessment link has been shared by the company.The mock assessment must be completed by 11:59 AM on 31st October 2026. Students may attempt it at any time before the deadline.Important Instructions:1.⁠ ⁠The mock assessment is mandatory and must be completed within the stipulated deadline to identify and resolve any system compatibility issues before the actual assessment.2.⁠ ⁠MacBooks are strictly not allowed. Only Windows laptops should be used.3.⁠ ⁠Uninstall any previously installed version of Safe Exam Browser (SEB) and install the latest version using the link below:    SEB Link: https://securetest.hirepro.in/accenture/v2/4.⁠ ⁠Ensure that your laptop has a functional webcam and microphone and meets the required system specifications.5.⁠ ⁠Uninstall any VPN or proxy configurations before attempting the assessment.All students are advised to complete the mock assessment well before the deadline to avoid last-minute technical issues.CDC, IIT Kharagpur",
-      "notice_by": "23AG36009",
-      "notice_time": "30-10-2026 23:04"
     },
     {
       "id": "1303",
