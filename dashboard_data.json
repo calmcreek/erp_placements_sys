@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "31 Oct 2026, 10:32:32 AM",
-  "next_check": "31 Oct 2026, 11:02:32 AM",
-  "notice_count": 1199,
+  "last_check": "31 Oct 2026, 11:02:26 AM",
+  "next_check": "31 Oct 2026, 11:32:26 AM",
+  "notice_count": 1200,
   "placement_count": 94,
   "notices": [
+    {
+      "id": "1309",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "APPLIED MATERIALS",
+      "notice": "The Pre-Placement Talk for APPLIED MATERIALS, will be held on 31st October 2026 from 11:00 AM.Link: https://teams.microsoft.com/meet/2932973491181920?p=Fx6wrjMOrs5bLcTiL9Note: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Faiz (+91 7386295387)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "31-10-2026 10:44"
+    },
     {
       "id": "1308",
       "type": "PLACEMENT",
