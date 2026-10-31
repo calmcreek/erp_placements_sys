@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "31 Oct 2026, 10:10:33 PM",
-  "next_check": "31 Oct 2026, 10:40:33 PM",
-  "notice_count": 1218,
+  "last_check": "31 Oct 2026, 10:32:35 PM",
+  "next_check": "31 Oct 2026, 11:02:35 PM",
+  "notice_count": 1219,
   "placement_count": 96,
   "notices": [
+    {
+      "id": "1330",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "Multiple Companies",
+      "notice": "The CV submission for the following companies have been extended till 4:00 PM, 1st November, 2026.1⁠. ⁠JP MORGANCHASE (Profile: Commercial & Investment Bank Research & Analytics, Global Research - Full Time Analyst)2.⁠ ⁠Navi (All Profiles)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "31-10-2026 22:12"
+    },
     {
       "id": "1329",
       "type": "INTERNSHIP",
