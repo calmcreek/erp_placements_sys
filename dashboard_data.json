@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "31 Oct 2026, 01:02:32 PM",
-  "next_check": "31 Oct 2026, 01:32:32 PM",
-  "notice_count": 1202,
+  "last_check": "31 Oct 2026, 01:33:28 PM",
+  "next_check": "31 Oct 2026, 02:03:28 PM",
+  "notice_count": 1203,
   "placement_count": 94,
   "notices": [
+    {
+      "id": "1312",
+      "type": "PLACEMENT",
+      "subject": "Re-schedule",
+      "company": "CDC Placement Updated Schedule for 31st October 2026",
+      "notice": "All students eligible for placement are advised to take note of the revised timing for the following assessment:1.⁠ ⁠[TEST: SLOT 3] ACCENTURE AEH (Profile: Elite Technology Engineer) (2:00 PM  4:00 PM)Important Instructions:1.⁠ ⁠Students who have not appeared for the in-campus coding assessment in the first two slots (9:00 AM and 12:00 PM) may appear in the third slot of 2:00 PM.2.⁠ ⁠Students must carry a printed copy of their admit card sent to their registered email ID. Soft copies will not be accepted.3.⁠ ⁠Students must carry their original physical PAN card with photograph for identity verification. DigiLocker PAN cards, photocopies, scanned copies and laminated copies will not be accepted.4.⁠ ⁠Students without a physical PAN card may carry a printed copy of their official E-PAN. PAN cards issued when the candidate was a minor and PAN application acknowledgements will not be accepted.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "31-10-2026 13:27"
+    },
     {
       "id": "1311",
       "type": "PLACEMENT",
