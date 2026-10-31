@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "31 Oct 2026, 09:02:16 PM",
-  "next_check": "31 Oct 2026, 09:32:16 PM",
-  "notice_count": 1216,
+  "last_check": "31 Oct 2026, 09:32:31 PM",
+  "next_check": "31 Oct 2026, 10:02:31 PM",
+  "notice_count": 1217,
   "placement_count": 96,
   "notices": [
+    {
+      "id": "1328",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "WHITEOAK CAPITAL",
+      "notice": "PFA the test room allocation for the Assessment of WhiteOak Capital for all the roles, scheduled from 10:00 PM onwards on 31st October, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card/Medical Book, failing which students will not be permitted to sit for tests.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Nikhita (+91 8770035884), Daksh (+91 9818071612)CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "31-10-2026 21:13"
+    },
     {
       "id": "1327",
       "type": "PLACEMENT",
