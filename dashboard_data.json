@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "31 Oct 2026, 11:32:30 PM",
-  "next_check": "01 Nov 2026, 12:02:30 AM",
-  "notice_count": 1220,
+  "last_check": "01 Nov 2026, 12:02:20 AM",
+  "next_check": "01 Nov 2026, 12:32:20 AM",
+  "notice_count": 1221,
   "placement_count": 96,
   "notices": [
+    {
+      "id": "1332",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "EY PARTHENON",
+      "notice": "All the students that have applied for the Associate Consultant Role at EY Parthenon are required to fill the following additional details form by 8:00 AM 1st November, 2026.Form Link: https://forms.gle/6NwDgSH1sVZ1j5aJ6CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "31-10-2026 23:57"
+    },
     {
       "id": "1331",
       "type": "PLACEMENT",
