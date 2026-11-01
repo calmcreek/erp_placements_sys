@@ -1,10 +1,28 @@
 {
-  "erp_status": "Error",
-  "last_check": "01 Nov 2026, 05:02:21 PM",
-  "next_check": null,
-  "notice_count": 1227,
+  "erp_status": "Connected",
+  "last_check": "01 Nov 2026, 06:02:23 PM",
+  "next_check": "01 Nov 2026, 06:32:23 PM",
+  "notice_count": 1229,
   "placement_count": 97,
   "notices": [
+    {
+      "id": "1344",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Multiple Companies",
+      "notice": "The CV submission for the following companies have been extended till 4:00 PM, 2nd November, 2026.1. INFO EDGE INDIA LIMITED (Profile: Data Scientist)2. INDUS INSIGHTS (Profile: Assosiate)3. PORTER ( Profiles: Associate Product Manager, Software Development Engineer)4. IBM (All Profiles)5. CAPGEMINI (Profile: Software Engineer)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "01-11-2026 17:31"
+    },
+    {
+      "id": "1343",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "AMAZON",
+      "notice": "The CV Submission for Amazon for the Software Development Engineer I role is open till 4:00 PM, 2nd November, 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "01-11-2026 17:27"
+    },
     {
       "id": "1341",
       "type": "PLACEMENT",
@@ -11156,7 +11174,7 @@
       "ctc": "4838500",
       "currency": "INR",
       "additional_details_2": "",
-      "application_status": "",
+      "application_status": "Y",
       "resume_upload_start": "2026-11-01 16:52",
       "resume_upload_end": "2026-11-02 16:00",
       "interview_selection": "",
@@ -11638,7 +11656,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-28 15:36",
-      "resume_upload_end": "2026-11-01 12:00",
+      "resume_upload_end": "2026-11-02 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -11654,7 +11672,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-28 15:37",
-      "resume_upload_end": "2026-11-01 12:00",
+      "resume_upload_end": "2026-11-02 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -12102,7 +12120,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-31 20:19",
-      "resume_upload_end": "2026-11-01 16:00",
+      "resume_upload_end": "2026-11-02 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -12118,7 +12136,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-31 20:18",
-      "resume_upload_end": "2026-11-01 16:00",
+      "resume_upload_end": "2026-11-02 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -12603,5 +12621,5 @@
       "contract": ""
     }
   ],
-  "last_error": "ERP authentication failed."
+  "last_error": null
 }
