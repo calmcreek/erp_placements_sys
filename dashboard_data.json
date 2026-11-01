@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "01 Nov 2026, 07:32:31 AM",
-  "next_check": "01 Nov 2026, 08:02:31 AM",
-  "notice_count": 1221,
+  "last_check": "01 Nov 2026, 08:02:25 AM",
+  "next_check": "01 Nov 2026, 08:32:25 AM",
+  "notice_count": 1222,
   "placement_count": 96,
   "notices": [
+    {
+      "id": "1336",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "NAVI",
+      "notice": "The Pre-Placement Talk (PPT) for NAVI for all the roles is scheduled on 1st November 2026 from 4:45 PM onwards in an offline mode. Students are advised to be present 15 minutes prior to the scheduled time.Reporting Time: 4:45 PM Venue: V1, VikramshilaNote: It is compulsory for all eligible students to attend the PPT. Attendance will be recorded by the company, and only those attending will be considered for the further process. POC:  Faiz (+91 7386295387), Zalavadiya Dishil (+91 9925492574)CDC, IITKharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "01-11-2026 07:46"
+    },
     {
       "id": "1332",
       "type": "PLACEMENT",
