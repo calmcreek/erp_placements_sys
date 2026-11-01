@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "01 Nov 2026, 03:32:33 PM",
-  "next_check": "01 Nov 2026, 04:02:33 PM",
-  "notice_count": 1225,
+  "last_check": "01 Nov 2026, 04:02:18 PM",
+  "next_check": "01 Nov 2026, 04:32:18 PM",
+  "notice_count": 1226,
   "placement_count": 96,
   "notices": [
+    {
+      "id": "1340",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "CARS24",
+      "notice": "All the eligible students who have applied for Cars24 are required to kindly fill the additional details form given below.The form now includes the Job Descriptions of all the roles, which can be accessed within the form itself. Students who have already filled the form earlier are encouraged to go through the JDs and fill the form again, if required.Link: https://forms.gle/mEpSyzF9ALVQ9TGG7Deadline: 2nd November 2026, 7:00 PMKindly ensure you have filled the form before the deadline. No further extensions will be provided.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "01-11-2026 15:55"
+    },
     {
       "id": "1339",
       "type": "PLACEMENT",
