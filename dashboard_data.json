@@ -1,18 +1,18 @@
 {
   "erp_status": "Connected",
-  "last_check": "01 Nov 2026, 10:02:17 PM",
-  "next_check": "01 Nov 2026, 10:32:17 PM",
+  "last_check": "01 Nov 2026, 10:32:35 PM",
+  "next_check": "01 Nov 2026, 11:02:35 PM",
   "notice_count": 1231,
   "placement_count": 97,
   "notices": [
     {
-      "id": "1346",
+      "id": "1347",
       "type": "PLACEMENT",
       "subject": "Urgent",
       "company": "HILABS",
-      "notice": "PFA the test room allocation for the Assessment of HILABS for the AI Engineer role, scheduled from 10:30 PM  onwards on 1st November, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card/Medical Book, failing which students will not be permitted to sit for test. Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Devansh (+91 7999892181), Aditi (+91 8815395895)CDC, IIT Kharagpur",
-      "notice_by": "23EE38007",
-      "notice_time": "01-11-2026 20:53"
+      "notice": "PFA the updated test room allocation for the Assessment of HILABS for the AI Engineer role, scheduled from 10:30 PM onwards on 1st November, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card/Medical Book, failing which students will not be permitted to sit for test.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Devansh (+91 7999892181), Aditi (+91 8815395895)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "01-11-2026 22:11"
     },
     {
       "id": "1345",
