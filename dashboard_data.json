@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "01 Nov 2026, 11:32:28 PM",
-  "next_check": "02 Nov 2026, 12:02:28 AM",
-  "notice_count": 1231,
+  "last_check": "02 Nov 2026, 12:02:21 AM",
+  "next_check": "02 Nov 2026, 12:32:21 AM",
+  "notice_count": 1232,
   "placement_count": 97,
   "notices": [
+    {
+      "id": "1348",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "COMMONWEALTH BANK OF AUSTRALIA",
+      "notice": "PFA the test room allocation for the Assessment of Commonwealth Bank of Australia for the Graduate Engineering role, scheduled from 12:30 AM  onwards on 2nd November, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card/Medical Book, failing which students will not be permitted to sit for test. Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Nikita (+91 9969207598), Aditya Ghandge(+91 9325468252)CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "01-11-2026 23:58"
+    },
     {
       "id": "1347",
       "type": "PLACEMENT",
