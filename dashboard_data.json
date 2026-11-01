@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "01 Nov 2026, 04:02:18 PM",
-  "next_check": "01 Nov 2026, 04:32:18 PM",
-  "notice_count": 1226,
+  "last_check": "01 Nov 2026, 04:32:33 PM",
+  "next_check": "01 Nov 2026, 05:02:33 PM",
+  "notice_count": 1227,
   "placement_count": 96,
   "notices": [
+    {
+      "id": "1341",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "FLIPKART",
+      "notice": "All the students who have applied for the Flipkart AI Engineer role need to register on the Portal.Students are required to complete their registration on the portal by 2nd November 2026, 4:00 PM.This is the final extension, and no further extension will be provided. Students who have already completed their registration earlier need not register again. Link: https://a.hirepro.in/CgMDiOHYPlease note that registrations not completed within the deadline will not be considered for further process.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "01-11-2026 16:02"
+    },
     {
       "id": "1340",
       "type": "PLACEMENT",
