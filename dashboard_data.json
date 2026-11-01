@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "02 Nov 2026, 02:32:30 AM",
-  "next_check": "02 Nov 2026, 03:02:30 AM",
-  "notice_count": 1232,
+  "last_check": "02 Nov 2026, 03:02:25 AM",
+  "next_check": "02 Nov 2026, 03:32:25 AM",
+  "notice_count": 1233,
   "placement_count": 97,
   "notices": [
+    {
+      "id": "1350",
+      "type": "PLACEMENT",
+      "subject": "Schedule",
+      "company": "CDC Placement Schedule for 2nd7th November 2026",
+      "notice": "All students eligible for placement are advised to take note of the tentative placement schedule from Monday, 2nd November, to Saturday, 7th November 2026.Please note that this schedule is tentative and is subject to additions and subtractions.Monday, 2nd November 20261. [PPT] PINE LABS ( (12:00 PM  1:00 PM)2. [PPT] ITC (1:00 PM  2:00 PM)3. [PPT] KLA (4:00 PM  5:00 PM)4. [PPT] FUJITSU (5:00 PM  6:00 PM)5. [TEST] CAPITAL ONE (Profile: SDE 1) (6:00 PM  8:00 PM)6. [PPT : OFFLINE] TREDENCE ANALYTICS (8:00 PM  9:00 PM)7. [TEST] TREDENCE ANALYTICS (Profile: DATA SCIENTIST) (9:00 PM  10:00 PM)8. [TEST] FLIPKART (Profile: AI Engineer) (10:30 PM  12:00 AM)9. [TEST] KLA (Profile : Product Applications Engineer) (3rd November) (12:30 AM  2:00 AM)Tuesday, 3rd November 20261. [PPT] IBM (12:00 PM  1:00 PM)2. [PPT] JPMC (5:00 PM  6:00 PM)3. [TEST] POCKET FM (Profile: Member of Technical Staff) (6:00 PM  8:00 PM)4. [TEST] CAPITAL ONE (Profile: Business Analyst) (8:00 PM  8:30 PM)5. [TEST] NAVI (All Profiles) (9:00 PM  12:00 AM)Wednesday, 4th November 20261. [PPT] CATERPILLAR (12:00 PM  1:00 PM)2. [PPT] AIRBUS (5:00 PM  6:00 PM)3. [TEST] NK SECURITIES (All Profiles) (6:00 PM  8:00 PM)4. [TEST] APPLIED MATERIALS (Profile: Application Engineer) (8:00 PM  9:00 PM)5. [TEST] IBM (All Profiles) (9:00 PM  1:00 AM)Thursday, 5th November 20261. [PPT] GE AEROSPACE (5:00 PM  6:00 PM)2. [TEST] CAPITAL ONE (Profile: SDE Test 2) (6:00 PM  7:30 PM)3. [TEST] JPMC (Profile: CIB Research) (7:30 PM  9:30 PM)4. [TEST] AMAZON (Profile: SDE 1) (10:00 PM  12:00 AM)Friday, 6th November 20261. [PPT] EXXONMOBIL (1:00 PM  2:00 PM)2. [TEST] TEXAS INSTRUMENTS (All Profiles) (7:00 PM  10:00 PM)3. [TEST] PURPLLE (Profile: ALDI GET) (10:30 PM  12:00 AM)Saturday, 7th November 20261. [TEST] NVIDIA (Profile: Hardware Engineer) (10:00 AM  11:00 AM)2. [TEST] CARS 24 (All Profiles) (11:30 AM  12:00 PM)3. [TEST] PORTER (All Profiles) (2:00 - 4:00 PM)4. [TEST] INDUS INSIGHT (Profile: Associate) (8:00 PM  10:00 PM)Note: The schedule is tentative and subject to change. Links to the PPTs and other relevant details will be shared separately. Room allocations and other necessary instructions for tests will be communicated prior to the respective assessments.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "02-11-2026 02:57"
+    },
     {
       "id": "1348",
       "type": "PLACEMENT",
