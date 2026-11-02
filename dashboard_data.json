@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "02 Nov 2026, 07:32:44 PM",
-  "next_check": "02 Nov 2026, 08:02:44 PM",
-  "notice_count": 1249,
+  "last_check": "02 Nov 2026, 08:02:39 PM",
+  "next_check": "02 Nov 2026, 08:32:39 PM",
+  "notice_count": 1251,
   "placement_count": 98,
   "notices": [
+    {
+      "id": "1369",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "JP MORGANCHASE",
+      "notice": "Please note that all the students who have applied for the Commercial & Investment Bank Research & Analytics, Global Research -  Full Time Analyst Role for JP MORGANCHASE are required to fill the following additional details form by 9:00 PM, 2nd November, 2026.Link: https://forms.gle/4E6ryrdSr9umQsnn6Please note that this is different from the company portal, and students are required to fill this as well.All the eligible students are advised to fill the form within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "02-11-2026 20:01"
+    },
+    {
+      "id": "1368",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "TREDENCE ANALYTICS",
+      "notice": "The Pre-Placement Talk of Tredence Analytics is scheduled on 2nd November, 2026 from 8:00 PM.Mode: OfflineVenue: NR 221, NalandaNote: Attendance for the offline PPT is mandatory and will be recorded. The Test will be held post the PPT. Only the students attending the PPT will be eligible for the test. Students are advised to be present 15 minutes prior to the scheduled time.PFA the Room Allocation for the test.POC: Bhavy (7597121669), Aditya Ghosh (6295916930).CDC, IIT Kharagpur.",
+      "notice_by": "23MI33009",
+      "notice_time": "02-11-2026 19:42"
+    },
     {
       "id": "1367",
       "type": "PLACEMENT",
