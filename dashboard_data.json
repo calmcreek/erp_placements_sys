@@ -1,7 +1,7 @@
 {
   "erp_status": "Connected",
-  "last_check": "03 Nov 2026, 12:02:22 AM",
-  "next_check": "03 Nov 2026, 12:32:22 AM",
+  "last_check": "03 Nov 2026, 12:32:35 AM",
+  "next_check": "03 Nov 2026, 01:02:35 AM",
   "notice_count": 1259,
   "placement_count": 102,
   "notices": [
@@ -12500,7 +12500,7 @@
       "ctc": "2000000",
       "currency": "INR",
       "additional_details_2": "",
-      "application_status": "",
+      "application_status": "Y",
       "resume_upload_start": "2026-11-02 10:45",
       "resume_upload_end": "2026-11-03 23:59",
       "interview_selection": "",
@@ -12852,7 +12852,7 @@
       "ctc": "1500000",
       "currency": "INR",
       "additional_details_2": "",
-      "application_status": "",
+      "application_status": "Y",
       "resume_upload_start": "2026-11-02 10:27",
       "resume_upload_end": "2026-11-03 16:00",
       "interview_selection": "",
