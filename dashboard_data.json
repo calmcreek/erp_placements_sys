@@ -1,18 +1,18 @@
 {
   "erp_status": "Connected",
-  "last_check": "02 Nov 2026, 03:32:43 PM",
-  "next_check": "02 Nov 2026, 04:02:43 PM",
+  "last_check": "02 Nov 2026, 04:02:25 PM",
+  "next_check": "02 Nov 2026, 04:32:25 PM",
   "notice_count": 1244,
   "placement_count": 99,
   "notices": [
     {
-      "id": "1361",
+      "id": "1362",
       "type": "PLACEMENT",
       "subject": "Urgent",
       "company": "JP MORGANCHASE",
-      "notice": "Please note that all the students who have applied for the Commercial & Investment Bank Research & Analytics, Global Research -  Full Time Analyst Role for JP MORGANCHASE are required to fill the following additional details form by 7:00 PM, 1st November, 2026.Link: https://forms.gle/4E6ryrdSr9umQsnn6Please note that this is different from the company portal, and students are required to fill this as well.All the eligible students are advised to fill the form within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
-      "notice_by": "23EE38007",
-      "notice_time": "02-11-2026 15:19"
+      "notice": "Please note that all the students who have applied for the Commercial & Investment Bank Research & Analytics, Global Research - Full-Time Analyst Role for JP MORGANCHASE are required to fill out the following additional details form by 7:00 PM 2nd November, 2026.Link: https://forms.gle/4E6ryrdSr9umQsnn6Please note that this is different from the company portal, and students are required to fill this out as well.All eligible students are advised to fill the form within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "02-11-2026 15:57"
     },
     {
       "id": "1360",
@@ -11869,7 +11869,7 @@
       "ctc": "3200000",
       "currency": "INR",
       "additional_details_2": "",
-      "application_status": "",
+      "application_status": "Y",
       "resume_upload_start": "2026-11-02 10:45",
       "resume_upload_end": "2026-11-03 16:00",
       "interview_selection": "",
