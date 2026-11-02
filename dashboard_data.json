@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "02 Nov 2026, 06:32:44 PM",
-  "next_check": "02 Nov 2026, 07:02:44 PM",
-  "notice_count": 1247,
+  "last_check": "02 Nov 2026, 07:02:24 PM",
+  "next_check": "02 Nov 2026, 07:32:24 PM",
+  "notice_count": 1248,
   "placement_count": 98,
   "notices": [
+    {
+      "id": "1366",
+      "type": "INTERNSHIP",
+      "subject": "CV Submission",
+      "company": "Liora Labs (Gravia)",
+      "notice": "The CV submission of Liora labs has been extended till 11:59 PM, 3rd November, 2026 with revised eligibility criteria.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23AG3AI03",
+      "notice_time": "02-11-2026 18:52"
+    },
     {
       "id": "1365",
       "type": "PLACEMENT",
