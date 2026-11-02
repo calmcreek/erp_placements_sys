@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "02 Nov 2026, 11:32:33 PM",
-  "next_check": "03 Nov 2026, 12:02:33 AM",
-  "notice_count": 1258,
+  "last_check": "03 Nov 2026, 12:02:22 AM",
+  "next_check": "03 Nov 2026, 12:32:22 AM",
+  "notice_count": 1259,
   "placement_count": 102,
   "notices": [
+    {
+      "id": "1380",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "KLA",
+      "notice": "PFA the test room allocation for the Assessment of KLA, scheduled from 12:15 AM onwards.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card, failing which students will not be permitted to sit for tests.Instructions to be strictly followed:1. Clear all the cache and history in your device.2. Recommended to use the mentioned browser in the inviteThe test links have already been shared on the KLA registered email id.Please also check your spam folder for the same.Please fill the following google form if you are in the Room Allocation but have not received the test link.Form Link: https://forms.gle/yjbPCZExgA9TZbW16Please carry your laptops, pens, and papers.Students are requested to strictly report 15 minutes prior to the reporting time.POC: Nikita (+91 9969207598), Khush (+91 9922168000)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "02-11-2026 23:55"
+    },
     {
       "id": "1377",
       "type": "PLACEMENT",
