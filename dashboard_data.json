@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "02 Nov 2026, 02:32:36 PM",
-  "next_check": "02 Nov 2026, 03:02:36 PM",
-  "notice_count": 1240,
+  "last_check": "02 Nov 2026, 03:02:25 PM",
+  "next_check": "02 Nov 2026, 03:32:25 PM",
+  "notice_count": 1242,
   "placement_count": 99,
   "notices": [
+    {
+      "id": "1359",
+      "type": "PLACEMENT",
+      "subject": "Shortlist",
+      "company": "CAPITAL ONE SERVICES INDIA PVT. LTD.",
+      "notice": "PFA the test shortlist for the Assessment of Capital One for the Associate (Software Engineer) role, scheduled from 6:00 PM onwards on 2nd November 2026.The test links have been shared with the shortlisted students on their CDC-registered email IDs. Test instructions have also been shared.Note: Shortlisted candidates who have not received the test link are requested to fill out the following form.Form link: https://forms.gle/UGLr9tihnxFNurRR7Venue: Nalanda Classroom ComplexThe room allocation for the test will be released shortly.Students are requested to report 15 minutes prior to the scheduled start time.POCs: Rudra (+91 8235755257), Faiz (+91 7386295387)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "02-11-2026 14:51"
+    },
+    {
+      "id": "1358",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "POCKETFM",
+      "notice": "All the students who have applied for the Member of Technical Staff role need to register on the Portal.Students are required to complete their registration on the portal by 2nd November 2026, 11:59 PM. The link has been shared over mail.No further extension will be provided.Students who have already completed their registration earlier need not register again.Please note that registrations not completed within the deadline will not be considered for further process.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "02-11-2026 14:50"
+    },
     {
       "id": "1357",
       "type": "PLACEMENT",
