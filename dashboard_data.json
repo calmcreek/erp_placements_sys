@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "02 Nov 2026, 09:02:23 AM",
-  "next_check": "02 Nov 2026, 09:32:23 AM",
-  "notice_count": 1234,
+  "last_check": "02 Nov 2026, 09:32:39 AM",
+  "next_check": "02 Nov 2026, 10:02:39 AM",
+  "notice_count": 1235,
   "placement_count": 97,
   "notices": [
+    {
+      "id": "1352",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Multiple Companies",
+      "notice": "CV submission for the following companies has been extended till 4:00 PM, 2nd November, 2026. 1.  FUJITSU RESEARCH INDIA PRIVATE LIMITED (Profiles: Software Developer-Monaka-HPC AI, AI Lab)2.  PRODIGAL TECHNOLOGIES INC. (Profiles: Applied AI, Associate Consultant)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CGPA Criteria:Fujitsu: 0Prodigal: 0CDC, IIT Kharagpur",
+      "notice_by": "17164",
+      "notice_time": "02-11-2026 09:26"
+    },
     {
       "id": "1351",
       "type": "PLACEMENT",
@@ -11557,7 +11566,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-10-30 18:15",
-      "resume_upload_end": "2026-11-01 16:00",
+      "resume_upload_end": "2026-11-02 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -12197,7 +12206,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-29 17:00",
-      "resume_upload_end": "2026-11-01 16:00",
+      "resume_upload_end": "2026-11-02 16:00",
       "interview_selection": "",
       "contract": ""
     },
