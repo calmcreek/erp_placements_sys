@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "02 Nov 2026, 12:32:33 PM",
-  "next_check": "02 Nov 2026, 01:02:33 PM",
-  "notice_count": 1238,
+  "last_check": "02 Nov 2026, 01:02:28 PM",
+  "next_check": "02 Nov 2026, 01:32:28 PM",
+  "notice_count": 1240,
   "placement_count": 99,
   "notices": [
+    {
+      "id": "1357",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Amazon",
+      "notice": "The CV Submission for Amazon for the Software Development Engineer I role is open till 4:00 PM, 3rd November, 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17164",
+      "notice_time": "02-11-2026 13:00"
+    },
+    {
+      "id": "1356",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "KLA",
+      "notice": "The Pre-Placement Talk for KLA, will be held on 2nd November 2026 from 4:00 PM.Link: https://kla.zoom.com/j/91753389947?pwd=alz6LnJYi3xtnKEUiG7SIqrb2SN9d0.1&from=addonMeeting ID: 917 5338 9947Passcode: 648728Note: All placement-registered students are expected to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Neev (+91 90013 46350)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "02-11-2026 12:48"
+    },
     {
       "id": "1355",
       "type": "PLACEMENT",
@@ -11257,7 +11275,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-01 16:52",
-      "resume_upload_end": "2026-11-02 16:00",
+      "resume_upload_end": "2026-11-03 16:00",
       "interview_selection": "",
       "contract": ""
     },
