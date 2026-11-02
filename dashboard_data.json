@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "02 Nov 2026, 10:32:40 PM",
-  "next_check": "02 Nov 2026, 11:02:40 PM",
-  "notice_count": 1256,
+  "last_check": "02 Nov 2026, 11:02:27 PM",
+  "next_check": "02 Nov 2026, 11:32:27 PM",
+  "notice_count": 1258,
   "placement_count": 102,
   "notices": [
+    {
+      "id": "1377",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "PURPLLE",
+      "notice": "The CV submission of Purplle has been extended till 11:59 PM, 3rd November, 2026 with revised eligibility criteria.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "02-11-2026 22:37"
+    },
+    {
+      "id": "1376",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Multiple Companies",
+      "notice": "The following companies are open for CV Submission till 4:00 PM, 3rd November, 2026.1. EXL Service (Profile: Analytics - Consultant)2. Bajaj (Profile: All Profiles)3. Tiger Analytics ( Profile: Trainee  Analyst)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "02-11-2026 22:36"
+    },
     {
       "id": "1375",
       "type": "PLACEMENT",
