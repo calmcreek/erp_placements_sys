@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "03 Nov 2026, 01:32:44 AM",
-  "next_check": null,
-  "notice_count": 1262,
+  "erp_status": "Connected",
+  "last_check": "03 Nov 2026, 02:47:00 AM",
+  "next_check": "03 Nov 2026, 03:17:00 AM",
+  "notice_count": 1264,
   "placement_count": 103,
   "notices": [
+    {
+      "id": "1385",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "AMAZON",
+      "notice": "All the students who have applied for Amazon for the Software Development Engineer I Role are required to fill the following additional details form.Link: https://forms.gle/YnQUuC7NDD1zyfAo6Deadline: 4:00 PM, 3rd November, 2026.All the students are advised to fill the form within the given deadline. No further extensions will be provided.CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "03-11-2026 02:23"
+    },
     {
       "id": "1384",
       "type": "PLACEMENT",
@@ -13,6 +22,15 @@
       "notice": "PFA the test room allocation for the Assessment of Tredence Analytics, scheduled from 2:10 AM onwards, on 3rd November, 2026..Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card, failing which students will not be permitted to sit for tests.The test links have already been shared on the CDC registered email id.Please also check your spam folder for the same.Please fill the following google form if you are in the Room Allocation but have not received the test link.Form Link: https://forms.gle/yjbPCZExgA9TZbW16Please carry your laptops, pens, and papers.Students are requested to strictly report 10 minutes prior to the reporting time.POC: Bhavy (+91 7597121669), Aditya Ghosh(+91 6295916930)CDC, IIT Kharagpur",
       "notice_by": "23EE38007",
       "notice_time": "03-11-2026 01:14"
+    },
+    {
+      "id": "1383",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "NAVI",
+      "notice": "The following company is open for CV Submission till 4:00 PM, 3rd November, 2026.1. Navi (Profile: AI Strategy Operations)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "03-11-2026 00:40"
     },
     {
       "id": "1382",
@@ -13014,5 +13032,5 @@
       "contract": ""
     }
   ],
-  "last_error": "command: SELECT => socket error: EOF"
+  "last_error": null
 }
