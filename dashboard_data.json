@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "02 Nov 2026, 06:02:35 PM",
-  "next_check": "02 Nov 2026, 06:32:35 PM",
-  "notice_count": 1246,
+  "last_check": "02 Nov 2026, 06:32:44 PM",
+  "next_check": "02 Nov 2026, 07:02:44 PM",
+  "notice_count": 1247,
   "placement_count": 98,
   "notices": [
+    {
+      "id": "1365",
+      "type": "PLACEMENT",
+      "subject": "General",
+      "company": "Attendance for Placement Process 2026-27",
+      "notice": "All the registered students for placement session 2026-27 are advised to take a note of the followings -1. All regular students of the campus, registered for placement session 2026-27 are not permitted to appear in the process of placement (test, GD, interview, etc.) from anywhere other than the allotted exam venue for whatsoever reasons.2. It is compulsory to appear for the tests from the Nalanda classroom (or as per allotted exam venue).CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "02-11-2026 18:19"
+    },
     {
       "id": "1364",
       "type": "PLACEMENT",
@@ -11985,7 +11994,7 @@
       "additional_details_2": "Download",
       "application_status": "Y",
       "resume_upload_start": "2026-10-27 17:41",
-      "resume_upload_end": "2026-10-29 16:00",
+      "resume_upload_end": "2026-11-02 20:00",
       "interview_selection": "",
       "contract": ""
     },
