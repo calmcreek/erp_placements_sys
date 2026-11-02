@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "02 Nov 2026, 09:32:39 AM",
-  "next_check": "02 Nov 2026, 10:02:39 AM",
-  "notice_count": 1235,
+  "last_check": "02 Nov 2026, 10:02:22 AM",
+  "next_check": "02 Nov 2026, 10:32:22 AM",
+  "notice_count": 1236,
   "placement_count": 97,
   "notices": [
+    {
+      "id": "1353",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "FUJITSU",
+      "notice": "The Pre-Placement Talk for FUJITSU, will be held on 2nd November 2026 from 5:00 PM.Link: https://teams.microsoft.com/meet/457570280358996?p=3xM3xsU5rpA9tWwEUVMeeting ID: 457 570 280 358 996Passcode: Gg9Lu3cjNote: All placement-registered students are expected to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Aditya Ghandge (+91 9325468252)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "02-11-2026 10:00"
+    },
     {
       "id": "1352",
       "type": "PLACEMENT",
