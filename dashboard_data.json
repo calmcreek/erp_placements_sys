@@ -1,10 +1,37 @@
 {
   "erp_status": "Connected",
-  "last_check": "03 Nov 2026, 12:32:35 AM",
-  "next_check": "03 Nov 2026, 01:02:35 AM",
-  "notice_count": 1259,
+  "last_check": "03 Nov 2026, 01:02:22 AM",
+  "next_check": "03 Nov 2026, 01:32:22 AM",
+  "notice_count": 1262,
   "placement_count": 102,
   "notices": [
+    {
+      "id": "1383",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "NAVI",
+      "notice": "The following company is open for CV Submission till 4:00 PM, 3rd November, 2026.1. Navi (Profile: AI Strategy Operations)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "03-11-2026 00:40"
+    },
+    {
+      "id": "1382",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "TEXAS INSTRUMENTS",
+      "notice": "All the students who have applied for Texas Instruments need to register on the Hirepro Portal.Students are required to complete their registration on the portal by 4th November 2026, 11:59 PM. The link has been shared over mail.No further extension will be provided.Students who have already completed their registration earlier need not register again.Please note that registrations not completed within the deadline will not be considered for further process.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "03-11-2026 00:39"
+    },
+    {
+      "id": "1381",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "TCG DIGITAL SOLUTIONS PVT. LTD.",
+      "notice": "PFA the shortlist for the Interview round of TCG DIGITAL SOLUTIONS PVT. LTD.Further details will be communicated to the shortlisted candidates shortly.CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "03-11-2026 00:39"
+    },
     {
       "id": "1380",
       "type": "PLACEMENT",
