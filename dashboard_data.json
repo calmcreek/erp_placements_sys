@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "02 Nov 2026, 03:02:25 PM",
-  "next_check": "02 Nov 2026, 03:32:25 PM",
-  "notice_count": 1242,
+  "last_check": "02 Nov 2026, 03:32:43 PM",
+  "next_check": "02 Nov 2026, 04:02:43 PM",
+  "notice_count": 1244,
   "placement_count": 99,
   "notices": [
+    {
+      "id": "1361",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "JP MORGANCHASE",
+      "notice": "Please note that all the students who have applied for the Commercial & Investment Bank Research & Analytics, Global Research -  Full Time Analyst Role for JP MORGANCHASE are required to fill the following additional details form by 7:00 PM, 1st November, 2026.Link: https://forms.gle/4E6ryrdSr9umQsnn6Please note that this is different from the company portal, and students are required to fill this as well.All the eligible students are advised to fill the form within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "02-11-2026 15:19"
+    },
+    {
+      "id": "1360",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "ITC",
+      "notice": "All eligible students who have applied for ITC are required to kindly fill out the survey form given below.Link: https://survey.zohopublic.in/zs/ZNB5hZDeadline: 3rd November 2026, 4:00 PMKindly ensure you have filled out the form before the deadline. No further extensions will be provided.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "02-11-2026 14:59"
+    },
     {
       "id": "1359",
       "type": "PLACEMENT",
