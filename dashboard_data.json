@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "03 Nov 2026, 08:02:27 PM",
-  "next_check": null,
-  "notice_count": 1284,
+  "erp_status": "Connected",
+  "last_check": "03 Nov 2026, 10:02:21 PM",
+  "next_check": "03 Nov 2026, 10:32:21 PM",
+  "notice_count": 1285,
   "placement_count": 110,
   "notices": [
+    {
+      "id": "1408",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "AIRBUS",
+      "notice": "All the eligible students who have applied for AIRBUS are required to kindly fill the preference form given below.Link: https://forms.gle/ySQHVgEokz7Hiaeb9Deadline: 4th November 2026, 4:00 PMKindly ensure you have filled the form before the deadline. No further extensions will be provided.CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "03-11-2026 20:39"
+    },
     {
       "id": "1407",
       "type": "PLACEMENT",
@@ -12469,7 +12478,7 @@
       "ctc": "3009352",
       "currency": "INR",
       "additional_details_2": "",
-      "application_status": "",
+      "application_status": "Y",
       "resume_upload_start": "2026-11-03 16:15",
       "resume_upload_end": "2026-11-04 16:00",
       "interview_selection": "",
@@ -12485,7 +12494,7 @@
       "ctc": "3009352",
       "currency": "INR",
       "additional_details_2": "",
-      "application_status": "",
+      "application_status": "Y",
       "resume_upload_start": "2026-11-03 16:12",
       "resume_upload_end": "2026-11-04 16:13",
       "interview_selection": "",
@@ -12661,7 +12670,7 @@
       "ctc": "5003200",
       "currency": "INR",
       "additional_details_2": "",
-      "application_status": "",
+      "application_status": "Y",
       "resume_upload_start": "2026-11-03 16:18",
       "resume_upload_end": "2026-11-04 16:00",
       "interview_selection": "",
@@ -13324,5 +13333,5 @@
       "contract": ""
     }
   ],
-  "last_error": "Could not find the new ERP OTP email."
+  "last_error": null
 }
