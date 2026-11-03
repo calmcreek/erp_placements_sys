@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "03 Nov 2026, 11:02:34 AM",
-  "next_check": "03 Nov 2026, 11:32:34 AM",
-  "notice_count": 1265,
+  "last_check": "03 Nov 2026, 11:32:42 AM",
+  "next_check": "03 Nov 2026, 12:02:42 PM",
+  "notice_count": 1266,
   "placement_count": 103,
   "notices": [
+    {
+      "id": "1387",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "PORTER",
+      "notice": "The Pre-Placement Talk for Porter will be held on 3rd November 2026 from 2:00 PM. Link: meet.google.com/wdk-umkb-kvxNote: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.Students are required to register on the Microsoft Teams portal prior to the PPT.POC: Devansh (+91 7999892181)CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "03-11-2026 11:30"
+    },
     {
       "id": "1386",
       "type": "PLACEMENT",
