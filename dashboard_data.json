@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "03 Nov 2026, 02:32:38 PM",
-  "next_check": "03 Nov 2026, 03:02:38 PM",
-  "notice_count": 1267,
+  "last_check": "03 Nov 2026, 03:02:24 PM",
+  "next_check": "03 Nov 2026, 03:32:24 PM",
+  "notice_count": 1268,
   "placement_count": 103,
   "notices": [
+    {
+      "id": "1390",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "CAPITAL ONE SERVICES INDIA PVT. LTD.",
+      "notice": "All applicants are eligible to appear for the Capital One Assessment for the Business Analyst role, scheduled from 8:00 PM onwards on 3rd November 2026.The test links have been shared with the applicants on their CDC-registered email IDs. Test instructions have also been shared.Note: All applicants are requested to check their inbox and spam/junk folders thoroughly for the test link. In case you have not received the test link even after checking these folders, please fill out the following form:Form Link: https://forms.gle/UGLr9tihnxFNurRR7Venue: Nalanda Classroom ComplexThe room allocation for the test will be released shortly.Students are requested to report 15 minutes prior to the scheduled start time.POCs: Rudra (+91 8235755257), Faiz (+91 7386295387)CDC, IIT Kharagpur",
+      "notice_by": "23EC39030",
+      "notice_time": "03-11-2026 14:55"
+    },
     {
       "id": "1389",
       "type": "PLACEMENT",
