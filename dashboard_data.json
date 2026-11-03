@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "04 Nov 2026, 12:12:27 AM",
-  "next_check": "04 Nov 2026, 12:42:27 AM",
-  "notice_count": 1286,
+  "last_check": "04 Nov 2026, 12:26:33 AM",
+  "next_check": "04 Nov 2026, 12:56:33 AM",
+  "notice_count": 1287,
   "placement_count": 110,
   "notices": [
+    {
+      "id": "1410",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "ITC LIMITED",
+      "notice": "All eligible students who have applied for ITC LIMITED are required to kindly fill out the survey form given below.Link: https://survey.zohopublic.in/zs/ZNB5hZDeadline: 4th November 2026, 4:00 PMKindly ensure you have filled out the form before the deadline. No further extensions will be provided.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "04-11-2026 00:16"
+    },
     {
       "id": "1409",
       "type": "INTERNSHIP",
