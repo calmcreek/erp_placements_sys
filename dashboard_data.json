@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "03 Nov 2026, 10:02:19 AM",
-  "next_check": "03 Nov 2026, 10:32:19 AM",
-  "notice_count": 1264,
+  "last_check": "03 Nov 2026, 10:33:13 AM",
+  "next_check": "03 Nov 2026, 11:03:13 AM",
+  "notice_count": 1265,
   "placement_count": 103,
   "notices": [
+    {
+      "id": "1386",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "IBM",
+      "notice": "The Pre-Placement Talk for IBM will be held on 3rd November 2026 from 12:00 PM. Link: https://events.teams.microsoft.com/event/3e3741c6-d612-4175-972e-ee401af2a62b@fcf67057-50c9-4ad4-98f3-ffca64add9e9?source=copyLinkLegacyShareLinkDialogNote: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.Students are required to register on the Microsoft Teams portal prior to the PPT.POC: Ashutosh (+91 8840104367)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "03-11-2026 10:16"
+    },
     {
       "id": "1385",
       "type": "PLACEMENT",
