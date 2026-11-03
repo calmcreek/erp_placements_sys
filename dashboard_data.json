@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "04 Nov 2026, 02:32:35 AM",
-  "next_check": "04 Nov 2026, 03:02:35 AM",
-  "notice_count": 1287,
+  "last_check": "04 Nov 2026, 03:02:26 AM",
+  "next_check": "04 Nov 2026, 03:32:26 AM",
+  "notice_count": 1288,
   "placement_count": 110,
   "notices": [
+    {
+      "id": "1411",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "ENERGY ASPECTS",
+      "notice": "All the eligible students who have applied for Energy Aspects for the role of Energy Market Analyst are required to kindly fill the additional details form given below. Link: https://forms.gle/cRaKHEJA4ErpDNAG7Deadline: 4th November 2026, 4:00 PMKindly ensure you have filled the form before the deadline. No further extensions will be provided.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "04-11-2026 02:55"
+    },
     {
       "id": "1410",
       "type": "PLACEMENT",
