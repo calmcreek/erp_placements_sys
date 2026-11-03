@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "03 Nov 2026, 03:02:24 PM",
-  "next_check": "03 Nov 2026, 03:32:24 PM",
-  "notice_count": 1268,
+  "last_check": "03 Nov 2026, 03:32:38 PM",
+  "next_check": "03 Nov 2026, 04:02:38 PM",
+  "notice_count": 1269,
   "placement_count": 103,
   "notices": [
+    {
+      "id": "1391",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "JP MORGANCHASE",
+      "notice": "The Pre-Placement Talk for JP MORGANCHASE for Commercial & Investment Bank Research & Analytics, Global Research -  Full Time Analyst role, will be held on 3rd November 2026 from 5:00 PMZoom ID : 963 3656 7527.Note: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Nikita Sinha   (+91 9969207598 )CDC, IIT Kharagpur.",
+      "notice_by": "23CE36001",
+      "notice_time": "03-11-2026 15:03"
+    },
     {
       "id": "1390",
       "type": "PLACEMENT",
