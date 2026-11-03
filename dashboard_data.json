@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "03 Nov 2026, 10:02:21 PM",
-  "next_check": "03 Nov 2026, 10:32:21 PM",
-  "notice_count": 1285,
+  "last_check": "03 Nov 2026, 10:32:38 PM",
+  "next_check": "03 Nov 2026, 11:02:38 PM",
+  "notice_count": 1286,
   "placement_count": 110,
   "notices": [
+    {
+      "id": "1409",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "NAVIGATORS SOFTWARE PVT LTD",
+      "notice": "PFB the shortlist for the Interview round for the role of Data Scientist:24IM1004123AR1002324CH1004424HS1001424CH10102PFB the shortlist for the Interview round for the role of Data Engineer:24AG1001624CE1005924BT1002624CE10060Further details would be communicated to the shortlisted candidates shortly.CDC, IIT Kharagpur",
+      "notice_by": "23CH30043",
+      "notice_time": "03-11-2026 22:31"
+    },
     {
       "id": "1408",
       "type": "PLACEMENT",
@@ -12864,7 +12873,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-02 10:45",
-      "resume_upload_end": "2026-11-03 08:59",
+      "resume_upload_end": "2026-11-04 09:01",
       "interview_selection": "",
       "contract": ""
     },
