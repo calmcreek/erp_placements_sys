@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "03 Nov 2026, 07:32:46 PM",
-  "next_check": "03 Nov 2026, 08:02:46 PM",
-  "notice_count": 1283,
+  "last_check": "03 Nov 2026, 08:02:27 PM",
+  "next_check": "03 Nov 2026, 08:32:27 PM",
+  "notice_count": 1284,
   "placement_count": 110,
   "notices": [
+    {
+      "id": "1407",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "BAJAJ",
+      "notice": "All the eligible students who have applied for BAJAJ for the role of Flying Start GTE 2027 (R&D) are required to kindly fill the preference form given below. Link: https://forms.gle/pD4rh8TXEQvpvY3i8Deadline: 4th November 2026, 4:00 PMKindly ensure you have filled the form before the deadline. No further extensions will be provided.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "03-11-2026 19:36"
+    },
     {
       "id": "1406",
       "type": "PLACEMENT",
