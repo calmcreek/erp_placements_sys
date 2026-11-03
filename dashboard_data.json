@@ -1,10 +1,19 @@
 {
-  "erp_status": "Error",
-  "last_check": "03 Nov 2026, 06:02:22 PM",
-  "next_check": null,
-  "notice_count": 1280,
+  "erp_status": "Connected",
+  "last_check": "03 Nov 2026, 07:02:21 PM",
+  "next_check": "03 Nov 2026, 07:32:21 PM",
+  "notice_count": 1281,
   "placement_count": 110,
   "notices": [
+    {
+      "id": "1404",
+      "type": "PLACEMENT",
+      "subject": "Re-schedule",
+      "company": "CDC Placement Schedule for 4th November 2026",
+      "notice": "All students eligible for placement are advised to take note of the updated placement schedule for 4th November 2026.Please note that the NAVI assessment for all roles has been rescheduled to 4th November, 2026.1. [PPT] CATERPILLAR (12:00 PM  1:00 PM)2. [PPT] AIRBUS (5:00 PM  6:00 PM)3. [TEST] NAVI (Tech Profiles) (6:00 PM  7:30 PM)4. [TEST] APPLIED MATERIALS (Profile: Application Engineer) (8:00 PM  9:00 PM)5. [TEST] IBM (All Profiles) (9:00 PM  1:00 AM)6. [TEST] NAVI (Non-Tech Profiles) (1:30 AM  3:00 AM) (5th November)Note: Links to the PPTs and other relevant details will be shared separately. Room allocations and other necessary instructions for the tests will be communicated prior to the respective assessments.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "03-11-2026 18:38"
+    },
     {
       "id": "1402",
       "type": "PLACEMENT",
@@ -12771,7 +12780,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-31 20:19",
-      "resume_upload_end": "2026-11-02 16:00",
+      "resume_upload_end": "2026-11-02 16:21",
       "interview_selection": "",
       "contract": ""
     },
@@ -13288,5 +13297,5 @@
       "contract": ""
     }
   ],
-  "last_error": "Could not find the new ERP OTP email."
+  "last_error": null
 }
