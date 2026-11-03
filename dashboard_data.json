@@ -1,7 +1,7 @@
 {
   "erp_status": "Connected",
-  "last_check": "03 Nov 2026, 11:02:20 PM",
-  "next_check": "03 Nov 2026, 11:32:20 PM",
+  "last_check": "03 Nov 2026, 11:32:42 PM",
+  "next_check": "04 Nov 2026, 12:02:42 AM",
   "notice_count": 1286,
   "placement_count": 110,
   "notices": [
@@ -12688,7 +12688,7 @@
     {
       "id": "69",
       "company": "Nutanix Technologies India Pvt Ltd",
-      "additional_details": "",
+      "additional_details": "Download",
       "ppt": "",
       "designation": "Member of Technical Staff 2",
       "description": "Apply",
@@ -12704,7 +12704,7 @@
     {
       "id": "70",
       "company": "Nutanix Technologies India Pvt Ltd",
-      "additional_details": "",
+      "additional_details": "Download",
       "ppt": "",
       "designation": "Member Of Technical Staff 1",
       "description": "Apply",
