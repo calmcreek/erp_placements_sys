@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "04 Nov 2026, 07:32:45 PM",
-  "next_check": "04 Nov 2026, 08:02:45 PM",
-  "notice_count": 1301,
+  "last_check": "04 Nov 2026, 08:02:20 PM",
+  "next_check": "04 Nov 2026, 08:32:20 PM",
+  "notice_count": 1302,
   "placement_count": 111,
   "notices": [
+    {
+      "id": "1427",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "APPLIED MATERIALS",
+      "notice": "PFA the test room allocation for the Assessment of Applied Materials for the role of Application Engineer, scheduled from 8:00 PM  onwards on 4th November, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card/Medical Book, failing which students will not be permitted to sit for test. Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Nikhita (+91 877 003 5884), Ashutosh (+91 884 010 4367)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "04-11-2026 19:16"
+    },
     {
       "id": "1426",
       "type": "PLACEMENT",
