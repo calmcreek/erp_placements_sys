@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "04 Nov 2026, 10:32:27 AM",
-  "next_check": "04 Nov 2026, 11:02:27 AM",
-  "notice_count": 1288,
+  "last_check": "04 Nov 2026, 11:02:23 AM",
+  "next_check": "04 Nov 2026, 11:32:23 AM",
+  "notice_count": 1289,
   "placement_count": 110,
   "notices": [
+    {
+      "id": "1412",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "CATERPILLAR",
+      "notice": "The Pre-Placement Talk for CATERPILLAR will be held on 4th November 2026 from 12:00 PM.Link: https://teams.microsoft.com/meet/264771799900698?p=dvZBqseySfzgJF9uJSNote: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Aditya Ghosh (+91 6295916930)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "04-11-2026 10:32"
+    },
     {
       "id": "1411",
       "type": "PLACEMENT",
