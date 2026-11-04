@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "05 Nov 2026, 12:44:36 AM",
-  "next_check": "05 Nov 2026, 01:14:36 AM",
-  "notice_count": 1309,
+  "last_check": "05 Nov 2026, 01:02:14 AM",
+  "next_check": "05 Nov 2026, 01:32:14 AM",
+  "notice_count": 1310,
   "placement_count": 112,
   "notices": [
+    {
+      "id": "1437",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "NAVI",
+      "notice": "PFA the test room allocation for the Assessment of NAVI for the Tech Profiles, scheduled from 1:30 PM onwards on 5th November, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card, failing which students will not be permitted to sit for test. Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Daksh (+91 9818071612), Vatsal (+91 9234457393)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "05-11-2026 01:00"
+    },
     {
       "id": "1436",
       "type": "PLACEMENT",
