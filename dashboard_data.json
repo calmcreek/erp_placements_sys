@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "04 Nov 2026, 12:02:17 PM",
-  "next_check": "04 Nov 2026, 12:32:17 PM",
-  "notice_count": 1289,
+  "last_check": "04 Nov 2026, 12:32:38 PM",
+  "next_check": "04 Nov 2026, 01:02:38 PM",
+  "notice_count": 1290,
   "placement_count": 110,
   "notices": [
+    {
+      "id": "1413",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "ROYAL TIER MAISON",
+      "notice": "The Pre-Placement Talk for Royal Tier Maison will be held on 5th November 2026 at 7:00 AM.Link: https://us06web.zoom.us/j/82316940047?pwd=uJOuEMtUzPlxgGNWyVW43FWyWN7iC9.1Note: Royal Tier Maison operates in a highly specialized and niche domain. Students are strongly encouraged to attend the PPT to gain a deeper understanding of the company's core business, specialized operations, and the career opportunities it offers. As this is a unique opportunity to explore a specialized industry and gain valuable insights, all interested and placement-registered students are expected to attend the session sincerely.Students are requested to join the meeting link 15 minutes prior to the scheduled time.POC: Bhavy (+91 7597121669)CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "04-11-2026 12:28"
+    },
     {
       "id": "1412",
       "type": "PLACEMENT",
