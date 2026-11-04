@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "04 Nov 2026, 05:02:21 PM",
-  "next_check": "04 Nov 2026, 05:32:21 PM",
-  "notice_count": 1299,
+  "last_check": "04 Nov 2026, 05:32:34 PM",
+  "next_check": "04 Nov 2026, 06:02:34 PM",
+  "notice_count": 1301,
   "placement_count": 111,
   "notices": [
+    {
+      "id": "1426",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "NAVI",
+      "notice": "Please note that the Test for Navi for Non-Tech roles has been postponed to 3:00 AM, 5th November, 2026.CDC, IIT Kharagpur",
+      "notice_by": "23AE3FP05",
+      "notice_time": "04-11-2026 17:25"
+    },
+    {
+      "id": "1425",
+      "type": "INTERNSHIP",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "Liora Labs (Gravia)",
+      "notice": "Please note that the Pre-Placement Talk for Liora Labs will be held on 4th November 2026 from 6:00 PM.Link: https://meet.google.com/ude-pixm-excAll interested students are required to attend the PPT without fail. Attendance is compulsory. Students should join 15 minutes prior to the meeting time.POC: Ashutosh (+91 88401 04367)CDC, IIT Kharagpur",
+      "notice_by": "23AG3AI03",
+      "notice_time": "04-11-2026 17:19"
+    },
     {
       "id": "1424",
       "type": "PLACEMENT",
