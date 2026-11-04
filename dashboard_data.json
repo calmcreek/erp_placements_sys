@@ -1,10 +1,37 @@
 {
   "erp_status": "Connected",
-  "last_check": "04 Nov 2026, 12:32:38 PM",
-  "next_check": "04 Nov 2026, 01:02:38 PM",
-  "notice_count": 1290,
+  "last_check": "04 Nov 2026, 01:02:50 PM",
+  "next_check": "04 Nov 2026, 01:32:50 PM",
+  "notice_count": 1293,
   "placement_count": 110,
   "notices": [
+    {
+      "id": "1416",
+      "type": "PLACEMENT",
+      "subject": "Re-schedule",
+      "company": "CDC Placement Schedule for 4th November 2026",
+      "notice": "All students eligible for placement are advised to take note of the updated placement schedule for 4th November 2026.Please note that the NAVI assessment for all roles has been rescheduled to 4th November, 2026.1. [PPT] CATERPILLAR (12:00 PM  1:00 PM)2. [PPT] AIRBUS (5:00 PM  6:00 PM)3. [TEST] NAVI (Non-Tech Profiles) (6:00 PM  7:30 PM)4. [TEST] APPLIED MATERIALS (Profile: Application Engineer) (8:00 PM  9:00 PM)5. [TEST] IBM (All Profiles) (9:00 PM  1:00 AM)6. [TEST] NAVI (Tech Profiles) (1:30 AM  3:00 AM) (5th November)Note: Links to the PPTs and other relevant details will be shared separately. Room allocations and other necessary instructions for the tests will be communicated prior to the respective assessments.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "04-11-2026 12:59"
+    },
+    {
+      "id": "1415",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "SUN VALLEY",
+      "notice": "The CV Submission for SUN VALLEY for the Research Analyst role is open till 4:00 PM, 4th November, 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "04-11-2026 12:54"
+    },
+    {
+      "id": "1414",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "ROYAL TIER MAISON CO",
+      "notice": "The CV Submission for Royal Tier Maison for the Designer Role has been opened till 4:00 PM, 5th November, 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "04-11-2026 12:37"
+    },
     {
       "id": "1413",
       "type": "PLACEMENT",
