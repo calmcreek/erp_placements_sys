@@ -1,10 +1,37 @@
 {
   "erp_status": "Connected",
-  "last_check": "04 Nov 2026, 03:02:20 PM",
-  "next_check": "04 Nov 2026, 03:32:20 PM",
-  "notice_count": 1294,
+  "last_check": "04 Nov 2026, 04:02:32 PM",
+  "next_check": "04 Nov 2026, 04:32:32 PM",
+  "notice_count": 1297,
   "placement_count": 111,
   "notices": [
+    {
+      "id": "1422",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "NAVI",
+      "notice": "All students who have applied for NAVI for the following roles on the ERP Portal are hereby informed that the respective HirePro registration links for Both Profiles (Tech and Non-Tech) have been sent to their CDC-registered email IDs.- Non-Tech profiles (AI Strategy Operations, Business Analyst-1, Associate Product Manager-1)- Tech profiles (Data Scientist-1, Software Development Engineer-1)Candidates are required to compulsorily complete their registration on HirePro to be considered for further stages of the recruitment process.Please fill the following google form if you have applied but have not received the registration link.Form Link: https://forms.gle/yjbPCZExgA9TZbW16Deadline: 4th November 2026, 5:00 PMKindly ensure that you complete the registration before the deadline. Failure to do so may result in your candidature not being considered further.POC: Daksh (+91 9818071612), Vatsal (+91 9234457393)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "04-11-2026 16:00"
+    },
+    {
+      "id": "1421",
+      "type": "INTERNSHIP",
+      "subject": "Shortlist",
+      "company": "GLASSDATA",
+      "notice": "PFA the test shortlist for GlassData.The Online Assessment is scheduled on 4th November, 08:00 P.M. onwards.Venue: Respective LocationPOC: Khush (+91 9922168000), Aditya Ghosh (+91 6295916930)CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "04-11-2026 15:50"
+    },
+    {
+      "id": "1420",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "NAVI",
+      "notice": "All students who have applied for NAVI for the following roles on the ERP Portal are hereby informed that the respective HirePro registration links for Both Profiles (Tech and Non-Tech) have been sent to their CDC-registered email IDs.- Non-Tech profiles (AI Strategy Operations, Business Analyst-1, Associate Product Manager-1)- Tech profiles (Data Scientist-1, Software Development Engineer-1)Candidates are required to compulsorily complete their registration on HirePro to be considered for further stages of the recruitment process.Please fill the following google form if you have applied but have not received the registration link.Form Link: https://forms.gle/yjbPCZExgA9TZbW16Deadline: 4th November 2026, 4:00 PMKindly ensure that you complete the registration before the deadline. Failure to do so may result in your candidature not being considered further.POC: Daksh (+91 9818071612), Vatsal (+91 9234457393)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "04-11-2026 15:41"
+    },
     {
       "id": "1417",
       "type": "PLACEMENT",
