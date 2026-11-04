@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "04 Nov 2026, 01:32:35 PM",
-  "next_check": "04 Nov 2026, 02:02:35 PM",
-  "notice_count": 1293,
+  "last_check": "04 Nov 2026, 02:02:27 PM",
+  "next_check": "04 Nov 2026, 02:32:27 PM",
+  "notice_count": 1294,
   "placement_count": 111,
   "notices": [
+    {
+      "id": "1417",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "NAVI",
+      "notice": "All students who have applied for NAVI for the following roles on the ERP Portal are hereby informed that the respective HirePro registration links have been sent to their CDC-registered email IDs.- Non-Tech profiles (AI Strategy Operations, Business Analyst-1, Associate Product Manager-1)- Tech profiles (Data Scientist-1, Software Development Engineer-1)Candidates are required to compulsorily complete their registration on HirePro to be considered for further stages of the recruitment process.Deadline: 4th November 2026, 4:00 PMKindly ensure that you complete the registration before the deadline. Failure to do so may result in your candidature not being considered further.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "04-11-2026 13:37"
+    },
     {
       "id": "1416",
       "type": "PLACEMENT",
