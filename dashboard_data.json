@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "04 Nov 2026, 08:02:20 PM",
-  "next_check": "04 Nov 2026, 08:32:20 PM",
-  "notice_count": 1302,
+  "last_check": "04 Nov 2026, 08:32:45 PM",
+  "next_check": "04 Nov 2026, 09:02:45 PM",
+  "notice_count": 1303,
   "placement_count": 111,
   "notices": [
+    {
+      "id": "1428",
+      "type": "INTERNSHIP",
+      "subject": "Urgent",
+      "company": "GLASSDATA",
+      "notice": "The Online Assessment for Glassdata is rescheduled for 4th November, 09:00 P.M. onwards.NOTE: The shortlisted students will receive the test links over email shortly.Venue: Respective LocationPOC: Khush (+91 9922168000), Aditya Ghosh (+91 6295916930)CDC, IIT Kharagpur",
+      "notice_by": "23CH30006",
+      "notice_time": "04-11-2026 20:18"
+    },
     {
       "id": "1427",
       "type": "PLACEMENT",
