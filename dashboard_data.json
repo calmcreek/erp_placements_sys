@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "04 Nov 2026, 08:32:45 PM",
-  "next_check": "04 Nov 2026, 09:02:45 PM",
-  "notice_count": 1303,
+  "last_check": "04 Nov 2026, 09:02:40 PM",
+  "next_check": "04 Nov 2026, 09:32:40 PM",
+  "notice_count": 1304,
   "placement_count": 111,
   "notices": [
+    {
+      "id": "1430",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "IBM",
+      "notice": "PFA the test room allocation for the Assessment of IBM for all the roles, scheduled from 9:00 PM onwards on 4th November, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card, failing which students will not be permitted to sit for test. Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Ritvik (+91 9480360231), Neev (+91 9001346350)CDC, IIT Kharagpur",
+      "notice_by": "23CH30006",
+      "notice_time": "04-11-2026 20:40"
+    },
     {
       "id": "1428",
       "type": "INTERNSHIP",
