@@ -1,7 +1,7 @@
 {
-  "erp_status": "Connected",
+  "erp_status": "Error",
   "last_check": "04 Nov 2026, 09:02:40 PM",
-  "next_check": "04 Nov 2026, 09:32:40 PM",
+  "next_check": null,
   "notice_count": 1304,
   "placement_count": 111,
   "notices": [
@@ -13520,5 +13520,5 @@
       "contract": ""
     }
   ],
-  "last_error": null
+  "last_error": "command: SELECT => socket error: EOF"
 }
