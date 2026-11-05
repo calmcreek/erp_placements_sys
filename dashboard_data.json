@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "05 Nov 2026, 05:32:27 PM",
-  "next_check": "05 Nov 2026, 06:02:27 PM",
-  "notice_count": 1329,
+  "last_check": "05 Nov 2026, 06:02:37 PM",
+  "next_check": "05 Nov 2026, 06:32:37 PM",
+  "notice_count": 1330,
   "placement_count": 116,
   "notices": [
+    {
+      "id": "1463",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "HiLabs",
+      "notice": "This is to inform all students who have applied for the HiLabs Associate Product Manager role that the problem statement and related details will be shared via email on their CDC-registered email IDs tonight.Students are requested to check their email and go through the instructions carefully.Deck Submission Window: 24 HoursProblem Statement Release: 5th November, 12:00 AMSubmission Deadline: 6th November, 11:59 PMPlease note that no further extensions will be provided. Students are advised to ensure that their submissions are completed within the stipulated deadline.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "05-11-2026 17:35"
+    },
     {
       "id": "1462",
       "type": "PLACEMENT",
