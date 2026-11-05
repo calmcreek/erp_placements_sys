@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "05 Nov 2026, 11:32:21 PM",
-  "next_check": "06 Nov 2026, 12:02:21 AM",
-  "notice_count": 1337,
+  "last_check": "06 Nov 2026, 12:02:18 AM",
+  "next_check": "06 Nov 2026, 12:32:18 AM",
+  "notice_count": 1338,
   "placement_count": 116,
   "notices": [
+    {
+      "id": "1472",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "IBM",
+      "notice": "PFA the test room allocation for the Assessment of IBM, scheduled from 12:30 AM onwards on 6th November, 2026.Venue: Nalanda Classroom ComplexThe test link has been shared with the shortlisted students on their CDC-registered email IDs.Note: The scheduled assessment is only for students who could not appear for the test in the previous slot.Students who are yet to receive the test link are requested to fill out the following form:Form Link: https://forms.gle/BEeUPUa37QPBP9aH8All students are requested to check their inbox and spam/junk folders thoroughly before filling out the form.Students are requested to report 15 minutes prior to the scheduled start time.POC: Ritvik (+91 9480360231), Neev (+91 9001346350)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "05-11-2026 23:37"
+    },
     {
       "id": "1471",
       "type": "PLACEMENT",
