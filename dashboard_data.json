@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "05 Nov 2026, 11:02:09 AM",
-  "next_check": "05 Nov 2026, 11:32:09 AM",
-  "notice_count": 1314,
+  "last_check": "05 Nov 2026, 11:32:40 AM",
+  "next_check": "05 Nov 2026, 12:02:40 PM",
+  "notice_count": 1316,
   "placement_count": 112,
   "notices": [
+    {
+      "id": "1443",
+      "type": "PLACEMENT",
+      "subject": "PPO",
+      "company": "Sun Valley Investment Group",
+      "notice": "Sun Valley Investment Group has extended the offer to the following student(s):BHARATH LAL B - 25EX40005AKHIL KONDRU - 25MT61R21ARYAN SRIVASTAVA - 23EX10007The students are advised to give offer acceptance by 05.11.2026.(For more details, check your email ID.)CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "05-11-2026 11:06"
+    },
+    {
+      "id": "1442",
+      "type": "PLACEMENT",
+      "subject": "PPO",
+      "company": "Urban Company",
+      "notice": "Urban Company has extended the offer to the following student(s):SUDHAGANI PRANEETH KUMAR - 22BT30044The students are advised to give offer acceptance by 05.11.2026.(For more details, check your email ID.)CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "05-11-2026 11:04"
+    },
     {
       "id": "1441",
       "type": "PLACEMENT",
