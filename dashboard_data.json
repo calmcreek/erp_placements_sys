@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "05 Nov 2026, 10:32:49 AM",
-  "next_check": "05 Nov 2026, 11:02:49 AM",
-  "notice_count": 1313,
+  "last_check": "05 Nov 2026, 11:02:09 AM",
+  "next_check": "05 Nov 2026, 11:32:09 AM",
+  "notice_count": 1314,
   "placement_count": 112,
   "notices": [
+    {
+      "id": "1441",
+      "type": "PLACEMENT",
+      "subject": "PPO",
+      "company": "CarDekho",
+      "notice": "CarDekho has extended the offer to the following student(s):ASHWANI PATHAK - 23MT10013The students are advised to give offer acceptance by 05.11.2026.(For more details, check your email ID.)CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "05-11-2026 10:46"
+    },
     {
       "id": "1440",
       "type": "PLACEMENT",
