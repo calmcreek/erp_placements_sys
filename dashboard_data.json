@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "05 Nov 2026, 03:32:25 PM",
-  "next_check": "05 Nov 2026, 04:02:25 PM",
-  "notice_count": 1323,
+  "last_check": "05 Nov 2026, 04:02:13 PM",
+  "next_check": "05 Nov 2026, 04:32:13 PM",
+  "notice_count": 1325,
   "placement_count": 115,
   "notices": [
+    {
+      "id": "1456",
+      "type": "PLACEMENT",
+      "subject": "Shortlist",
+      "company": "CAPITAL ONE SERVICES INDIA PVT. LTD.",
+      "notice": "PFA the test shortlist for the Assessment-2 of Capital One for the Associate (Software Engineer) role, scheduled from 6:00 PM onwards on 5th November 2026.The test links have been shared with the shortlisted students on their CDC-registered email IDs.Note: All applicants are requested to check their inbox and spam/junk folders thoroughly for the test link. In case you have not received the test link even after checking these folders, please fill out the following form:Form link: https://forms.gle/tjrqEivyNPGXxBE56Venue: Nalanda Classroom ComplexThe room allocation for the test will be released shortly.Students are requested to report 15 minutes prior to the scheduled start time.POCs: Rudra (+91 8235755257), Faiz (+91 7386295387)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "05-11-2026 15:37"
+    },
+    {
+      "id": "1455",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Tiger Analytics",
+      "notice": "CV Submission for Tiger Analytics for Trainee Analyst role is extended till 11:59 AM, 6th November, 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "05-11-2026 15:34"
+    },
     {
       "id": "1453",
       "type": "PLACEMENT",
