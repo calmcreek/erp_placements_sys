@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "05 Nov 2026, 10:02:11 AM",
-  "next_check": "05 Nov 2026, 10:32:11 AM",
-  "notice_count": 1312,
+  "last_check": "05 Nov 2026, 10:32:49 AM",
+  "next_check": "05 Nov 2026, 11:02:49 AM",
+  "notice_count": 1313,
   "placement_count": 112,
   "notices": [
+    {
+      "id": "1440",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "Pine Labs",
+      "notice": "Please note that the Pre-Placement Talk for Pine Labs will be held on 5th November 2026 from 12:00 PM.Link: https://teams.microsoft.com/meet/488010155523658?p=6OIAZWwjADmzHlbSZjAll interested students are required to attend the PPT without fail. Attendance is compulsory. Students should join 15 minutes prior to the meeting time.POC: Nikhita (+91 8770035884)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "05-11-2026 10:05"
+    },
     {
       "id": "1439",
       "type": "PLACEMENT",
