@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "05 Nov 2026, 07:02:19 PM",
-  "next_check": "05 Nov 2026, 07:32:19 PM",
-  "notice_count": 1330,
+  "last_check": "05 Nov 2026, 07:32:30 PM",
+  "next_check": "05 Nov 2026, 08:02:30 PM",
+  "notice_count": 1332,
   "placement_count": 116,
   "notices": [
+    {
+      "id": "1466",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "JPMC",
+      "notice": "PFA the test room allocation for the Assessment of JPMC, scheduled from 7:30 PM onwards on 5th November 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card/Medical Book, failing which students will not be permitted to sit for test.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Khush (+91 99221 68000), Arpita (+91 90755 64147)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "05-11-2026 19:15"
+    },
+    {
+      "id": "1465",
+      "type": "PLACEMENT",
+      "subject": "Shortlist",
+      "company": "JPMC",
+      "notice": "PFA the test shortlist for the Assessment of JPMC, scheduled from 7:30 PM onwards on 5th November, 2026.Venue: Nalanda Classroom ComplexNote: Students are requested to report 15 minutes prior to the reporting time. Students are also required to bring their Institute Id card for the test.POC: Khush (+91 99221 68000), Arpita (+91 90755 64147)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "05-11-2026 19:04"
+    },
     {
       "id": "1464",
       "type": "PLACEMENT",
