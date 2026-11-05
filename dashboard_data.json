@@ -1,10 +1,37 @@
 {
   "erp_status": "Connected",
-  "last_check": "05 Nov 2026, 11:32:40 AM",
-  "next_check": "05 Nov 2026, 12:02:40 PM",
-  "notice_count": 1316,
+  "last_check": "05 Nov 2026, 12:02:16 PM",
+  "next_check": "05 Nov 2026, 12:32:16 PM",
+  "notice_count": 1319,
   "placement_count": 112,
   "notices": [
+    {
+      "id": "1446",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "ENERGY ASPECTS",
+      "notice": "All the eligible students who have applied for Energy Aspects for the role of Energy Market Analyst are required to kindly fill the additional details form given below. Link: https://forms.gle/cRaKHEJA4ErpDNAG7Deadline: 6th November 2026, 11:59 AMKindly ensure you have filled the form before the deadline. No further extensions will be provided.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "05-11-2026 11:58"
+    },
+    {
+      "id": "1445",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Multiple Companies",
+      "notice": "The CV Submission of the following companies has been extended till 4:00 PM, 5th November, 2026.1.⁠ ⁠MATHWORKS (All Profiles)2.⁠ ⁠IVYCAP (Profile: Investment Analyst)3.⁠ ⁠ENERGY ASPECTS (Profile: Energy Market Analyst)4.⁠ ⁠NOVARTIS (Profile: AI Specialist/Expert)5.⁠ ⁠NUTANIX (All Profiles)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "05-11-2026 11:47"
+    },
+    {
+      "id": "1444",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "BAJAJ",
+      "notice": "Please note that the Pre-Placement Talk for BAJAJ will be held on 5th November 2026 from 12:00 PM.Link: https://teams.microsoft.com/meet/492666216366084?p=F6rtk66pEk9ZrTq9IxAll interested students are required to attend the PPT without fail. Attendance is compulsory. Students should join 15 minutes prior to the meeting time.POC: Daksh (+91 9818071612)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "05-11-2026 11:32"
+    },
     {
       "id": "1443",
       "type": "PLACEMENT",
