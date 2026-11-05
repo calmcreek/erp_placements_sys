@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "05 Nov 2026, 12:32:30 PM",
-  "next_check": "05 Nov 2026, 01:02:30 PM",
-  "notice_count": 1319,
+  "last_check": "05 Nov 2026, 01:02:17 PM",
+  "next_check": "05 Nov 2026, 01:32:17 PM",
+  "notice_count": 1320,
   "placement_count": 114,
   "notices": [
+    {
+      "id": "1450",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "IBM",
+      "notice": "All candidates who are required to appear for the re-test are hereby informed that the links have been sent to their registered email IDs.Candidates are strictly advised not to attempt the assessment until further instructions. Any candidate attempting the assessment before the official schedule will be deemed ineligible for the re-test.The assessment schedule and timings will be communicated separately.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "05-11-2026 12:58"
+    },
     {
       "id": "1449",
       "type": "PLACEMENT",
