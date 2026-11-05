@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "06 Nov 2026, 12:36:25 AM",
-  "next_check": "06 Nov 2026, 01:06:25 AM",
-  "notice_count": 1338,
+  "last_check": "06 Nov 2026, 12:50:19 AM",
+  "next_check": "06 Nov 2026, 01:20:19 AM",
+  "notice_count": 1339,
   "placement_count": 116,
   "notices": [
+    {
+      "id": "1473",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Hi-Labs",
+      "notice": "All students who are eligible, have applied for the Associate Product Manager (APM) role of HiLabs, and have filled their preference for the APM role are required to go through the attached case study and prepare their solution as per the guidelines mentioned.Submission Guidelines:Submission Format: You may submit either a presentation deck or a one-pager, provided all the contents specified in the case study are covered.Submission Deadline: 6th November 2026, 11:59 PM sharp.Submission Process: A Google Form for submitting the case study solution will be shared later. Students are requested to submit their final deck/one-pager through the form once it is released.Please ensure that your submission is completed within the specified deadline.No further extensions will be provided.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "06-11-2026 00:42"
+    },
     {
       "id": "1472",
       "type": "PLACEMENT",
