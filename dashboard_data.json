@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "06 Nov 2026, 04:02:11 PM",
-  "next_check": "06 Nov 2026, 04:32:11 PM",
-  "notice_count": 1349,
+  "last_check": "06 Nov 2026, 04:32:33 PM",
+  "next_check": "06 Nov 2026, 05:02:33 PM",
+  "notice_count": 1350,
   "placement_count": 118,
   "notices": [
+    {
+      "id": "1485",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "Test Notice 2 Pls Ignore",
+      "notice": "Pls ignore",
+      "notice_by": "D11001",
+      "notice_time": "06-11-2026 16:29"
+    },
     {
       "id": "1484",
       "type": "PLACEMENT",
