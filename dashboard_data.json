@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "06 Nov 2026, 06:32:22 PM",
-  "next_check": "06 Nov 2026, 07:02:22 PM",
-  "notice_count": 1350,
+  "last_check": "06 Nov 2026, 07:02:23 PM",
+  "next_check": "06 Nov 2026, 07:32:23 PM",
+  "notice_count": 1352,
   "placement_count": 118,
   "notices": [
+    {
+      "id": "1487",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "ITC Limited",
+      "notice": "PFA the test shortlist for ITC Limited. The test link has been triggered to the students on their email IDs.. All the shortlisted students are requested to complete the assessment by 10:00 AM, 9th November, 2026.Chairman, CDC",
+      "notice_by": "23CE36001",
+      "notice_time": "06-11-2026 18:45"
+    },
+    {
+      "id": "1486",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "TEXAS INSTRUMENTS",
+      "notice": "PFA the test room allocation for the assessment of Texas Instruments, scheduled from 7:00 PM onwards on 6th November, 2026.Venue: Nalanda Classroom Complex Students are requested to report 15 minutes prior to the scheduled start time.POC: Arpita (+91 90755 64147), Rudra (+91 82357 55257)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "06-11-2026 18:39"
+    },
     {
       "id": "1485",
       "type": "PLACEMENT",
