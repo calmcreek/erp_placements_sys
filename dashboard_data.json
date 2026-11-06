@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "06 Nov 2026, 11:02:11 AM",
-  "next_check": "06 Nov 2026, 11:32:11 AM",
-  "notice_count": 1343,
+  "last_check": "06 Nov 2026, 11:32:23 AM",
+  "next_check": "06 Nov 2026, 12:02:23 PM",
+  "notice_count": 1344,
   "placement_count": 116,
   "notices": [
+    {
+      "id": "1478",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "MathWorks",
+      "notice": "All eligible students who have applied for MathWorks are required to fill out the form given below.Link: https://forms.gle/YuW4YGGZWcPA72uy5Deadline: 2:00 PM, 6th November 2026Kindly ensure that you submit the form before the deadline. No further extensions will be provided.CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "06-11-2026 11:31"
+    },
     {
       "id": "1477",
       "type": "PLACEMENT",
