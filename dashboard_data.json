@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "06 Nov 2026, 10:02:07 AM",
-  "next_check": "06 Nov 2026, 10:32:07 AM",
-  "notice_count": 1341,
+  "last_check": "06 Nov 2026, 10:32:51 AM",
+  "next_check": "06 Nov 2026, 11:02:51 AM",
+  "notice_count": 1342,
   "placement_count": 116,
   "notices": [
+    {
+      "id": "1476",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "EXXONMOBIL",
+      "notice": "The Pre-Placement Talk for ExxonMobil, will be held on 6th November, 2026 from 1:00 PM.Link: https://exxonmobil.zoom.us/j/95440889647?pwd=mzL94KOlDlmy1T5rcugav5RubaMdQ6.1Note: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Neev (+91 9001346350)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "06-11-2026 10:20"
+    },
     {
       "id": "1475",
       "type": "PLACEMENT",
