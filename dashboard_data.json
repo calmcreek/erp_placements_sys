@@ -1,12 +1,21 @@
 {
   "erp_status": "Connected",
-  "last_check": "06 Nov 2026, 03:32:18 PM",
-  "next_check": "06 Nov 2026, 04:02:18 PM",
-  "notice_count": 1350,
+  "last_check": "06 Nov 2026, 04:02:11 PM",
+  "next_check": "06 Nov 2026, 04:32:11 PM",
+  "notice_count": 1349,
   "placement_count": 118,
   "notices": [
     {
-      "id": "1487",
+      "id": "1484",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "Test Notice 1",
+      "notice": "Pls ignore",
+      "notice_by": "D11001",
+      "notice_time": "06-11-2026 15:59"
+    },
+    {
+      "id": "1483",
       "type": "PLACEMENT",
       "subject": "Urgent",
       "company": "COGNIZANT",
@@ -15,31 +24,13 @@
       "notice_time": "06-11-2026 14:39"
     },
     {
-      "id": "1486",
+      "id": "1482",
       "type": "PLACEMENT",
       "subject": "CV Submission",
       "company": "NVIDIA",
       "notice": "The CV submission of Nvidia for the role of Hardware with revised eligibility, has been extended till 5:00 PM, 6th November, 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
       "notice_by": "23AG36009",
       "notice_time": "06-11-2026 14:28"
-    },
-    {
-      "id": "1485",
-      "type": "PLACEMENT",
-      "subject": "PPT/Workshop/Seminars etc",
-      "company": "TEST COMPANY 1",
-      "notice": "TEST PLS IGNORE",
-      "notice_by": "D11001",
-      "notice_time": "06-11-2026 15:08"
-    },
-    {
-      "id": "1484",
-      "type": "PLACEMENT",
-      "subject": "PPT/Workshop/Seminars etc",
-      "company": "TEST COMPANY 1",
-      "notice": "TEST. PLS IGNORE",
-      "notice_by": "D11001",
-      "notice_time": "06-11-2026 15:03"
     },
     {
       "id": "1480",
