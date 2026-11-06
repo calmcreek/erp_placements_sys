@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "06 Nov 2026, 08:02:20 PM",
-  "next_check": "06 Nov 2026, 08:32:20 PM",
-  "notice_count": 1354,
+  "last_check": "06 Nov 2026, 08:32:32 PM",
+  "next_check": "06 Nov 2026, 09:02:32 PM",
+  "notice_count": 1356,
   "placement_count": 119,
   "notices": [
+    {
+      "id": "1493",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "HILABS",
+      "notice": "Please find below the link for the Deck Submission for the HILABS Associate Product Manager role. The submission deadline has been extended until 11:59 AM, 7th November 2026.Link: https://forms.gle/gCB2C1LFC33Pi1wg8Deadline : 11:59 AM, 7th November, 2025No further extension will be provided. The submissions after the given deadline will not be considered for further process.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "06-11-2026 20:13"
+    },
+    {
+      "id": "1492",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "PAYTM",
+      "notice": "The CV Submission for PAYTM for the Software Engineer has been extended till 4:00 PM, 7th November, 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "06-11-2026 20:02"
+    },
     {
       "id": "1491",
       "type": "PLACEMENT",
@@ -13965,7 +13983,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-04 13:04",
-      "resume_upload_end": "2026-11-06 22:00",
+      "resume_upload_end": "2026-11-07 16:00",
       "interview_selection": "",
       "contract": ""
     },
