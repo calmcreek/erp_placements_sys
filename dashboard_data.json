@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "06 Nov 2026, 11:32:23 AM",
-  "next_check": "06 Nov 2026, 12:02:23 PM",
-  "notice_count": 1344,
+  "last_check": "06 Nov 2026, 12:02:10 PM",
+  "next_check": "06 Nov 2026, 12:32:10 PM",
+  "notice_count": 1345,
   "placement_count": 116,
   "notices": [
+    {
+      "id": "1479",
+      "type": "INTERNSHIP",
+      "subject": "Urgent",
+      "company": "JSW GROUP",
+      "notice": "PFB the shortlist for the Interview round of JSW Group.24CH1008124CH1007923CH3000124CH1003123CE3EP1623CS3005324MF1004124ME1012824MF1005923MT30011Further details would be communicated to the shortlisted candidates shortly.CDC, IIT Kharagpur",
+      "notice_by": "23AG3AI03",
+      "notice_time": "06-11-2026 11:37"
+    },
     {
       "id": "1478",
       "type": "PLACEMENT",
