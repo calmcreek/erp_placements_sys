@@ -1,27 +1,36 @@
 {
   "erp_status": "Connected",
-  "last_check": "06 Nov 2026, 05:02:11 PM",
-  "next_check": "06 Nov 2026, 05:32:11 PM",
-  "notice_count": 1350,
+  "last_check": "06 Nov 2026, 05:32:21 PM",
+  "next_check": "06 Nov 2026, 06:02:21 PM",
+  "notice_count": 1351,
   "placement_count": 118,
   "notices": [
     {
-      "id": "1485",
+      "id": "1486",
       "type": "PLACEMENT",
       "subject": "PPT/Workshop/Seminars etc",
-      "company": "Test Notice 2 Pls Ignore",
-      "notice": "Pls ignore",
+      "company": "Test Company",
+      "notice": "Pls Ignore",
       "notice_by": "D11001",
-      "notice_time": "06-11-2026 16:29"
+      "notice_time": "06-11-2026 17:28"
+    },
+    {
+      "id": "1485",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Fujitsu Research",
+      "notice": "PFA the test room allocation for the assessment of FUJITSU for the Software Developer Monaka HPC AI role, scheduled from 6:00 PM onwards on 6th November, 2026.Venue: Nalanda Classroom Complex The test link has been shared with the shortlisted students on their CDC registered email IDs.Students are requested to report 15 minutes prior to the scheduled start time.POC: Ashutosh(+91 88401 04367)Bhavy(+91 75971 21669)CDC, IIT Kharagpur",
+      "notice_by": "23CH30006",
+      "notice_time": "06-11-2026 17:16"
     },
     {
       "id": "1484",
       "type": "PLACEMENT",
       "subject": "PPT/Workshop/Seminars etc",
-      "company": "Test Notice 1",
-      "notice": "Pls ignore",
+      "company": "Test Notice 3",
+      "notice": "Test 3",
       "notice_by": "D11001",
-      "notice_time": "06-11-2026 15:59"
+      "notice_time": "06-11-2026 17:11"
     },
     {
       "id": "1483",
