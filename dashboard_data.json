@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "07 Nov 2026, 02:02:08 AM",
-  "next_check": "07 Nov 2026, 02:32:08 AM",
-  "notice_count": 1360,
+  "last_check": "07 Nov 2026, 02:32:23 AM",
+  "next_check": "07 Nov 2026, 03:02:23 AM",
+  "notice_count": 1361,
   "placement_count": 119,
   "notices": [
+    {
+      "id": "1503",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "MATHWORKS",
+      "notice": "Please note that the Test for MathWorks has been postponed until furthur notice.CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "07-11-2026 02:15"
+    },
     {
       "id": "1502",
       "type": "PLACEMENT",
