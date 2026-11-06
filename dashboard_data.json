@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "06 Nov 2026, 02:02:11 PM",
-  "next_check": "06 Nov 2026, 02:32:11 PM",
-  "notice_count": 1346,
+  "last_check": "06 Nov 2026, 02:32:27 PM",
+  "next_check": "06 Nov 2026, 03:02:27 PM",
+  "notice_count": 1347,
   "placement_count": 118,
   "notices": [
+    {
+      "id": "1486",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "NVIDIA",
+      "notice": "The CV submission of Nvidia for the role of Hardware with revised eligibility, has been extended till 5:00 PM, 6th November, 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "06-11-2026 14:28"
+    },
     {
       "id": "1480",
       "type": "PLACEMENT",
