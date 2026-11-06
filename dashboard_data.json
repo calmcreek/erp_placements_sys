@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "06 Nov 2026, 10:32:51 AM",
-  "next_check": "06 Nov 2026, 11:02:51 AM",
-  "notice_count": 1342,
+  "last_check": "06 Nov 2026, 11:02:11 AM",
+  "next_check": "06 Nov 2026, 11:32:11 AM",
+  "notice_count": 1343,
   "placement_count": 116,
   "notices": [
+    {
+      "id": "1477",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "AIRBUS",
+      "notice": "All eligible students who have applied for AIRBUS are required to fill out the form given below. Only students who fill out this form will receive the company application link.Link: https://forms.gle/qb2pN7MmbgCqKXkE6Deadline: 1:00 PM, 6th November 2026Kindly ensure that you submit the form before the deadline. No further extensions will be provided.CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "06-11-2026 10:36"
+    },
     {
       "id": "1476",
       "type": "PLACEMENT",
