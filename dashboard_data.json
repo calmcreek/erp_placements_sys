@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "06 Nov 2026, 08:32:32 PM",
-  "next_check": "06 Nov 2026, 09:02:32 PM",
-  "notice_count": 1356,
+  "last_check": "06 Nov 2026, 09:02:13 PM",
+  "next_check": "06 Nov 2026, 09:32:13 PM",
+  "notice_count": 1357,
   "placement_count": 119,
   "notices": [
+    {
+      "id": "1494",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "IBM",
+      "notice": "A Competency Assessment has been triggered for all the students who have completed the assessment for the Software Developer, and the Software Engineer roles of IBM.Venue: Respective LocationsDeadline: 11:59 PM, 7th November, 2026.Note: Students are required to complete this assessment to be considered for the further process.POC: Neev (+91 9001346350)CDC, IIT Kharagpur.",
+      "notice_by": "23MI33009",
+      "notice_time": "06-11-2026 20:47"
+    },
     {
       "id": "1493",
       "type": "PLACEMENT",
