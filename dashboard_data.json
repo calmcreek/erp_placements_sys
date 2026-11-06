@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "06 Nov 2026, 02:32:27 PM",
-  "next_check": "06 Nov 2026, 03:02:27 PM",
-  "notice_count": 1347,
+  "last_check": "06 Nov 2026, 03:02:11 PM",
+  "next_check": "06 Nov 2026, 03:32:11 PM",
+  "notice_count": 1348,
   "placement_count": 118,
   "notices": [
+    {
+      "id": "1487",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "COGNIZANT",
+      "notice": "All the applicants of Cognizant for any role are requested to apply on the portal link attached below by 4:00 PM, 7th November 2026.Company Portal: https://app.joinsuperset.com/join/#/signup/student?jp=ab6aef62-9a2a-4ace-960c-08d64e0ef964NOTE: Students are required to apply using their ERP-registered email ID on the company portal, Please note that the portal is currently not accessible through the institute network. Students are requested to use their mobile network to access the portal and complete the application.All the eligible students are advised to fill the form within the given deadline.No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "06-11-2026 14:39"
+    },
     {
       "id": "1486",
       "type": "PLACEMENT",
