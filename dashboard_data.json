@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "07 Nov 2026, 09:02:11 PM",
-  "next_check": "07 Nov 2026, 09:32:11 PM",
-  "notice_count": 1377,
+  "last_check": "07 Nov 2026, 09:32:26 PM",
+  "next_check": "07 Nov 2026, 10:02:26 PM",
+  "notice_count": 1379,
   "placement_count": 126,
   "notices": [
+    {
+      "id": "1524",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "AIRBUS",
+      "notice": "The Airbus portal registration links of the respective roles, as per the preferences submitted by the candidates, have been shared with all the eligible students on their CDC-registered email IDs.All concerned students are advised to complete their registration by 8th November 2026, 11:59 PM. No further extensions will be provided.CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "07-11-2026 21:29"
+    },
     {
       "id": "1523",
       "type": "PLACEMENT",
@@ -31,6 +40,15 @@
       "notice": "The CV submission of Microsoft for Software Engineer role, has been extended till 4:00 PM, 8th November, 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
       "notice_by": "23CE36001",
       "notice_time": "07-11-2026 18:35"
+    },
+    {
+      "id": "1520",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "IQVIA",
+      "notice": "The CV submission of IQVIA for all the roles, has been extended till 4:00 PM, 8th November, 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "07-11-2026 17:59"
     },
     {
       "id": "1519",
