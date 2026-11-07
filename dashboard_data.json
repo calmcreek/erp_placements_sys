@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "07 Nov 2026, 07:02:15 PM",
-  "next_check": "07 Nov 2026, 07:32:15 PM",
-  "notice_count": 1376,
+  "last_check": "07 Nov 2026, 07:32:40 PM",
+  "next_check": "07 Nov 2026, 08:02:40 PM",
+  "notice_count": 1377,
   "placement_count": 126,
   "notices": [
+    {
+      "id": "1523",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "INDUS INSIGHTS",
+      "notice": "PFA the test room allocation for the Assessment of Indus Insights for the Associate Role, scheduled from 7:45 PM onwards on 7th November, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card, failing which students will not be permitted to sit for the test. Note: The test  link has already been shared with candidates through their CDC-registered email IDs.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Rudra (+91 8235755257), Khush(+91 9922168000)CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "07-11-2026 19:15"
+    },
     {
       "id": "1522",
       "type": "PLACEMENT",
