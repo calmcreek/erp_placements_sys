@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "07 Nov 2026, 11:32:28 AM",
-  "next_check": "07 Nov 2026, 12:02:28 PM",
-  "notice_count": 1363,
+  "last_check": "07 Nov 2026, 12:02:15 PM",
+  "next_check": "07 Nov 2026, 12:32:15 PM",
+  "notice_count": 1364,
   "placement_count": 119,
   "notices": [
+    {
+      "id": "1508",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Sun Valley",
+      "notice": "CV Submission for Sun Valley for Research Analyst role is extended till 4:00 PM, 7th November, 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "07-11-2026 11:59"
+    },
     {
       "id": "1507",
       "type": "PLACEMENT",
