@@ -1,9 +1,9 @@
 {
   "erp_status": "Connected",
-  "last_check": "07 Nov 2026, 05:02:15 PM",
-  "next_check": "07 Nov 2026, 05:32:15 PM",
+  "last_check": "07 Nov 2026, 05:32:24 PM",
+  "next_check": "07 Nov 2026, 06:02:24 PM",
   "notice_count": 1370,
-  "placement_count": 123,
+  "placement_count": 125,
   "notices": [
     {
       "id": "1515",
@@ -12486,13 +12486,13 @@
       "company": "BlackRock",
       "additional_details": "",
       "ppt": "",
-      "designation": "AI & ML Engineer (Aladdin Engineering) Analyst",
+      "designation": "Data Scientist - Quantitative Finance (Analytics Stewardship) Analyst",
       "description": "Apply",
       "ctc": "2800000",
       "currency": "INR",
-      "additional_details_2": "Download",
+      "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-11-02 20:10",
+      "resume_upload_start": "2026-11-04 22:32",
       "resume_upload_end": "2026-11-06 09:00",
       "interview_selection": "",
       "contract": ""
@@ -12518,13 +12518,13 @@
       "company": "BlackRock",
       "additional_details": "",
       "ppt": "",
-      "designation": "Data Scientist - Quantitative Finance (Analytics Stewardship) Analyst",
+      "designation": "AI & ML Engineer (Aladdin Engineering) Analyst",
       "description": "Apply",
       "ctc": "2800000",
       "currency": "INR",
-      "additional_details_2": "",
+      "additional_details_2": "Download",
       "application_status": "",
-      "resume_upload_start": "2026-11-04 22:32",
+      "resume_upload_start": "2026-11-02 20:10",
       "resume_upload_end": "2026-11-06 09:00",
       "interview_selection": "",
       "contract": ""
@@ -12534,12 +12534,12 @@
       "company": "Capital One Services India Pvt. Ltd.",
       "additional_details": "",
       "ppt": "",
-      "designation": "Associate (Software Engineer)",
+      "designation": "Associate - BusinessAnalyst",
       "description": "Apply",
       "ctc": "3850000",
       "currency": "INR",
       "additional_details_2": "",
-      "application_status": "Y",
+      "application_status": "",
       "resume_upload_start": "2026-10-29 17:00",
       "resume_upload_end": "2026-10-31 23:59",
       "interview_selection": "",
@@ -12550,12 +12550,12 @@
       "company": "Capital One Services India Pvt. Ltd.",
       "additional_details": "",
       "ppt": "",
-      "designation": "Associate - BusinessAnalyst",
+      "designation": "Associate (Software Engineer)",
       "description": "Apply",
       "ctc": "3850000",
       "currency": "INR",
       "additional_details_2": "",
-      "application_status": "",
+      "application_status": "Y",
       "resume_upload_start": "2026-10-29 17:00",
       "resume_upload_end": "2026-10-31 23:59",
       "interview_selection": "",
@@ -12582,6 +12582,22 @@
       "company": "Cars24",
       "additional_details": "",
       "ppt": "",
+      "designation": "Data Science",
+      "description": "Apply",
+      "ctc": "2500000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "Y",
+      "resume_upload_start": "2026-10-29 16:56",
+      "resume_upload_end": "2026-11-03 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "16",
+      "company": "Cars24",
+      "additional_details": "",
+      "ppt": "",
       "designation": "Software Engineering",
       "description": "Apply",
       "ctc": "2500000",
@@ -12594,7 +12610,7 @@
       "contract": ""
     },
     {
-      "id": "16",
+      "id": "17",
       "company": "Cars24",
       "additional_details": "",
       "ppt": "",
@@ -12605,22 +12621,6 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-10-29 16:57",
-      "resume_upload_end": "2026-11-03 16:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "17",
-      "company": "Cars24",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Data Science",
-      "description": "Apply",
-      "ctc": "2500000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "Y",
-      "resume_upload_start": "2026-10-29 16:56",
       "resume_upload_end": "2026-11-03 16:00",
       "interview_selection": "",
       "contract": ""
@@ -12637,7 +12637,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-05 12:07",
-      "resume_upload_end": "2026-11-07 15:59",
+      "resume_upload_end": "2026-11-08 15:59",
       "interview_selection": "",
       "contract": ""
     },
@@ -12653,12 +12653,28 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-05 12:07",
-      "resume_upload_end": "2026-11-07 15:59",
+      "resume_upload_end": "2026-11-08 15:59",
       "interview_selection": "",
       "contract": ""
     },
     {
       "id": "20",
+      "company": "Collins Aerospace",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "PGET - Power Electronics",
+      "description": "Apply",
+      "ctc": "1300000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-28 16:29",
+      "resume_upload_end": "2026-11-01 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "21",
       "company": "Collins Aerospace",
       "additional_details": "",
       "ppt": "",
@@ -12669,22 +12685,6 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-28 16:27",
-      "resume_upload_end": "2026-11-01 16:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "21",
-      "company": "Collins Aerospace",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "PGET - Microelectronics",
-      "description": "Apply",
-      "ctc": "1300000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-10-28 16:30",
       "resume_upload_end": "2026-11-01 16:00",
       "interview_selection": "",
       "contract": ""
@@ -12710,7 +12710,7 @@
       "company": "Collins Aerospace",
       "additional_details": "",
       "ppt": "",
-      "designation": "PGET - Power Electronics",
+      "designation": "PGET - Advanced Methods",
       "description": "Apply",
       "ctc": "1300000",
       "currency": "INR",
@@ -12726,13 +12726,13 @@
       "company": "Collins Aerospace",
       "additional_details": "",
       "ppt": "",
-      "designation": "PGET - Autonomous & Intelligent Aerospace Systems",
+      "designation": "PGET - Mechanical Design",
       "description": "Apply",
       "ctc": "1300000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-10-28 16:32",
+      "resume_upload_start": "2026-10-28 16:26",
       "resume_upload_end": "2026-11-01 16:00",
       "interview_selection": "",
       "contract": ""
@@ -12742,13 +12742,13 @@
       "company": "Collins Aerospace",
       "additional_details": "",
       "ppt": "",
-      "designation": "PGET - Advanced Methods",
+      "designation": "PGET - Microelectronics",
       "description": "Apply",
       "ctc": "1300000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-10-28 16:29",
+      "resume_upload_start": "2026-10-28 16:30",
       "resume_upload_end": "2026-11-01 16:00",
       "interview_selection": "",
       "contract": ""
@@ -12758,13 +12758,13 @@
       "company": "Collins Aerospace",
       "additional_details": "",
       "ppt": "",
-      "designation": "PGET - Mechanical Design",
+      "designation": "PGET - Autonomous & Intelligent Aerospace Systems",
       "description": "Apply",
       "ctc": "1300000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-10-28 16:26",
+      "resume_upload_start": "2026-10-28 16:32",
       "resume_upload_end": "2026-11-01 16:00",
       "interview_selection": "",
       "contract": ""
@@ -12902,13 +12902,13 @@
       "company": "Glean Search Technologies India Private Limited",
       "additional_details": "",
       "ppt": "",
-      "designation": "Software Engineer - India",
+      "designation": "Software Engineer - US",
       "description": "Apply",
-      "ctc": "7541653",
-      "currency": "INR",
+      "ctc": "189250",
+      "currency": "USD",
       "additional_details_2": "",
       "application_status": "Y",
-      "resume_upload_start": "2026-10-27 17:20",
+      "resume_upload_start": "2026-10-27 17:21",
       "resume_upload_end": "2026-10-29 16:00",
       "interview_selection": "",
       "contract": ""
@@ -12918,13 +12918,13 @@
       "company": "Glean Search Technologies India Private Limited",
       "additional_details": "",
       "ppt": "",
-      "designation": "Software Engineer - US",
+      "designation": "Software Engineer - India",
       "description": "Apply",
-      "ctc": "189250",
-      "currency": "USD",
+      "ctc": "7541653",
+      "currency": "INR",
       "additional_details_2": "",
       "application_status": "Y",
-      "resume_upload_start": "2026-10-27 17:21",
+      "resume_upload_start": "2026-10-27 17:20",
       "resume_upload_end": "2026-10-29 16:00",
       "interview_selection": "",
       "contract": ""
@@ -13062,13 +13062,13 @@
       "company": "IDFC FIRST Bank",
       "additional_details": "",
       "ppt": "",
-      "designation": "Associate Data Scientist-AI Labs",
+      "designation": "Associate Data Analyst",
       "description": "Apply",
-      "ctc": "3720000",
+      "ctc": "2300000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-11-07 16:50",
+      "resume_upload_start": "2026-11-07 16:51",
       "resume_upload_end": "2026-11-08 16:00",
       "interview_selection": "",
       "contract": ""
@@ -13078,13 +13078,13 @@
       "company": "IDFC FIRST Bank",
       "additional_details": "",
       "ppt": "",
-      "designation": "Associate Data Analyst",
+      "designation": "Associate Data Scientist-AI Labs",
       "description": "Apply",
-      "ctc": "2300000",
+      "ctc": "3720000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-11-07 16:51",
+      "resume_upload_start": "2026-11-07 16:50",
       "resume_upload_end": "2026-11-08 16:00",
       "interview_selection": "",
       "contract": ""
@@ -13206,9 +13206,9 @@
       "company": "Ixana",
       "additional_details": "",
       "ppt": "",
-      "designation": "Embedded Software Engineer",
+      "designation": "IC Design Engineer III",
       "description": "Apply",
-      "ctc": "4162000",
+      "ctc": "4550000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
@@ -13222,9 +13222,9 @@
       "company": "Ixana",
       "additional_details": "",
       "ppt": "",
-      "designation": "IC Design Engineer II",
+      "designation": "Embedded Software Engineer",
       "description": "Apply",
-      "ctc": "4100000",
+      "ctc": "4162000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
@@ -13238,9 +13238,9 @@
       "company": "Ixana",
       "additional_details": "",
       "ppt": "",
-      "designation": "IC Design Engineer III",
+      "designation": "IC Design Engineer II",
       "description": "Apply",
-      "ctc": "4550000",
+      "ctc": "4100000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
@@ -13299,6 +13299,38 @@
     },
     {
       "id": "60",
+      "company": "LANDEED (JOHN SALT PVT LIMITED)",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Full Stack Engineer",
+      "description": "Apply",
+      "ctc": "16000000",
+      "currency": "INR",
+      "additional_details_2": "Download",
+      "application_status": "",
+      "resume_upload_start": "2026-11-07 17:20",
+      "resume_upload_end": "2026-11-08 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "61",
+      "company": "LANDEED (JOHN SALT PVT LIMITED)",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "AI/ML Engineer (Post-Training)",
+      "description": "Apply",
+      "ctc": "16000000",
+      "currency": "INR",
+      "additional_details_2": "Download",
+      "application_status": "",
+      "resume_upload_start": "2026-11-07 17:19",
+      "resume_upload_end": "2026-11-08 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "62",
       "company": "LAT AEROSPACE",
       "additional_details": "",
       "ppt": "",
@@ -13314,23 +13346,7 @@
       "contract": ""
     },
     {
-      "id": "61",
-      "company": "MASTERCARD",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Software Engineer Role Description As a Software Engineer I, you will have the opportunity to:  write high-quality code with a focus on security, design, and maintainability.  contribute to all phases of software development from design through rollout.  find real-life solutions for our clients and the world.",
-      "description": "Apply",
-      "ctc": "22,05,800",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-10-17 13:00",
-      "resume_upload_end": "2026-10-22 14:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "62",
+      "id": "63",
       "company": "MASTERCARD",
       "additional_details": "",
       "ppt": "",
@@ -13346,23 +13362,23 @@
       "contract": ""
     },
     {
-      "id": "63",
-      "company": "MathWorks India Private Limited",
+      "id": "64",
+      "company": "MASTERCARD",
       "additional_details": "",
       "ppt": "",
-      "designation": "Engineer (Dual Degree, Masters) in Engineering Development Group",
+      "designation": "Software Engineer Role Description As a Software Engineer I, you will have the opportunity to:  write high-quality code with a focus on security, design, and maintainability.  contribute to all phases of software development from design through rollout.  find real-life solutions for our clients and the world.",
       "description": "Apply",
-      "ctc": "3009352",
+      "ctc": "22,05,800",
       "currency": "INR",
       "additional_details_2": "",
-      "application_status": "Y",
-      "resume_upload_start": "2026-11-03 16:12",
-      "resume_upload_end": "2026-11-05 16:00",
+      "application_status": "",
+      "resume_upload_start": "2026-10-17 13:00",
+      "resume_upload_end": "2026-10-22 14:00",
       "interview_selection": "",
       "contract": ""
     },
     {
-      "id": "64",
+      "id": "65",
       "company": "MathWorks India Private Limited",
       "additional_details": "",
       "ppt": "",
@@ -13378,7 +13394,23 @@
       "contract": ""
     },
     {
-      "id": "65",
+      "id": "66",
+      "company": "MathWorks India Private Limited",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Engineer (Dual Degree, Masters) in Engineering Development Group",
+      "description": "Apply",
+      "ctc": "3009352",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "Y",
+      "resume_upload_start": "2026-11-03 16:12",
+      "resume_upload_end": "2026-11-05 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "67",
       "company": "Meesho",
       "additional_details": "",
       "ppt": "",
@@ -13394,7 +13426,7 @@
       "contract": ""
     },
     {
-      "id": "66",
+      "id": "68",
       "company": "Mercedes Benz India Pvt Ltd",
       "additional_details": "",
       "ppt": "",
@@ -13410,7 +13442,7 @@
       "contract": ""
     },
     {
-      "id": "67",
+      "id": "69",
       "company": "Microsoft Corporation",
       "additional_details": "",
       "ppt": "",
@@ -13426,7 +13458,7 @@
       "contract": ""
     },
     {
-      "id": "68",
+      "id": "70",
       "company": "NATWEST",
       "additional_details": "",
       "ppt": "",
@@ -13442,39 +13474,23 @@
       "contract": ""
     },
     {
-      "id": "69",
-      "company": "Navi Limited",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Data Scientist I, Navi",
-      "description": "Apply",
-      "ctc": "4520000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-10-29 10:57",
-      "resume_upload_end": "2026-11-01 16:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "70",
-      "company": "Navi Limited",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "AI strategy Operations",
-      "description": "Apply",
-      "ctc": "3820000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-11-03 00:36",
-      "resume_upload_end": "2026-11-04 09:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
       "id": "71",
+      "company": "Navi Limited",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Applied Computer Scientist",
+      "description": "Apply",
+      "ctc": "12500000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-11-05 15:28",
+      "resume_upload_end": "2026-11-08 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "72",
       "company": "Navi Limited",
       "additional_details": "",
       "ppt": "",
@@ -13490,7 +13506,23 @@
       "contract": ""
     },
     {
-      "id": "72",
+      "id": "73",
+      "company": "Navi Limited",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "AI strategy Operations",
+      "description": "Apply",
+      "ctc": "3820000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-11-03 00:36",
+      "resume_upload_end": "2026-11-04 09:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "74",
       "company": "Navi Limited",
       "additional_details": "",
       "ppt": "",
@@ -13506,39 +13538,23 @@
       "contract": ""
     },
     {
-      "id": "73",
+      "id": "75",
       "company": "Navi Limited",
       "additional_details": "",
       "ppt": "",
-      "designation": "Applied Computer Scientist",
+      "designation": "Data Scientist I, Navi",
       "description": "Apply",
-      "ctc": "12500000",
+      "ctc": "4520000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-11-05 15:28",
-      "resume_upload_end": "2026-11-06 16:00",
+      "resume_upload_start": "2026-10-29 10:57",
+      "resume_upload_end": "2026-11-01 16:00",
       "interview_selection": "",
       "contract": ""
     },
     {
-      "id": "74",
-      "company": "NK Securities Research",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Software Development Engineer",
-      "description": "Apply",
-      "ctc": "8500000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-10-24 14:42",
-      "resume_upload_end": "2026-10-27 15:59",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "75",
+      "id": "76",
       "company": "NK Securities Research",
       "additional_details": "",
       "ppt": "",
@@ -13554,7 +13570,23 @@
       "contract": ""
     },
     {
-      "id": "76",
+      "id": "77",
+      "company": "NK Securities Research",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Software Development Engineer",
+      "description": "Apply",
+      "ctc": "8500000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-24 14:42",
+      "resume_upload_end": "2026-10-27 15:59",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "78",
       "company": "NK Securities Research",
       "additional_details": "",
       "ppt": "",
@@ -13570,23 +13602,7 @@
       "contract": ""
     },
     {
-      "id": "77",
-      "company": "NoBroker.com",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Applied Scientist",
-      "description": "Apply",
-      "ctc": "3149674",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-11-07 16:58",
-      "resume_upload_end": "2026-11-08 16:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "78",
+      "id": "79",
       "company": "NoBroker.com",
       "additional_details": "",
       "ppt": "",
@@ -13602,7 +13618,23 @@
       "contract": ""
     },
     {
-      "id": "79",
+      "id": "80",
+      "company": "NoBroker.com",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Applied Scientist",
+      "description": "Apply",
+      "ctc": "3149674",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-11-07 16:58",
+      "resume_upload_end": "2026-11-08 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "81",
       "company": "Novartis Healthcare Pvt. Ltd.",
       "additional_details": "",
       "ppt": "",
@@ -13618,23 +13650,7 @@
       "contract": ""
     },
     {
-      "id": "80",
-      "company": "Nutanix Technologies India Pvt Ltd",
-      "additional_details": "Download",
-      "ppt": "",
-      "designation": "Member Of Technical Staff 1",
-      "description": "Apply",
-      "ctc": "5988000",
-      "currency": "INR",
-      "additional_details_2": "Download",
-      "application_status": "",
-      "resume_upload_start": "2026-11-03 16:19",
-      "resume_upload_end": "2026-11-05 16:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "81",
+      "id": "82",
       "company": "Nutanix Technologies India Pvt Ltd",
       "additional_details": "Download",
       "ppt": "",
@@ -13645,12 +13661,28 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-03 16:19",
-      "resume_upload_end": "2026-11-05 16:00",
+      "resume_upload_end": "2026-11-08 16:00",
       "interview_selection": "",
       "contract": ""
     },
     {
-      "id": "82",
+      "id": "83",
+      "company": "Nutanix Technologies India Pvt Ltd",
+      "additional_details": "Download",
+      "ppt": "",
+      "designation": "Member Of Technical Staff 1",
+      "description": "Apply",
+      "ctc": "5988000",
+      "currency": "INR",
+      "additional_details_2": "Download",
+      "application_status": "",
+      "resume_upload_start": "2026-11-03 16:19",
+      "resume_upload_end": "2026-11-08 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "84",
       "company": "Paytm",
       "additional_details": "",
       "ppt": "",
@@ -13661,12 +13693,12 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-05 17:08",
-      "resume_upload_end": "2026-11-07 16:00",
+      "resume_upload_end": "2026-11-08 16:00",
       "interview_selection": "",
       "contract": ""
     },
     {
-      "id": "83",
+      "id": "85",
       "company": "Pine Labs",
       "additional_details": "Download",
       "ppt": "",
@@ -13682,7 +13714,7 @@
       "contract": ""
     },
     {
-      "id": "84",
+      "id": "86",
       "company": "Plutus Research Private Limited",
       "additional_details": "",
       "ppt": "",
@@ -13698,7 +13730,7 @@
       "contract": ""
     },
     {
-      "id": "85",
+      "id": "87",
       "company": "Plutus Research Private Limited",
       "additional_details": "",
       "ppt": "",
@@ -13714,7 +13746,7 @@
       "contract": ""
     },
     {
-      "id": "86",
+      "id": "88",
       "company": "Pocket FM",
       "additional_details": "Download",
       "ppt": "",
@@ -13730,7 +13762,7 @@
       "contract": ""
     },
     {
-      "id": "87",
+      "id": "89",
       "company": "Pocket FM",
       "additional_details": "Download",
       "ppt": "",
@@ -13746,7 +13778,7 @@
       "contract": ""
     },
     {
-      "id": "88",
+      "id": "90",
       "company": "Porter",
       "additional_details": "",
       "ppt": "",
@@ -13762,7 +13794,7 @@
       "contract": ""
     },
     {
-      "id": "89",
+      "id": "91",
       "company": "Porter",
       "additional_details": "",
       "ppt": "",
@@ -13778,7 +13810,7 @@
       "contract": ""
     },
     {
-      "id": "90",
+      "id": "92",
       "company": "Prodigal Technologies Inc.",
       "additional_details": "",
       "ppt": "",
@@ -13794,7 +13826,7 @@
       "contract": ""
     },
     {
-      "id": "91",
+      "id": "93",
       "company": "Prodigal Technologies Inc.",
       "additional_details": "",
       "ppt": "",
@@ -13810,7 +13842,7 @@
       "contract": ""
     },
     {
-      "id": "92",
+      "id": "94",
       "company": "Purplle",
       "additional_details": "Download",
       "ppt": "",
@@ -13826,7 +13858,7 @@
       "contract": ""
     },
     {
-      "id": "93",
+      "id": "95",
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
@@ -13842,7 +13874,7 @@
       "contract": ""
     },
     {
-      "id": "94",
+      "id": "96",
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
@@ -13858,7 +13890,7 @@
       "contract": ""
     },
     {
-      "id": "95",
+      "id": "97",
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
@@ -13874,7 +13906,7 @@
       "contract": ""
     },
     {
-      "id": "96",
+      "id": "98",
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
@@ -13890,7 +13922,7 @@
       "contract": ""
     },
     {
-      "id": "97",
+      "id": "99",
       "company": "Quadeye",
       "additional_details": "",
       "ppt": "",
@@ -13906,7 +13938,7 @@
       "contract": ""
     },
     {
-      "id": "98",
+      "id": "100",
       "company": "Quadeye",
       "additional_details": "",
       "ppt": "",
@@ -13922,7 +13954,7 @@
       "contract": ""
     },
     {
-      "id": "99",
+      "id": "101",
       "company": "Qualcomm",
       "additional_details": "",
       "ppt": "",
@@ -13938,7 +13970,7 @@
       "contract": ""
     },
     {
-      "id": "100",
+      "id": "102",
       "company": "Qualcomm",
       "additional_details": "",
       "ppt": "",
@@ -13954,7 +13986,7 @@
       "contract": ""
     },
     {
-      "id": "101",
+      "id": "103",
       "company": "Qualcomm",
       "additional_details": "",
       "ppt": "",
@@ -13970,7 +14002,7 @@
       "contract": ""
     },
     {
-      "id": "102",
+      "id": "104",
       "company": "Qualcomm",
       "additional_details": "",
       "ppt": "",
@@ -13986,7 +14018,7 @@
       "contract": ""
     },
     {
-      "id": "103",
+      "id": "105",
       "company": "Qualcomm",
       "additional_details": "",
       "ppt": "",
@@ -14002,7 +14034,7 @@
       "contract": ""
     },
     {
-      "id": "104",
+      "id": "106",
       "company": "Qualcomm",
       "additional_details": "",
       "ppt": "",
@@ -14018,7 +14050,7 @@
       "contract": ""
     },
     {
-      "id": "105",
+      "id": "107",
       "company": "Qualcomm",
       "additional_details": "",
       "ppt": "",
@@ -14034,7 +14066,7 @@
       "contract": ""
     },
     {
-      "id": "106",
+      "id": "108",
       "company": "QUANTBOX RESEARCH",
       "additional_details": "",
       "ppt": "",
@@ -14050,7 +14082,7 @@
       "contract": ""
     },
     {
-      "id": "107",
+      "id": "109",
       "company": "QUANTBOX RESEARCH",
       "additional_details": "",
       "ppt": "",
@@ -14066,7 +14098,7 @@
       "contract": ""
     },
     {
-      "id": "108",
+      "id": "110",
       "company": "slice",
       "additional_details": "",
       "ppt": "",
@@ -14082,7 +14114,7 @@
       "contract": ""
     },
     {
-      "id": "109",
+      "id": "111",
       "company": "slice",
       "additional_details": "",
       "ppt": "",
@@ -14098,7 +14130,7 @@
       "contract": ""
     },
     {
-      "id": "110",
+      "id": "112",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -14114,7 +14146,7 @@
       "contract": ""
     },
     {
-      "id": "111",
+      "id": "113",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -14130,7 +14162,7 @@
       "contract": ""
     },
     {
-      "id": "112",
+      "id": "114",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -14146,7 +14178,7 @@
       "contract": ""
     },
     {
-      "id": "113",
+      "id": "115",
       "company": "Stenoa Capital",
       "additional_details": "",
       "ppt": "",
@@ -14162,7 +14194,7 @@
       "contract": ""
     },
     {
-      "id": "114",
+      "id": "116",
       "company": "Sun Valley Investment Group through Sun Valley Resources Private Limited",
       "additional_details": "",
       "ppt": "",
@@ -14178,7 +14210,7 @@
       "contract": ""
     },
     {
-      "id": "115",
+      "id": "117",
       "company": "Tiger Analytics",
       "additional_details": "",
       "ppt": "",
@@ -14194,7 +14226,7 @@
       "contract": ""
     },
     {
-      "id": "116",
+      "id": "118",
       "company": "Tredence Analytics",
       "additional_details": "",
       "ppt": "",
@@ -14210,7 +14242,7 @@
       "contract": ""
     },
     {
-      "id": "117",
+      "id": "119",
       "company": "Trexquant (India) Business Consulting LLP",
       "additional_details": "",
       "ppt": "",
@@ -14226,7 +14258,7 @@
       "contract": ""
     },
     {
-      "id": "118",
+      "id": "120",
       "company": "Urban Company",
       "additional_details": "",
       "ppt": "",
@@ -14242,7 +14274,7 @@
       "contract": ""
     },
     {
-      "id": "119",
+      "id": "121",
       "company": "Warner Music Group",
       "additional_details": "",
       "ppt": "",
@@ -14258,7 +14290,7 @@
       "contract": ""
     },
     {
-      "id": "120",
+      "id": "122",
       "company": "WhiteOak Capital",
       "additional_details": "",
       "ppt": "",
@@ -14274,7 +14306,7 @@
       "contract": ""
     },
     {
-      "id": "121",
+      "id": "123",
       "company": "YCP India Private Limited (Formerly Known as Auctus Advisors Pvt. Ltd.)",
       "additional_details": "",
       "ppt": "",
@@ -14290,7 +14322,7 @@
       "contract": ""
     },
     {
-      "id": "122",
+      "id": "124",
       "company": "Zanskar Research LLP",
       "additional_details": "",
       "ppt": "",
