@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "07 Nov 2026, 10:47:43 PM",
-  "next_check": "07 Nov 2026, 11:17:43 PM",
-  "notice_count": 1380,
+  "last_check": "07 Nov 2026, 11:02:11 PM",
+  "next_check": "07 Nov 2026, 11:32:11 PM",
+  "notice_count": 1381,
   "placement_count": 126,
   "notices": [
+    {
+      "id": "1526",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "EXL",
+      "notice": "PFA the test room allocation for the Assessment of EXL, scheduled from 12:00 AM onwards on 8th November, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card, failing which students will not be permitted to sit for the test.Note: The test link has already been shared with candidates through their CDC-registered email IDs.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Dishil (+91 9925492574), Aditi (+91 8815395895)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "07-11-2026 21:36"
+    },
     {
       "id": "1525",
       "type": "PLACEMENT",
