@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "07 Nov 2026, 04:02:08 PM",
-  "next_check": "07 Nov 2026, 04:32:08 PM",
-  "notice_count": 1368,
+  "last_check": "07 Nov 2026, 04:32:30 PM",
+  "next_check": "07 Nov 2026, 05:02:30 PM",
+  "notice_count": 1369,
   "placement_count": 119,
   "notices": [
+    {
+      "id": "1513",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "BLACKROCK",
+      "notice": "PFA the test room allocation for the Assessment of Blackrock, scheduled from 4:30 PM onwards on 7th November, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card, failing which students will not be permitted to sit for the test. Note: The test  link has already been shared with candidates through their CDC-registered email IDs. The link will be activated at 4:30 PM.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Aditya Ghandge (+91 9325468252), Nikita Sinha(+91 9969207598)CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "07-11-2026 16:11"
+    },
     {
       "id": "1512",
       "type": "PLACEMENT",
