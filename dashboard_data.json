@@ -1,10 +1,55 @@
 {
   "erp_status": "Connected",
-  "last_check": "08 Nov 2026, 09:02:08 PM",
-  "next_check": "08 Nov 2026, 09:32:08 PM",
-  "notice_count": 1382,
+  "last_check": "08 Nov 2026, 09:32:25 PM",
+  "next_check": "08 Nov 2026, 10:02:25 PM",
+  "notice_count": 1387,
   "placement_count": 139,
   "notices": [
+    {
+      "id": "1532",
+      "type": "PLACEMENT",
+      "subject": "Schedule",
+      "company": "CDC Placement Schedule for 9th November 2026",
+      "notice": "All students eligible for placement are advised to take note of the tentative placement schedule for Monday, 9th November 2026 (and early morning of 10th November 2026).1.[TEST] ACCENTURE AI (Profile : AI and Data ) (6:00 PM  7:30 PM) 2.[TEST] PINELABS (Profile : Software Development Engineer)  (8:00 PM  9:30 PM)3.[TEST] AIRBUS (Profile : All Profiles ) (10:00 PM  12:00 AM)4.[TEST] PRODIGAL (Profile : Applied AI) (2:00 AM  4:30 AM, 10th November)5.[TEST] PRODIGAL (Profile : Associate Consultant )  (4:30 AM  5:30 AM, 10th November)Note: Links to the assessments and other relevant details will be shared separately. Room allocations and other necessary instructions for the tests will be communicated prior to the respective assessments.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "08-11-2026 21:09"
+    },
+    {
+      "id": "1531",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Multiple Companies",
+      "notice": "The following companies are open for CV Submission till 4:00 PM, 9th November, 2026.1. HAKIMO AI (All Profiles)2. TEKION INDIA PVT LTD (Profile: Associate Software Engineer)3. AURONOVA CONSULTING (Profile: Analyst)4. PHYAGENTS INC. (All Profiles)5. AIRAMATRIX PRIVATE LIMITED (Profile: Trainee Engineer)6. TAKSHASHILA CONSULTING (Profile: Business Analyst)7. AVATHON (All Profiles)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "08-11-2026 20:04"
+    },
+    {
+      "id": "1530",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "IQVIA",
+      "notice": "The CV submission of IQVIA for all the roles has been extended till 11:59 AM, 9th November 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "08-11-2026 20:04"
+    },
+    {
+      "id": "1529",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "Multiple Companies",
+      "notice": "The following companies are open for CV Submission till 4:00 PM, 9th November, 2026.1. NOVARTIS (Profile: AI Specialist/Expert)2. NUTANIX (All Profiles)3. COGNIZANT (All Profiles)4. IDFC FIRST BANK (All Profiles)5. PAYTM (Profile : Software Engineer)6. NOBROKER (All Profiles)7. MICROSOFT (Profile: Software Engineer)8. ROYAL TIER MASON (Profile: Designer)9. LANDEED (All Profiles)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "08-11-2026 20:03"
+    },
+    {
+      "id": "1528",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "ITC Limited",
+      "notice": "All the shortlisted students are requested to complete the ITC assessment by 10:00 AM, 9th November, 2026.The test link has been triggered to the students on their email IDs.Note: Those who are facing the issue, please share a screenshot or video of the issue along with your email ID and roll number with the respective POC.Venue: Respective LocationPOC: Aditi (+91 8815395895)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "08-11-2026 17:49"
+    },
     {
       "id": "1527",
       "type": "PLACEMENT",
