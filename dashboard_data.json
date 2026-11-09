@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "10 Nov 2026, 04:34:47 AM",
-  "next_check": "10 Nov 2026, 05:04:47 AM",
-  "notice_count": 1404,
+  "last_check": "10 Nov 2026, 05:02:17 AM",
+  "next_check": "10 Nov 2026, 05:32:17 AM",
+  "notice_count": 1405,
   "placement_count": 147,
   "notices": [
+    {
+      "id": "1553",
+      "type": "PLACEMENT",
+      "subject": "Schedule",
+      "company": "CDC Placement Schedule for 10th November 2026",
+      "notice": "All students eligible for placement are advised to take note of the tentative placement schedule for Tuesday, 10th November 20261.[TEST] MICROSOFT (Profile: Software Engineer) (6:00 PM  8:00 PM)2.[TEST] IQVIA (All Profiles) (8:00 PM  10:00 PM)3.[TEST] CARS24 (All Profiles) (10:30 PM - 12:00 AM)Note: Links for the assessments and other relevant details will be shared separately. Room allocations and other necessary instructions for the tests will be communicated prior to the respective assessments.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "10-11-2026 04:50"
+    },
     {
       "id": "1552",
       "type": "PLACEMENT",
