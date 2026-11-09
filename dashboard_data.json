@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "09 Nov 2026, 05:02:16 PM",
-  "next_check": "09 Nov 2026, 05:32:16 PM",
-  "notice_count": 1394,
+  "last_check": "09 Nov 2026, 05:32:29 PM",
+  "next_check": "09 Nov 2026, 06:02:29 PM",
+  "notice_count": 1395,
   "placement_count": 145,
   "notices": [
+    {
+      "id": "1541",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "ACCENTURE SOLUTIONS",
+      "notice": "Please note that the Test of Accenture Solutions for the role of I&E - AI and Data, has been postponed until furthur notice.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "09-11-2026 17:32"
+    },
     {
       "id": "1540",
       "type": "PLACEMENT",
