@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "09 Nov 2026, 07:02:10 PM",
-  "next_check": "09 Nov 2026, 07:32:10 PM",
-  "notice_count": 1395,
+  "last_check": "09 Nov 2026, 07:33:04 PM",
+  "next_check": "09 Nov 2026, 08:03:04 PM",
+  "notice_count": 1396,
   "placement_count": 145,
   "notices": [
+    {
+      "id": "1543",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "PINE LABS",
+      "notice": "PFA the test room allocation for the Assessment of Pine Labs, scheduled from 8:00 PM onwards on 9th November, 2026.Venue: Nalanda Classroom ComplexThe test link has been shared with the shortlisted students on their CDC registered email IDs.Students are requested to report 15 minutes prior to the scheduled start time.POC: Aditya(+91 9325468252), Himanshu(+91 9311332376)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "09-11-2026 19:01"
+    },
     {
       "id": "1541",
       "type": "PLACEMENT",
