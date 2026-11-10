@@ -1,10 +1,37 @@
 {
   "erp_status": "Connected",
-  "last_check": "10 Nov 2026, 07:02:16 PM",
-  "next_check": "10 Nov 2026, 07:32:16 PM",
-  "notice_count": 1415,
+  "last_check": "10 Nov 2026, 07:32:36 PM",
+  "next_check": "10 Nov 2026, 08:02:36 PM",
+  "notice_count": 1418,
   "placement_count": 150,
   "notices": [
+    {
+      "id": "1569",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "IQVIA",
+      "notice": "PFA the test room allocation for the Assessment of IQVIA, common for both the roles, scheduled from 8:00 PM onwards on 10th November, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card, failing which students will not be permitted to sit for test. Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Nikita (+91 9969207598), Neev (+91 9001346350)CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "10-11-2026 19:31"
+    },
+    {
+      "id": "1568",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "CARS24",
+      "notice": "Please note that the Test of Cars24 for all the roles, has been postponed until further notice.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "10-11-2026 19:21"
+    },
+    {
+      "id": "1567",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "CARS24",
+      "notice": "Please note that the Test of Cars24 for all the roles, has been postponed until further notice.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "10-11-2026 19:20"
+    },
     {
       "id": "1566",
       "type": "PLACEMENT",
