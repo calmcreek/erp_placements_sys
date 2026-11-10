@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "11 Nov 2026, 02:02:13 AM",
-  "next_check": "11 Nov 2026, 02:32:13 AM",
-  "notice_count": 1420,
+  "last_check": "11 Nov 2026, 02:32:29 AM",
+  "next_check": "11 Nov 2026, 03:02:29 AM",
+  "notice_count": 1421,
   "placement_count": 150,
   "notices": [
+    {
+      "id": "1582",
+      "type": "PLACEMENT",
+      "subject": "Schedule",
+      "company": "CDC Placement Schedule for 11th-13th November 2026",
+      "notice": "All students eligible for placement are advised to take note of the tentative placement schedule from Wednesday, 11th November, to Friday, 13th November 2026.Please note that this schedule is tentative and is subject to additions and subtractions.Wednesday, 11th November 20261. [PPT] AURONOVA CONSULTING (12:00 PM  1:00 PM)2. [PPT] AVATHON (1:00 PM  2:00 PM)3. [PPT] TOLARAM (5:00 PM  6:00 PM)4. [TEST] COGNIZANT (All Profiles) (6:00 PM  7:30 PM)5. [PPT] GREEN AERO PROPULSION (8:00 PM  9:00 PM)6. [TEST] INSURITY (Profile: Software Engineer I) (10:00 PM  11:30 PM)Thursday, 12th November 20261. [PPT] BLACKBUCK (1:00 PM  2:00 PM)2. [PPT] ENERGY ASPECTS (5:30 PM  6:30 PM)3. [PPT] PAYTM (6:00 PM  7:00 PM)4. [TEST] PAYTM (Profile: Software Engineer) (7:00 PM  9:00 PM)5. [TEST] CAPGEMINI (Profile: Software Engineer) (9:00 PM  12:30 AM)6. [TEST] IDFC FIRST BANK (All Profiles) (13th November) (1:00 AM  2:00 AM)Friday, 13th November 20261. [PPT] ICICI LOMBARD (1:00 PM  2:00 PM)2. [TEST] PHYAGENTS (All Profiles) (6:00 PM  7:30 PM)3. [TEST] GOLDMAN SACHS (Profile: Quantitative Strategist) (7:30 PM  8:30 PM)4. [TEST] NUTANIX (Profile: Member Of Technical Staff) (9:00 PM  10:30 PM)5. [TEST] LANDEED (All Profiles) (14th November) (1:00 AM  3:00 AM)Note: The schedule is tentative and subject to change. Links for the PPTs and other relevant details will be shared separately. Room allocations and other necessary instructions for tests will be communicated prior to the respective assessments.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "11-11-2026 02:13"
+    },
     {
       "id": "1572",
       "type": "PLACEMENT",
