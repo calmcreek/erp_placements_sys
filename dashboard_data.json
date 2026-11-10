@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "10 Nov 2026, 08:32:26 AM",
-  "next_check": "10 Nov 2026, 09:02:26 AM",
-  "notice_count": 1405,
+  "last_check": "10 Nov 2026, 09:02:17 AM",
+  "next_check": "10 Nov 2026, 09:32:17 AM",
+  "notice_count": 1406,
   "placement_count": 147,
   "notices": [
+    {
+      "id": "1554",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "NOVARTIS",
+      "notice": "The Pre-Placement Talk for Novartis, will be held on 10th November 2026 from 1:00 PMLink:https://teams.microsoft.com/meet/3829975505878539?p=VTxavca9wbilZYsjb1Note: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Hardik (+91 8177018092)CDC, IIT Kharagpur.",
+      "notice_by": "23AG36009",
+      "notice_time": "10-11-2026 08:48"
+    },
     {
       "id": "1553",
       "type": "PLACEMENT",
