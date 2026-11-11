@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "11 Nov 2026, 05:02:18 PM",
-  "next_check": "11 Nov 2026, 05:32:18 PM",
-  "notice_count": 1426,
+  "last_check": "11 Nov 2026, 05:32:36 PM",
+  "next_check": "11 Nov 2026, 06:02:36 PM",
+  "notice_count": 1427,
   "placement_count": 149,
   "notices": [
+    {
+      "id": "1588",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "COGNIZANT",
+      "notice": "PFA the test room allocation for the assessment of Cognizant, scheduled from 6:00 PM onwards on 11th November, 2026.Venue: Nalanda Classroom Complex Students are requested to report 15 minutes prior to the scheduled start time.POC: Daksh (+91 98180 71612), Nikhita (+91 87700 35884)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "11-11-2026 17:19"
+    },
     {
       "id": "1587",
       "type": "PLACEMENT",
