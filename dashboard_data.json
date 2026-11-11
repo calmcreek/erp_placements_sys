@@ -1,7 +1,7 @@
 {
   "erp_status": "Connected",
-  "last_check": "11 Nov 2026, 06:32:46 PM",
-  "next_check": "11 Nov 2026, 07:02:46 PM",
+  "last_check": "11 Nov 2026, 07:02:14 PM",
+  "next_check": "11 Nov 2026, 07:32:14 PM",
   "notice_count": 1435,
   "placement_count": 162,
   "notices": [
@@ -13857,7 +13857,7 @@
       "ppt": "",
       "designation": "Associate Product Manager",
       "description": "Apply",
-      "ctc": "2000000",
+      "ctc": "3200000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "",
