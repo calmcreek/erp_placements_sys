@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "11 Nov 2026, 10:32:26 PM",
-  "next_check": "11 Nov 2026, 11:02:26 PM",
-  "notice_count": 1437,
+  "last_check": "11 Nov 2026, 11:02:17 PM",
+  "next_check": "11 Nov 2026, 11:32:17 PM",
+  "notice_count": 1438,
   "placement_count": 162,
   "notices": [
+    {
+      "id": "1599",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Accenture Solutions Private Limited",
+      "notice": "PFA the list of students eligible for the Assessment of Accenture Solutions Private Limited for the I&E- AI and Data role, scheduled from 12:30 AM onwards on 12th November, 2026.Venue: Nalanda Classroom ComplexThe Room Allocation will be released shortly.Students are requested to report 15 minutes prior to the reporting time.POC: Ashutosh (+91 8840104367), Himanshu (+91 9311332376)CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "11-11-2026 22:33"
+    },
     {
       "id": "1598",
       "type": "PLACEMENT",
