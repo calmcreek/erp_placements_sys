@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "11 Nov 2026, 11:02:17 PM",
-  "next_check": "11 Nov 2026, 11:32:17 PM",
-  "notice_count": 1438,
+  "last_check": "11 Nov 2026, 11:32:29 PM",
+  "next_check": "12 Nov 2026, 12:02:29 AM",
+  "notice_count": 1439,
   "placement_count": 162,
   "notices": [
+    {
+      "id": "1600",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Accenture Solutions Private Limited",
+      "notice": "PFA the test room allocation for the Assessment of Accenture Solutions Private Limited for the I&E- AI and Data role, scheduled from 12:30 AM onwards on 12th November, 2026.Important Instructions for the Assessment:- Students must attempt the assessment using a Windows laptop.- Minimum System Requirements:- RAM: 4 GB or higher.- Processor: Intel Core i3, 5th Generation, 2.2 GHz or equivalent/higher.- Operating System: Windows 8/10/11.Safe Exam Browser (SEB):- Uninstall any old version of Safe Exam Browser, then install the new version from this link: https://securetest.hirepro.in/accenture/v2/Mac laptops are not supported. The assessment will not work on Mac devices.Please ensure that your system meets the above requirements before attempting the assessment.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card failing which students will not be permitted to sit for tests.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Ashutosh (+91 8840104367), Himanshu (+91 9311332376)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "11-11-2026 23:10"
+    },
     {
       "id": "1599",
       "type": "PLACEMENT",
