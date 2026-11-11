@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "11 Nov 2026, 11:02:09 AM",
-  "next_check": "11 Nov 2026, 11:32:09 AM",
-  "notice_count": 1422,
+  "last_check": "11 Nov 2026, 11:32:34 AM",
+  "next_check": "11 Nov 2026, 12:02:34 PM",
+  "notice_count": 1423,
   "placement_count": 150,
   "notices": [
+    {
+      "id": "1584",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "Auronova Consulting",
+      "notice": "The Pre-Placement Talk for Auronova Consulting, will be held on 11th November 2026 from 12:00 PMLink: https://teams.microsoft.com/meet/418479879145478?p=TvOgkd8wpsBUKsYFGzNote: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Ritvik (+91 9480360231)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "11-11-2026 11:19"
+    },
     {
       "id": "1583",
       "type": "PLACEMENT",
