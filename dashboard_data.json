@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "11 Nov 2026, 01:02:22 PM",
-  "next_check": "11 Nov 2026, 01:32:22 PM",
-  "notice_count": 1424,
+  "last_check": "11 Nov 2026, 01:32:45 PM",
+  "next_check": "11 Nov 2026, 02:02:45 PM",
+  "notice_count": 1425,
   "placement_count": 151,
   "notices": [
+    {
+      "id": "1586",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "Tolaram Group",
+      "notice": "The Pre-Placement Talk for Tolaram Group, will be held on 11th November 2026 from 5:00 PMLink: https://teams.microsoft.com/meet/43669851512833?p=Kr9glvV6r3nBECRr7ANote: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Bhavy (+91 7597121669)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "11-11-2026 13:16"
+    },
     {
       "id": "1585",
       "type": "PLACEMENT",
