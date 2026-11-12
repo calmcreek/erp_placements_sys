@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "13 Nov 2026, 12:32:36 AM",
-  "next_check": "13 Nov 2026, 01:02:36 AM",
-  "notice_count": 1464,
+  "last_check": "13 Nov 2026, 12:38:31 AM",
+  "next_check": "13 Nov 2026, 01:08:31 AM",
+  "notice_count": 1465,
   "placement_count": 169,
   "notices": [
+    {
+      "id": "1631",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "CAPGEMINI",
+      "notice": "Please note that the Cognitive & Behavioural Assessment round of Capgemini is scheduled from 2:30 AM on 13th November 2026.Venue: Respective LocationNote: The links have already been shared with the shortlisted studentsPOC: Arpita (+91 90755 64147)CDC, IIT Kharagpur",
+      "notice_by": "23EC39030",
+      "notice_time": "13-11-2026 00:29"
+    },
     {
       "id": "1630",
       "type": "PLACEMENT",
