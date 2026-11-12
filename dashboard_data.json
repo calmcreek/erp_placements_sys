@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "13 Nov 2026, 12:02:15 AM",
-  "next_check": "13 Nov 2026, 12:32:15 AM",
-  "notice_count": 1462,
+  "last_check": "13 Nov 2026, 12:32:36 AM",
+  "next_check": "13 Nov 2026, 01:02:36 AM",
+  "notice_count": 1464,
   "placement_count": 169,
   "notices": [
+    {
+      "id": "1630",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "IDFC First Bank",
+      "notice": "PFA the test room allocation for the Assessment of IDFC First Bank for all the roles, scheduled from 1:00 AM onwards on 13th November, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card, failing which students will not be permitted to sit for test.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Bhavy (+91 7597121669), Neev (+91 9001346350)CDC, IIT Kharagpur",
+      "notice_by": "23AR10009",
+      "notice_time": "13-11-2026 00:19"
+    },
+    {
+      "id": "1629",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Royal Tier Maison Co",
+      "notice": "All the students who have applied for the Designer Role in Royal Tier Maison Co are required to fill the following google form to submit their portfolios.All interested students are requested to go through the presentation below: https://drive.google.com/file/d/1XTuzaHTDf0EmTwM4ASA0JtLjGB3gRyEA/view?usp=drive_linkSubmission form Link: https://forms.gle/NzZ74KUqaZr3EWeu8Deadline: 5:00 PM, 15th November, 2026.CDC, IIT Kharagpur.",
+      "notice_by": "23EE38007",
+      "notice_time": "13-11-2026 00:19"
+    },
     {
       "id": "1627",
       "type": "PLACEMENT",
