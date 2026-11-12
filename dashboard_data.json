@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "12 Nov 2026, 05:02:14 AM",
-  "next_check": "12 Nov 2026, 05:32:14 AM",
-  "notice_count": 1441,
+  "last_check": "12 Nov 2026, 05:32:32 AM",
+  "next_check": "12 Nov 2026, 06:02:32 AM",
+  "notice_count": 1442,
   "placement_count": 162,
   "notices": [
+    {
+      "id": "1603",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Moneyview Ltd",
+      "notice": "All the eligible students who have applied for Moneyview Ltd for more than one role are required to kindly fill the preference form given below.Link: https://forms.gle/2AWwomnuFJNnMUAt6Deadline: 12th November 2026, 4:00 PMKindly ensure you have filled the form before the deadline. No further extensions will be provided.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "12-11-2026 05:32"
+    },
     {
       "id": "1602",
       "type": "PLACEMENT",
