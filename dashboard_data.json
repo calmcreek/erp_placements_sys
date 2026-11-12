@@ -1,10 +1,37 @@
 {
   "erp_status": "Connected",
-  "last_check": "12 Nov 2026, 08:32:47 PM",
-  "next_check": "12 Nov 2026, 09:02:47 PM",
-  "notice_count": 1457,
+  "last_check": "12 Nov 2026, 09:02:16 PM",
+  "next_check": "12 Nov 2026, 09:32:16 PM",
+  "notice_count": 1460,
   "placement_count": 169,
   "notices": [
+    {
+      "id": "1625",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "ETERNAL",
+      "notice": "The CV Submission for Eternal for all the roles has been extended till 4:00 PM, 13th November, 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "12-11-2026 21:01"
+    },
+    {
+      "id": "1624",
+      "type": "PLACEMENT",
+      "subject": "Shortlist",
+      "company": "IDFC First Bank",
+      "notice": "PFA the test shortlist for the Assessment of IDFC First Bank for all the roles, scheduled from 1:00 AM onwards on 13th November 2026.The test links have been shared with the shortlisted students on their CDC-registered email IDs. Test instructions have also been shared.Note: Shortlisted candidates who have not received the test link are requested to fill out the following form.Form link: https://forms.gle/UGLr9tihnxFNurRR7Venue: Nalanda Classroom ComplexThe room allocation for the test will be released shortly.Students are requested to report 15 minutes prior to the scheduled start time.POCs: Bhavy (+91 7597121669), Neev (+91 9001346350)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "12-11-2026 20:55"
+    },
+    {
+      "id": "1623",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "CAPGEMINI",
+      "notice": "PFA the shortlist for the Assessment of Capgemini, scheduled from 9:00 PM onwards on 12th November, 2026.Assessment 1 - 9:00 PM to 10:00 PMAssessment 2 - 11:00 PM to 12:10 AMVenue: Respective LocationsPOC: Arpita (+91 90755 64147)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "12-11-2026 20:51"
+    },
     {
       "id": "1621",
       "type": "PLACEMENT",
