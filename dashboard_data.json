@@ -1,7 +1,7 @@
 {
-  "erp_status": "Connected",
+  "erp_status": "Error",
   "last_check": "12 Nov 2026, 04:32:36 PM",
-  "next_check": "12 Nov 2026, 05:02:36 PM",
+  "next_check": null,
   "notice_count": 1454,
   "placement_count": 166,
   "notices": [
@@ -15750,5 +15750,5 @@
       "contract": ""
     }
   ],
-  "last_error": null
+  "last_error": "500 Server Error: 500 for url: https://erp.iitkgp.ac.in/SSOAdministration/getSecurityQues.htm"
 }
