@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "12 Nov 2026, 10:02:12 PM",
-  "next_check": "12 Nov 2026, 10:32:12 PM",
-  "notice_count": 1460,
+  "last_check": "12 Nov 2026, 10:32:38 PM",
+  "next_check": "12 Nov 2026, 11:02:38 PM",
+  "notice_count": 1461,
   "placement_count": 169,
   "notices": [
+    {
+      "id": "1626",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Pocket FM",
+      "notice": "All the students that have applied for the Management Trainee Role in Pocket FM are required to attempt the Following Google Form Task Round.Link: https://forms.gle/zUWXnnUTKYi37Prx6Venue: Respective LocationsDeadline: 5:00 PM, 13th November, 2026.Note: Students are required to complete this assessment to be considered for further process.POC: Bhavy (+91 7597121669)CDC, IIT Kharagpur.",
+      "notice_by": "23EE38007",
+      "notice_time": "12-11-2026 22:29"
+    },
     {
       "id": "1625",
       "type": "PLACEMENT",
