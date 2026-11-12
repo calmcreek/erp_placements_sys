@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "12 Nov 2026, 11:32:29 PM",
-  "next_check": "13 Nov 2026, 12:02:29 AM",
-  "notice_count": 1461,
+  "last_check": "13 Nov 2026, 12:02:15 AM",
+  "next_check": "13 Nov 2026, 12:32:15 AM",
+  "notice_count": 1462,
   "placement_count": 169,
   "notices": [
+    {
+      "id": "1627",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "CAPGEMINI",
+      "notice": "Please note that the Cognitive & Behavioural Assessment round of Capgemini has been postponed until further notice.CDC, IIT Kharagpur",
+      "notice_by": "23EC39030",
+      "notice_time": "12-11-2026 23:57"
+    },
     {
       "id": "1626",
       "type": "PLACEMENT",
