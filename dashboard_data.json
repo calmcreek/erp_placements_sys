@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "12 Nov 2026, 03:02:19 PM",
-  "next_check": "12 Nov 2026, 03:32:19 PM",
-  "notice_count": 1446,
+  "last_check": "12 Nov 2026, 03:32:31 PM",
+  "next_check": "12 Nov 2026, 04:02:31 PM",
+  "notice_count": 1448,
   "placement_count": 165,
   "notices": [
+    {
+      "id": "1610",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Arihant Capital Markets Limited",
+      "notice": "The CV submission of Arihant Capital Markets Limited for all the roles have been extended till 4:00 PM, 13th November, 2026.Its mandatory for all the candidates who are applying for the roles, to fill the following google form attached below: Google Form: https://forms.gle/zxCKFvUtFpJaXdfJ8Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17164",
+      "notice_time": "12-11-2026 15:26"
+    },
+    {
+      "id": "1609",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Moneyview Ltd",
+      "notice": "The CV Submission for MONEYVIEW for all the roles has been extended till 6:00 PM, 12th November, 2026.Its mandatory for all the candidates who are applying for this role, to fill the following google form and apply on the link attached below: 1.  Google Form: https://forms.gle/KpZL2CWr1GxpMdu78Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17164",
+      "notice_time": "12-11-2026 15:22"
+    },
     {
       "id": "1608",
       "type": "PLACEMENT",
@@ -13193,7 +13211,7 @@
       "additional_details_2": "Download",
       "application_status": "",
       "resume_upload_start": "2026-11-11 18:11",
-      "resume_upload_end": "2026-11-12 16:00",
+      "resume_upload_end": "2026-11-13 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -13209,7 +13227,7 @@
       "additional_details_2": "Download",
       "application_status": "",
       "resume_upload_start": "2026-11-11 18:11",
-      "resume_upload_end": "2026-11-12 16:00",
+      "resume_upload_end": "2026-11-13 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -13225,7 +13243,7 @@
       "additional_details_2": "Download",
       "application_status": "",
       "resume_upload_start": "2026-11-11 18:10",
-      "resume_upload_end": "2026-11-12 16:00",
+      "resume_upload_end": "2026-11-13 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -13241,7 +13259,7 @@
       "additional_details_2": "Download",
       "application_status": "Y",
       "resume_upload_start": "2026-11-11 18:11",
-      "resume_upload_end": "2026-11-12 16:00",
+      "resume_upload_end": "2026-11-13 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -13257,7 +13275,7 @@
       "additional_details_2": "Download",
       "application_status": "",
       "resume_upload_start": "2026-11-11 18:10",
-      "resume_upload_end": "2026-11-12 16:00",
+      "resume_upload_end": "2026-11-13 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -13273,7 +13291,7 @@
       "additional_details_2": "Download",
       "application_status": "Y",
       "resume_upload_start": "2026-11-11 18:10",
-      "resume_upload_end": "2026-11-12 16:00",
+      "resume_upload_end": "2026-11-13 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -13289,7 +13307,7 @@
       "additional_details_2": "Download",
       "application_status": "Y",
       "resume_upload_start": "2026-11-11 18:10",
-      "resume_upload_end": "2026-11-12 16:00",
+      "resume_upload_end": "2026-11-13 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -14649,7 +14667,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-09 20:17",
-      "resume_upload_end": "2026-11-11 16:00",
+      "resume_upload_end": "2026-11-12 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -14665,7 +14683,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-09 20:19",
-      "resume_upload_end": "2026-11-11 16:00",
+      "resume_upload_end": "2026-11-12 18:00",
       "interview_selection": "",
       "contract": ""
     },
