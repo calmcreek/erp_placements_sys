@@ -15750,5 +15750,5 @@
       "contract": ""
     }
   ],
-  "last_error": "500 Server Error: 500 for url: https://erp.iitkgp.ac.in/SSOAdministration/getSecurityQues.htm"
+  "last_error": "Could not obtain ERP login session token."
 }
