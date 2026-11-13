@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "13 Nov 2026, 07:32:31 PM",
-  "next_check": "13 Nov 2026, 08:02:31 PM",
-  "notice_count": 1482,
+  "last_check": "13 Nov 2026, 08:02:18 PM",
+  "next_check": "13 Nov 2026, 08:32:18 PM",
+  "notice_count": 1483,
   "placement_count": 175,
   "notices": [
+    {
+      "id": "1649",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "Arihant Capital Markets Limited",
+      "notice": "The CV submission of Arihant Capital Markets Limited for all the roles have been extended till 2:00 PM, 14th November, 2026.Its mandatory for all the candidates who are applying for the roles, to fill the following google form attached below: Google Form: https://forms.gle/zxCKFvUtFpJaXdfJ8Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EC39030",
+      "notice_time": "13-11-2026 19:43"
+    },
     {
       "id": "1648",
       "type": "PLACEMENT",
@@ -13565,7 +13574,7 @@
       "additional_details_2": "Download",
       "application_status": "",
       "resume_upload_start": "2026-11-11 18:11",
-      "resume_upload_end": "2026-11-13 16:00",
+      "resume_upload_end": "2026-11-14 14:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -13581,7 +13590,7 @@
       "additional_details_2": "Download",
       "application_status": "",
       "resume_upload_start": "2026-11-11 18:11",
-      "resume_upload_end": "2026-11-13 16:00",
+      "resume_upload_end": "2026-11-14 14:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -13597,7 +13606,7 @@
       "additional_details_2": "Download",
       "application_status": "Y",
       "resume_upload_start": "2026-11-11 18:10",
-      "resume_upload_end": "2026-11-13 16:00",
+      "resume_upload_end": "2026-11-14 14:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -13613,7 +13622,7 @@
       "additional_details_2": "Download",
       "application_status": "",
       "resume_upload_start": "2026-11-11 18:10",
-      "resume_upload_end": "2026-11-13 16:00",
+      "resume_upload_end": "2026-11-14 14:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -13629,7 +13638,7 @@
       "additional_details_2": "Download",
       "application_status": "",
       "resume_upload_start": "2026-11-11 18:10",
-      "resume_upload_end": "2026-11-13 16:00",
+      "resume_upload_end": "2026-11-14 14:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -13645,7 +13654,7 @@
       "additional_details_2": "Download",
       "application_status": "Y",
       "resume_upload_start": "2026-11-11 18:11",
-      "resume_upload_end": "2026-11-13 16:00",
+      "resume_upload_end": "2026-11-14 14:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -13661,7 +13670,7 @@
       "additional_details_2": "Download",
       "application_status": "Y",
       "resume_upload_start": "2026-11-11 18:10",
-      "resume_upload_end": "2026-11-13 16:00",
+      "resume_upload_end": "2026-11-14 14:00",
       "interview_selection": "",
       "contract": ""
     },
