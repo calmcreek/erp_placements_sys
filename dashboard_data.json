@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "13 Nov 2026, 06:32:30 PM",
-  "next_check": "13 Nov 2026, 07:02:30 PM",
-  "notice_count": 1479,
+  "last_check": "13 Nov 2026, 07:02:34 PM",
+  "next_check": "13 Nov 2026, 07:32:34 PM",
+  "notice_count": 1480,
   "placement_count": 174,
   "notices": [
+    {
+      "id": "1646",
+      "type": "PLACEMENT",
+      "subject": "Shortlist",
+      "company": "MathWorks India Private Limited",
+      "notice": "PFA the test shortlist for the Assessment of Mathworks for the Technical Writer role, scheduled from 11:00 PM onwards on 13th November 2026.The test links have been shared with the shortlisted students on their Institute email IDs.Venue: Nalanda Classroom ComplexThe room allocation for the test will be released shortly.Students are requested to report 15 minutes prior to the scheduled start time.POCs: Nikita Sinha (+91 99692 07598), Anurag (+91 94910 87133)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "13-11-2026 18:44"
+    },
     {
       "id": "1645",
       "type": "PLACEMENT",
