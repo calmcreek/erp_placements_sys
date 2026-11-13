@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "13 Nov 2026, 01:02:17 PM",
-  "next_check": "13 Nov 2026, 01:32:17 PM",
-  "notice_count": 1467,
+  "last_check": "13 Nov 2026, 01:32:47 PM",
+  "next_check": "13 Nov 2026, 02:02:47 PM",
+  "notice_count": 1468,
   "placement_count": 169,
   "notices": [
+    {
+      "id": "1634",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "ACCORDION INDIA",
+      "notice": "The CV Submission for ACCORDION INDIA for all roles has been opened till 4:00 PM, 13th November, 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "13-11-2026 13:00"
+    },
     {
       "id": "1633",
       "type": "PLACEMENT",
