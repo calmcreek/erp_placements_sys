@@ -1,7 +1,7 @@
 {
   "erp_status": "Connected",
-  "last_check": "13 Nov 2026, 12:02:13 PM",
-  "next_check": "13 Nov 2026, 12:32:13 PM",
+  "last_check": "13 Nov 2026, 12:32:30 PM",
+  "next_check": "13 Nov 2026, 01:02:30 PM",
   "notice_count": 1467,
   "placement_count": 169,
   "notices": [
@@ -15782,7 +15782,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-11 16:22",
-      "resume_upload_end": "2026-11-13 09:00",
+      "resume_upload_end": "2026-11-13 14:00",
       "interview_selection": "",
       "contract": ""
     },
