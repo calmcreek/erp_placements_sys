@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "13 Nov 2026, 09:02:26 PM",
-  "next_check": "13 Nov 2026, 09:32:26 PM",
-  "notice_count": 1484,
+  "last_check": "13 Nov 2026, 09:32:41 PM",
+  "next_check": "13 Nov 2026, 10:02:41 PM",
+  "notice_count": 1485,
   "placement_count": 175,
   "notices": [
+    {
+      "id": "1651",
+      "type": "PLACEMENT",
+      "subject": "Shortlist",
+      "company": "Airbus",
+      "notice": "PFA the test shortlist for the Assessment of AIRBUS for all the roles, scheduled for 14th November 2026.The test links have been shared with the shortlisted students on their CDC-registered email IDs.Note: Shortlisted candidates who have not received the test link are requested to fill out the following form.Form link: https://forms.gle/UGLr9tihnxFNurRR7Venue: Nalanda Classroom ComplexThe room allocation for the test will be released shortly.Students are requested to report 15 minutes prior to the scheduled start time.CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "13-11-2026 21:24"
+    },
     {
       "id": "1650",
       "type": "PLACEMENT",
