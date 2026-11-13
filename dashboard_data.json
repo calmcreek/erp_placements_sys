@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "13 Nov 2026, 11:02:14 PM",
-  "next_check": "13 Nov 2026, 11:32:14 PM",
-  "notice_count": 1486,
+  "last_check": "14 Nov 2026, 12:02:20 AM",
+  "next_check": "14 Nov 2026, 12:32:20 AM",
+  "notice_count": 1487,
   "placement_count": 175,
   "notices": [
+    {
+      "id": "1653",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "IvyCap Ventures",
+      "notice": "PFA the test room allocation for the Assessment of Ivycap for the Investment Analyst role, scheduled from 7:30 AM onwards on 14th November 2026.The test links have been shared with the shortlisted students on their CDC-registered email IDs.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card, failing which students will not be permitted to sit for test.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POCs: Bhavy (+91 7597121669), Dishil (+91 9925492574)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "13-11-2026 23:37"
+    },
     {
       "id": "1652",
       "type": "PLACEMENT",
