@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "14 Nov 2026, 03:02:25 AM",
-  "next_check": "14 Nov 2026, 03:32:25 AM",
-  "notice_count": 1490,
+  "last_check": "14 Nov 2026, 03:32:37 AM",
+  "next_check": "14 Nov 2026, 04:02:37 AM",
+  "notice_count": 1492,
   "placement_count": 175,
   "notices": [
+    {
+      "id": "1658",
+      "type": "PLACEMENT",
+      "subject": "General",
+      "company": "Important Instructions for Identity Verification",
+      "notice": "All students appearing for placement assessments are hereby informed that their candidature will be verified exclusively against one of the following:1. Original Physical Institute ID Card2. Original Physical Institute Medical Book3. Live Login to the ERP ProfileCandidates failing to produce at least one of the above-mentioned documents at the time of verification will be marked ABSENT on the attendance sheet and will not be permitted to proceed with the assessment.Note: No alternative identification documents, including Aadhaar Card, PAN Card, EPIC/Voter ID, etc., will be accepted under any circumstances. Photocopies, scanned copies, and screenshots of institute credentials will also not be considered valid for verification.All candidates are strictly advised to ensure that they carry at least one of the specified documents before reporting for their respective assessments.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "14-11-2026 03:27"
+    },
+    {
+      "id": "1657",
+      "type": "PLACEMENT",
+      "subject": "Shortlist",
+      "company": "AVATHON",
+      "notice": "PFA the test shortlist for the Assessment of Avathon for both the roles, scheduled from 9:00 AM onwards on 14th November 2026.The test links will be shared with the shortlisted students on their Institute email IDs.Note: Shortlisted candidates who have not received the test link are requested to fill out the following form.Form link: https://forms.gle/x4aCNmtBKTSk2dz79Venue: Nalanda Classroom ComplexThe room allocation for the test will be released shortly.POCs: Nikhita (+91 877 003 5884), Hardik (+91 81770 18092)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "14-11-2026 03:09"
+    },
     {
       "id": "1656",
       "type": "PLACEMENT",
