@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "14 Nov 2026, 12:15:59 AM",
-  "next_check": "14 Nov 2026, 12:45:59 AM",
-  "notice_count": 1487,
+  "last_check": "14 Nov 2026, 12:20:10 AM",
+  "next_check": "14 Nov 2026, 12:50:10 AM",
+  "notice_count": 1488,
   "placement_count": 175,
   "notices": [
+    {
+      "id": "1654",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Landeed",
+      "notice": "Please note that the Assessment for Landeed for both the roles has been postponed until further notice.CDC, IIT Kharagpur.",
+      "notice_by": "23EE38007",
+      "notice_time": "14-11-2026 00:17"
+    },
     {
       "id": "1653",
       "type": "PLACEMENT",
@@ -14170,7 +14179,7 @@
       "additional_details_2": "Download",
       "application_status": "",
       "resume_upload_start": "2026-11-12 10:11",
-      "resume_upload_end": "2026-11-13 16:00",
+      "resume_upload_end": "2026-11-14 16:00",
       "interview_selection": "",
       "contract": ""
     },
