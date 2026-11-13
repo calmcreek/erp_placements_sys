@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "13 Nov 2026, 09:32:23 AM",
-  "next_check": "13 Nov 2026, 10:02:23 AM",
-  "notice_count": 1465,
+  "last_check": "13 Nov 2026, 10:02:37 AM",
+  "next_check": "13 Nov 2026, 10:32:37 AM",
+  "notice_count": 1466,
   "placement_count": 169,
   "notices": [
+    {
+      "id": "1632",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "FirstClub",
+      "notice": "The CV Submission for FIRSTCLUB for the Product Management role has been extended till 02:00 PM, 13th November, 2026.Interested and eligible students are advised to apply within the given deadline.No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17164",
+      "notice_time": "13-11-2026 09:44"
+    },
     {
       "id": "1631",
       "type": "PLACEMENT",
@@ -14052,7 +14061,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-09 16:26",
-      "resume_upload_end": "2026-11-11 16:00",
+      "resume_upload_end": "2026-11-13 14:00",
       "interview_selection": "",
       "contract": ""
     },
