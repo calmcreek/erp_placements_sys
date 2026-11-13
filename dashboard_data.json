@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "13 Nov 2026, 08:02:18 PM",
-  "next_check": "13 Nov 2026, 08:32:18 PM",
-  "notice_count": 1483,
+  "last_check": "13 Nov 2026, 08:33:21 PM",
+  "next_check": "13 Nov 2026, 09:03:21 PM",
+  "notice_count": 1484,
   "placement_count": 175,
   "notices": [
+    {
+      "id": "1650",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "NUTANIX",
+      "notice": "PFA the test room allocation for the Assessment of Nutanix for both roles, scheduled from 8:45 PM onwards on 13th November, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card, failing which students will not be permitted to sit for test.The Test link will be shared on the CDC Registered Email ID of the students.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Rudra (+91 8235755257), Daksh (+91 9818071612)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "13-11-2026 20:33"
+    },
     {
       "id": "1649",
       "type": "PLACEMENT",
