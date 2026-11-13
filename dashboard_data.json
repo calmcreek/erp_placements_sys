@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "14 Nov 2026, 12:20:10 AM",
-  "next_check": "14 Nov 2026, 12:50:10 AM",
-  "notice_count": 1488,
+  "last_check": "14 Nov 2026, 12:32:38 AM",
+  "next_check": "14 Nov 2026, 01:02:38 AM",
+  "notice_count": 1490,
   "placement_count": 175,
   "notices": [
+    {
+      "id": "1656",
+      "type": "PLACEMENT",
+      "subject": "Schedule",
+      "company": "CDC Placement Schedule for 14th November 2026",
+      "notice": "All students eligible for placement are advised to take note of the placement schedule for Saturday, 14th November 2026.1. [TEST] IVYCAP (Profile: Investment Analyst) (7:30 AM  9:00 AM)2. [TEST] AVATHON (All Profiles) (9:00 AM  10:30 AM)3. [TEST] MONEYVIEW (All Profiles) (11:00 AM  12:00 PM)4. [TEST] GE AEROSPACE (Profile: Edison Engineering Development Program) (12:30 PM  1:30 PM)5. [TEST] AURONOVA CONSULTING (Profile: Analyst) (2:00 PM  3:00 PM)6. [TEST] EXXONMOBIL (All Profiles) (3:30 PM  5:00 PM)7. [TEST] AIRBUS (All Profiles) (5:15 PM  7:15 PM)8. [TEST] MEDIA.NET (Profile: Senior Product Analyst) (7:30 PM  9:00 PM)9. [TEST] TOLARAM (Profile: Management Trainee) (9:30 PM  10:30 PM)10. [TEST] MATHWORKS (Profile: Engineering Development Group) (11:00 PM  12:30 AM)Note: Links for the tests and other relevant details will be shared separately. Room allocations and other necessary instructions for the assessments will be communicated prior to the respective tests.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "14-11-2026 00:30"
+    },
+    {
+      "id": "1655",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Pocket FM",
+      "notice": "All the students who have not yet submitted their task for Pocket FM for the Management Trainee Role are requested to submit their task through the following google form.Link: https://forms.gle/EtPm5mRHGWyVbJho6Deadline: 11:00 AM, 14th November, 2026.CDC, IIT Kharagpur.",
+      "notice_by": "23EE38007",
+      "notice_time": "14-11-2026 00:24"
+    },
     {
       "id": "1654",
       "type": "PLACEMENT",
