@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "14 Nov 2026, 11:04:53 PM",
-  "next_check": "14 Nov 2026, 11:34:53 PM",
-  "notice_count": 1509,
+  "last_check": "14 Nov 2026, 11:32:26 PM",
+  "next_check": "15 Nov 2026, 12:02:26 AM",
+  "notice_count": 1510,
   "placement_count": 184,
   "notices": [
+    {
+      "id": "1677",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "FirstClub",
+      "notice": "All students who have applied for the Product Management role at FirstClub must fill out the Google Form linked below.Google Form: https://forms.gle/MtjLwmEL5Z7eKmYN9Deadline: 10:00 AM, 15th November 2026.Note: It is mandatory for all the applicants to fill the form within the given deadline, else you won't be considered for the further process.All the eligible students are advised to fill the form within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EC39030",
+      "notice_time": "14-11-2026 23:29"
+    },
     {
       "id": "1676",
       "type": "PLACEMENT",
