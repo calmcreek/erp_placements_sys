@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "14 Nov 2026, 11:32:26 PM",
-  "next_check": "15 Nov 2026, 12:02:26 AM",
-  "notice_count": 1510,
+  "last_check": "15 Nov 2026, 12:02:11 AM",
+  "next_check": "15 Nov 2026, 12:32:11 AM",
+  "notice_count": 1511,
   "placement_count": 184,
   "notices": [
+    {
+      "id": "1678",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Landeed",
+      "notice": "PFA the test shortlist for the Assessment of Landeed for both the roles, scheduled from 1:00 AM onwards on 15th November, 2026.Venue: Nalanda Classroom ComplexThe Room Allocation will be released shortly.Students are requested to report 15 minutes prior to the reporting time.POC: Arpita (+91 9075564147), Zalavadiya Dishil (+91 9925492574)CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "14-11-2026 23:42"
+    },
     {
       "id": "1677",
       "type": "PLACEMENT",
