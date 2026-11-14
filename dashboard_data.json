@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "15 Nov 2026, 01:02:31 AM",
-  "next_check": "15 Nov 2026, 01:32:31 AM",
-  "notice_count": 1514,
+  "last_check": "15 Nov 2026, 01:32:22 AM",
+  "next_check": "15 Nov 2026, 02:02:22 AM",
+  "notice_count": 1515,
   "placement_count": 184,
   "notices": [
+    {
+      "id": "1684",
+      "type": "PLACEMENT",
+      "subject": "Schedule",
+      "company": "CDC Placement Schedule for 15th November 2026",
+      "notice": "All students eligible for placement are advised to take note of the tentative placement schedule for Sunday, 15th November 2026.1. [TEST] COMMONWEALTH BANK OF AUSTRALIA TEST 2 (9:00 AM  10:00 AM)2. [TEST] PURPLLE (11:00 AM  12:30 PM)3. [TEST] TEKION (1:00 PM  2:30 PM)4. [TEST] CATERPILLAR (1:00 PM  4:00 PM)5. [TEST] WEX (3:00 PM  4:00 PM)Note: The schedule is tentative and subject to changes. Other relevant details and instructions regarding the assessments will be shared separately.CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "15-11-2026 01:20"
+    },
     {
       "id": "1683",
       "type": "PLACEMENT",
