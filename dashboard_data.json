@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "14 Nov 2026, 03:02:15 PM",
-  "next_check": "14 Nov 2026, 03:32:15 PM",
-  "notice_count": 1497,
+  "last_check": "14 Nov 2026, 03:32:28 PM",
+  "next_check": "14 Nov 2026, 04:02:28 PM",
+  "notice_count": 1498,
   "placement_count": 174,
   "notices": [
+    {
+      "id": "1665",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Exxonmobil",
+      "notice": "PFA the test room allocation for the Assessment of ExxonMobil for all the roles, scheduled from 3:50 PM onwards on 14th November 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card, failing which students will not be permitted to sit for test.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POCs: Aditya Ghandge (+91 9325468252), Ashutosh Singh (+91 8840104367)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "14-11-2026 15:28"
+    },
     {
       "id": "1664",
       "type": "PLACEMENT",
