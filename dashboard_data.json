@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "14 Nov 2026, 07:32:37 AM",
-  "next_check": "14 Nov 2026, 08:02:37 AM",
-  "notice_count": 1492,
+  "last_check": "14 Nov 2026, 08:02:20 AM",
+  "next_check": "14 Nov 2026, 08:32:20 AM",
+  "notice_count": 1493,
   "placement_count": 175,
   "notices": [
+    {
+      "id": "1659",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "AVATHON",
+      "notice": "PFA the test room allocation for the Assessment of Avathon for both the roles, scheduled from 9:00 AM onwards on 14th November 2026.The test links have been shared with the shortlisted students on their Institute email IDs.Note: Shortlisted candidates who have not received the test link are requested to fill out the following form.Form link: https://forms.gle/x4aCNmtBKTSk2dz79Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card, failing which students will not be permitted to sit for test.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POCs: Nikhita (+91 877 003 5884), Hardik (+91 81770 18092)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "14-11-2026 03:47"
+    },
     {
       "id": "1658",
       "type": "PLACEMENT",
