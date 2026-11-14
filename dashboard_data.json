@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "14 Nov 2026, 01:02:42 PM",
-  "next_check": "14 Nov 2026, 01:32:42 PM",
-  "notice_count": 1495,
+  "last_check": "14 Nov 2026, 01:32:28 PM",
+  "next_check": "14 Nov 2026, 02:02:28 PM",
+  "notice_count": 1497,
   "placement_count": 175,
   "notices": [
+    {
+      "id": "1664",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "D. E. Shaw India",
+      "notice": "CV Submission for D. E. SHAW INDIA for the Technology Developer role has been extended till 4:00 PM, 15th November, 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EC39030",
+      "notice_time": "14-11-2026 13:27"
+    },
+    {
+      "id": "1663",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Auronova Consulting",
+      "notice": "PFA the test room allocation for the Assessment of Auronova Consulting for the Analyst role, scheduled from 1:45 PM onwards on 14th November 2026.Venue: Nalanda Classroom ComplexNote: All shortlisted candidates are strictly instructed to report to their allocated rooms by 1:45 PM sharp, as the test schedule is fixed.Students are required to carry their original Institute ID card, failing which students will not be permitted to sit for test.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POCs: Aditya Ghandge (+91 9325468252), Ritvik Puvvada (+91 9480360231)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "14-11-2026 13:21"
+    },
     {
       "id": "1661",
       "type": "PLACEMENT",
