@@ -1,18 +1,18 @@
 {
   "erp_status": "Connected",
-  "last_check": "15 Nov 2026, 12:32:25 AM",
-  "next_check": "15 Nov 2026, 01:02:25 AM",
+  "last_check": "15 Nov 2026, 01:02:31 AM",
+  "next_check": "15 Nov 2026, 01:32:31 AM",
   "notice_count": 1514,
   "placement_count": 184,
   "notices": [
     {
-      "id": "1682",
+      "id": "1683",
       "type": "PLACEMENT",
       "subject": "Urgent",
       "company": "Landeed",
-      "notice": "PFA the test room allocation for the Assessment of Landeed for both the roles, scheduled from 1:00 AM onwards on 15th November, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card, failing which students will not be permitted to sit for test. The Test link will be shared on the CDC Registered Email ID of the students.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Arpita (+91 9075564147), Zalavadiya Dishil (+91 9925492574)CDC, IIT Kharagpur",
+      "notice": "PFA the test room allocation for the Assessment of Landeed for both the roles, scheduled from 12:45 AM onwards on 15th November, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card, failing which students will not be permitted to sit for test.The Test link will be shared on the CDC Registered Email ID of the students.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Arpita (+91 9075564147), Zalavadiya Dishil (+91 9925492574)CDC, IIT Kharagpur",
       "notice_by": "23EE38007",
-      "notice_time": "15-11-2026 00:31"
+      "notice_time": "15-11-2026 00:39"
     },
     {
       "id": "1681",
