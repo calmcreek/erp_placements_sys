@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "14 Nov 2026, 03:32:28 PM",
-  "next_check": "14 Nov 2026, 04:02:28 PM",
-  "notice_count": 1498,
+  "last_check": "14 Nov 2026, 04:02:18 PM",
+  "next_check": "14 Nov 2026, 04:32:18 PM",
+  "notice_count": 1499,
   "placement_count": 174,
   "notices": [
+    {
+      "id": "1666",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "WEX",
+      "notice": "All the students who have applied for the WEX FINTECH for the Software Engineer role need to register on the Hirepro Portal.Students are required to complete their registration on the portal by 15th November 2026, 11:00 AM. The link has already been shared over the CDC Registered Email ID with the students.Please note that registrations not completed within the deadline will not be considered for further process.CDC, IIT Kharagpur",
+      "notice_by": "23EC39030",
+      "notice_time": "14-11-2026 16:01"
+    },
     {
       "id": "1665",
       "type": "PLACEMENT",
