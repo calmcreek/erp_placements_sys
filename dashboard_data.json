@@ -1,9 +1,9 @@
 {
   "erp_status": "Connected",
-  "last_check": "14 Nov 2026, 04:32:31 PM",
-  "next_check": "14 Nov 2026, 05:02:31 PM",
+  "last_check": "14 Nov 2026, 05:02:11 PM",
+  "next_check": "14 Nov 2026, 05:32:11 PM",
   "notice_count": 1501,
-  "placement_count": 174,
+  "placement_count": 173,
   "notices": [
     {
       "id": "1668",
@@ -13569,22 +13569,6 @@
       "company": "Accordion India",
       "additional_details": "",
       "ppt": "",
-      "designation": "AI_ML Engineer 2",
-      "description": "Apply",
-      "ctc": "1350000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "Y",
-      "resume_upload_start": "2026-11-12 17:09",
-      "resume_upload_end": "2026-11-14 16:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "4",
-      "company": "Accordion India",
-      "additional_details": "",
-      "ppt": "",
       "designation": "Data & AI Engineer 2",
       "description": "Apply",
       "ctc": "1350000",
@@ -13597,11 +13581,27 @@
       "contract": ""
     },
     {
-      "id": "5",
+      "id": "4",
       "company": "Accordion India",
       "additional_details": "",
       "ppt": "",
       "designation": "Data & AI Analyst 2",
+      "description": "Apply",
+      "ctc": "1350000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "Y",
+      "resume_upload_start": "2026-11-12 17:09",
+      "resume_upload_end": "2026-11-14 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "5",
+      "company": "Accordion India",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "AI_ML Engineer 2",
       "description": "Apply",
       "ctc": "1350000",
       "currency": "INR",
@@ -13697,22 +13697,6 @@
       "company": "American Express",
       "additional_details": "",
       "ppt": "",
-      "designation": "Management Trainee - Data Science & Analytics",
-      "description": "Apply",
-      "ctc": "2713880",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-10-21 15:30",
-      "resume_upload_end": "2026-10-28 16:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "12",
-      "company": "American Express",
-      "additional_details": "",
-      "ppt": "",
       "designation": "Management Trainee - AI Research",
       "description": "Apply",
       "ctc": "3360200",
@@ -13725,16 +13709,32 @@
       "contract": ""
     },
     {
+      "id": "12",
+      "company": "American Express",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Management Trainee - Data Science & Analytics",
+      "description": "Apply",
+      "ctc": "2713880",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-21 15:30",
+      "resume_upload_end": "2026-10-28 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
       "id": "13",
       "company": "Arihant Capital Markets Limited",
       "additional_details": "",
       "ppt": "",
-      "designation": "Trading & WealthTech",
+      "designation": "Data Scientist / ML Engineer",
       "description": "Apply",
       "ctc": "2000000",
       "currency": "INR",
       "additional_details_2": "Download",
-      "application_status": "",
+      "application_status": "Y",
       "resume_upload_start": "2026-11-11 18:11",
       "resume_upload_end": "2026-11-14 14:00",
       "interview_selection": "",
@@ -13742,54 +13742,6 @@
     },
     {
       "id": "14",
-      "company": "Arihant Capital Markets Limited",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "PRODUCT MANAGER",
-      "description": "Apply",
-      "ctc": "2000000",
-      "currency": "INR",
-      "additional_details_2": "Download",
-      "application_status": "",
-      "resume_upload_start": "2026-11-11 18:11",
-      "resume_upload_end": "2026-11-14 14:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "15",
-      "company": "Arihant Capital Markets Limited",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "AI/ML Engineer",
-      "description": "Apply",
-      "ctc": "2000000",
-      "currency": "INR",
-      "additional_details_2": "Download",
-      "application_status": "Y",
-      "resume_upload_start": "2026-11-11 18:10",
-      "resume_upload_end": "2026-11-14 14:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "16",
-      "company": "Arihant Capital Markets Limited",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Quantitative Research / Algorithmic Trading",
-      "description": "Apply",
-      "ctc": "2000000",
-      "currency": "INR",
-      "additional_details_2": "Download",
-      "application_status": "",
-      "resume_upload_start": "2026-11-11 18:10",
-      "resume_upload_end": "2026-11-14 14:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "17",
       "company": "Arihant Capital Markets Limited",
       "additional_details": "",
       "ppt": "",
@@ -13805,17 +13757,65 @@
       "contract": ""
     },
     {
+      "id": "15",
+      "company": "Arihant Capital Markets Limited",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "PRODUCT MANAGER",
+      "description": "Apply",
+      "ctc": "2000000",
+      "currency": "INR",
+      "additional_details_2": "Download",
+      "application_status": "",
+      "resume_upload_start": "2026-11-11 18:11",
+      "resume_upload_end": "2026-11-14 14:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "16",
+      "company": "Arihant Capital Markets Limited",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Trading & WealthTech",
+      "description": "Apply",
+      "ctc": "2000000",
+      "currency": "INR",
+      "additional_details_2": "Download",
+      "application_status": "",
+      "resume_upload_start": "2026-11-11 18:11",
+      "resume_upload_end": "2026-11-14 14:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "17",
+      "company": "Arihant Capital Markets Limited",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Quantitative Research / Algorithmic Trading",
+      "description": "Apply",
+      "ctc": "2000000",
+      "currency": "INR",
+      "additional_details_2": "Download",
+      "application_status": "",
+      "resume_upload_start": "2026-11-11 18:10",
+      "resume_upload_end": "2026-11-14 14:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
       "id": "18",
       "company": "Arihant Capital Markets Limited",
       "additional_details": "",
       "ppt": "",
-      "designation": "Data Scientist / ML Engineer",
+      "designation": "AI/ML Engineer",
       "description": "Apply",
       "ctc": "2000000",
       "currency": "INR",
       "additional_details_2": "Download",
       "application_status": "Y",
-      "resume_upload_start": "2026-11-11 18:11",
+      "resume_upload_start": "2026-11-11 18:10",
       "resume_upload_end": "2026-11-14 14:00",
       "interview_selection": "",
       "contract": ""
@@ -13889,13 +13889,13 @@
       "company": "BlackRock",
       "additional_details": "",
       "ppt": "",
-      "designation": "Data Scientist - Quantitative Finance (Analytics Stewardship) Analyst",
+      "designation": "Aladdin Data Engineering Analyst",
       "description": "Apply",
-      "ctc": "2800000",
+      "ctc": "2200000",
       "currency": "INR",
-      "additional_details_2": "",
+      "additional_details_2": "Download",
       "application_status": "",
-      "resume_upload_start": "2026-11-04 22:32",
+      "resume_upload_start": "2026-11-02 20:07",
       "resume_upload_end": "2026-11-06 09:00",
       "interview_selection": "",
       "contract": ""
@@ -13905,13 +13905,13 @@
       "company": "BlackRock",
       "additional_details": "",
       "ppt": "",
-      "designation": "Aladdin Data Engineering Analyst",
+      "designation": "Data Scientist - Quantitative Finance (Analytics Stewardship) Analyst",
       "description": "Apply",
-      "ctc": "2200000",
+      "ctc": "2800000",
       "currency": "INR",
-      "additional_details_2": "Download",
+      "additional_details_2": "",
       "application_status": "",
-      "resume_upload_start": "2026-11-02 20:07",
+      "resume_upload_start": "2026-11-04 22:32",
       "resume_upload_end": "2026-11-06 09:00",
       "interview_selection": "",
       "contract": ""
@@ -13985,13 +13985,13 @@
       "company": "Cars24",
       "additional_details": "",
       "ppt": "",
-      "designation": "Generative AI",
+      "designation": "AI/ML",
       "description": "Apply",
       "ctc": "2500000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "Y",
-      "resume_upload_start": "2026-10-29 16:57",
+      "resume_upload_start": "2026-10-29 16:53",
       "resume_upload_end": "2026-11-03 16:00",
       "interview_selection": "",
       "contract": ""
@@ -14001,13 +14001,13 @@
       "company": "Cars24",
       "additional_details": "",
       "ppt": "",
-      "designation": "AI/ML",
+      "designation": "Generative AI",
       "description": "Apply",
       "ctc": "2500000",
       "currency": "INR",
       "additional_details_2": "",
       "application_status": "Y",
-      "resume_upload_start": "2026-10-29 16:53",
+      "resume_upload_start": "2026-10-29 16:57",
       "resume_upload_end": "2026-11-03 16:00",
       "interview_selection": "",
       "contract": ""
@@ -14049,22 +14049,6 @@
       "company": "Cognizant Technology Solutions",
       "additional_details": "",
       "ppt": "",
-      "designation": "Ace Frontier Engineer Associate",
-      "description": "Apply",
-      "ctc": "1200000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-11-05 12:07",
-      "resume_upload_end": "2026-11-09 15:59",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "34",
-      "company": "Cognizant Technology Solutions",
-      "additional_details": "",
-      "ppt": "",
       "designation": "Ace Frontier Engineer Senior Associate",
       "description": "Apply",
       "ctc": "1800000",
@@ -14077,7 +14061,39 @@
       "contract": ""
     },
     {
+      "id": "34",
+      "company": "Cognizant Technology Solutions",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Ace Frontier Engineer Associate",
+      "description": "Apply",
+      "ctc": "1200000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-11-05 12:07",
+      "resume_upload_end": "2026-11-09 15:59",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
       "id": "35",
+      "company": "Collins Aerospace",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "PGET - Advanced Methods",
+      "description": "Apply",
+      "ctc": "1300000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "",
+      "resume_upload_start": "2026-10-28 16:29",
+      "resume_upload_end": "2026-11-01 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "36",
       "company": "Collins Aerospace",
       "additional_details": "",
       "ppt": "",
@@ -14093,7 +14109,7 @@
       "contract": ""
     },
     {
-      "id": "36",
+      "id": "37",
       "company": "Collins Aerospace",
       "additional_details": "",
       "ppt": "",
@@ -14109,7 +14125,7 @@
       "contract": ""
     },
     {
-      "id": "37",
+      "id": "38",
       "company": "Collins Aerospace",
       "additional_details": "",
       "ppt": "",
@@ -14125,7 +14141,7 @@
       "contract": ""
     },
     {
-      "id": "38",
+      "id": "39",
       "company": "Collins Aerospace",
       "additional_details": "",
       "ppt": "",
@@ -14141,7 +14157,7 @@
       "contract": ""
     },
     {
-      "id": "39",
+      "id": "40",
       "company": "Collins Aerospace",
       "additional_details": "",
       "ppt": "",
@@ -14157,7 +14173,7 @@
       "contract": ""
     },
     {
-      "id": "40",
+      "id": "41",
       "company": "Collins Aerospace",
       "additional_details": "",
       "ppt": "",
@@ -14168,22 +14184,6 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-10-28 16:26",
-      "resume_upload_end": "2026-11-01 16:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "41",
-      "company": "Collins Aerospace",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "PGET - Advanced Methods",
-      "description": "Apply",
-      "ctc": "1300000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-10-28 16:29",
       "resume_upload_end": "2026-11-01 16:00",
       "interview_selection": "",
       "contract": ""
@@ -14222,22 +14222,6 @@
     },
     {
       "id": "44",
-      "company": "D. E. Shaw India",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Technology Developer",
-      "description": "Apply",
-      "ctc": "7241000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "",
-      "resume_upload_start": "2026-11-13 15:37",
-      "resume_upload_end": "2026-11-15 16:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "45",
       "company": "Edelweiss Global Markets",
       "additional_details": "",
       "ppt": "",
@@ -14253,7 +14237,7 @@
       "contract": ""
     },
     {
-      "id": "46",
+      "id": "45",
       "company": "Energy Aspects",
       "additional_details": "Download",
       "ppt": "",
@@ -14269,7 +14253,7 @@
       "contract": ""
     },
     {
-      "id": "47",
+      "id": "46",
       "company": "Eternal",
       "additional_details": "",
       "ppt": "",
@@ -14285,7 +14269,7 @@
       "contract": ""
     },
     {
-      "id": "48",
+      "id": "47",
       "company": "Eternal",
       "additional_details": "",
       "ppt": "",
@@ -14301,7 +14285,7 @@
       "contract": ""
     },
     {
-      "id": "49",
+      "id": "48",
       "company": "Eternal",
       "additional_details": "",
       "ppt": "",
@@ -14317,7 +14301,7 @@
       "contract": ""
     },
     {
-      "id": "50",
+      "id": "49",
       "company": "EXL Service",
       "additional_details": "",
       "ppt": "",
@@ -14333,7 +14317,7 @@
       "contract": ""
     },
     {
-      "id": "51",
+      "id": "50",
       "company": "EY Parthenon",
       "additional_details": "",
       "ppt": "",
@@ -14349,39 +14333,7 @@
       "contract": ""
     },
     {
-      "id": "52",
-      "company": "Finarb",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Data Engineer",
-      "description": "Apply",
-      "ctc": "2400000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "Y",
-      "resume_upload_start": "2026-11-10 18:21",
-      "resume_upload_end": "2026-11-12 16:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "53",
-      "company": "Finarb",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Full Stack Developer",
-      "description": "Apply",
-      "ctc": "2400000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "Y",
-      "resume_upload_start": "2026-11-10 18:20",
-      "resume_upload_end": "2026-11-12 16:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "54",
+      "id": "51",
       "company": "Finarb",
       "additional_details": "",
       "ppt": "",
@@ -14397,7 +14349,39 @@
       "contract": ""
     },
     {
-      "id": "55",
+      "id": "52",
+      "company": "Finarb",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Full Stack Developer",
+      "description": "Apply",
+      "ctc": "2400000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "Y",
+      "resume_upload_start": "2026-11-10 18:20",
+      "resume_upload_end": "2026-11-12 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "53",
+      "company": "Finarb",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Data Engineer",
+      "description": "Apply",
+      "ctc": "2400000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "Y",
+      "resume_upload_start": "2026-11-10 18:21",
+      "resume_upload_end": "2026-11-12 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "54",
       "company": "FirstClub",
       "additional_details": "",
       "ppt": "",
@@ -14413,7 +14397,7 @@
       "contract": ""
     },
     {
-      "id": "56",
+      "id": "55",
       "company": "FischerJordan",
       "additional_details": "",
       "ppt": "",
@@ -14424,6 +14408,22 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-09 16:24",
+      "resume_upload_end": "2026-11-11 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "56",
+      "company": "FischerJordan",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Software Engineer (SWE)- Frontend Web Developer",
+      "description": "Apply",
+      "ctc": "3280000",
+      "currency": "INR",
+      "additional_details_2": "",
+      "application_status": "Y",
+      "resume_upload_start": "2026-11-09 16:25",
       "resume_upload_end": "2026-11-11 16:00",
       "interview_selection": "",
       "contract": ""
@@ -14446,22 +14446,6 @@
     },
     {
       "id": "58",
-      "company": "FischerJordan",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Software Engineer (SWE)- Frontend Web Developer",
-      "description": "Apply",
-      "ctc": "3280000",
-      "currency": "INR",
-      "additional_details_2": "",
-      "application_status": "Y",
-      "resume_upload_start": "2026-11-09 16:25",
-      "resume_upload_end": "2026-11-11 16:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "59",
       "company": "Flipkart",
       "additional_details": "",
       "ppt": "",
@@ -14477,7 +14461,7 @@
       "contract": ""
     },
     {
-      "id": "60",
+      "id": "59",
       "company": "Fujitsu Research India Private Limited",
       "additional_details": "",
       "ppt": "",
@@ -14489,6 +14473,22 @@
       "application_status": "Y",
       "resume_upload_start": "2026-10-30 18:15",
       "resume_upload_end": "2026-11-03 16:00",
+      "interview_selection": "",
+      "contract": ""
+    },
+    {
+      "id": "60",
+      "company": "Glean Search Technologies India Private Limited",
+      "additional_details": "",
+      "ppt": "",
+      "designation": "Software Engineer - US",
+      "description": "Apply",
+      "ctc": "189250",
+      "currency": "USD",
+      "additional_details_2": "",
+      "application_status": "Y",
+      "resume_upload_start": "2026-10-27 17:21",
+      "resume_upload_end": "2026-10-29 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -14510,22 +14510,6 @@
     },
     {
       "id": "62",
-      "company": "Glean Search Technologies India Private Limited",
-      "additional_details": "",
-      "ppt": "",
-      "designation": "Software Engineer - US",
-      "description": "Apply",
-      "ctc": "189250",
-      "currency": "USD",
-      "additional_details_2": "",
-      "application_status": "Y",
-      "resume_upload_start": "2026-10-27 17:21",
-      "resume_upload_end": "2026-10-29 16:00",
-      "interview_selection": "",
-      "contract": ""
-    },
-    {
-      "id": "63",
       "company": "Goldman Sachs",
       "additional_details": "",
       "ppt": "",
@@ -14541,7 +14525,7 @@
       "contract": ""
     },
     {
-      "id": "64",
+      "id": "63",
       "company": "Graviton Research Capital LLP",
       "additional_details": "",
       "ppt": "",
@@ -14557,7 +14541,7 @@
       "contract": ""
     },
     {
-      "id": "65",
+      "id": "64",
       "company": "Graviton Research Capital LLP",
       "additional_details": "",
       "ppt": "",
@@ -14573,7 +14557,7 @@
       "contract": ""
     },
     {
-      "id": "66",
+      "id": "65",
       "company": "Groww",
       "additional_details": "",
       "ppt": "",
@@ -14589,7 +14573,7 @@
       "contract": ""
     },
     {
-      "id": "67",
+      "id": "66",
       "company": "Hakimo AI",
       "additional_details": "Download",
       "ppt": "",
@@ -14605,7 +14589,7 @@
       "contract": ""
     },
     {
-      "id": "68",
+      "id": "67",
       "company": "Hakimo AI",
       "additional_details": "Download",
       "ppt": "",
@@ -14621,7 +14605,7 @@
       "contract": ""
     },
     {
-      "id": "69",
+      "id": "68",
       "company": "Hakimo AI",
       "additional_details": "Download",
       "ppt": "",
@@ -14637,7 +14621,7 @@
       "contract": ""
     },
     {
-      "id": "70",
+      "id": "69",
       "company": "Hakimo AI",
       "additional_details": "Download",
       "ppt": "",
@@ -14653,7 +14637,7 @@
       "contract": ""
     },
     {
-      "id": "71",
+      "id": "70",
       "company": "Hakimo AI",
       "additional_details": "Download",
       "ppt": "",
@@ -14669,7 +14653,7 @@
       "contract": ""
     },
     {
-      "id": "72",
+      "id": "71",
       "company": "Harness",
       "additional_details": "",
       "ppt": "",
@@ -14685,7 +14669,7 @@
       "contract": ""
     },
     {
-      "id": "73",
+      "id": "72",
       "company": "HILABS",
       "additional_details": "",
       "ppt": "",
@@ -14701,7 +14685,7 @@
       "contract": ""
     },
     {
-      "id": "74",
+      "id": "73",
       "company": "HILABS",
       "additional_details": "",
       "ppt": "",
@@ -14717,7 +14701,7 @@
       "contract": ""
     },
     {
-      "id": "75",
+      "id": "74",
       "company": "Houlihan Lokey Advisory (India) Private Limited",
       "additional_details": "",
       "ppt": "",
@@ -14733,7 +14717,7 @@
       "contract": ""
     },
     {
-      "id": "76",
+      "id": "75",
       "company": "HP Inc",
       "additional_details": "",
       "ppt": "",
@@ -14749,7 +14733,7 @@
       "contract": ""
     },
     {
-      "id": "77",
+      "id": "76",
       "company": "IBM",
       "additional_details": "",
       "ppt": "",
@@ -14765,7 +14749,7 @@
       "contract": ""
     },
     {
-      "id": "78",
+      "id": "77",
       "company": "IBM",
       "additional_details": "",
       "ppt": "",
@@ -14781,7 +14765,7 @@
       "contract": ""
     },
     {
-      "id": "79",
+      "id": "78",
       "company": "IDFC FIRST Bank",
       "additional_details": "",
       "ppt": "",
@@ -14797,7 +14781,7 @@
       "contract": ""
     },
     {
-      "id": "80",
+      "id": "79",
       "company": "IDFC FIRST Bank",
       "additional_details": "",
       "ppt": "",
@@ -14813,7 +14797,7 @@
       "contract": ""
     },
     {
-      "id": "81",
+      "id": "80",
       "company": "IDFC FIRST Bank",
       "additional_details": "",
       "ppt": "",
@@ -14829,7 +14813,7 @@
       "contract": ""
     },
     {
-      "id": "82",
+      "id": "81",
       "company": "Indus Insights",
       "additional_details": "Download",
       "ppt": "",
@@ -14845,7 +14829,7 @@
       "contract": ""
     },
     {
-      "id": "83",
+      "id": "82",
       "company": "INFO EDGE INDIA LIMITED",
       "additional_details": "",
       "ppt": "",
@@ -14861,7 +14845,7 @@
       "contract": ""
     },
     {
-      "id": "84",
+      "id": "83",
       "company": "InMobi Privated Limited and Glance Private Limited",
       "additional_details": "",
       "ppt": "",
@@ -14877,7 +14861,7 @@
       "contract": ""
     },
     {
-      "id": "85",
+      "id": "84",
       "company": "Insurity Solutions India Private Limited",
       "additional_details": "",
       "ppt": "",
@@ -14893,7 +14877,7 @@
       "contract": ""
     },
     {
-      "id": "86",
+      "id": "85",
       "company": "IQVIA",
       "additional_details": "",
       "ppt": "",
@@ -14909,7 +14893,7 @@
       "contract": ""
     },
     {
-      "id": "87",
+      "id": "86",
       "company": "IQVIA",
       "additional_details": "",
       "ppt": "",
@@ -14925,7 +14909,7 @@
       "contract": ""
     },
     {
-      "id": "88",
+      "id": "87",
       "company": "IvyCap Ventures",
       "additional_details": "",
       "ppt": "",
@@ -14941,7 +14925,7 @@
       "contract": ""
     },
     {
-      "id": "89",
+      "id": "88",
       "company": "Ixana",
       "additional_details": "",
       "ppt": "",
@@ -14957,7 +14941,7 @@
       "contract": ""
     },
     {
-      "id": "90",
+      "id": "89",
       "company": "Ixana",
       "additional_details": "",
       "ppt": "",
@@ -14973,7 +14957,7 @@
       "contract": ""
     },
     {
-      "id": "91",
+      "id": "90",
       "company": "Ixana",
       "additional_details": "",
       "ppt": "",
@@ -14989,7 +14973,7 @@
       "contract": ""
     },
     {
-      "id": "92",
+      "id": "91",
       "company": "Ixana",
       "additional_details": "",
       "ppt": "",
@@ -15005,7 +14989,7 @@
       "contract": ""
     },
     {
-      "id": "93",
+      "id": "92",
       "company": "JP MorganChase",
       "additional_details": "",
       "ppt": "",
@@ -15021,7 +15005,7 @@
       "contract": ""
     },
     {
-      "id": "94",
+      "id": "93",
       "company": "KLA",
       "additional_details": "",
       "ppt": "",
@@ -15037,7 +15021,7 @@
       "contract": ""
     },
     {
-      "id": "95",
+      "id": "94",
       "company": "LANDEED (JOHN SALT PVT LIMITED)",
       "additional_details": "",
       "ppt": "",
@@ -15053,7 +15037,7 @@
       "contract": ""
     },
     {
-      "id": "96",
+      "id": "95",
       "company": "LANDEED (JOHN SALT PVT LIMITED)",
       "additional_details": "",
       "ppt": "",
@@ -15069,7 +15053,7 @@
       "contract": ""
     },
     {
-      "id": "97",
+      "id": "96",
       "company": "LAT AEROSPACE",
       "additional_details": "",
       "ppt": "",
@@ -15085,7 +15069,7 @@
       "contract": ""
     },
     {
-      "id": "98",
+      "id": "97",
       "company": "MASTERCARD",
       "additional_details": "",
       "ppt": "",
@@ -15101,7 +15085,7 @@
       "contract": ""
     },
     {
-      "id": "99",
+      "id": "98",
       "company": "MASTERCARD",
       "additional_details": "",
       "ppt": "",
@@ -15117,7 +15101,7 @@
       "contract": ""
     },
     {
-      "id": "100",
+      "id": "99",
       "company": "MathWorks India Private Limited",
       "additional_details": "",
       "ppt": "",
@@ -15133,7 +15117,7 @@
       "contract": ""
     },
     {
-      "id": "101",
+      "id": "100",
       "company": "MathWorks India Private Limited",
       "additional_details": "",
       "ppt": "",
@@ -15149,7 +15133,7 @@
       "contract": ""
     },
     {
-      "id": "102",
+      "id": "101",
       "company": "Media.Net",
       "additional_details": "",
       "ppt": "",
@@ -15165,7 +15149,7 @@
       "contract": ""
     },
     {
-      "id": "103",
+      "id": "102",
       "company": "Meesho",
       "additional_details": "",
       "ppt": "",
@@ -15181,7 +15165,7 @@
       "contract": ""
     },
     {
-      "id": "104",
+      "id": "103",
       "company": "Mercedes Benz India Pvt Ltd",
       "additional_details": "",
       "ppt": "",
@@ -15197,7 +15181,7 @@
       "contract": ""
     },
     {
-      "id": "105",
+      "id": "104",
       "company": "Microsoft Corporation",
       "additional_details": "",
       "ppt": "",
@@ -15213,7 +15197,7 @@
       "contract": ""
     },
     {
-      "id": "106",
+      "id": "105",
       "company": "Moneyview Ltd",
       "additional_details": "",
       "ppt": "",
@@ -15229,7 +15213,7 @@
       "contract": ""
     },
     {
-      "id": "107",
+      "id": "106",
       "company": "Moneyview Ltd",
       "additional_details": "",
       "ppt": "",
@@ -15245,7 +15229,7 @@
       "contract": ""
     },
     {
-      "id": "108",
+      "id": "107",
       "company": "Mygate",
       "additional_details": "",
       "ppt": "",
@@ -15261,7 +15245,7 @@
       "contract": ""
     },
     {
-      "id": "109",
+      "id": "108",
       "company": "NATWEST",
       "additional_details": "",
       "ppt": "",
@@ -15277,7 +15261,7 @@
       "contract": ""
     },
     {
-      "id": "110",
+      "id": "109",
       "company": "Navi Limited",
       "additional_details": "",
       "ppt": "",
@@ -15293,7 +15277,7 @@
       "contract": ""
     },
     {
-      "id": "111",
+      "id": "110",
       "company": "Navi Limited",
       "additional_details": "",
       "ppt": "",
@@ -15309,7 +15293,7 @@
       "contract": ""
     },
     {
-      "id": "112",
+      "id": "111",
       "company": "Navi Limited",
       "additional_details": "",
       "ppt": "",
@@ -15325,7 +15309,7 @@
       "contract": ""
     },
     {
-      "id": "113",
+      "id": "112",
       "company": "Navi Limited",
       "additional_details": "",
       "ppt": "",
@@ -15341,7 +15325,7 @@
       "contract": ""
     },
     {
-      "id": "114",
+      "id": "113",
       "company": "Navi Limited",
       "additional_details": "",
       "ppt": "",
@@ -15357,7 +15341,7 @@
       "contract": ""
     },
     {
-      "id": "115",
+      "id": "114",
       "company": "NexusOne",
       "additional_details": "",
       "ppt": "",
@@ -15373,7 +15357,7 @@
       "contract": ""
     },
     {
-      "id": "116",
+      "id": "115",
       "company": "NK Securities Research",
       "additional_details": "",
       "ppt": "",
@@ -15389,7 +15373,7 @@
       "contract": ""
     },
     {
-      "id": "117",
+      "id": "116",
       "company": "NK Securities Research",
       "additional_details": "",
       "ppt": "",
@@ -15405,7 +15389,7 @@
       "contract": ""
     },
     {
-      "id": "118",
+      "id": "117",
       "company": "NK Securities Research",
       "additional_details": "",
       "ppt": "",
@@ -15421,7 +15405,7 @@
       "contract": ""
     },
     {
-      "id": "119",
+      "id": "118",
       "company": "NoBroker.com",
       "additional_details": "",
       "ppt": "",
@@ -15437,7 +15421,7 @@
       "contract": ""
     },
     {
-      "id": "120",
+      "id": "119",
       "company": "NoBroker.com",
       "additional_details": "",
       "ppt": "",
@@ -15453,7 +15437,7 @@
       "contract": ""
     },
     {
-      "id": "121",
+      "id": "120",
       "company": "Novartis Healthcare Pvt. Ltd.",
       "additional_details": "",
       "ppt": "",
@@ -15469,7 +15453,7 @@
       "contract": ""
     },
     {
-      "id": "122",
+      "id": "121",
       "company": "Nutanix Technologies India Pvt Ltd",
       "additional_details": "Download",
       "ppt": "",
@@ -15485,7 +15469,7 @@
       "contract": ""
     },
     {
-      "id": "123",
+      "id": "122",
       "company": "Nutanix Technologies India Pvt Ltd",
       "additional_details": "Download",
       "ppt": "",
@@ -15501,7 +15485,7 @@
       "contract": ""
     },
     {
-      "id": "124",
+      "id": "123",
       "company": "OLA",
       "additional_details": "",
       "ppt": "",
@@ -15517,7 +15501,7 @@
       "contract": ""
     },
     {
-      "id": "125",
+      "id": "124",
       "company": "OLA",
       "additional_details": "",
       "ppt": "",
@@ -15533,7 +15517,7 @@
       "contract": ""
     },
     {
-      "id": "126",
+      "id": "125",
       "company": "OLA",
       "additional_details": "",
       "ppt": "",
@@ -15549,7 +15533,7 @@
       "contract": ""
     },
     {
-      "id": "127",
+      "id": "126",
       "company": "Paytm",
       "additional_details": "",
       "ppt": "",
@@ -15565,7 +15549,7 @@
       "contract": ""
     },
     {
-      "id": "128",
+      "id": "127",
       "company": "Phyagents, Inc.",
       "additional_details": "",
       "ppt": "",
@@ -15581,7 +15565,7 @@
       "contract": ""
     },
     {
-      "id": "129",
+      "id": "128",
       "company": "Phyagents, Inc.",
       "additional_details": "",
       "ppt": "",
@@ -15597,7 +15581,7 @@
       "contract": ""
     },
     {
-      "id": "130",
+      "id": "129",
       "company": "Pine Labs",
       "additional_details": "Download",
       "ppt": "",
@@ -15613,7 +15597,7 @@
       "contract": ""
     },
     {
-      "id": "131",
+      "id": "130",
       "company": "Plutus Research Private Limited",
       "additional_details": "",
       "ppt": "",
@@ -15629,7 +15613,7 @@
       "contract": ""
     },
     {
-      "id": "132",
+      "id": "131",
       "company": "Plutus Research Private Limited",
       "additional_details": "",
       "ppt": "",
@@ -15645,7 +15629,7 @@
       "contract": ""
     },
     {
-      "id": "133",
+      "id": "132",
       "company": "Pocket FM",
       "additional_details": "Download",
       "ppt": "",
@@ -15661,7 +15645,7 @@
       "contract": ""
     },
     {
-      "id": "134",
+      "id": "133",
       "company": "Pocket FM",
       "additional_details": "Download",
       "ppt": "",
@@ -15677,7 +15661,7 @@
       "contract": ""
     },
     {
-      "id": "135",
+      "id": "134",
       "company": "Porter",
       "additional_details": "",
       "ppt": "",
@@ -15693,7 +15677,7 @@
       "contract": ""
     },
     {
-      "id": "136",
+      "id": "135",
       "company": "Porter",
       "additional_details": "",
       "ppt": "",
@@ -15709,7 +15693,7 @@
       "contract": ""
     },
     {
-      "id": "137",
+      "id": "136",
       "company": "Prodigal Technologies Inc.",
       "additional_details": "",
       "ppt": "",
@@ -15725,7 +15709,7 @@
       "contract": ""
     },
     {
-      "id": "138",
+      "id": "137",
       "company": "Prodigal Technologies Inc.",
       "additional_details": "",
       "ppt": "",
@@ -15741,7 +15725,7 @@
       "contract": ""
     },
     {
-      "id": "139",
+      "id": "138",
       "company": "Purplle",
       "additional_details": "Download",
       "ppt": "",
@@ -15757,7 +15741,7 @@
       "contract": ""
     },
     {
-      "id": "140",
+      "id": "139",
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
@@ -15773,7 +15757,7 @@
       "contract": ""
     },
     {
-      "id": "141",
+      "id": "140",
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
@@ -15789,7 +15773,7 @@
       "contract": ""
     },
     {
-      "id": "142",
+      "id": "141",
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
@@ -15805,7 +15789,7 @@
       "contract": ""
     },
     {
-      "id": "143",
+      "id": "142",
       "company": "QI-CAP INVESTMENTS PRIVATE LIMITED",
       "additional_details": "",
       "ppt": "",
@@ -15821,7 +15805,7 @@
       "contract": ""
     },
     {
-      "id": "144",
+      "id": "143",
       "company": "Quadeye",
       "additional_details": "",
       "ppt": "",
@@ -15837,7 +15821,7 @@
       "contract": ""
     },
     {
-      "id": "145",
+      "id": "144",
       "company": "Quadeye",
       "additional_details": "",
       "ppt": "",
@@ -15853,7 +15837,7 @@
       "contract": ""
     },
     {
-      "id": "146",
+      "id": "145",
       "company": "Qualcomm",
       "additional_details": "",
       "ppt": "",
@@ -15869,7 +15853,7 @@
       "contract": ""
     },
     {
-      "id": "147",
+      "id": "146",
       "company": "Qualcomm",
       "additional_details": "",
       "ppt": "",
@@ -15885,7 +15869,7 @@
       "contract": ""
     },
     {
-      "id": "148",
+      "id": "147",
       "company": "Qualcomm",
       "additional_details": "",
       "ppt": "",
@@ -15901,7 +15885,7 @@
       "contract": ""
     },
     {
-      "id": "149",
+      "id": "148",
       "company": "Qualcomm",
       "additional_details": "",
       "ppt": "",
@@ -15917,7 +15901,7 @@
       "contract": ""
     },
     {
-      "id": "150",
+      "id": "149",
       "company": "Qualcomm",
       "additional_details": "",
       "ppt": "",
@@ -15933,7 +15917,7 @@
       "contract": ""
     },
     {
-      "id": "151",
+      "id": "150",
       "company": "Qualcomm",
       "additional_details": "",
       "ppt": "",
@@ -15949,7 +15933,7 @@
       "contract": ""
     },
     {
-      "id": "152",
+      "id": "151",
       "company": "Qualcomm",
       "additional_details": "",
       "ppt": "",
@@ -15965,7 +15949,7 @@
       "contract": ""
     },
     {
-      "id": "153",
+      "id": "152",
       "company": "QUANTBOX RESEARCH",
       "additional_details": "",
       "ppt": "",
@@ -15981,7 +15965,7 @@
       "contract": ""
     },
     {
-      "id": "154",
+      "id": "153",
       "company": "QUANTBOX RESEARCH",
       "additional_details": "",
       "ppt": "",
@@ -15997,7 +15981,7 @@
       "contract": ""
     },
     {
-      "id": "155",
+      "id": "154",
       "company": "RV Capital",
       "additional_details": "",
       "ppt": "",
@@ -16013,7 +15997,7 @@
       "contract": ""
     },
     {
-      "id": "156",
+      "id": "155",
       "company": "slice",
       "additional_details": "",
       "ppt": "",
@@ -16029,7 +16013,7 @@
       "contract": ""
     },
     {
-      "id": "157",
+      "id": "156",
       "company": "slice",
       "additional_details": "",
       "ppt": "",
@@ -16045,7 +16029,7 @@
       "contract": ""
     },
     {
-      "id": "158",
+      "id": "157",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -16061,7 +16045,7 @@
       "contract": ""
     },
     {
-      "id": "159",
+      "id": "158",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -16077,7 +16061,7 @@
       "contract": ""
     },
     {
-      "id": "160",
+      "id": "159",
       "company": "SQUAREPOINT CAPITAL",
       "additional_details": "",
       "ppt": "",
@@ -16093,7 +16077,7 @@
       "contract": ""
     },
     {
-      "id": "161",
+      "id": "160",
       "company": "Stenoa Capital",
       "additional_details": "",
       "ppt": "",
@@ -16109,7 +16093,7 @@
       "contract": ""
     },
     {
-      "id": "162",
+      "id": "161",
       "company": "Sun Valley Investment Group through Sun Valley Resources Private Limited",
       "additional_details": "",
       "ppt": "",
@@ -16125,7 +16109,7 @@
       "contract": ""
     },
     {
-      "id": "163",
+      "id": "162",
       "company": "Tekion India Pvt Ltd",
       "additional_details": "",
       "ppt": "",
@@ -16141,7 +16125,7 @@
       "contract": ""
     },
     {
-      "id": "164",
+      "id": "163",
       "company": "Tiger Analytics",
       "additional_details": "",
       "ppt": "",
@@ -16157,7 +16141,7 @@
       "contract": ""
     },
     {
-      "id": "165",
+      "id": "164",
       "company": "Tolaram Group",
       "additional_details": "",
       "ppt": "",
@@ -16173,7 +16157,7 @@
       "contract": ""
     },
     {
-      "id": "166",
+      "id": "165",
       "company": "Tredence Analytics",
       "additional_details": "",
       "ppt": "",
@@ -16189,7 +16173,7 @@
       "contract": ""
     },
     {
-      "id": "167",
+      "id": "166",
       "company": "Trexquant (India) Business Consulting LLP",
       "additional_details": "",
       "ppt": "",
@@ -16205,7 +16189,7 @@
       "contract": ""
     },
     {
-      "id": "168",
+      "id": "167",
       "company": "Urban Company",
       "additional_details": "",
       "ppt": "",
@@ -16221,7 +16205,7 @@
       "contract": ""
     },
     {
-      "id": "169",
+      "id": "168",
       "company": "Warner Music Group",
       "additional_details": "",
       "ppt": "",
@@ -16237,7 +16221,7 @@
       "contract": ""
     },
     {
-      "id": "170",
+      "id": "169",
       "company": "WEX",
       "additional_details": "",
       "ppt": "",
@@ -16253,7 +16237,7 @@
       "contract": ""
     },
     {
-      "id": "171",
+      "id": "170",
       "company": "WhiteOak Capital",
       "additional_details": "",
       "ppt": "",
@@ -16269,7 +16253,7 @@
       "contract": ""
     },
     {
-      "id": "172",
+      "id": "171",
       "company": "YCP India Private Limited (Formerly Known as Auctus Advisors Pvt. Ltd.)",
       "additional_details": "",
       "ppt": "",
@@ -16285,7 +16269,7 @@
       "contract": ""
     },
     {
-      "id": "173",
+      "id": "172",
       "company": "Zanskar Research LLP",
       "additional_details": "",
       "ppt": "",
