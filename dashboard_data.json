@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "15 Nov 2026, 02:02:17 PM",
-  "next_check": "15 Nov 2026, 02:32:17 PM",
-  "notice_count": 1518,
+  "last_check": "15 Nov 2026, 02:32:29 PM",
+  "next_check": "15 Nov 2026, 03:02:29 PM",
+  "notice_count": 1519,
   "placement_count": 184,
   "notices": [
+    {
+      "id": "1688",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "WEX",
+      "notice": "PFA the test room allocation of shortlisted candidates for the Assessment of WEX Fintech, scheduled from 2:45 PM onwards on 15th November, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card, failing which students will not be permitted to sit for test.The Test link will be shared on the CDC Registered Email ID of the students.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Ritvik (9480360231), Anurag (9491087133)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "15-11-2026 14:06"
+    },
     {
       "id": "1687",
       "type": "PLACEMENT",
