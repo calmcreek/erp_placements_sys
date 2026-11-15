@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "15 Nov 2026, 12:32:28 PM",
-  "next_check": "15 Nov 2026, 01:02:28 PM",
-  "notice_count": 1517,
+  "last_check": "15 Nov 2026, 01:02:15 PM",
+  "next_check": "15 Nov 2026, 01:32:15 PM",
+  "notice_count": 1518,
   "placement_count": 184,
   "notices": [
+    {
+      "id": "1687",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Tekion India Pvt Ltd",
+      "notice": "PFA the test room allocation of shortlisted candidates for the Assessment of Tekion, scheduled from 1:00 PM onwards on 15th November, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card, failing which students will not be permitted to sit for test.The Test link will be shared on the CDC Registered Email ID of the students.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Rudra (8235755257), Ashutosh (8840104367)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "15-11-2026 12:31"
+    },
     {
       "id": "1686",
       "type": "PLACEMENT",
