@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "15 Nov 2026, 12:02:21 PM",
-  "next_check": "15 Nov 2026, 12:32:21 PM",
-  "notice_count": 1516,
+  "last_check": "15 Nov 2026, 12:32:28 PM",
+  "next_check": "15 Nov 2026, 01:02:28 PM",
+  "notice_count": 1517,
   "placement_count": 184,
   "notices": [
+    {
+      "id": "1686",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "CATERPILLAR",
+      "notice": "PFA the test room allocation of shortlisted candidates for the Assessment of Caterpillar, scheduled from 1:00 PM onwards on 15th November, 2026.Venue: Nalanda Classroom ComplexStudents are requested to report 15 minutes prior to the reporting time.POC: Neev(9001346350) , Himanshu (9311332376)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "15-11-2026 12:24"
+    },
     {
       "id": "1685",
       "type": "PLACEMENT",
