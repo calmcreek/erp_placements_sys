@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "15 Nov 2026, 06:02:18 PM",
-  "next_check": "15 Nov 2026, 06:32:18 PM",
-  "notice_count": 1520,
+  "last_check": "15 Nov 2026, 06:32:47 PM",
+  "next_check": "15 Nov 2026, 07:02:47 PM",
+  "notice_count": 1521,
   "placement_count": 186,
   "notices": [
+    {
+      "id": "1690",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Multiple Companies",
+      "notice": "The following companies are open for CV Submission till 4:00 PM, 16th November, 2026.1. TATA AIG (Profile: Senior Engineer Trainee - Analytics)2. ICICI BANK (Profile: Manager-1)3. AXXELA (Profile: Trainee Analyst)4. ATHER ENERGY (Profile: Module Quality, Data Office, Chief Engineer, Hardware Pack Engineering, Product Ownership)5. TELUS DIGITAL (Profile: Associate Project Manager)6. GREEN AERO PROPULSION (All Profiles)7. DELOITTE (Profile: Analyst)8. BARCLAYS (Profile: Risk Graduate Analyst)9. ⁠GDi PARTNERS (Profile: Associate Consultant)10. PRISM (Profile: Young Leader)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EC39030",
+      "notice_time": "15-11-2026 18:06"
+    },
     {
       "id": "1689",
       "type": "PLACEMENT",
