@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "15 Nov 2026, 08:02:11 PM",
-  "next_check": "15 Nov 2026, 08:32:11 PM",
-  "notice_count": 1521,
+  "last_check": "15 Nov 2026, 08:32:38 PM",
+  "next_check": "15 Nov 2026, 09:02:38 PM",
+  "notice_count": 1522,
   "placement_count": 186,
   "notices": [
+    {
+      "id": "1691",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "MYGATE",
+      "notice": "The CV Submission for MYGATE for Software Developer Engineer role has been opened till 4:00 PM, 16th November, 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "15-11-2026 20:31"
+    },
     {
       "id": "1690",
       "type": "PLACEMENT",
@@ -15564,7 +15573,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-13 16:37",
-      "resume_upload_end": "2026-11-14 16:00",
+      "resume_upload_end": "2026-11-16 16:00",
       "interview_selection": "",
       "contract": ""
     },
