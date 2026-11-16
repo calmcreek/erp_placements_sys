@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "16 Nov 2026, 10:32:27 PM",
-  "next_check": "16 Nov 2026, 11:02:27 PM",
-  "notice_count": 1542,
+  "last_check": "16 Nov 2026, 11:02:36 PM",
+  "next_check": "16 Nov 2026, 11:32:36 PM",
+  "notice_count": 1543,
   "placement_count": 207,
   "notices": [
+    {
+      "id": "1714",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "ETERNAL",
+      "notice": "All the eligible students who have applied for Eternal for the roles of (Software Development Engineer, Machine Learning Scientist, Product Analyst) are required to kindly fill the preference form given below. Link: https://forms.gle/d1FAmp5zCaw7ieiu6Deadline: 16th November 2026, 11:59 PMKindly ensure you have filled the form before the deadline. No further extensions will be provided.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "16-11-2026 22:36"
+    },
     {
       "id": "1713",
       "type": "PLACEMENT",
