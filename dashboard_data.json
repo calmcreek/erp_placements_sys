@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "16 Nov 2026, 03:02:15 PM",
-  "next_check": "16 Nov 2026, 03:32:15 PM",
-  "notice_count": 1527,
+  "last_check": "16 Nov 2026, 03:32:29 PM",
+  "next_check": "16 Nov 2026, 04:02:29 PM",
+  "notice_count": 1528,
   "placement_count": 186,
   "notices": [
+    {
+      "id": "1698",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Green Aero Propulsion",
+      "notice": "The CV submission of GREEN AERO PROPULSION for all the roles is extended till 4:00 PM, 17th November 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17164",
+      "notice_time": "16-11-2026 15:25"
+    },
     {
       "id": "1697",
       "type": "PLACEMENT",
@@ -14514,7 +14523,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-14 17:45",
-      "resume_upload_end": "2026-11-16 00:00",
+      "resume_upload_end": "2026-11-16 16:00",
       "interview_selection": "",
       "contract": ""
     },
