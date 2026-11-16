@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "16 Nov 2026, 02:32:27 PM",
-  "next_check": "16 Nov 2026, 03:02:27 PM",
-  "notice_count": 1526,
+  "last_check": "16 Nov 2026, 03:02:15 PM",
+  "next_check": "16 Nov 2026, 03:32:15 PM",
+  "notice_count": 1527,
   "placement_count": 186,
   "notices": [
+    {
+      "id": "1697",
+      "type": "PLACEMENT",
+      "subject": "Schedule",
+      "company": "CDC Placement Schedule for 16th November 2026",
+      "notice": "All students eligible for placement are advised to take note of the tentative placement schedule for Monday, 16th November 2026.1. [PPT] ICICI LOMBARD (6:00 PM  7:00 PM)2. [PPT] BREVAN HOWARD (7:00 PM  8:00 PM)3. [PPT] GREEN AERO PROPULSION (8:00 PM  9:00 PM)4. [TEST] CARS24 (All Profiles) (9:00 PM  11:00 PM)Note: The schedule is tentative and subject to changes. Other relevant details and instructions regarding the assessments will be shared separately.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "16-11-2026 14:37"
+    },
     {
       "id": "1695",
       "type": "PLACEMENT",
