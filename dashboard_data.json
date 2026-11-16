@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "16 Nov 2026, 11:02:13 AM",
-  "next_check": "16 Nov 2026, 11:32:13 AM",
-  "notice_count": 1525,
+  "last_check": "16 Nov 2026, 11:32:44 AM",
+  "next_check": "16 Nov 2026, 12:02:44 PM",
+  "notice_count": 1526,
   "placement_count": 186,
   "notices": [
+    {
+      "id": "1695",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "ICICI LOMBARD",
+      "notice": "Please note that the Pre-Placement Talk for ICICI Lombard will be held on 16th November 2026 from 6:00 PM.Link: https://teams.microsoft.com/meet/454905425202833?p=Zsmawsbjncmibgz9fNMeeting ID: 454 905 425 202 833Passcode: 3BL2b5ZCAll interested students are required to attend the PPT without fail. Attendance is compulsory. Students should join 15 minutes prior to the meeting time.POC: Daksh (+91 9818071612)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "16-11-2026 11:22"
+    },
     {
       "id": "1694",
       "type": "PLACEMENT",
