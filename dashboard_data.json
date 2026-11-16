@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "16 Nov 2026, 07:32:41 PM",
-  "next_check": "16 Nov 2026, 08:02:41 PM",
-  "notice_count": 1537,
+  "last_check": "16 Nov 2026, 08:02:29 PM",
+  "next_check": "16 Nov 2026, 08:32:29 PM",
+  "notice_count": 1539,
   "placement_count": 207,
   "notices": [
+    {
+      "id": "1710",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "ACCENTURE",
+      "notice": "Please find attached the list of shortlisted candidates for the further process for the Accenture India Elite Technology Engineer FTE role.Students from the shortlist who have received the mail from Accenture are required to select Elite Technology Engineer FTE as their role preference.The remaining students in the shortlist who have not received this email are requested to ignore this notice. They will be informed regarding the further process and details at a later stage.POC: Vatsal (+91 92344 57393)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "16-11-2026 19:56"
+    },
+    {
+      "id": "1708",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "LTM",
+      "notice": "All eligible students who have applied for LTM are required to fill out the preference form given below.Link: https://forms.gle/7ZnogmawRL2chtAC8Deadline: 17th November 2026, 4:00 PMKindly ensure you have filled the form before the deadline. No further extensions will be provided.CDC, IIT Kharagpur",
+      "notice_by": "23EC39030",
+      "notice_time": "16-11-2026 19:46"
+    },
     {
       "id": "1707",
       "type": "PLACEMENT",
