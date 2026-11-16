@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "16 Nov 2026, 09:32:23 PM",
-  "next_check": "16 Nov 2026, 10:02:23 PM",
-  "notice_count": 1541,
+  "last_check": "16 Nov 2026, 10:02:48 PM",
+  "next_check": "16 Nov 2026, 10:32:48 PM",
+  "notice_count": 1542,
   "placement_count": 207,
   "notices": [
+    {
+      "id": "1713",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "PAYTM",
+      "notice": "The Pre-Placement Talk for PAYTM, will be held on 17th November, 2026 from 6:00 PM.Link: meet.google.com/zpj-jcbe-yeiNote: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Devansh (+91 7999892181)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "16-11-2026 21:50"
+    },
     {
       "id": "1712",
       "type": "PLACEMENT",
