@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "17 Nov 2026, 11:32:24 PM",
-  "next_check": "18 Nov 2026, 12:02:24 AM",
-  "notice_count": 1558,
+  "last_check": "18 Nov 2026, 12:02:15 AM",
+  "next_check": "18 Nov 2026, 12:32:15 AM",
+  "notice_count": 1559,
   "placement_count": 206,
   "notices": [
+    {
+      "id": "1730",
+      "type": "PLACEMENT",
+      "subject": "Additional requirement",
+      "company": "OLA",
+      "notice": "All the eligible students who have applied for Ola for the roles of (Founder's Program - General Management, Founder's Program  Technology) are required to kindly fill the Additional Details Form by the company as linked below. Link: https://forms.gle/THbGxUBqBY61R1jC6Deadline: 19th November 2026, 11:59 AMKindly ensure you have filled the form before the deadline. No further extensions will be provided.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "17-11-2026 23:55"
+    },
     {
       "id": "1729",
       "type": "PLACEMENT",
