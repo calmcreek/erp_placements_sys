@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "17 Nov 2026, 06:02:16 PM",
-  "next_check": "17 Nov 2026, 06:32:16 PM",
-  "notice_count": 1550,
+  "last_check": "17 Nov 2026, 06:32:35 PM",
+  "next_check": "17 Nov 2026, 07:02:35 PM",
+  "notice_count": 1551,
   "placement_count": 208,
   "notices": [
+    {
+      "id": "1722",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Bharat Petroleum Corporation Limited",
+      "notice": "The CV Submission for Bharat Petroleum Corporation Limited has been opened till 10:00 AM, 20th November, 2026.Those students who will apply for this position are mandatorily required to fill up the following form positively by 11:00 AM of 20th November, 2026, else their application will not be considered for further process.Form Link: https://docs.google.com/forms/d/e/1FAIpQLSe2zTozMD2bmrVz3eW5o_0UJDfsqF2iE7RUA5ujkYvirsBSKA/viewform?usp=dialogInterested and eligible students are advised to apply within the given deadline.No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "17-11-2026 18:14"
+    },
     {
       "id": "1721",
       "type": "PLACEMENT",
