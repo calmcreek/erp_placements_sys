@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "17 Nov 2026, 08:02:20 PM",
-  "next_check": "17 Nov 2026, 08:32:20 PM",
-  "notice_count": 1553,
+  "last_check": "17 Nov 2026, 08:32:47 PM",
+  "next_check": "17 Nov 2026, 09:02:47 PM",
+  "notice_count": 1554,
   "placement_count": 208,
   "notices": [
+    {
+      "id": "1725",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "American Express",
+      "notice": "The Retest of American Express is scheduled from 9:00 PM onwards on 17th November 2026.Venue: NR 221, Nalanda Classroom ComplexNote: All candidates are strictly instructed to report to their allocated room by 9:00 PM sharp, as the test schedule is fixed.The test link has been shared with the candidates on their email IDs.Students are required to carry their original Institute ID card, failing which students will not be permitted to sit for the test.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Faiz (+91 7386295387)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "17-11-2026 20:26"
+    },
     {
       "id": "1724",
       "type": "PLACEMENT",
