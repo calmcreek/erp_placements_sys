@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "17 Nov 2026, 09:32:56 PM",
-  "next_check": "17 Nov 2026, 10:02:56 PM",
-  "notice_count": 1556,
+  "last_check": "17 Nov 2026, 10:02:34 PM",
+  "next_check": "17 Nov 2026, 10:32:34 PM",
+  "notice_count": 1557,
   "placement_count": 208,
   "notices": [
+    {
+      "id": "1728",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "GE Vernova",
+      "notice": "All the students who have applied for the GE Vernova need to register on the Hirepro Portal.Students are required to complete their registration on the portal by 18th November 2026, 11:59 AM. The link has already been shared over the CDC Registered Email ID with the students.Please note that registrations not completed within the deadline will not be considered for further process.CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "17-11-2026 21:37"
+    },
     {
       "id": "1727",
       "type": "PLACEMENT",
