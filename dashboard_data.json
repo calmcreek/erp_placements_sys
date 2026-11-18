@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "18 Nov 2026, 07:02:11 PM",
-  "next_check": "18 Nov 2026, 07:32:11 PM",
-  "notice_count": 1582,
+  "last_check": "18 Nov 2026, 07:32:28 PM",
+  "next_check": "18 Nov 2026, 08:02:28 PM",
+  "notice_count": 1583,
   "placement_count": 220,
   "notices": [
+    {
+      "id": "1755",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "LTM",
+      "notice": "The CV submission of LTM for all roles has been extended with revised eligibility till 4:00 PM, 19th November 2026Its mandatory for all candidates who are applying for the roles, to fill the following Google Form attached below:Preference Form: https://forms.gle/xM6T2W15UjbfN4x26Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EC39030",
+      "notice_time": "18-11-2026 19:04"
+    },
     {
       "id": "1754",
       "type": "PLACEMENT",
