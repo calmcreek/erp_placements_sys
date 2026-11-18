@@ -1,8 +1,8 @@
 {
   "erp_status": "Connected",
-  "last_check": "19 Nov 2026, 03:32:21 AM",
-  "next_check": "19 Nov 2026, 04:02:21 AM",
-  "notice_count": 1588,
+  "last_check": "19 Nov 2026, 04:02:09 AM",
+  "next_check": "19 Nov 2026, 04:32:09 AM",
+  "notice_count": 1587,
   "placement_count": 221,
   "notices": [
     {
@@ -31,15 +31,6 @@
       "notice": "The CV Submission for SLB for all the roles have been opened till 4:00 PM, 19th November, 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
       "notice_by": "23EC39030",
       "notice_time": "18-11-2026 23:23"
-    },
-    {
-      "id": "1757",
-      "type": "PLACEMENT",
-      "subject": "Urgent",
-      "company": "Ola",
-      "notice": "All the eligible students who have applied for Ola for the roles of (Founder's Program - General Management, Founder's Program  Technology) are required to kindly fill the Additional Details Form by the company as linked below. Link: https://forms.gle/THbGxUBqBY61R1jC6Deadline: 19th November 2026, 11:59 PMKindly ensure you have filled the form before the deadline. No further extensions will be provided.CDC, IIT Kharagpur",
-      "notice_by": "23AE3FP05",
-      "notice_time": "18-11-2026 20:59"
     },
     {
       "id": "1756",
