@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "19 Nov 2026, 03:02:19 AM",
-  "next_check": "19 Nov 2026, 03:32:19 AM",
-  "notice_count": 1587,
+  "last_check": "19 Nov 2026, 03:32:21 AM",
+  "next_check": "19 Nov 2026, 04:02:21 AM",
+  "notice_count": 1588,
   "placement_count": 221,
   "notices": [
+    {
+      "id": "1760",
+      "type": "PLACEMENT",
+      "subject": "Schedule",
+      "company": "CDC Placement Schedule for 19th November 2026",
+      "notice": "All students eligible for placement are advised to take note of the tentative placement schedule for Thursday, 19th November 2026.1. [PPT] OLA (6:00 PM  7:00 PM)2. [TEST] ETERNAL (7:00 PM  9:00 PM)3. [TEST] TAKSHASHILA CONSULTING (9:30 PM  11:00 PM)Note: Links for the tests and other relevant details will be shared separately. Room allocations and other necessary instructions for the assessments will be communicated prior to the respective tests.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "19-11-2026 03:30"
+    },
     {
       "id": "1759",
       "type": "PLACEMENT",
