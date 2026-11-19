@@ -1,10 +1,55 @@
 {
   "erp_status": "Connected",
-  "last_check": "20 Nov 2026, 12:32:21 AM",
-  "next_check": "20 Nov 2026, 01:02:21 AM",
-  "notice_count": 1605,
+  "last_check": "20 Nov 2026, 01:02:14 AM",
+  "next_check": "20 Nov 2026, 01:32:14 AM",
+  "notice_count": 1610,
   "placement_count": 231,
   "notices": [
+    {
+      "id": "1783",
+      "type": "PLACEMENT",
+      "subject": "Additional requirement",
+      "company": "AIRAMATRIX",
+      "notice": "All the eligible students who have applied for AIRAMATRIX are required to kindly fill the additional details form given below.Link: https://forms.gle/aMqTKukPq1gLVZQV8Deadline: 20th November 2026, 4:00 PMKindly ensure you have filled the form before the deadline. No further extensions will be provided.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "20-11-2026 00:42"
+    },
+    {
+      "id": "1782",
+      "type": "PLACEMENT",
+      "subject": "Additional requirement",
+      "company": "OLA",
+      "notice": "All the eligible students who have applied for Ola for the roles of (Founder's Program - General Management, Founder's Program  Technology) are required to kindly fill the preference form given below.Form: https://forms.gle/rFa8g4g9j2SjcQvd9Deadline: 20th November 2026, 10:00 AMKindly ensure you have filled the forms before the deadline. No further extensions will be provided.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "20-11-2026 00:41"
+    },
+    {
+      "id": "1781",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "DELOITTE",
+      "notice": "All eligible students who have applied for DELOITTE are required to fill in the companys careers portal and the additional details form attached belowApplication Link: https://usijobs.deloitte.com/en_US/careersUSI/HiddenJob?jobId=369832&source=Campus+career+centerAdditional Details Form: https://forms.gle/dwdYoavuVAqiGh3T6Deadline: 20th November 2026, 4:00 PMNote: The students are required to apply on the company's portal with their CDC-registered email ID.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "20-11-2026 00:38"
+    },
+    {
+      "id": "1780",
+      "type": "PLACEMENT",
+      "subject": "Additional requirement",
+      "company": "GROWW",
+      "notice": "All the eligible students who have applied for Groww for Associate Product Manager role are required to kindly fill the Additional Details Form given below.Link: https://forms.gle/DBwqF2S9d4PJ8aNk7Deadline: 20th November 2026, 2:00 PMKindly ensure you have filled the form before the deadline. No further extensions will be provided.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "20-11-2026 00:36"
+    },
+    {
+      "id": "1779",
+      "type": "PLACEMENT",
+      "subject": "Additional requirement",
+      "company": "Accordion India",
+      "notice": "All students who have applied for any role at Accordion India must fill out the Google Form linked below.Google Form: https://forms.gle/77zGVjBWqamMuMfS8Deadline: 2:00 PM, 20th November 2026.Note: It is mandatory for all the applicants to fill the form within the given deadline, else you won't be considered for the further process.All the eligible students are advised to fill the form within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "20-11-2026 00:34"
+    },
     {
       "id": "1778",
       "type": "PLACEMENT",
