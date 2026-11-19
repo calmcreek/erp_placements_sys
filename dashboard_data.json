@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "19 Nov 2026, 10:32:24 PM",
-  "next_check": "19 Nov 2026, 11:02:24 PM",
-  "notice_count": 1603,
+  "last_check": "19 Nov 2026, 11:02:13 PM",
+  "next_check": "19 Nov 2026, 11:32:13 PM",
+  "notice_count": 1605,
   "placement_count": 231,
   "notices": [
+    {
+      "id": "1778",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "ATHER ENERGY",
+      "notice": "Type : PLACEMENTSubject : Date extensionCompany : ATHER ENERGYThe CV submission of ATHER ENERGY for all roles have been extended with revised eligibility till 6:00 PM, 20th November 2026Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "19-11-2026 22:57"
+    },
+    {
+      "id": "1777",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Brevan Howard",
+      "notice": "All the students that have applied for the Graduate Trainee - Technology Role in Brevan Howard are required to apply on the following Career Portal, and complete the assessments as instructed below..Link: https://careers.brevanhoward.com/gb/en/job/BHABHAGBJR101671EXTERNALENGB/2027-Graduate-Programme-Quantitative-Developer-BengaluruImportant points:1. After submitting an application through the link, applicants will receive an assessment at their registered email address.2. Candidates who successfully clear this assessment will receive two further assessments.3. All three assessments must be completed by 9:00 AM IST on 23 November 2026.4. Submissions received after this deadline will not be considered.Venue: Respective LocationsDeadline: 9:00 AM, 23rd November, 2026Note: Students are required to follow the given instructions to be considered for further process.CDC, IIT Kharagpur.",
+      "notice_by": "23AE3FP05",
+      "notice_time": "19-11-2026 22:48"
+    },
     {
       "id": "1776",
       "type": "PLACEMENT",
