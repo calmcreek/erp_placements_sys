@@ -1,7 +1,7 @@
 {
-  "erp_status": "Error",
-  "last_check": "19 Nov 2026, 09:35:17 PM",
-  "next_check": null,
+  "erp_status": "Connected",
+  "last_check": "19 Nov 2026, 10:32:24 PM",
+  "next_check": "19 Nov 2026, 11:02:24 PM",
   "notice_count": 1603,
   "placement_count": 231,
   "notices": [
@@ -14766,7 +14766,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-14 17:49",
-      "resume_upload_end": "2026-11-17 16:00",
+      "resume_upload_end": "2026-11-20 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -14782,7 +14782,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-14 17:55",
-      "resume_upload_end": "2026-11-17 16:00",
+      "resume_upload_end": "2026-11-20 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -14798,7 +14798,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-18 17:33",
-      "resume_upload_end": "2026-11-19 16:00",
+      "resume_upload_end": "2026-11-20 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -18131,5 +18131,5 @@
       "contract": ""
     }
   ],
-  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "last_error": null
 }
