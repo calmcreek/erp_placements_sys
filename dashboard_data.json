@@ -1,10 +1,28 @@
 {
-  "erp_status": "Error",
-  "last_check": "19 Nov 2026, 10:32:18 AM",
-  "next_check": null,
-  "notice_count": 1589,
+  "erp_status": "Connected",
+  "last_check": "19 Nov 2026, 11:32:38 AM",
+  "next_check": "19 Nov 2026, 12:02:38 PM",
+  "notice_count": 1591,
   "placement_count": 222,
   "notices": [
+    {
+      "id": "1764",
+      "type": "PLACEMENT",
+      "subject": "Additional requirement",
+      "company": "GDi Partners",
+      "notice": "All students who have applied for GDi Partners must fill out the Google Form linked below.Google Form: https://docs.google.com/forms/d/e/1FAIpQLSfFA9afq3Xj3BOswvRsK9nIewExGGsWybGLFInhnAkFOh2dwA/viewformDeadline: 11:00 PM, 19th November 2026.Note: It is mandatory for all applicants to fill out the form within the given deadline, else you won't be considered for the further process.All the eligible students are advised to fill the form within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "19-11-2026 11:00"
+    },
+    {
+      "id": "1763",
+      "type": "PLACEMENT",
+      "subject": "PPO",
+      "company": "MEDIATEK",
+      "notice": "MEDIATEK has extended the offer to the following student(s):PARMITA SAHA - 25GS61R10SHAIK KAMMUGARI MAHAMMAD MUZAMMIL - 25GS61R09The students are advised to give offer acceptance by 18.11.2026.(For more details, check your email ID.)CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "19-11-2026 10:54"
+    },
     {
       "id": "1762",
       "type": "PLACEMENT",
@@ -17861,5 +17879,5 @@
       "contract": ""
     }
   ],
-  "last_error": "HTTPSConnectionPool(host='erp.iitkgp.ac.in', port=443): Max retries exceeded with url: /IIT_ERP3/ (Caused by NameResolutionError(\"HTTPSConnection(host='erp.iitkgp.ac.in', port=443): Failed to resolve 'erp.iitkgp.ac.in' ([Errno -3] Temporary failure in name resolution)\"))"
+  "last_error": null
 }
