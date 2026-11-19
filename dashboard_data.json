@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "20 Nov 2026, 01:02:14 AM",
-  "next_check": "20 Nov 2026, 01:32:14 AM",
-  "notice_count": 1610,
+  "last_check": "20 Nov 2026, 01:08:33 AM",
+  "next_check": "20 Nov 2026, 01:38:33 AM",
+  "notice_count": 1611,
   "placement_count": 231,
   "notices": [
+    {
+      "id": "1784",
+      "type": "PLACEMENT",
+      "subject": "Additional requirement",
+      "company": "ICICI LOMBARD",
+      "notice": "All the eligible students who have applied for ICICI Lombard for the role of Actuarial Analyst are required to kindly fill the Additional Details Form given below. Link: https://forms.gle/Di2j1Sw7VyCurUud7Deadline: 20th November 2026, 4:00 PMInterested and eligible students are advised to apply on the portal and fill the form within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "20-11-2026 01:08"
+    },
     {
       "id": "1783",
       "type": "PLACEMENT",
