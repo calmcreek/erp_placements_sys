@@ -1,10 +1,28 @@
 {
-  "erp_status": "Error",
-  "last_check": "20 Nov 2026, 01:02:06 PM",
-  "next_check": null,
-  "notice_count": 1613,
+  "erp_status": "Connected",
+  "last_check": "20 Nov 2026, 02:02:13 PM",
+  "next_check": "20 Nov 2026, 02:32:13 PM",
+  "notice_count": 1615,
   "placement_count": 231,
   "notices": [
+    {
+      "id": "1788",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "ACCORDION INDIA",
+      "notice": "All students who have applied for any role at Accordion India must fill out the Google Form linked below.Additional Details Form: https://forms.gle/jGqkXoBnkPp2L55L6Deadline: 4:00 PM, 20th November 2026.Note: It is mandatory for all applicants to fill the form within the given deadline, else you won't be considered for the further process.All the eligible students are advised to fill the form within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "20-11-2026 13:30"
+    },
+    {
+      "id": "1787",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "Nation with Namo",
+      "notice": "The CV submission of Nation with Namo has been extended till 11:59 PM, 20th November 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "20-11-2026 13:24"
+    },
     {
       "id": "1786",
       "type": "PLACEMENT",
@@ -16840,7 +16858,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-16 17:41",
-      "resume_upload_end": "2026-11-19 16:00",
+      "resume_upload_end": "2026-11-20 23:59",
       "interview_selection": "",
       "contract": ""
     },
@@ -18221,5 +18239,5 @@
       "contract": ""
     }
   ],
-  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "last_error": null
 }
