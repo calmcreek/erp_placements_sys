@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "21 Nov 2026, 12:02:34 AM",
-  "next_check": "21 Nov 2026, 12:32:34 AM",
-  "notice_count": 1622,
+  "last_check": "21 Nov 2026, 12:32:40 AM",
+  "next_check": "21 Nov 2026, 01:02:40 AM",
+  "notice_count": 1624,
   "placement_count": 244,
   "notices": [
+    {
+      "id": "1797",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "ICICI LOMBARD",
+      "notice": "The CV Submission for ICICI Lombard for the role of Actuarial Analyst has been opened till 4:00 PM, 21st November, 2026.All candidates who are applying for the role, are required to kindly fill the Additional Details Form given below. Link: https://forms.gle/Di2j1Sw7VyCurUud7Deadline: 21st November 2026, 4:00 PMInterested and eligible students are advised to apply on the portal and fill the form within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "21-11-2026 00:07"
+    },
+    {
+      "id": "1796",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "Multiple Companies",
+      "notice": "The CV Submissions for the following companies have been extended till 8:00 PM, 21st November, 2026.1. ATHER ENERGY (Profile: All)2. AURO GROUP (Profile: All)3. AXON DEVELOPERS  (Profile: All)4. BLACKBUCK  (Profile: Associate Manager)5. BREVAN HOWARD (Profile: Graduate Traniee - Technology)6. DASSAULT SYSTEMES  (Profile: All)7. FLIPSPACES TECHNOLOGY LABS  (Profile: Entrepreneur-in-Residence)8. KALAM LABS  (Profile: All)9. LTM  (Profile: Graduate Engineer Trainee, Post-Graduate Engineer Trainee)10. RECKITT  (Profile: FLS Trainee)11. SEARCE INC.  (Profile: All)12. SKYROOT AEROSPACE  (Profile: All)13. SLB  (Profile: All)14. SWIGGY LIMITED  (Profile: Data Scientist 1)15. TCG DIGITAL SOLUTIONS (Profile: Consultant/Product Developer)16. WATERFLY  (Profile: All)17. XION MULTIVENTURES  (Profile: Trainee Trader & Research Analyst)18. YMS FINANCIAL PRIVATE LIMITED  (Profile: Quant Researcher)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "21-11-2026 00:05"
+    },
     {
       "id": "1795",
       "type": "PLACEMENT",
