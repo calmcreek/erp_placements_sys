@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "20 Nov 2026, 05:38:04 PM",
-  "next_check": "20 Nov 2026, 06:08:04 PM",
-  "notice_count": 1616,
+  "last_check": "20 Nov 2026, 06:02:24 PM",
+  "next_check": "20 Nov 2026, 06:32:24 PM",
+  "notice_count": 1617,
   "placement_count": 231,
   "notices": [
+    {
+      "id": "1790",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "GODREJ PROPERTIES LIMITED",
+      "notice": "The CV submission of Godrej Properties Limited for the role of Assistant Manager - Civil Execution is open till 4:00 PM, 21st November 2026It is mandatory for all candidates who are applying for the role, to register on the portal link below:Portal Link: https://gradpartners.in/festival/summersault-challenge-3.0Interested and eligible students are advised to apply on ERP and the portal within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "20-11-2026 17:41"
+    },
     {
       "id": "1789",
       "type": "PLACEMENT",
