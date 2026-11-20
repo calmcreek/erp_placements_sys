@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "20 Nov 2026, 10:02:08 AM",
-  "next_check": "20 Nov 2026, 10:32:08 AM",
-  "notice_count": 1612,
+  "last_check": "20 Nov 2026, 10:32:28 AM",
+  "next_check": "20 Nov 2026, 11:02:28 AM",
+  "notice_count": 1613,
   "placement_count": 231,
   "notices": [
+    {
+      "id": "1786",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Multiple Companies",
+      "notice": "The following companies are open for CV Submission till 6:00 PM, 20th November, 2026. 1.⁠ ⁠BLACKBUCK (Profile: Associate Manager) 2.⁠ ⁠SEARCE INC.(All Profiles) 3.⁠ ⁠FLIPSPACES TECHNOLOGY LABS (Profile: Entrepreneur-in-Residence) 4.⁠ ⁠KALAM LABS (All Profiles) 5.⁠ ⁠YMS FINANCIAL PRIVATE LIMITED (Profile: Quant Researcher)  6.⁠ ⁠SWIGGY LIMITED (Profile: Data Scientist 1)  7. RECKITT (Profile: FLS Trainee) 8.⁠ ⁠EY GLOBAL DELIVERY SERVICES (Profile: Senior Analyst - Supply Chain Management, Senior Analyst - Data Scientist)  9.⁠ ⁠LTM (Profile: Post-Graduate Engineer Trainee, Graduate Engineer Trainee) 10.⁠ ⁠WATERFLY (All Profiles)  11.⁠ ⁠WINDFLOW AI (Profile: AI Engineer) 12.⁠ ⁠XION MULTIVENTURES (Profile: Trainee Trader & Research Analyst) 13.⁠ ⁠DASSAULT SYSTEMES (All Profiles)  14.⁠ ⁠AXON DEVELOPERS (All Profiles)  15.⁠ ⁠SKYROOT AEROSPACE (All Profiles)  16. CELEBAL TECHNOLOGIES (Profile: Data Scientist)  17. SLB (All Profiles)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17164",
+      "notice_time": "20-11-2026 10:15"
+    },
     {
       "id": "1785",
       "type": "PLACEMENT",
@@ -15055,7 +15064,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-16 17:53",
-      "resume_upload_end": "2026-11-19 16:00",
+      "resume_upload_end": "2026-11-20 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -15071,7 +15080,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-16 17:53",
-      "resume_upload_end": "2026-11-19 16:00",
+      "resume_upload_end": "2026-11-20 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -15279,7 +15288,7 @@
       "additional_details_2": "Download",
       "application_status": "Y",
       "resume_upload_start": "2026-11-13 16:13",
-      "resume_upload_end": "2026-11-14 16:00",
+      "resume_upload_end": "2026-11-20 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -15455,7 +15464,7 @@
       "additional_details_2": "Download",
       "application_status": "Y",
       "resume_upload_start": "2026-11-16 17:51",
-      "resume_upload_end": "2026-11-19 16:00",
+      "resume_upload_end": "2026-11-20 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -15471,7 +15480,7 @@
       "additional_details_2": "Download",
       "application_status": "Y",
       "resume_upload_start": "2026-11-16 17:52",
-      "resume_upload_end": "2026-11-19 16:00",
+      "resume_upload_end": "2026-11-20 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -15711,7 +15720,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-16 17:46",
-      "resume_upload_end": "2026-11-19 16:00",
+      "resume_upload_end": "2026-11-20 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -15727,7 +15736,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-16 17:45",
-      "resume_upload_end": "2026-11-19 16:00",
+      "resume_upload_end": "2026-11-20 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -16623,7 +16632,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-16 17:46",
-      "resume_upload_end": "2026-11-19 16:00",
+      "resume_upload_end": "2026-11-20 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -17695,7 +17704,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-18 21:33",
-      "resume_upload_end": "2026-11-19 16:00",
+      "resume_upload_end": "2026-11-20 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -17711,7 +17720,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-16 23:13",
-      "resume_upload_end": "2026-11-19 16:00",
+      "resume_upload_end": "2026-11-20 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -18031,7 +18040,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-16 17:48",
-      "resume_upload_end": "2026-11-19 16:00",
+      "resume_upload_end": "2026-11-20 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -18047,7 +18056,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-16 17:47",
-      "resume_upload_end": "2026-11-19 16:00",
+      "resume_upload_end": "2026-11-20 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -18063,7 +18072,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-16 17:49",
-      "resume_upload_end": "2026-11-19 16:00",
+      "resume_upload_end": "2026-11-20 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -18079,7 +18088,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-16 17:48",
-      "resume_upload_end": "2026-11-18 16:00",
+      "resume_upload_end": "2026-11-20 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -18095,7 +18104,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-16 17:48",
-      "resume_upload_end": "2026-11-18 16:00",
+      "resume_upload_end": "2026-11-20 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -18143,7 +18152,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-16 17:50",
-      "resume_upload_end": "2026-11-19 16:00",
+      "resume_upload_end": "2026-11-20 18:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -18159,7 +18168,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-16 17:50",
-      "resume_upload_end": "2026-11-19 16:00",
+      "resume_upload_end": "2026-11-20 18:00",
       "interview_selection": "",
       "contract": ""
     },
