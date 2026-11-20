@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "20 Nov 2026, 08:02:17 PM",
-  "next_check": "20 Nov 2026, 08:32:17 PM",
-  "notice_count": 1619,
+  "last_check": "20 Nov 2026, 08:32:40 PM",
+  "next_check": "20 Nov 2026, 09:02:40 PM",
+  "notice_count": 1621,
   "placement_count": 231,
   "notices": [
+    {
+      "id": "1794",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Pine Labs",
+      "notice": "The case study link, along with the submission guidelines and instructions, has been shared with the shortlisted students over their respective institute email IDs.Submission Guidelines:- Each student can select only ONE case study and submit ONE solution.- No deadline extensions will be provided.- GitHub repository links must have public access.- Students may optionally submit a video demonstration showcasing their solution.- All submitted links must be accessible for evaluation.Submission Deadline: 22nd November 2026, 8:00 PM IST.Note: Students who have been shortlisted are requested to refer to the email shared and ensure that their submissions are completed within the specified deadline. CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "20-11-2026 20:23"
+    },
+    {
+      "id": "1793",
+      "type": "PLACEMENT",
+      "subject": "Schedule",
+      "company": "CDC Placement Schedule for 21st November 2026",
+      "notice": "All students eligible for placement are advised to take note of the placement schedule for Saturday, 21st November 2026.1. [TEST] GROWW (Profile: Associate Product Manager) (3:00 PM  4:00 PM)2. [TEST] MERCEDES-BENZ (Profile: Graduate Trainee) (4:30 PM  6:30 PM)3. [TEST] NEXUSONE (Profile: Data/App Engineer) (7:00 PM  7:45 PM)4. [TEST] NWN (Profile: Associate) (10:00 PM  11:00 PM)Note: The schedule is tentative and subject to changes. Other relevant details and instructions regarding the assessments will be shared separately.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "20-11-2026 20:12"
+    },
     {
       "id": "1792",
       "type": "PLACEMENT",
