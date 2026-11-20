@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "20 Nov 2026, 06:02:24 PM",
-  "next_check": "20 Nov 2026, 06:32:24 PM",
-  "notice_count": 1617,
+  "last_check": "20 Nov 2026, 06:32:41 PM",
+  "next_check": "20 Nov 2026, 07:02:41 PM",
+  "notice_count": 1619,
   "placement_count": 231,
   "notices": [
+    {
+      "id": "1792",
+      "type": "PLACEMENT",
+      "subject": "PPO",
+      "company": "Accenture",
+      "notice": "Accenture  has extended the offer to the following student(s):Ankur Dutta - 22IM30044Diya Sharma - 22GG10018The students are advised to give offer acceptance by 19.11.2026.(For more details, check your email ID.)CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "20-11-2026 18:17"
+    },
+    {
+      "id": "1791",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "MeltPlan Inc",
+      "notice": "The CV submission of MeltPlan (Profile: Software Engineer, Estimating Engineer) has been opened till 8:00 PM, 21st November 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "20-11-2026 18:09"
+    },
     {
       "id": "1790",
       "type": "PLACEMENT",
@@ -16780,7 +16798,7 @@
       "additional_details_2": "Download",
       "application_status": "Y",
       "resume_upload_start": "2026-11-19 16:36",
-      "resume_upload_end": "2026-11-20 16:00",
+      "resume_upload_end": "2026-11-21 20:00",
       "interview_selection": "",
       "contract": ""
     },
