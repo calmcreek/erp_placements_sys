@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "21 Nov 2026, 09:02:15 PM",
-  "next_check": "21 Nov 2026, 09:32:15 PM",
-  "notice_count": 1634,
+  "last_check": "21 Nov 2026, 09:32:25 PM",
+  "next_check": "21 Nov 2026, 10:02:25 PM",
+  "notice_count": 1636,
   "placement_count": 258,
   "notices": [
+    {
+      "id": "1811",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "JAVIS",
+      "notice": "The CV submission of JAVIS for all roles has been opened till 8:00 PM 22nd November 2026Its mandatory for all the candidates who are applying for the roles, to fill the following google form attached below:Google Form: https://forms.gle/tUWuigtehLBUgtuc7Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EC39030",
+      "notice_time": "21-11-2026 21:14"
+    },
+    {
+      "id": "1810",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Piramal Finance",
+      "notice": "The CV Submission for Piramal Finance for the both roles has been opened till 8:00 PM, 22nd November, 2026.All candidates who are applying for the role, are required to kindly fill the Additional Details Form given below. Link: https://forms.gle/scMdRrkdpNVyeUxw6Deadline: 22nd November 2026, 8:00 PMInterested and eligible students are advised to apply on the portal and fill the form within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EC39030",
+      "notice_time": "21-11-2026 21:04"
+    },
     {
       "id": "1809",
       "type": "PLACEMENT",
