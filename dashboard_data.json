@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "21 Nov 2026, 05:02:11 PM",
-  "next_check": "21 Nov 2026, 05:32:11 PM",
-  "notice_count": 1630,
+  "last_check": "21 Nov 2026, 05:32:25 PM",
+  "next_check": "21 Nov 2026, 06:02:25 PM",
+  "notice_count": 1631,
   "placement_count": 244,
   "notices": [
+    {
+      "id": "1806",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "TransUnion",
+      "notice": "The CV submission of TransUnion has been extended with revised eligibility till 4:00 PM, 22nd November 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "21-11-2026 17:22"
+    },
     {
       "id": "1805",
       "type": "PLACEMENT",
