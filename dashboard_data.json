@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "21 Nov 2026, 06:02:18 PM",
-  "next_check": "21 Nov 2026, 06:32:18 PM",
-  "notice_count": 1632,
+  "last_check": "21 Nov 2026, 06:32:27 PM",
+  "next_check": "21 Nov 2026, 07:02:27 PM",
+  "notice_count": 1633,
   "placement_count": 244,
   "notices": [
+    {
+      "id": "1808",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "ICICI BANK",
+      "notice": "All the eligible students who have applied for ICICI Bank and are facing issues during the portal registration are required to fill out the query form linked below.Form Link: https://forms.gle/ncR5duMtRgZneYpv6Deadline: 22nd November 2026, 10:00 AMCDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "21-11-2026 18:13"
+    },
     {
       "id": "1807",
       "type": "PLACEMENT",
