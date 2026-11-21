@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "21 Nov 2026, 12:32:24 PM",
-  "next_check": "21 Nov 2026, 01:02:24 PM",
-  "notice_count": 1624,
+  "last_check": "21 Nov 2026, 01:02:15 PM",
+  "next_check": "21 Nov 2026, 01:32:15 PM",
+  "notice_count": 1625,
   "placement_count": 244,
   "notices": [
+    {
+      "id": "1798",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "HPCL",
+      "notice": "The CV Submission for HPCL for the Officer-Engineering role have been extended till 11:59 PM, 22 November, 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.Fill the google sheet -https://docs.google.com/forms/d/e/1FAIpQLSctISBm34I2uwEftTvu2S9bWFh5AQU_yC4sMheUDVx23Diicw/viewform?usp=dialogFilling this form is mandatory, failing which application shall not be further processed.CDC, IIT Kharagpur",
+      "notice_by": "17164",
+      "notice_time": "21-11-2026 12:34"
+    },
     {
       "id": "1797",
       "type": "PLACEMENT",
