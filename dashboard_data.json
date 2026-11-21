@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "22 Nov 2026, 01:02:10 AM",
-  "next_check": "22 Nov 2026, 01:32:10 AM",
-  "notice_count": 1639,
+  "last_check": "22 Nov 2026, 01:32:25 AM",
+  "next_check": "22 Nov 2026, 02:02:25 AM",
+  "notice_count": 1640,
   "placement_count": 258,
   "notices": [
+    {
+      "id": "1815",
+      "type": "PLACEMENT",
+      "subject": "Additional requirement",
+      "company": "Multiple Companies",
+      "notice": "All eligible students who have applied to the following companies are required to fill in the respective Additional Details forms, wherever applicable.1. BLACKBUCK - https://forms.gle/MEP7T3CKUsGbGScn72. ICICI LOMBARD  https://forms.gle/Di2j1Sw7VyCurUud73. ATHER ENERGY  https://forms.gle/JxJNMNYejRY2xp1Y94. WATERFLY  https://forms.gle/S5RrRTPs8zYTinnLA5. AIRAMATRIX  https://forms.gle/aMqTKukPq1gLVZQV86. INTELLIMATION AI  https://forms.gle/bi8CTqAdsUNr2Wod87. SLB  https://forms.gle/GN3k8hPjxzKSow1178. PIRAMAL FINANCE  https://forms.gle/scMdRrkdpNVyeUxw69. JAVIS  https://forms.gle/tUWuigtehLBUgtuc710. LTM  https://forms.gle/xM6T2W15UjbfN4x2611. FINARB  https://forms.gle/PUWWMQ6bzRNyxYcn912. AURO GROUP  https://forms.gle/hCjiDjPCMyUeK7S7813. TATA AIG  https://forms.gle/RJknpyAqiZfnMMhB6Deadline: 22nd November 2026, 8:00 PMStudents are advised to check the respective forms and complete their submissions within the stipulated deadlines.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "22-11-2026 01:14"
+    },
     {
       "id": "1814",
       "type": "PLACEMENT",
