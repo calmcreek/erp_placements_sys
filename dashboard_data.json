@@ -1,10 +1,37 @@
 {
   "erp_status": "Connected",
-  "last_check": "21 Nov 2026, 09:32:25 PM",
-  "next_check": "21 Nov 2026, 10:02:25 PM",
-  "notice_count": 1636,
+  "last_check": "21 Nov 2026, 10:02:17 PM",
+  "next_check": "21 Nov 2026, 10:32:17 PM",
+  "notice_count": 1639,
   "placement_count": 258,
   "notices": [
+    {
+      "id": "1814",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Nation With Namo",
+      "notice": "PFA the test room allocation for the Assessment of Nation with Namo for the Associate role, scheduled from 10:00 PM onwards on 21st November, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card/Medical Book, failing which students will not be permitted to sit for test.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Aditi (+91 8815395895), Nikhita (+91 8770035884) CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "21-11-2026 21:56"
+    },
+    {
+      "id": "1813",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "Multiple Companies",
+      "notice": "The CV Submission for the following companies has been extended till 8:00 PM, 22nd November, 2026.1. ACCELEQUANT INDIA PVT. LTD. (Profile: Quantum Engineer 1)2. AIPRISE (Profile: All)3. ASTERA LABS (Profile: All)4. ATHER ENERGY (Profile: All)5. AURO GROUP (Profile: All)6. AXIS BANK (Profile: Business Intelligence Unit)7. AXON DEVELOPERS  (Profile: All)8. DASSAULT SYSTEMES  (Profile: All)9. DIAGEO (Profile: GBS Management Trainee)10. ESRI (Profile: Data Scientist 1)11. FLIPSPACES TECHNOLOGY LABS  (Profile: Entrepreneur-in-Residence)12. KALAM LABS  (Profile: All)13. LTM  (Profile: Graduate Engineer Trainee, Post-Graduate Engineer Trainee)14. LYSKRAFT PVT LTD (Profile: All)15. NATIONAL PAYMENTS CORPORATION OF INDIA (Profile: Graduate Engineer Trainee)16. PHYSICSWALLAH LIMITED (Profile: Associate Product Manager)17. RECKITT  (Profile: FLS Trainee)18. SEARCE INC.  (Profile: All)19. SLB  (Profile: All)20. TCG DIGITAL SOLUTIONS (Profile: Consultant/Product Developer)21. TRANSUNION (Profile: Graduate Software Engineer)22. WATERFLY  (Profile: All)23. XION MULTIVENTURES  (Profile: Trainee Trader & Research Analyst)24. YMS FINANCIAL PRIVATE LIMITED  (Profile: Quant Researcher)25. ZETWERK MANUFACTURING BUSINESSES LIMITED (Profile: Management Trainee)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "21-11-2026 21:54"
+    },
+    {
+      "id": "1812",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Multiple Companies",
+      "notice": "The following companies are open for CV Submission till 8:00 PM, 22nd November, 2026.1. INTELLIMATION AI (Profile: All)2. CASHFREE PAYMENTS (Profile: Software Development Engineer 1)3. PIRAMAL FINANCE (Profile: All)4. SLB  (Profile: Petrotechnical Engineer)5. ORMAE (Profile: Operation Research Scientist I)6. JAVIS (Profile: All)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "21-11-2026 21:52"
+    },
     {
       "id": "1811",
       "type": "PLACEMENT",
