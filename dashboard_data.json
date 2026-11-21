@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "21 Nov 2026, 02:32:29 PM",
-  "next_check": "21 Nov 2026, 03:02:29 PM",
-  "notice_count": 1626,
+  "last_check": "21 Nov 2026, 03:02:11 PM",
+  "next_check": "21 Nov 2026, 03:32:11 PM",
+  "notice_count": 1627,
   "placement_count": 244,
   "notices": [
+    {
+      "id": "1800",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "GROWW",
+      "notice": "PFA the shortlist for the Groww AI Assessment Round.The assessment starts at 3:00 PM , 21st November 2026Deadline: Complete the assessment by 4:30 PM IST on 21 November 2026Venue: Respective LocationsNOTE:1) Each shortlisted candidate will receive a personal email from \"Groww via MasterPrep AI\" (groww@masterprep.ai). Check spam or promotions if it isn't in your inbox.2) Device and browser:Laptop or desktop: any browser except Firefox.Phone: Safari or Chrome on iPhone, Chrome on Android. Samsung Internet won't work.3)Before you start: find a quiet room, use headphones if you can, and allow camera and microphone access when the browser asks. The interview is recorded.4) If you see \"Too Many Requests\": the campus network is shared by many students. Switch to your phone's mobile data or hotspot, and open your link again.5) If you see \"Server is at capacity\": try again in a few minutes.6) Open your link in only one tab on one device. Don't keep refreshing; it can lock out other students on the same network.7) If the link is not working or it's expired, use \"Request a new sign-in link\" on the sign-in page.Students are requested to complete their assessments within the given deadline.POC: Khush (+91 9922168000), Ritvik (+91 9480360231)CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "21-11-2026 14:50"
+    },
     {
       "id": "1799",
       "type": "PLACEMENT",
