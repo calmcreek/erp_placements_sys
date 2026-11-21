@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "21 Nov 2026, 02:02:11 PM",
-  "next_check": "21 Nov 2026, 02:32:11 PM",
-  "notice_count": 1625,
+  "last_check": "21 Nov 2026, 02:32:29 PM",
+  "next_check": "21 Nov 2026, 03:02:29 PM",
+  "notice_count": 1626,
   "placement_count": 244,
   "notices": [
+    {
+      "id": "1799",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "MEESHO",
+      "notice": "PFA the shortlist for the Meesho AI Assessment Round.All shortlisted students who have received the communication via email are required to book a assessment slot accordingly.Slot Booking Starts: 3:00 PM, 21st November 2026Deadline: 6:00 PM, 22nd November 2026Venue: Respective LocationStudents are requested to book their slots within the given deadline.Note: Shortlisted candidates who have not received the link are requested to fill out the following form.Form link: https://forms.gle/UGLr9tihnxFNurRR7POC: Bhavy (+91 7597121669), Neev (+91 9001346350)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "21-11-2026 14:26"
+    },
     {
       "id": "1798",
       "type": "PLACEMENT",
