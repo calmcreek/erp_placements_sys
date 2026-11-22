@@ -1,10 +1,46 @@
 {
-  "erp_status": "Error",
-  "last_check": "22 Nov 2026, 05:02:30 PM",
-  "next_check": null,
-  "notice_count": 1645,
+  "erp_status": "Connected",
+  "last_check": "22 Nov 2026, 06:32:40 PM",
+  "next_check": "22 Nov 2026, 07:02:40 PM",
+  "notice_count": 1649,
   "placement_count": 264,
   "notices": [
+    {
+      "id": "1824",
+      "type": "INTERNSHIP",
+      "subject": "CV Submission",
+      "company": "GODREJ PROPERTIES LIMITED",
+      "notice": "The CV submission of Godrej Properties Limited for the role of Operations Intern has been opened till 11:59 PM, 23rd November 2026It is mandatory for all candidates who are applying for the role, to register on the portal link below:Portal Link: https://gradpartners.in/festival/summersault-challenge-3.0Interested and eligible students are advised to apply on ERP and the portal within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "22-11-2026 18:02"
+    },
+    {
+      "id": "1823",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "GODREJ PROPERTIES LIMITED",
+      "notice": "The CV submission of Godrej Properties Limited for the role of Assistant Manager - Civil Execution has been extended till 4:00 PM, 23rd November 2026It is mandatory for all candidates who are applying for the role, to register on the portal link below:Portal Link: https://gradpartners.in/festival/summersault-challenge-3.0Interested and eligible students are advised to apply on ERP and the portal within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "22-11-2026 18:01"
+    },
+    {
+      "id": "1822",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Meesho",
+      "notice": "Students who have not blocked their Meesho AI Assessment slot yet are requested to block their slot at the earliest.A new link has been triggered to the concerned students. The link will remain open until 2:00 PM, 23rd November.Please ensure that you complete the slot blocking within the given deadline.Deadline: 2:00 PM, 23rd November 2026Venue: Respective LocationStudents are requested to book their slots within the given deadline.POC: Bhavy (+91 7597121669), Neev (+91 9001346350)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "22-11-2026 17:41"
+    },
+    {
+      "id": "1821",
+      "type": "PLACEMENT",
+      "subject": "Shortlist",
+      "company": "OLA",
+      "notice": "PFA the Shortlist for the further process of OLA for the roles of Founder's Program - General Management, Founder's Program - TechnologyCDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "22-11-2026 17:30"
+    },
     {
       "id": "1820",
       "type": "PLACEMENT",
@@ -19037,5 +19073,5 @@
       "contract": ""
     }
   ],
-  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "last_error": null
 }
