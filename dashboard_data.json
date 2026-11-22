@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "22 Nov 2026, 01:32:24 PM",
-  "next_check": "22 Nov 2026, 02:02:24 PM",
-  "notice_count": 1643,
+  "last_check": "22 Nov 2026, 02:03:15 PM",
+  "next_check": "22 Nov 2026, 02:33:15 PM",
+  "notice_count": 1645,
   "placement_count": 264,
   "notices": [
+    {
+      "id": "1820",
+      "type": "PLACEMENT",
+      "subject": "General",
+      "company": "Placement Guidelines",
+      "notice": "Students eligible for the CDC Placement Process 202627, who have gone for SAIP (or equivalent) in summer 2026 and have already returned to campus must mandatorily report to the Nalanda Classroom Complex for all pre-placement assessments.Failure to attend pre-placement assessments in person at Nalanda Classroom Complex after returning from the SAIP or equivalent program will invite strict disciplinary action.CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "22-11-2026 14:01"
+    },
+    {
+      "id": "1819",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "FUTURES FIRST",
+      "notice": "The CV submission of Futures First has been opened till 4:00 PM, 23rd November 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.Note: Eligible students are also required to register on the company portal till 4:00 PM, 23rd November 2026.Registration Link: https://insight.futuresfirst.com/ats/campusapplicationform.php?appjsuwb=270&sourcekjfef=28CDC, IIT Kharagpur",
+      "notice_by": "23EC39030",
+      "notice_time": "22-11-2026 13:35"
+    },
     {
       "id": "1818",
       "type": "PLACEMENT",
