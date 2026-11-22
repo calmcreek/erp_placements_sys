@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "23 Nov 2026, 12:02:24 AM",
-  "next_check": "23 Nov 2026, 12:32:24 AM",
-  "notice_count": 1654,
+  "last_check": "23 Nov 2026, 12:09:35 AM",
+  "next_check": "23 Nov 2026, 12:39:35 AM",
+  "notice_count": 1655,
   "placement_count": 272,
   "notices": [
+    {
+      "id": "1831",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "EMERGENCY CONTACT",
+      "notice": "All students eligible for Placements are advised to provide their emergency contact.The emergency contact provided would be used during the Placement process to reach out to the students if they are not responsive on their registered contacts.Please find the google form link: https://forms.gle/DYfwNsyYUPaTGNbKACDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "23-11-2026 00:08"
+    },
     {
       "id": "1830",
       "type": "PLACEMENT",
