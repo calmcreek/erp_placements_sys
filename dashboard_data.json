@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "22 Nov 2026, 11:32:23 AM",
-  "next_check": "22 Nov 2026, 12:02:23 PM",
-  "notice_count": 1641,
+  "last_check": "22 Nov 2026, 12:02:21 PM",
+  "next_check": "22 Nov 2026, 12:32:21 PM",
+  "notice_count": 1642,
   "placement_count": 263,
   "notices": [
+    {
+      "id": "1817",
+      "type": "PLACEMENT",
+      "subject": "Shortlist",
+      "company": "FirstClub",
+      "notice": "PFA the Shortlist for the further process of FirstclubCDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "22-11-2026 11:45"
+    },
     {
       "id": "1816",
       "type": "PLACEMENT",
