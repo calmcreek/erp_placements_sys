@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "22 Nov 2026, 11:32:43 PM",
-  "next_check": "23 Nov 2026, 12:02:43 AM",
-  "notice_count": 1653,
+  "last_check": "23 Nov 2026, 12:02:24 AM",
+  "next_check": "23 Nov 2026, 12:32:24 AM",
+  "notice_count": 1654,
   "placement_count": 272,
   "notices": [
+    {
+      "id": "1830",
+      "type": "PLACEMENT",
+      "subject": "Additional requirement",
+      "company": "Multiple Companies",
+      "notice": "All eligible students who have applied to the following companies are required to fill in the respective Additional Details forms, wherever applicable.1. ATHER ENERGY  https://forms.gle/JxJNMNYejRY2xp1Y92. INTELLIMATION AI  https://forms.gle/bi8CTqAdsUNr2Wod83. SLB  https://forms.gle/GN3k8hPjxzKSow1174. PIRAMAL FINANCE  https://forms.gle/scMdRrkdpNVyeUxw65. JAVIS  https://forms.gle/tUWuigtehLBUgtuc76. FINARB  https://forms.gle/PUWWMQ6bzRNyxYcn97. AURO GROUP  https://forms.gle/hCjiDjPCMyUeK7S788. DIAGEO  https://forms.gle/nUAQduS31WAEAGUs59. RISA LABS  https://forms.gle/B9qqB7G32HjHJb1H910. NOMURA  https://forms.gle/TJrBk3ijQkX823UV8Deadline: 23rd November 2026, 8:00 PMStudents are advised to check the respective forms and complete their submissions within the stipulated deadlines.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "22-11-2026 23:47"
+    },
     {
       "id": "1829",
       "type": "PLACEMENT",
