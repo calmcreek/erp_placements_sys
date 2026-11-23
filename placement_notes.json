@@ -1,7 +1,7 @@
 {
   "notes": {
     "accenture japan::digital consultant": "Test Written",
-    "accordion india::ai_ml engineer 2": "ppt",
+    "accordion india::ai_ml engineer 2": "Test Written",
     "accordion india::data & ai analyst 2": "ppt",
     "accordion india::data & ai engineer 2": "ppt",
     "aiprise::software engineer i, full stack (frontend focused)": "--",
@@ -79,7 +79,6 @@
     "meesho::senior assosiate - business management": "PPT",
     "meltplan inc::software engineer": "-",
     "mygate::software developer engineer": "-",
-    "nexusone::data/app engineer": "-",
     "ola::graduate engineer trainee (get) software, cloud engineering & ai": "PPT",
     "ola::founder's program technology": "PPT",
     "physicswallah limited::associate product manager (apm)": "-",
@@ -105,7 +104,8 @@
     "waterfly technologies::management consultant 1": "-",
     "wex::software engineer 1": "TEST WRITTEN",
     "windflow::ai engineer": "-",
-    "yms financial private limited::quant researcher": "-"
+    "yms financial private limited::quant researcher": "-",
+    "nexusone::data/app engineer": "Test Written"
   },
   "legacyNotes": {
     "49": "No Shortlist"
