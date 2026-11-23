@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "23 Nov 2026, 11:32:48 AM",
-  "next_check": "23 Nov 2026, 12:02:48 PM",
-  "notice_count": 1658,
+  "last_check": "23 Nov 2026, 12:02:25 PM",
+  "next_check": "23 Nov 2026, 12:32:25 PM",
+  "notice_count": 1659,
   "placement_count": 272,
   "notices": [
+    {
+      "id": "1835",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Analog Devices",
+      "notice": "All the students who have applied for Analog Devices need to register on the Hirepro Portal.Students are required to complete their registration on the portal by 23rd November 2026, 3:00 PM. The link has been shared over mail.No further extension will be provided.Students who have already completed their registration earlier need not register again.Please note that registrations not completed within the deadline will not be considered for further process.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "23-11-2026 11:59"
+    },
     {
       "id": "1834",
       "type": "PLACEMENT",
