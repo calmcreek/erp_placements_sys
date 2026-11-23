@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "23 Nov 2026, 10:32:35 PM",
-  "next_check": "23 Nov 2026, 11:02:35 PM",
-  "notice_count": 1665,
+  "last_check": "23 Nov 2026, 11:02:32 PM",
+  "next_check": "23 Nov 2026, 11:32:32 PM",
+  "notice_count": 1666,
   "placement_count": 274,
   "notices": [
+    {
+      "id": "1843",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "MICROSOFT",
+      "notice": "The CV submission of MICROSOFT for the Applied Scientist role has been extended till 08:00 PM, 24th November 2026Its mandatory for all the candidates who are applying for the Applied Scientist role, to fill over the Company's Portal link added below https://apply.careers.microsoft.com/careers/job/1970393557074078Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "23-11-2026 22:41"
+    },
     {
       "id": "1842",
       "type": "PLACEMENT",
