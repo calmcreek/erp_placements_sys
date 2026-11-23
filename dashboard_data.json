@@ -1,10 +1,28 @@
 {
-  "erp_status": "Error",
-  "last_check": "23 Nov 2026, 09:32:32 PM",
-  "next_check": null,
-  "notice_count": 1663,
+  "erp_status": "Connected",
+  "last_check": "23 Nov 2026, 10:32:35 PM",
+  "next_check": "23 Nov 2026, 11:02:35 PM",
+  "notice_count": 1665,
   "placement_count": 274,
   "notices": [
+    {
+      "id": "1842",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "NATIONAL PAYMENTS CORPORATION OF INDIA",
+      "notice": "The CV submission of NATIONAL PAYMENTS CORPORATION OF INDIA has been extended till 4:00 PM, 24th November 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EC39030",
+      "notice_time": "23-11-2026 22:29"
+    },
+    {
+      "id": "1841",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "RISA LABS",
+      "notice": "The CV submission of RISA LABS for all the roles has been extended till 10:00 AM, 24th November 2026Its mandatory for all the candidates who are applying for the roles, to fill the following google form attached below:Google Form: https://forms.gle/B9qqB7G32HjHJb1H9Note: Please find attached the JD for each role.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "23-11-2026 21:39"
+    },
     {
       "id": "1840",
       "type": "PLACEMENT",
@@ -19359,5 +19377,5 @@
       "contract": ""
     }
   ],
-  "last_error": "ERP authentication failed."
+  "last_error": null
 }
