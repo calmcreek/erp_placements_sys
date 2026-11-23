@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "23 Nov 2026, 12:32:28 PM",
-  "next_check": "23 Nov 2026, 01:02:28 PM",
-  "notice_count": 1659,
+  "last_check": "23 Nov 2026, 01:02:27 PM",
+  "next_check": "23 Nov 2026, 01:32:27 PM",
+  "notice_count": 1660,
   "placement_count": 272,
   "notices": [
+    {
+      "id": "1836",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "TRANSUNION",
+      "notice": "The Pre-Placement Talk for Transunion, will be held on 23rd November, 2026 from 6:00 PM.Link: https://teams.microsoft.com/meet/214417054810860?p=Z6SASXYxWZ7gKAdvQbMeeting ID: 214 417 054 810 860Passcode: Ay3GU6SmNote: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Khush (+91 9922168000)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "23-11-2026 12:38"
+    },
     {
       "id": "1835",
       "type": "PLACEMENT",
