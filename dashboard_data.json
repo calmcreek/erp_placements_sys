@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "23 Nov 2026, 11:02:15 AM",
-  "next_check": "23 Nov 2026, 11:32:15 AM",
-  "notice_count": 1656,
+  "last_check": "23 Nov 2026, 11:32:48 AM",
+  "next_check": "23 Nov 2026, 12:02:48 PM",
+  "notice_count": 1658,
   "placement_count": 272,
   "notices": [
+    {
+      "id": "1834",
+      "type": "PLACEMENT",
+      "subject": "PPO",
+      "company": "SLICE",
+      "notice": "SLICE has extended the offer to the following student(s):TUSHAR GUPTA - 23MA10065The students are advised to give offer acceptance by 23.11.26.(For more details, check your email ID.)CDC, IIT Kharagpur",
+      "notice_by": "23039",
+      "notice_time": "23-11-2026 11:17"
+    },
+    {
+      "id": "1833",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "WATERFLY TECHNOLOGIES",
+      "notice": "Please note that the Pre-Placement Talk for Waterfly Technologies will be held on 23rd November 2026 from 1:00 PM.Link: https://meet.google.com/mhw-xgsw-vjxAll interested students are required to attend the PPT without fail. Attendance is compulsory. Students should join 15 minutes prior to the meeting time.POC: Aditi (+91 88153 95895)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "23-11-2026 11:13"
+    },
     {
       "id": "1832",
       "type": "PLACEMENT",
