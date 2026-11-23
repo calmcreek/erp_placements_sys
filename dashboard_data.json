@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "23 Nov 2026, 11:32:36 PM",
-  "next_check": "24 Nov 2026, 12:02:36 AM",
-  "notice_count": 1666,
+  "last_check": "24 Nov 2026, 12:02:20 AM",
+  "next_check": "24 Nov 2026, 12:32:20 AM",
+  "notice_count": 1667,
   "placement_count": 274,
   "notices": [
+    {
+      "id": "1844",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "CELEBAL",
+      "notice": "A Kaggle Hackathon is being conducted for CELEBAL, and the participation link has been sent to all students who have registered for the company on ERP.Students who have not received the hackathon link are requested to fill out the QueryForm given below.Query Form: https://forms.gle/bDntovrpH1MziZry9All interested and eligible students are advised to participate in the hackathon and complete the submission within the given deadline.Deadline: 5:00 PM, 24th November 2026Venue: Respective LocationsPOC: Ritvik (+91 9480360231)No further extensions will be given to the candidates, and the students are advised to attempt the hackathon within the stipulated timeCDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "23-11-2026 23:34"
+    },
     {
       "id": "1843",
       "type": "PLACEMENT",
@@ -15013,7 +15022,7 @@
       "additional_details_2": "Download",
       "application_status": "",
       "resume_upload_start": "2026-11-20 22:45",
-      "resume_upload_end": "2026-11-23 20:00",
+      "resume_upload_end": "2026-11-24 10:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -15429,7 +15438,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-14 17:55",
-      "resume_upload_end": "2026-11-22 20:00",
+      "resume_upload_end": "2026-11-24 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -15445,7 +15454,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-18 17:33",
-      "resume_upload_end": "2026-11-22 20:00",
+      "resume_upload_end": "2026-11-24 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -15461,7 +15470,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-14 17:49",
-      "resume_upload_end": "2026-11-22 20:00",
+      "resume_upload_end": "2026-11-24 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -15765,7 +15774,7 @@
       "additional_details_2": "Download",
       "application_status": "",
       "resume_upload_start": "2026-11-22 10:47",
-      "resume_upload_end": "2026-11-23 20:00",
+      "resume_upload_end": "2026-11-24 10:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -15781,7 +15790,7 @@
       "additional_details_2": "Download",
       "application_status": "Y",
       "resume_upload_start": "2026-11-22 10:46",
-      "resume_upload_end": "2026-11-23 20:00",
+      "resume_upload_end": "2026-11-24 10:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -15797,7 +15806,7 @@
       "additional_details_2": "Download",
       "application_status": "",
       "resume_upload_start": "2026-11-22 10:47",
-      "resume_upload_end": "2026-11-23 20:00",
+      "resume_upload_end": "2026-11-24 10:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -15813,7 +15822,7 @@
       "additional_details_2": "Download",
       "application_status": "Y",
       "resume_upload_start": "2026-11-22 10:48",
-      "resume_upload_end": "2026-11-23 20:00",
+      "resume_upload_end": "2026-11-24 10:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -15941,7 +15950,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-21 20:40",
-      "resume_upload_end": "2026-11-23 20:00",
+      "resume_upload_end": "2026-11-24 10:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -16133,7 +16142,7 @@
       "additional_details_2": "Download",
       "application_status": "Y",
       "resume_upload_start": "2026-11-16 17:52",
-      "resume_upload_end": "2026-11-22 20:00",
+      "resume_upload_end": "2026-11-24 20:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -16149,7 +16158,7 @@
       "additional_details_2": "Download",
       "application_status": "Y",
       "resume_upload_start": "2026-11-16 17:51",
-      "resume_upload_end": "2026-11-22 20:00",
+      "resume_upload_end": "2026-11-24 20:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -16277,7 +16286,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-20 23:08",
-      "resume_upload_end": "2026-11-22 20:00",
+      "resume_upload_end": "2026-11-24 20:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -16629,7 +16638,7 @@
       "additional_details_2": "Download",
       "application_status": "",
       "resume_upload_start": "2026-11-22 13:29",
-      "resume_upload_end": "2026-11-23 20:00",
+      "resume_upload_end": "2026-11-24 10:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -17109,7 +17118,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-21 20:39",
-      "resume_upload_end": "2026-11-23 20:00",
+      "resume_upload_end": "2026-11-24 10:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -17125,7 +17134,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-21 20:39",
-      "resume_upload_end": "2026-11-23 20:00",
+      "resume_upload_end": "2026-11-24 10:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -17141,7 +17150,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-21 20:38",
-      "resume_upload_end": "2026-11-23 20:00",
+      "resume_upload_end": "2026-11-24 10:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -17269,7 +17278,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-21 20:43",
-      "resume_upload_end": "2026-11-23 20:00",
+      "resume_upload_end": "2026-11-24 10:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -17285,7 +17294,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-21 20:44",
-      "resume_upload_end": "2026-11-23 20:00",
+      "resume_upload_end": "2026-11-24 10:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -17301,7 +17310,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-21 20:44",
-      "resume_upload_end": "2026-11-23 20:00",
+      "resume_upload_end": "2026-11-24 10:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -17317,7 +17326,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-21 20:42",
-      "resume_upload_end": "2026-11-23 20:00",
+      "resume_upload_end": "2026-11-24 10:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -17333,7 +17342,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-21 20:45",
-      "resume_upload_end": "2026-11-23 20:00",
+      "resume_upload_end": "2026-11-24 10:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -17349,7 +17358,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-21 20:42",
-      "resume_upload_end": "2026-11-23 20:00",
+      "resume_upload_end": "2026-11-24 10:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -17365,7 +17374,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-21 20:43",
-      "resume_upload_end": "2026-11-23 20:00",
+      "resume_upload_end": "2026-11-24 10:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -18181,7 +18190,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-21 19:33",
-      "resume_upload_end": "2026-11-23 20:00",
+      "resume_upload_end": "2026-11-24 10:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -18197,7 +18206,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-21 19:31",
-      "resume_upload_end": "2026-11-23 20:00",
+      "resume_upload_end": "2026-11-24 10:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -19077,7 +19086,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-14 17:32",
-      "resume_upload_end": "2026-11-17 16:00",
+      "resume_upload_end": "2026-11-24 20:00",
       "interview_selection": "",
       "contract": ""
     },
