@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "24 Nov 2026, 05:02:17 PM",
-  "next_check": "24 Nov 2026, 05:32:17 PM",
-  "notice_count": 1681,
+  "last_check": "24 Nov 2026, 05:32:33 PM",
+  "next_check": "24 Nov 2026, 06:02:33 PM",
+  "notice_count": 1682,
   "placement_count": 274,
   "notices": [
+    {
+      "id": "1859",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "FischerJordan",
+      "notice": "All the applicants of Fischer Jordan for all the roles are requested to fill the form given below for additional details by 11:59 PM, 24th November 2026.Form link: https://docs.google.com/forms/d/e/1FAIpQLSeqlciFEn-Ujmdn_dP2gB4_Se9n4MYnI0AzNbT_DPekQ1rjUg/viewformInterested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23CH30006",
+      "notice_time": "24-11-2026 17:05"
+    },
     {
       "id": "1858",
       "type": "PLACEMENT",
