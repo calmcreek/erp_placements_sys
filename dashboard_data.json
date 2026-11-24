@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "24 Nov 2026, 11:02:21 AM",
-  "next_check": "24 Nov 2026, 11:32:21 AM",
-  "notice_count": 1673,
+  "last_check": "24 Nov 2026, 11:32:54 AM",
+  "next_check": "24 Nov 2026, 12:02:54 PM",
+  "notice_count": 1675,
   "placement_count": 274,
   "notices": [
+    {
+      "id": "1852",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "FUTURES FIRST",
+      "notice": "Please note that the Pre-Placement Talk for Futures First will be held on 24th November 2026 from 12:00 PM.Link: https://teams.microsoft.com/meet/31222668586093?p=DU9zwx9Zh7oW1b8Q7WAll interested students are required to attend the PPT without fail. Attendance is compulsory. Students should join 15 minutes prior to the meeting time.POC: Vatsal (+91 92344 57393 )CDC, IIT Kharagpur",
+      "notice_by": "23EC39030",
+      "notice_time": "24-11-2026 11:23"
+    },
+    {
+      "id": "1851",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "OLA",
+      "notice": "PFA the test room allocation of shortlisted candidates for the Assessment of Ola for the roles of GET Electrical, Product, Cell & Chemical, scheduled from 12:00 PM onwards on 24th November, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card, failing which students will not be permitted to sit for test.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POCs: Nikhita (+91 87700 35884)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "24-11-2026 11:21"
+    },
     {
       "id": "1850",
       "type": "PLACEMENT",
