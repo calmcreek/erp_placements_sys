@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "24 Nov 2026, 11:32:54 AM",
-  "next_check": "24 Nov 2026, 12:02:54 PM",
-  "notice_count": 1675,
+  "last_check": "24 Nov 2026, 12:02:47 PM",
+  "next_check": "24 Nov 2026, 12:32:47 PM",
+  "notice_count": 1676,
   "placement_count": 274,
   "notices": [
+    {
+      "id": "1853",
+      "type": "PLACEMENT",
+      "subject": "PPO",
+      "company": "CITI BANK",
+      "notice": "CITI has extended the offer to the following student(s):SUDITI MANDAL - 22HS23016SAYAN DAS - 22ME3FP22The students are advised to give offer acceptance by 24.11.2026.(For more details, check your email ID.)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "24-11-2026 11:50"
+    },
     {
       "id": "1852",
       "type": "PLACEMENT",
