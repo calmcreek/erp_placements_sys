@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "24 Nov 2026, 04:02:17 PM",
-  "next_check": "24 Nov 2026, 04:32:17 PM",
-  "notice_count": 1680,
+  "last_check": "24 Nov 2026, 04:32:43 PM",
+  "next_check": "24 Nov 2026, 05:02:43 PM",
+  "notice_count": 1681,
   "placement_count": 274,
   "notices": [
+    {
+      "id": "1858",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Mercedes Benz",
+      "notice": "The pending Assessment of Mercedes-Benz for students of the Chemical Engineering (CH) Department, which could not be conducted earlier, will now be held today, 24th November 2026, from 5:00 PM onwards.Venue: NR 221, Nalanda Classroom ComplexAll concerned students are requested to report to the venue on time and carry their laptops and original Institute ID cards.POCs: Nikhita (+91 8770035884)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "24-11-2026 16:26"
+    },
     {
       "id": "1857",
       "type": "PLACEMENT",
