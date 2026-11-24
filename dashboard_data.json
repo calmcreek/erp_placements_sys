@@ -1,10 +1,46 @@
 {
-  "erp_status": "Error",
-  "last_check": "24 Nov 2026, 08:02:20 PM",
-  "next_check": null,
-  "notice_count": 1688,
+  "erp_status": "Connected",
+  "last_check": "24 Nov 2026, 09:02:25 PM",
+  "next_check": "24 Nov 2026, 09:32:25 PM",
+  "notice_count": 1692,
   "placement_count": 279,
   "notices": [
+    {
+      "id": "1869",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "MELTPLAN",
+      "notice": "PFA the test room allocation for the Assessment of MeltPlan for the role of Estimation Engineer, scheduled from 9:45 PM onwards on 24th November, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card, failing which students will not be permitted to sit for test.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POCs: Vatsal (+91 92344 57393), Nikhita (+91 87700 35884)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "24-11-2026 20:40"
+    },
+    {
+      "id": "1868",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "MELTPLAN",
+      "notice": "PFA the test room allocation for the Assessment of MeltPlan for the role of Software Engineer, scheduled from 8:15 PM onwards on 24th November, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card, failing which students will not be permitted to sit for test.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POCs: Vatsal (+91 92344 57393), Nikhita (+91 87700 35884)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "24-11-2026 20:11"
+    },
+    {
+      "id": "1867",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Multiple Companies",
+      "notice": "The following companies are open for CV Submission till 8:00 PM, 25th November, 2026.1.  WALMART GLOBAL TECH (Profile: SOFTWARE ENGINEERING II)2.  JIO PLATFORMS LIMITED  (Profile: All the roles)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EC39030",
+      "notice_time": "24-11-2026 20:04"
+    },
+    {
+      "id": "1866",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "ZS Associates",
+      "notice": "The CV submission of ZS Associates for all the roles has been opened till 08:00 PM, 25th November 2026.Its mandatory for all the candidates who are applying for the roles, to fill the following google form attached below:Form Link : https://forms.gle/Wryps2DLJSZZH98E9Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EC39030",
+      "notice_time": "24-11-2026 20:02"
+    },
     {
       "id": "1865",
       "type": "PLACEMENT",
@@ -19664,5 +19700,5 @@
       "contract": ""
     }
   ],
-  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "last_error": null
 }
