@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "24 Nov 2026, 12:02:47 PM",
-  "next_check": "24 Nov 2026, 12:32:47 PM",
-  "notice_count": 1676,
+  "last_check": "24 Nov 2026, 12:32:49 PM",
+  "next_check": "24 Nov 2026, 01:02:49 PM",
+  "notice_count": 1677,
   "placement_count": 274,
   "notices": [
+    {
+      "id": "1854",
+      "type": "PLACEMENT",
+      "subject": "PPO",
+      "company": "Fidelity Investments",
+      "notice": "Fidelity Investments has extended the offer to the following student(s):JYOTI - 22MI3EP22The students are advised to give offer acceptance by 24.11.2026.(For more details, check your email ID.)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "24-11-2026 12:05"
+    },
     {
       "id": "1853",
       "type": "PLACEMENT",
