@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "24 Nov 2026, 10:32:42 PM",
-  "next_check": "24 Nov 2026, 11:02:42 PM",
-  "notice_count": 1693,
+  "last_check": "24 Nov 2026, 11:02:16 PM",
+  "next_check": "24 Nov 2026, 11:32:16 PM",
+  "notice_count": 1694,
   "placement_count": 279,
   "notices": [
+    {
+      "id": "1871",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Multiple Companies",
+      "notice": "The following companies are open for CV Submission till 8:00 PM, 25th November, 2026 with revised eligibility1) DELOITTE (Profile: Analyst)2) DELOITTE TOUCHE TOHMATSU (Profile: Analyst | GPS: Economic Development & Urban/Government Transformation)All interested students are advised to fill in the preference form as well as the job portal:preference form link: https://forms.gle/8Y4yByoaxU29capr8portal link: https://usijobs.deloitte.com/careersUSI/HiddenJob?jobId=369832&source=Campus+career+centerInterested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "24-11-2026 22:33"
+    },
     {
       "id": "1870",
       "type": "PLACEMENT",
