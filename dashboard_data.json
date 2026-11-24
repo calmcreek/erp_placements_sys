@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "24 Nov 2026, 11:02:16 PM",
-  "next_check": "24 Nov 2026, 11:32:16 PM",
-  "notice_count": 1694,
+  "last_check": "24 Nov 2026, 11:32:29 PM",
+  "next_check": "25 Nov 2026, 12:02:29 AM",
+  "notice_count": 1695,
   "placement_count": 279,
   "notices": [
+    {
+      "id": "1872",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "BLUESTONE",
+      "notice": "All students who are eligible and have applied for the Management Trainee (Marketing) and Content Generalist roles at BLUESTONE are required to go through the shared assignment and prepare their solutions in accordance with the guidelines provided.Important Instructions:1. Submission Deadline: 27th November 2026, 11:59 PM sharp.2. The assignment and submission link have been shared with all eligible applicants on their respective registered email IDs.Please ensure that your submission is completed within the specified deadline.No further extensions will be provided.CDC, IIT Kharagpur",
+      "notice_by": "23EC39030",
+      "notice_time": "24-11-2026 23:19"
+    },
     {
       "id": "1871",
       "type": "PLACEMENT",
