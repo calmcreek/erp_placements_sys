@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "25 Nov 2026, 10:02:20 PM",
-  "next_check": "25 Nov 2026, 10:32:20 PM",
-  "notice_count": 1706,
+  "last_check": "25 Nov 2026, 10:32:42 PM",
+  "next_check": "25 Nov 2026, 11:02:42 PM",
+  "notice_count": 1707,
   "placement_count": 284,
   "notices": [
+    {
+      "id": "1884",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Siemens EDA",
+      "notice": "The CV submission of Siemens EDA for all the roles has been opened till 8:00PM, 26th November 2026.Students are advised to complete the portal registration over the below portal link.Form Link: https://forms.gle/cSiPpGoxsS433YEL6Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "25-11-2026 22:24"
+    },
     {
       "id": "1883",
       "type": "PLACEMENT",
