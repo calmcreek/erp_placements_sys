@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "25 Nov 2026, 09:32:20 AM",
-  "next_check": "25 Nov 2026, 10:02:20 AM",
-  "notice_count": 1697,
+  "last_check": "25 Nov 2026, 10:02:29 AM",
+  "next_check": "25 Nov 2026, 10:32:29 AM",
+  "notice_count": 1698,
   "placement_count": 279,
   "notices": [
+    {
+      "id": "1875",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "GODREJ PROPERTIES LIMITED",
+      "notice": "The CV extended of Godrej Properties Limited has been opened till 11:59 PM, 25th November 2026It is mandatory for all candidates who are applying for the role, to register on the portal link below:Portal Link: https://gradpartners.in/festival/summersault-challenge-3.0Interested and eligible students are advised to apply on ERP and the portal within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17164",
+      "notice_time": "25-11-2026 09:35"
+    },
     {
       "id": "1874",
       "type": "PLACEMENT",
