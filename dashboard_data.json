@@ -1,10 +1,37 @@
 {
   "erp_status": "Connected",
-  "last_check": "25 Nov 2026, 02:32:29 PM",
-  "next_check": "25 Nov 2026, 03:02:29 PM",
-  "notice_count": 1698,
+  "last_check": "25 Nov 2026, 03:02:39 PM",
+  "next_check": "25 Nov 2026, 03:32:39 PM",
+  "notice_count": 1701,
   "placement_count": 280,
   "notices": [
+    {
+      "id": "1878",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "Microsoft",
+      "notice": "The CV submission of Microsoft for Applied Sciences role has been extended till 11:59 PM, 25th November 2026.Students are advised to complete the portal registration over the below portal link.Portal Link: https://apply.careers.microsoft.com/careers/job/1970393557074078Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "25-11-2026 14:53"
+    },
+    {
+      "id": "1877",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "BLUESTONE",
+      "notice": "The CV submission of BLUESTONE for Software Development Engineer role has been opened till 08:00 PM, 26th November 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "25-11-2026 14:52"
+    },
+    {
+      "id": "1876",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Cerebras systems",
+      "notice": "The CV submission of Cerebras systems for AI Systems Bring-up Engineer role has been opened till 04:00 PM, 26th November 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "25-11-2026 14:51"
+    },
     {
       "id": "1875",
       "type": "PLACEMENT",
