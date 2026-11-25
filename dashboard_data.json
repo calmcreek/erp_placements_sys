@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "25 Nov 2026, 07:32:35 PM",
-  "next_check": "25 Nov 2026, 08:02:35 PM",
-  "notice_count": 1705,
+  "last_check": "25 Nov 2026, 08:02:19 PM",
+  "next_check": "25 Nov 2026, 08:32:19 PM",
+  "notice_count": 1706,
   "placement_count": 283,
   "notices": [
+    {
+      "id": "1883",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "D. E. Shaw India",
+      "notice": "PFA the test room allocation for the Assessment of D. E. SHAW INDIA, scheduled from 9:00 PM onwards on 25th November, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card, failing which students will not be permitted to sit for the test. Note: The test link has already been shared with candidates through their CDC-registered email IDs. Please check your CDC Registered Email ID carefully for the test link.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Bhavy (+91 7597121669), Nikhita (+91 8770035884)CDC, IIT Kharagpur",
+      "notice_by": "23MI3EP25",
+      "notice_time": "25-11-2026 18:13"
+    },
     {
       "id": "1882",
       "type": "PLACEMENT",
