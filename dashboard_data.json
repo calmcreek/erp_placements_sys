@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "26 Nov 2026, 06:02:12 AM",
-  "next_check": "26 Nov 2026, 06:32:12 AM",
-  "notice_count": 1707,
+  "last_check": "26 Nov 2026, 06:32:33 AM",
+  "next_check": "26 Nov 2026, 07:02:33 AM",
+  "notice_count": 1708,
   "placement_count": 284,
   "notices": [
+    {
+      "id": "1885",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "PwC AC",
+      "notice": "The CV submission of PwC AC for the role of APP Mod Associate has been opened till 8 pm 26th November 2026Its mandatory for all the candidates who are applying for ALL the roles, to fill the following preference google form attached below:Preference Form: https://forms.gle/nXUd8mcqXi34TJXc6Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17164",
+      "notice_time": "26-11-2026 06:10"
+    },
     {
       "id": "1884",
       "type": "PLACEMENT",
