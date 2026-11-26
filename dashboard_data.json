@@ -1,18 +1,27 @@
 {
-  "erp_status": "Error",
-  "last_check": "27 Nov 2026, 02:06:13 AM",
-  "next_check": null,
-  "notice_count": 1740,
+  "erp_status": "Connected",
+  "last_check": "27 Nov 2026, 02:32:40 AM",
+  "next_check": "27 Nov 2026, 03:02:40 AM",
+  "notice_count": 1741,
   "placement_count": 292,
   "notices": [
     {
-      "id": "1920",
+      "id": "1922",
+      "type": "PLACEMENT",
+      "subject": "Additional requirement",
+      "company": "ZS ASSOCIATES",
+      "notice": "All the eligible students who have applied for ZS Associates for both the roles are required to kindly fill the Preference Form as linked below. Link: https://forms.gle/3wDgbtgsWqTRwfbT8Deadline: 27th November 2026, 10:00 AMKindly ensure you have filled the form before the deadline. No further extensions will be provided.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "27-11-2026 02:30"
+    },
+    {
+      "id": "1921",
       "type": "PLACEMENT",
       "subject": "Urgent",
       "company": "Walmart",
-      "notice": "PFA the room allocation for WALMART for the analyst roleTimings: 7 am onwards from 27th November 2026Venue: Nalanda Classroom ComplexPOC : Bhavy ( +91 7597121669), Neev ( +91 9001346350) CDC, IIT Kharagpur",
+      "notice": "PFA the room allocation for WALMART for the Software engineering II roleTimings: 7 am onwards from 27th November 2026Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card/Medical Book, failing which students will not be permitted to sit for test. Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC : Bhavy ( +91 7597121669), Neev ( +91 9001346350) CDC, IIT Kharagpur",
       "notice_by": "23EE38007",
-      "notice_time": "27-11-2026 01:29"
+      "notice_time": "27-11-2026 02:23"
     },
     {
       "id": "1919",
@@ -20340,5 +20349,5 @@
       "contract": ""
     }
   ],
-  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "last_error": null
 }
