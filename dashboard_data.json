@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "26 Nov 2026, 01:02:24 PM",
-  "next_check": "26 Nov 2026, 01:32:24 PM",
-  "notice_count": 1710,
+  "last_check": "26 Nov 2026, 01:32:33 PM",
+  "next_check": "26 Nov 2026, 02:02:33 PM",
+  "notice_count": 1711,
   "placement_count": 284,
   "notices": [
+    {
+      "id": "1888",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "Vivriti Capital",
+      "notice": "The Pre-Placement Talk for Vivriti Capital, will be held on 26th November, 2026 from 1:00 PM.https://teams.microsoft.com/meet/470077951356638?p=MMX5mFyNYZZkJ6oRHJMeeting ID: 470 077 951 356 638Passcode: 2J4n27WpNote: All placement-registered students are supposed to attend the PPT, without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Khush (+91 9922168000)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "26-11-2026 13:06"
+    },
     {
       "id": "1887",
       "type": "PLACEMENT",
