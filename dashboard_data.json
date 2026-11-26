@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "27 Nov 2026, 12:32:24 AM",
-  "next_check": "27 Nov 2026, 01:02:24 AM",
-  "notice_count": 1736,
+  "last_check": "27 Nov 2026, 01:02:19 AM",
+  "next_check": "27 Nov 2026, 01:32:19 AM",
+  "notice_count": 1737,
   "placement_count": 292,
   "notices": [
+    {
+      "id": "1917",
+      "type": "PLACEMENT",
+      "subject": "Schedule",
+      "company": "CDC Placement Schedule for 27th November 2026",
+      "notice": "All students eligible for placement are advised to take note of the tentative placement schedule for Friday, 27th November 2026.1. [TEST] WALMART (Profile : Software Engineer II) (7:00 AM - 8:30 AM)2. [TEST] SLB (Profile : All) (9:00 AM - 11:00 AM)3. [TEST] TRANSUNION (Profile : Graduate Software Engineer) (11:00 AM - 12:30 PM)4. [TEST] TCG DIGITAL (Profile : Consultant / Product Developer) (1:00 PM - 3:00 PM)5. [PPT] DE SHAW (Profile : Technology Developer) (3:00 PM - 4:00 PM)6. [TEST] ICICI BANK (Profile : Manager 1) (3:00 PM - 4:30 PM)7. [PPT + TEST] AXXELA (Profile : Trainee Analyst) (6:00 PM  8:00 PM)8. [PPT] SWAN DEFENCE AND HEAVY INDUSTRIES LTD (Profile : Post-Graduate Engineer Trainee) (6:00  7:00 PM)9. [PPT] PRISM (Profile : Young Leader) (7:00 PM-8:00 PM)10. [TEST] ACCELEQUANT (Profile : Quantum Engineer 1) (8:00 PM - 10:00 PM)11. [TEST] RISA (Profile : MTS, MTS(US)) (10:30 PM  11:30 PM)12. [TEST] NATION WITH NAMO (Profile : Associate) (12:00 AM  1:00 AM) (28th November 2026)Note: Links for the tests and other relevant details will be shared separately. Room allocations and other necessary instructions for the assessments will be communicated prior to the respective tests.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "27-11-2026 00:56"
+    },
     {
       "id": "1916",
       "type": "PLACEMENT",
