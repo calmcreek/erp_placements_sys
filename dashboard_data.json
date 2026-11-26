@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "26 Nov 2026, 04:32:38 PM",
-  "next_check": "26 Nov 2026, 05:02:38 PM",
-  "notice_count": 1714,
+  "last_check": "26 Nov 2026, 05:02:35 PM",
+  "next_check": "26 Nov 2026, 05:32:35 PM",
+  "notice_count": 1715,
   "placement_count": 288,
   "notices": [
+    {
+      "id": "1892",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "HAKIMO AI",
+      "notice": "Please note that the Pre-Placement Talk for Hakimo AI will be held on 26th November 2026 from 6:00 PM.Link: https://meet.google.com/wdq-dnru-menAll interested students are required to attend the PPT without fail. Attendance is compulsory. Students should join 15 minutes prior to the meeting time.POC: Aditya Ghosh (+91 6295 916 930)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "26-11-2026 16:55"
+    },
     {
       "id": "1891",
       "type": "PLACEMENT",
