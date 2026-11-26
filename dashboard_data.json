@@ -1,10 +1,55 @@
 {
-  "erp_status": "Error",
-  "last_check": "26 Nov 2026, 10:02:19 PM",
-  "next_check": null,
-  "notice_count": 1731,
+  "erp_status": "Connected",
+  "last_check": "26 Nov 2026, 11:02:32 PM",
+  "next_check": "26 Nov 2026, 11:32:32 PM",
+  "notice_count": 1736,
   "placement_count": 292,
   "notices": [
+    {
+      "id": "1916",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "D. E. Shaw India",
+      "notice": "The Pre-Placement Talk for D. E. SHAW INDIA, will be held on 27th November 2026 from 3:00 PM.Join link:https://deshaw.webex.com/deshaw/j.php?MTID=m45bc8eedf7d25fd8495cf6314c0cd390Webinar number:2343 057 8216Webinar password:PPT123 (778123 when dialing from a phone or video system)Join by phone+1-408-418-9388 United States Toll+44-20-7660-8147 United Kingdom TollAccess code: 234 305 78216Use this Slido link for posting your questions during the session.Slido: https://app.sli.do/event/dBHF7LSZSS9RNAWQKv8tJuPassword : 86q2qeNote: All eligible and interested students are supposed to attend the PPT without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time.POC: Nikita (+91 9969207598)CDC, IIT Kharagpur.",
+      "notice_by": "23EE38007",
+      "notice_time": "26-11-2026 23:00"
+    },
+    {
+      "id": "1915",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "DELOITTE TOUCHE TOHMATSU",
+      "notice": "PFA the room allocation for DELOITTE TOUCHE TOHMATSU for all the rolesTimings: 11 pm onwards from 26th November 2026Venue: Nalanda Classroom ComplexPOC: Vatsal ( +91 9234457393), Rudra ( +91 8235755257)CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "26-11-2026 23:00"
+    },
+    {
+      "id": "1913",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "DELOITTE",
+      "notice": "PFA the room allocation for DELOITTE USI for the analyst roleTimings: 11 pm onwards from 26th November 2026Venue: Nalanda Classroom ComplexPOC : Vatsal ( +91 9234457393), Rudra ( +91 8235755257)CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "26-11-2026 22:57"
+    },
+    {
+      "id": "1911",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Cerebras systems",
+      "notice": "The CV submission of Cerebras systems for AI Systems Bring-up Engineer role has been extended with revised eligibility till 10:00 AM, 27th November 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "26-11-2026 22:38"
+    },
+    {
+      "id": "1910",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "AiPrise",
+      "notice": "CV Submission for AIPRISE for the Software Engineer II, Full Stack (Frontend Focused) role, and the Software Engineer II role have been extended till 10:20  PM, 26th November, 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "26-11-2026 22:12"
+    },
     {
       "id": "1909",
       "type": "PLACEMENT",
@@ -15710,7 +15755,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-20 22:46",
-      "resume_upload_end": "2026-11-22 22:00",
+      "resume_upload_end": "2026-11-26 22:20",
       "interview_selection": "",
       "contract": ""
     },
@@ -15726,7 +15771,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-20 22:46",
-      "resume_upload_end": "2026-11-22 22:00",
+      "resume_upload_end": "2026-11-26 22:20",
       "interview_selection": "",
       "contract": ""
     },
@@ -15742,7 +15787,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-20 22:47",
-      "resume_upload_end": "2026-11-22 22:00",
+      "resume_upload_end": "2026-11-26 22:20",
       "interview_selection": "",
       "contract": ""
     },
@@ -15758,7 +15803,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-20 22:47",
-      "resume_upload_end": "2026-11-22 22:00",
+      "resume_upload_end": "2026-11-26 22:20",
       "interview_selection": "",
       "contract": ""
     },
@@ -19964,7 +20009,7 @@
       "ctc": "2009509",
       "currency": "INR",
       "additional_details_2": "",
-      "application_status": "",
+      "application_status": "Y",
       "resume_upload_start": "2026-11-26 19:34",
       "resume_upload_end": "2026-11-27 20:00",
       "interview_selection": "",
@@ -19980,7 +20025,7 @@
       "ctc": "2009509",
       "currency": "INR",
       "additional_details_2": "Download",
-      "application_status": "",
+      "application_status": "Y",
       "resume_upload_start": "2026-11-26 19:34",
       "resume_upload_end": "2026-11-27 20:00",
       "interview_selection": "",
@@ -20259,5 +20304,5 @@
       "contract": ""
     }
   ],
-  "last_error": "ERP authentication failed."
+  "last_error": null
 }
