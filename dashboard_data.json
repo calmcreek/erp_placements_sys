@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "26 Nov 2026, 11:02:21 AM",
-  "next_check": "26 Nov 2026, 11:32:21 AM",
-  "notice_count": 1709,
+  "last_check": "26 Nov 2026, 11:32:28 AM",
+  "next_check": "26 Nov 2026, 12:02:28 PM",
+  "notice_count": 1710,
   "placement_count": 284,
   "notices": [
+    {
+      "id": "1887",
+      "type": "PLACEMENT",
+      "subject": "Schedule",
+      "company": "CDC Placement Schedule for 26th November 2026",
+      "notice": "All students eligible for placement are advised to take note of the tentative placement schedule for Thursday, 26th November 2026.1. [PPT + TEST] HAKIMO AI (Profile: All) (6:00 PM  8:00 PM)2. [TEST] TIGER ANALYTICS (Profile: Trainee Analyst) (8:30 PM  10:30 PM)3. [TEST] DELOITTE (Profile: Analyst) (11:00 PM  12:30 AM)4. [TEST] IDFC FIRST BANK (Profile: All) (1:00 AM  2:00 AM) (27th November 2026)Note: Links for the tests and other relevant details will be shared separately. Room allocations and other necessary instructions for the assessments will be communicated prior to the respective tests.CDC, IIT Kharagpur",
+      "notice_by": "23EC39030",
+      "notice_time": "26-11-2026 11:23"
+    },
     {
       "id": "1886",
       "type": "PLACEMENT",
