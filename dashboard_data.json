@@ -1,10 +1,37 @@
 {
   "erp_status": "Connected",
-  "last_check": "27 Nov 2026, 01:02:19 AM",
-  "next_check": "27 Nov 2026, 01:32:19 AM",
-  "notice_count": 1737,
+  "last_check": "27 Nov 2026, 01:32:31 AM",
+  "next_check": "27 Nov 2026, 02:02:31 AM",
+  "notice_count": 1740,
   "placement_count": 292,
   "notices": [
+    {
+      "id": "1920",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Walmart",
+      "notice": "PFA the room allocation for WALMART for the analyst roleTimings: 7 am onwards from 27th November 2026Venue: Nalanda Classroom ComplexPOC : Bhavy ( +91 7597121669), Neev ( +91 9001346350) CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "27-11-2026 01:29"
+    },
+    {
+      "id": "1919",
+      "type": "PLACEMENT",
+      "subject": "Additional requirement",
+      "company": "YMS Financial Private Limited",
+      "notice": "All students who have applied for the Quant Researcher Role in YMS FINANCIAL PRIVATE LIMITED, are required to provide their Assignment Submission Repository Link through the below google form to be considered for the further process.Google Form: https://forms.gle/wq24s7MHaeBR3NoX7Deadline: 4:00 PM, 28th November 2026Note: Students are advised to adhere to the given deadline. No further extensions will be providedCDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "27-11-2026 01:11"
+    },
+    {
+      "id": "1918",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "SWAN DEFENCE AND HEAVY INDUSTRIES LTD",
+      "notice": "The Pre-Placement Talk for SWAN DEFENCE AND HEAVY INDUSTRIES LTD, will be held on 27th November 2026 from 6:00 PM.Link: https://teams.microsoft.com/meet/495062440090816?p=MVtKqwvrzIl0jotGIeNote: All eligible and interested students are supposed to attend the PPT without fail. Attendance is compulsory. Students must join the link 15 minutes prior to the scheduled time. POC: Khush (+91 9922168000)CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "27-11-2026 01:11"
+    },
     {
       "id": "1917",
       "type": "PLACEMENT",
