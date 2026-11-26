@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "26 Nov 2026, 08:32:37 PM",
-  "next_check": "26 Nov 2026, 09:02:37 PM",
-  "notice_count": 1725,
+  "last_check": "26 Nov 2026, 09:02:23 PM",
+  "next_check": "26 Nov 2026, 09:32:23 PM",
+  "notice_count": 1726,
   "placement_count": 292,
   "notices": [
+    {
+      "id": "1903",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "TIGER ANALYTICS",
+      "notice": "PFA the revised test room allocation for the Assessment of Tiger Analytics the role of Trainee Analyst, scheduled from 8:15 PM onwards on 26th November 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their valid government-issued ID proof.Please carry your laptops, pens, and papers.Everyone is requested to report 15 minutes prior to the reporting time.POC: Rudra (+91 82357 55257), Khush (+91 99221 68000)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "26-11-2026 20:44"
+    },
     {
       "id": "1902",
       "type": "PLACEMENT",
