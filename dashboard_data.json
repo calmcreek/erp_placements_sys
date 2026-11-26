@@ -1,10 +1,55 @@
 {
   "erp_status": "Connected",
-  "last_check": "26 Nov 2026, 09:02:23 PM",
-  "next_check": "26 Nov 2026, 09:32:23 PM",
-  "notice_count": 1726,
+  "last_check": "26 Nov 2026, 09:32:38 PM",
+  "next_check": "26 Nov 2026, 10:02:38 PM",
+  "notice_count": 1731,
   "placement_count": 292,
   "notices": [
+    {
+      "id": "1909",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "Multiple Companies",
+      "notice": "The CV Submission of following companies has been extended till 10:00 AM, 27th November, 2026.1. BLUESTONE (Profile: Software Development Engineer)2. CEREBRAS SYSTEMS (Profile: AI Systems Bring-up Engineer)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "26-11-2026 21:24"
+    },
+    {
+      "id": "1907",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "Multiple Companies",
+      "notice": "The CV Submission of following companies has been extended till 4:00 PM, 27th November, 2026.1. ESSAR OIL AND GAS  (Profile: Geophysicist and Geologist)2. REKISE MARINE PRIVATE LIMITED (All Profiles)3.⁠ ⁠Signzy (Profile: Associate Product Manager)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "26-11-2026 21:21"
+    },
+    {
+      "id": "1906",
+      "type": "PLACEMENT",
+      "subject": "Additional requirement",
+      "company": "MRF LIMITED",
+      "notice": "The CV submission of MRF Limited for the Executive Technical role has been extended till 10:00 AM, 27th November 2026.All students who have applied on ERP are required to apply on the company portal linked below:Link: https://mrfconnect.mrfindia.net/campusoffcampus/campus-registration?q=NQAtADEALQAxAA==Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "26-11-2026 21:18"
+    },
+    {
+      "id": "1905",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "AIPRISE",
+      "notice": "The CV submission of AIPRISE for all the roles has been extended till 10:00 PM, 26th November 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "26-11-2026 21:16"
+    },
+    {
+      "id": "1904",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "IDFC First Bank",
+      "notice": "PFA the shortlist of candidates for the Coding Round of IDFC FIRST Bank.The test link has been shared with all the shortlisted candidates on their CDC-registered email IDs. Candidates are requested to attempt and complete the assessment before 3:00 AM on 27th November 2026.Venue: Respective locationAll shortlisted candidates are advised to check their registered email IDs and complete the assessment within the stipulated deadline.POC : Bhavy(+91 7597121669)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "26-11-2026 21:09"
+    },
     {
       "id": "1903",
       "type": "PLACEMENT",
@@ -15665,7 +15710,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-20 22:46",
-      "resume_upload_end": "2026-11-22 20:00",
+      "resume_upload_end": "2026-11-22 22:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -15681,7 +15726,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-20 22:46",
-      "resume_upload_end": "2026-11-22 20:00",
+      "resume_upload_end": "2026-11-22 22:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -15697,7 +15742,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-20 22:47",
-      "resume_upload_end": "2026-11-22 20:00",
+      "resume_upload_end": "2026-11-22 22:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -15713,7 +15758,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-20 22:47",
-      "resume_upload_end": "2026-11-22 20:00",
+      "resume_upload_end": "2026-11-22 22:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -16305,7 +16350,7 @@
       "additional_details_2": "Download",
       "application_status": "Y",
       "resume_upload_start": "2026-11-25 14:18",
-      "resume_upload_end": "2026-11-26 20:00",
+      "resume_upload_end": "2026-11-27 10:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -16529,7 +16574,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-25 14:18",
-      "resume_upload_end": "2026-11-26 16:00",
+      "resume_upload_end": "2026-11-27 10:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -19217,7 +19262,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-25 17:55",
-      "resume_upload_end": "2026-11-26 20:00",
+      "resume_upload_end": "2026-11-27 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -19233,7 +19278,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-25 17:55",
-      "resume_upload_end": "2026-11-26 20:00",
+      "resume_upload_end": "2026-11-27 16:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -19409,7 +19454,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-11 12:32",
-      "resume_upload_end": "2026-11-13 16:00",
+      "resume_upload_end": "2026-11-26 21:40",
       "interview_selection": "",
       "contract": ""
     },
@@ -19537,7 +19582,7 @@
       "additional_details_2": "",
       "application_status": "Y",
       "resume_upload_start": "2026-11-25 17:54",
-      "resume_upload_end": "2026-11-26 20:00",
+      "resume_upload_end": "2026-11-27 16:00",
       "interview_selection": "",
       "contract": ""
     },
