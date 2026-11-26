@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "26 Nov 2026, 06:33:09 PM",
-  "next_check": "26 Nov 2026, 07:03:09 PM",
-  "notice_count": 1719,
+  "last_check": "26 Nov 2026, 07:02:29 PM",
+  "next_check": "26 Nov 2026, 07:32:29 PM",
+  "notice_count": 1720,
   "placement_count": 290,
   "notices": [
+    {
+      "id": "1897",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "Havells India Limited",
+      "notice": "The CV submission of HAVELLS LIMITED for all the roles has been extended till 11:00AM, 27th November 2026.Students are advised to complete the portal registration over the below portal link.Form Link: https://forms.gle/CaVV2o1fq1E2GdL29Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17009",
+      "notice_time": "26-11-2026 18:42"
+    },
     {
       "id": "1896",
       "type": "PLACEMENT",
