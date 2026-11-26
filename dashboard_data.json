@@ -1,10 +1,28 @@
 {
-  "erp_status": "Connected",
-  "last_check": "26 Nov 2026, 07:02:29 PM",
-  "next_check": "26 Nov 2026, 07:32:29 PM",
-  "notice_count": 1720,
+  "erp_status": "Error",
+  "last_check": "26 Nov 2026, 07:33:36 PM",
+  "next_check": null,
+  "notice_count": 1722,
   "placement_count": 290,
   "notices": [
+    {
+      "id": "1899",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "TIGER ANALYTICS",
+      "notice": "PFA the test room allocation for the Assessment of Tiger Analytics the role of Trainee Analyst, scheduled from 8:15 PM onwards on 26th November 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their valid government-issued ID proof.Please carry your laptops, pens, and papers.Everyone is requested to report 15 minutes prior to the reporting time.POC: Rudra (+91 82357 55257), Khush (+91 99221 68000)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "26-11-2026 19:19"
+    },
+    {
+      "id": "1898",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Release of shortlists for campus recruitment 2026-27",
+      "notice": "Shortlists are being released by CDC only after the completion of the End-Sem examination on 26.11.2026, similar to previous years. This precautionary step has been taken considering the wellbeing of students appearing for the End-Sem examination (Autumn 2026). CDC has no role to play in the shortlisting procedure of any recruiter. Students are advised not to pay attention to rumours and speculation (social media platforms) regarding shortlists, since these are not authentic sources. All students are advised to check the CDC notice board regularly for updates and information.Wishing all the very best to the prospective students appearing for placements 2026-2027.Dean, Career Development",
+      "notice_by": "17164",
+      "notice_time": "26-11-2026 19:18"
+    },
     {
       "id": "1897",
       "type": "PLACEMENT",
@@ -20128,5 +20146,5 @@
       "contract": ""
     }
   ],
-  "last_error": null
+  "last_error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
 }
