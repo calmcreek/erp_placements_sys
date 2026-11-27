@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "27 Nov 2026, 10:32:35 AM",
-  "next_check": "27 Nov 2026, 11:02:35 AM",
-  "notice_count": 1747,
+  "last_check": "27 Nov 2026, 11:02:19 AM",
+  "next_check": "27 Nov 2026, 11:32:19 AM",
+  "notice_count": 1748,
   "placement_count": 292,
   "notices": [
+    {
+      "id": "1929",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Tata Motors",
+      "notice": "The CV submission of TATA MOTORS for the PGET role has been opened till 6:00 PM, 27th November 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17164",
+      "notice_time": "27-11-2026 10:36"
+    },
     {
       "id": "1928",
       "type": "PLACEMENT",
