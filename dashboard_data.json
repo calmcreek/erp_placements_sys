@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "27 Nov 2026, 06:02:59 AM",
-  "next_check": "27 Nov 2026, 06:32:59 AM",
-  "notice_count": 1742,
+  "last_check": "27 Nov 2026, 06:32:44 AM",
+  "next_check": "27 Nov 2026, 07:02:44 AM",
+  "notice_count": 1744,
   "placement_count": 292,
   "notices": [
+    {
+      "id": "1925",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "INTEL",
+      "notice": "Please note that the Pre-Placement Talk for INTEL will be held on 27th November 2026 from 10:30 AM.Meeting link: https://teams.microsoft.com/meet/2748734362279602?p=TskKXzFsGT5jpmA1cOMeeting ID: 274 873 436 227 960 2Passcode: oC67Gq76All interested students are required to attend the PPT without fail. Attendance is compulsory. Students should join 15 minutes prior to the meeting time.POC: Bhavy (+91 7597121669)CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "27-11-2026 06:23"
+    },
+    {
+      "id": "1924",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "PRISM",
+      "notice": "Please note that the Pre-Placement Talk for PRISM will be held on 27th November 2026 from 7:00 PM.Meeting Link: https://teams.microsoft.com/meet/470927845869610?p=7N08Z4w0wJNUQdZxJrAll interested students are required to attend the PPT without fail. Attendance is compulsory. Students should join 15 minutes prior to the meeting time.POC: Aditya Ghosh (+91 6295 916 930)CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "27-11-2026 06:13"
+    },
     {
       "id": "1923",
       "type": "PLACEMENT",
