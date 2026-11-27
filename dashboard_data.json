@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "27 Nov 2026, 10:02:33 AM",
-  "next_check": "27 Nov 2026, 10:32:33 AM",
-  "notice_count": 1745,
+  "last_check": "27 Nov 2026, 10:32:35 AM",
+  "next_check": "27 Nov 2026, 11:02:35 AM",
+  "notice_count": 1747,
   "placement_count": 292,
   "notices": [
+    {
+      "id": "1928",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Siemens EDA (India) Private Limited",
+      "notice": "The CV submission of Siemens EDA for all the roles has been extended till 5:00PM, 27th November 2026.Students are advised to complete the portal registration over the below portal link.Form Link: https://forms.gle/cSiPpGoxsS433YEL6Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "17164",
+      "notice_time": "27-11-2026 10:17"
+    },
+    {
+      "id": "1927",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "TransUnion Global Technology Center",
+      "notice": "PFA the room allocation for the shortlisted candidates for TransUnion across all roles.Timings: 11:00 AM onwards, 27th November 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card/Medical Book, failing which students will not be permitted to sit for test.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC : Vatsal ( +91 9234457393), Dishil ( +91 9925492574)CDC, IIT Kharagpur",
+      "notice_by": "23AE3FP05",
+      "notice_time": "27-11-2026 10:04"
+    },
     {
       "id": "1926",
       "type": "PLACEMENT",
@@ -19692,7 +19710,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-25 21:59",
-      "resume_upload_end": "2026-11-26 20:00",
+      "resume_upload_end": "2026-11-27 17:00",
       "interview_selection": "",
       "contract": ""
     },
