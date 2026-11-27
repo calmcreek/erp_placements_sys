@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "27 Nov 2026, 08:33:44 PM",
-  "next_check": "27 Nov 2026, 09:03:44 PM",
-  "notice_count": 1767,
+  "last_check": "27 Nov 2026, 09:03:28 PM",
+  "next_check": "27 Nov 2026, 09:33:28 PM",
+  "notice_count": 1768,
   "placement_count": 299,
   "notices": [
+    {
+      "id": "1950",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Axis Bank",
+      "notice": "Please note that the Test for Axis Bank for the BIU (Business Intelligence Unit) Role has been scheduled from 1:30 AM onwards, on 28th November, 2026.The room allocation and further details for the same will be released shortly.The Test links will be sent to the institute email ids of the students.CDC, IIT Kharagpur",
+      "notice_by": "23EE38007",
+      "notice_time": "27-11-2026 20:54"
+    },
     {
       "id": "1949",
       "type": "PLACEMENT",
