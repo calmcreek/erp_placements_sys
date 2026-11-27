@@ -1,7 +1,7 @@
 {
-  "erp_status": "Error",
-  "last_check": "28 Nov 2026, 01:32:29 AM",
-  "next_check": null,
+  "erp_status": "Connected",
+  "last_check": "28 Nov 2026, 01:52:04 AM",
+  "next_check": "28 Nov 2026, 02:22:04 AM",
   "notice_count": 1776,
   "placement_count": 317,
   "notices": [
@@ -16785,7 +16785,7 @@
       "ctc": "1650000",
       "currency": "INR",
       "additional_details_2": "",
-      "application_status": "",
+      "application_status": "Y",
       "resume_upload_start": "2026-11-27 22:41",
       "resume_upload_end": "2026-11-28 23:59",
       "interview_selection": "",
@@ -18769,7 +18769,7 @@
       "ctc": "1250000",
       "currency": "INR",
       "additional_details_2": "",
-      "application_status": "",
+      "application_status": "Y",
       "resume_upload_start": "2026-11-27 22:50",
       "resume_upload_end": "2026-11-28 23:59",
       "interview_selection": "",
@@ -18785,7 +18785,7 @@
       "ctc": "1250000",
       "currency": "INR",
       "additional_details_2": "",
-      "application_status": "",
+      "application_status": "Y",
       "resume_upload_start": "2026-11-27 22:48",
       "resume_upload_end": "2026-11-28 23:59",
       "interview_selection": "",
@@ -21064,5 +21064,5 @@
       "contract": ""
     }
   ],
-  "last_error": "ERP authentication failed."
+  "last_error": null
 }
