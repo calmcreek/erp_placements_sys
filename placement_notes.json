@@ -88,13 +88,11 @@
     "searce inc.::associate solutions consultant": "-",
     "searce inc.::associate data engineer": "-",
     "slb::data analyst - pg": "-",
-    "slb::datascientist": "-",
     "swiggy limited::data scientist 1": "-",
     "tata aig general insurance::senior engineer trainee - analytics": "-",
     "tekion india pvt ltd::associate software engineer": "TEST WRITTEN",
     "telus digital::associate project manager": "-",
     "tolaram group::management trainee enterprise transformation": "TEST NOT WRITTEN",
-    "transunion global technology center::graduate software engineer": "-",
     "tredence analytics::data scientist": "TEST WRITTEN",
     "urban company::senior category manager": "NOT TEST SHORTLISTED",
     "waterfly technologies::management consultant 1": "-",
@@ -105,7 +103,9 @@
     "tiger analytics::trainee analyst": "Test Written",
     "deloitte::analyst": "Not applying",
     "hakimo ai::applied ml engineer": "Not shortlisted",
-    "hakimo ai::full stack software engineer": "Not shortlisted"
+    "hakimo ai::full stack software engineer": "Not shortlisted",
+    "slb::datascientist": "Test Written ",
+    "transunion global technology center::graduate software engineer": "Test Written "
   },
   "legacyNotes": {
     "49": "No Shortlist"
