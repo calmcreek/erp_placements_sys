@@ -1,10 +1,37 @@
 {
   "erp_status": "Connected",
-  "last_check": "28 Nov 2026, 02:32:26 AM",
-  "next_check": "28 Nov 2026, 03:02:26 AM",
-  "notice_count": 1776,
+  "last_check": "28 Nov 2026, 03:02:33 AM",
+  "next_check": "28 Nov 2026, 03:32:33 AM",
+  "notice_count": 1779,
   "placement_count": 317,
   "notices": [
+    {
+      "id": "1962",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "ATHER",
+      "notice": "PFA the test room allocation for the Assessment of Ather for all the roles, scheduled from 08:00 AM onwards on 28th November, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card/Medical Book, failing which students will not be permitted to sit for test.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Ritvik (+91 9480360231), Hitankar (+91 7488148454)CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "28-11-2026 02:54"
+    },
+    {
+      "id": "1961",
+      "type": "PLACEMENT",
+      "subject": "Schedule",
+      "company": "CDC Placement Schedule for 28th November 2026",
+      "notice": "All students eligible for placement are advised to take note of the tentative placement schedule for Saturday, 28th November 2026.1. [TEST] APPLIED MATERIALS (Profile: All) (7:00 AM  8:00 AM)2. [TEST] ATHER ENERGY (Profile: All) (8:00 AM  9:30 AM)3. [TEST] CASHFREE PAYMENTS (Profile: Software Development Engineer 1) (10:00 AM  11:30 AM)4. [TEST] RELIANCE INDUSTRIES LIMITED (Profile: All) (12:00 PM  1:30 PM)5. [TEST] SIEMENS EDA (Profile: All) (2:00 PM  4:00 PM)6. [TEST] ETERNAL (Profile: Assistant Program Manager) (4:30 PM  6:00 PM)7. [TEST] FLIPKART (Profile: AI Engineer) (6:00 PM  8:00 PM)8. [TEST] ARIHANT CAPITAL MARKETS LIMITED (Profile: All) (8:30 PM  10:00 PM)9. [TEST] INDUS INSIGHTS (Profile: Associate) (10:30 PM  12:00 AM)Note: Links for the tests and other relevant details will be shared separately. Room allocations and other necessary instructions for the assessments will be communicated prior to the respective tests.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "28-11-2026 02:43"
+    },
+    {
+      "id": "1960",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Cashfree",
+      "notice": "PFA the test room allocation for the Assessment of Cashfree for the SDE-1 role, scheduled from 10:00 AM onwards on 28th November, 2026.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card/Medical Book, failing which students will not be permitted to sit for test.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Nikita (+91 9969207598), Aayush (+91 8918422696)CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "28-11-2026 02:35"
+    },
     {
       "id": "1959",
       "type": "PLACEMENT",
