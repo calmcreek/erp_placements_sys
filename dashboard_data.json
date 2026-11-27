@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "27 Nov 2026, 03:32:33 PM",
-  "next_check": "27 Nov 2026, 04:02:33 PM",
-  "notice_count": 1755,
+  "last_check": "27 Nov 2026, 04:02:25 PM",
+  "next_check": "27 Nov 2026, 04:32:25 PM",
+  "notice_count": 1756,
   "placement_count": 296,
   "notices": [
+    {
+      "id": "1938",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "ACCENTURE AEH",
+      "notice": "PFA the final Interview shortlist for Accenture AEH - Elite Technology Engineer.Shortlisted students have received an email to select their interview slots for 30th November. Complete the steps in that email by 6:30 PM. Students failed to select the interview slots within this deadline will not be allowed to attend the interview.The interview cannot be rescheduled under any circumstances, so please note the time carefully.Accenture will not release final offers before 1 December, 8:00 PM. Until then, students may take part in other recruitment processes.CDC, IIT Kharagpur",
+      "notice_by": "23CE36001",
+      "notice_time": "27-11-2026 15:48"
+    },
     {
       "id": "1936",
       "type": "PLACEMENT",
