@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "27 Nov 2026, 12:32:59 PM",
-  "next_check": "27 Nov 2026, 01:02:59 PM",
-  "notice_count": 1751,
+  "last_check": "27 Nov 2026, 01:02:27 PM",
+  "next_check": "27 Nov 2026, 01:32:27 PM",
+  "notice_count": 1752,
   "placement_count": 292,
   "notices": [
+    {
+      "id": "1933",
+      "type": "PLACEMENT",
+      "subject": "General",
+      "company": "General Instructions for Placement Process 2026-27",
+      "notice": "Placement registered students are advised to note:1. The placement process will be conducted at the Nalanda Classroom complex only.2. All the participating students are advised to be in formal dress and should behave well with the Recruiters, Placecom, CDC office, Security and Volunteers.3. Walk-in interviews, if any, will be conducted through CDC and at the Nalanda complex only (responses will be taken through Google form). Hence the participating students are advised to be present in the Nalanda and be alert.4. CDC helpline number 03222-281870 (Only available on the days of the interview, during process hours).5. All communication will be done through ERP Notice Board and WhatsApp groups so it is your responsibility to stay active and be prompt to follow the instructions sent there. The students who joined the WhatsApp groups via contact numbers different from their ERP contact numbers must reach out to the respective POC with their name and roll number. Keep checking ERP Notice Board because in case of an urgency/urgent information, students would be expected to report to Nalanda immediately.6. In case you have any queries regarding the process you may reach out to the respective POC.7. Students are required to report to their respective venue 30 minutes before the scheduled time in formal attire.8. Keep Institute ID card and one Govt ID card handy.9. Students are advised not to unnecessarily roam and litter around in the premises of Nalanda during interview process.10. Students sitting for interview processes are advised to keep at least 10 printouts of their CVs handy. There is no provision for print outs in the CDC Office.11. Students sitting for an online process are advised to bring their laptop, charger, earphones and any other required device to the venue. It is the sole responsibility of the student to ensure that their system is working properly.12. Students are strictly advised not to share any details regarding the placement process in any social media platform. Any such incidence will be taken very seriously and appropriate coercive action will be taken.13. In the interview board the student should not disclose the interview details of the other companies.14. It is observed that sometimes a student gets shortlisted for a role other than he/she has applied. This is decided by the company, students should appear for the interview as per the shortlist of the ERP notice board.15. Those who have taken the permission from CDC to give interview in online mode, are advised to contact the concerned POC, if shortlisted. The students are also advised to note that if the company is taking the interview in offline mode (present at the campus), then it is the decision of the company whether to take any interview in online mode or not. Decision of the company in this regard is final.Wishing all the very best to the prospective students appearing for placements 2026-2027.Dean, Career Development",
+      "notice_by": "23039",
+      "notice_time": "27-11-2026 12:57"
+    },
     {
       "id": "1932",
       "type": "PLACEMENT",
