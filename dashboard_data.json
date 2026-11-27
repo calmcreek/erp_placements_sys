@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "27 Nov 2026, 07:32:44 PM",
-  "next_check": "27 Nov 2026, 08:02:44 PM",
-  "notice_count": 1765,
+  "last_check": "27 Nov 2026, 08:02:24 PM",
+  "next_check": "27 Nov 2026, 08:32:24 PM",
+  "notice_count": 1766,
   "placement_count": 299,
   "notices": [
+    {
+      "id": "1948",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "Sarvam AI (Axonwise Private Limited)",
+      "notice": "The CV submission of SARVAM for both the roles has been extended till 8:00 AM, 28th November 2026.Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MI3EP25",
+      "notice_time": "27-11-2026 19:53"
+    },
     {
       "id": "1947",
       "type": "PLACEMENT",
@@ -19856,7 +19865,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-26 18:27",
-      "resume_upload_end": "2026-11-28 20:00",
+      "resume_upload_end": "2026-11-28 08:00",
       "interview_selection": "",
       "contract": ""
     },
@@ -19872,7 +19881,7 @@
       "additional_details_2": "",
       "application_status": "",
       "resume_upload_start": "2026-11-26 18:26",
-      "resume_upload_end": "2026-11-28 20:00",
+      "resume_upload_end": "2026-11-28 08:00",
       "interview_selection": "",
       "contract": ""
     },
