@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "27 Nov 2026, 05:32:34 PM",
-  "next_check": "27 Nov 2026, 06:02:34 PM",
-  "notice_count": 1761,
+  "last_check": "27 Nov 2026, 06:02:25 PM",
+  "next_check": "27 Nov 2026, 06:32:25 PM",
+  "notice_count": 1763,
   "placement_count": 297,
   "notices": [
+    {
+      "id": "1945",
+      "type": "PLACEMENT",
+      "subject": "PPT/Workshop/Seminars etc",
+      "company": "AXXELA RESEARCH & ANALYTICS PRIVATE LIMITED",
+      "notice": "This is to inform all eligible students that the venue for the Pre-Placement Talk (PPT) of Axxela Research & Analytics Private Limited, scheduled on 27th November 2026 at 6:00 PM, has been changed.Revised Venue: NR 212, Nalanda Classroom ComplexAll other details remain unchanged.Students are advised to report 15 minutes prior to the scheduled time.Note: Attendance is compulsory for all eligible students. Attendance will be recorded by the company, and only those attending the PPT will be considered for the further process.POC: Daksh (+91 98180 71612), Aditya Ghandge (+91 93254 68252)CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "27-11-2026 17:54"
+    },
+    {
+      "id": "1944",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Engineers India Limited",
+      "notice": "EIL will recruit Management Trainees (2027  Batch)  and  M.E./M.Tech/M.Sc.(Engg.) candidates (2027 Batch) as Engineer through campus visit.Email is being sent to eligible candidates with details.All the eligible students who has received email are advised to apply as per the process mentioned in the email.CDC",
+      "notice_by": "17164",
+      "notice_time": "27-11-2026 17:50"
+    },
     {
       "id": "1943",
       "type": "PLACEMENT",
