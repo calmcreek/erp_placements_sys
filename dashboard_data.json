@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "27 Nov 2026, 11:02:24 PM",
-  "next_check": "27 Nov 2026, 11:32:24 PM",
-  "notice_count": 1771,
+  "last_check": "27 Nov 2026, 11:32:37 PM",
+  "next_check": "28 Nov 2026, 12:02:37 AM",
+  "notice_count": 1773,
   "placement_count": 317,
   "notices": [
+    {
+      "id": "1955",
+      "type": "PLACEMENT",
+      "subject": "Date extension",
+      "company": "TATA MOTORS",
+      "notice": "The CV submission of TATA Motors for the role of PGET has been extended till 11:59 AM, 28th November 2026.All applicants on ERP are required to submit the following Additional Details form linked below.Link: https://forms.gle/SZkEW9nC9sKp5eKP6Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23MF3FP60",
+      "notice_time": "27-11-2026 23:23"
+    },
+    {
+      "id": "1954",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Multiple Companies",
+      "notice": "The CV Submission of following companies are extended till 8:00 PM, 28th November, 2026.1.  VANTAGE RESEARCH  (All Profiles)2.  DISNEY (All Profiles)3. VIVRITI NEXT LIMITED4. ⁠MCDERMOTT INTERNATIONALInterested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23AG3AI03",
+      "notice_time": "27-11-2026 23:08"
+    },
     {
       "id": "1953",
       "type": "PLACEMENT",
