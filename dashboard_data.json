@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "27 Nov 2026, 03:02:19 PM",
-  "next_check": "27 Nov 2026, 03:32:19 PM",
-  "notice_count": 1754,
+  "last_check": "27 Nov 2026, 03:32:33 PM",
+  "next_check": "27 Nov 2026, 04:02:33 PM",
+  "notice_count": 1755,
   "placement_count": 296,
   "notices": [
+    {
+      "id": "1936",
+      "type": "PLACEMENT",
+      "subject": "Shortlist",
+      "company": "INDUS INSIGHTS",
+      "notice": "PFA the shortlist for the online assessment of INDUS INSIGHTS, which is scheduled on 28th November 2026 from 10:30 PM onwards.The test link has been shared on the CDC-registered email IDs of the shortlisted candidates.Candidates who have not received the assessment link are requested to fill out the form below.Link: https://forms.gle/X26ALMowB5gkAEtW8CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "27-11-2026 15:22"
+    },
     {
       "id": "1935",
       "type": "PLACEMENT",
