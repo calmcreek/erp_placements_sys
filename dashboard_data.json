@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "27 Nov 2026, 08:02:24 PM",
-  "next_check": "27 Nov 2026, 08:32:24 PM",
-  "notice_count": 1766,
+  "last_check": "27 Nov 2026, 08:33:44 PM",
+  "next_check": "27 Nov 2026, 09:03:44 PM",
+  "notice_count": 1767,
   "placement_count": 299,
   "notices": [
+    {
+      "id": "1949",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "RISA LABS",
+      "notice": "All students who are eligible and have applied for the APM - Growth and APM - Growth (US) roles at RISA LABS are required to go through the shared assignment and prepare their solutions in accordance with the guidelines provided.Submission Link : https://forms.gle/761pErCB6upMJ4TbAImportant Instructions:1. Extended Deadline: 28th November 2026, 11:59 PM sharp.2. The assignment and submission link have been shared with all eligible applicants on their respective registered email IDs.Please ensure that your submission is completed within the specified deadline.No further extensions will be provided.CDC, IIT Kharagpur",
+      "notice_by": "23AG36009",
+      "notice_time": "27-11-2026 20:02"
+    },
     {
       "id": "1948",
       "type": "PLACEMENT",
