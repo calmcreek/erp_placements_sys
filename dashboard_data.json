@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "28 Nov 2026, 01:32:42 PM",
-  "next_check": "28 Nov 2026, 02:02:42 PM",
-  "notice_count": 1781,
+  "last_check": "28 Nov 2026, 02:02:25 PM",
+  "next_check": "28 Nov 2026, 02:32:25 PM",
+  "notice_count": 1782,
   "placement_count": 322,
   "notices": [
+    {
+      "id": "1966",
+      "type": "PLACEMENT",
+      "subject": "Urgent",
+      "company": "Siemens EDA (India) Private Limited",
+      "notice": "PFA the test room allocation for the Assessment of Siemens EDA, scheduled from 2:00 PM onwards on 28th November, 2026.Note: The test link has been shared on the CDC-registered email IDs of the shortlisted candidates.Venue: Nalanda Classroom ComplexStudents are required to carry their original Institute ID card/Medical Book, failing which students will not be permitted to sit for test.Please carry your laptops, pens, and papers.Students are requested to report 15 minutes prior to the reporting time.POC: Rudra (+91 8235755257), Mayank (+91 9667346241)CDC, IIT Kharagpur",
+      "notice_by": "23MI33009",
+      "notice_time": "28-11-2026 13:37"
+    },
     {
       "id": "1965",
       "type": "PLACEMENT",
