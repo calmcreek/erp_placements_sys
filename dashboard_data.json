@@ -1,10 +1,19 @@
 {
   "erp_status": "Connected",
-  "last_check": "28 Nov 2026, 02:32:33 PM",
-  "next_check": "28 Nov 2026, 03:02:33 PM",
-  "notice_count": 1782,
+  "last_check": "28 Nov 2026, 03:02:22 PM",
+  "next_check": "28 Nov 2026, 03:32:22 PM",
+  "notice_count": 1783,
   "placement_count": 322,
   "notices": [
+    {
+      "id": "1967",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Multiple Companies",
+      "notice": "The following companies are open for CV Submission till 4:00 PM, 29th November, 2026.1.  AIR LIQUIDE (Profile:GET - Graduate Engineer Trainee )2.  SKYFLOW (Profile: Software Engineer)3.  LARSEN AND TOUBRO LIMITED (Profile: MT)4. CENTRE FOR DEVELOPMENT OF TELEMATICS (Profile: SCIENTIST-B (CSE),SCIENTIST-B (ECE))Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23NA3AI44",
+      "notice_time": "28-11-2026 14:56"
+    },
     {
       "id": "1966",
       "type": "PLACEMENT",
