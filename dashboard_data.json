@@ -1,10 +1,28 @@
 {
   "erp_status": "Connected",
-  "last_check": "28 Nov 2026, 05:02:21 PM",
-  "next_check": "28 Nov 2026, 05:32:21 PM",
-  "notice_count": 1787,
+  "last_check": "28 Nov 2026, 05:32:35 PM",
+  "next_check": "28 Nov 2026, 06:02:35 PM",
+  "notice_count": 1789,
   "placement_count": 340,
   "notices": [
+    {
+      "id": "1973",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Multiple Companies",
+      "notice": "The CV Submission of the following companies has been opened till 4:00 PM, 29th November, 2026.1. ADDVERB (All Profiles)2. ⁠NDEAVOUR MARINE INDIA(Profile: Junior Naval Architect)3. ⁠Ai+, Parent Company (All Profiles)4. Sona Comstar (All Profiles)5. ⁠Biddano Private Limited  (Profile: Software Engineer)6. ⁠Gravity Facility Management (All Profiles)7. ⁠Jio Platforms Limited (Profile: Software Development Engineer (GET))8. ⁠Walter P Moore Engineering India (All Profiles)9. ⁠Adrosonic (Profile: Research & Innovation Engineers)10. ⁠Tata Steel (All Proflies)11. ⁠ENTNT (Profile: JUNIOR EXECUTIVE - VESSEL PERFORMANCE)Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EC39030",
+      "notice_time": "28-11-2026 17:17"
+    },
+    {
+      "id": "1972",
+      "type": "PLACEMENT",
+      "subject": "CV Submission",
+      "company": "Arcfront",
+      "notice": "The CV submission of Arcfront for the role of Member of Technical Staff has been opened till 11:59 PM, 29th November 2026.All applicants on ERP are required to submit the following Additional Details form linked below.Link: https://forms.gle/sFnxhjS8fXRfGAtz5Interested and eligible students are advised to apply within the given deadline. No further extensions will be given.CDC, IIT Kharagpur",
+      "notice_by": "23EC39030",
+      "notice_time": "28-11-2026 17:11"
+    },
     {
       "id": "1971",
       "type": "PLACEMENT",
